@@ -13,5 +13,5 @@ side-by-side. Eventually, we want to chart the statistics of players each season
 the player's schedule to try and create accurate projections for the season (and next game).  
 
 ## Clients
-Web -- MEAN stack (except we're swapping MongoDB for MySQL) 
+Web -- MEAN stack (except we're swapping MongoDB for MySQL)  
 Android -- Node.js for the backend, same MySQL database 
