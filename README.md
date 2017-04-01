@@ -11,3 +11,7 @@
 Create a multi-platform application that allows users to compare statistics of players from the NBA or NFL  
 side-by-side. Eventually, we want to chart the statistics of players each season and analyze that along with  
 the player's schedule to try and create accurate projections for the season (and next game).  
+
+## Clients
+Web -- MEAN stack (except we're swapping MongoDB for MySQL) 
+Android -- Node.js for the backend, same MySQL database 
