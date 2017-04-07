@@ -6,6 +6,7 @@
 3. [nba_db](http://databasebasketball.com/stats_download.htm) databasebasketball only goes up to 2010
 4. [nba/mlb api](https://erikberg.com/api#) invitation only. 
 5. [nfl/nba api](https://www.suredbits.com/api/nfl/stats/) free
+6. [D3js](https://d3js.org/)
 
 ## Idea
 Create a multi-platform application that allows users to compare statistics of players from the NBA or NFL  
