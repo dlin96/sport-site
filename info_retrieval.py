@@ -44,10 +44,10 @@ active_roster - array of json objects representing players in the NBA.
 
 def populate_nba_players():
     # connect to MySQL db
-    db = MySQLdb.connect(host="localhost",
+    db = MySQLdb.connect(host="sports-db.ceutzulos0qe.us-west-1.rds.amazonaws.com",
                          user="root",
-                         passwd="PaloAltan01-14",
-                         db="nba")
+                         passwd="warriors73-9",
+                         db="nbadb")
     # create Cursor object to execute queries
     cur = db.cursor()
     response = urllib.urlopen(nba_base_url).read()
@@ -56,6 +56,8 @@ def populate_nba_players():
         player_ln = player['lastName']
         player_fn = player['firstName']
         player_full = player['fullName']
+
+        # TODO: Find a more elegant solution here
         if 'height' not in player:
             player_height = '0-0'
         else:
@@ -86,7 +88,11 @@ def populate_nba_players():
 '''
 Inputs: The columns of the players db (some of which will be optional).
 Purpose: Insert a specific player into the players database that might not be in the current DB. 
+
+Description: Should take all the necessary fields of a "player" in the table and insert it. 
 '''
+
+# TODO: Make height, weight, position optional parameters
 # def insert_player(last_name, first_name, full_name, height, weight, profileURL, team, position, playerId, status, number):
 
 
