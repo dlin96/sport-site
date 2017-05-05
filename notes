@@ -11,3 +11,86 @@ VPC (Virtual Private Cloud)
 
 
 SSL (Secure Sockets Layer): secure database. 
+
+
+Suredbits API for NFL and NBA:
+
+Example Call:
+[{
+  "st": 138,
+  "fta": 350,
+  "bs": 16,
+  "off": 60,
+  "pf": 177,
+  "min": 2543,
+  "fgm": 644,
+  "to": 233,
+  "deff": 286,
+  "pts": 1910,
+  "tpa": 759,
+  "playerId": 201939,
+  "ftm": 316,
+  "fga": 1387,
+  "plusminus": 974,
+  "ast": 503,
+  "tpm": 306,
+  "tot": 346
+}]
+
+st -- steals
+fta -- free throw attempts
+bs -- blocks
+off -- offensive rebounds
+pf -- personal fouls
+min -- minutes played
+fgm -- field goals made
+to -- turnovers
+deff -- defensive rebounds
+pts -- points
+tpa -- three pointers attempted (?)
+ftm -- free throws made
+fga -- field goals attempted
+plusminus -- plusminus
+ast -- assists
+tpm -- three pointers made (?)
+tot -- total rebounds
+
+Stats by player ID and game ID (Lebron James in Dec. 7 game vs NYK) -- /stats/playerID/gameID
+Stats by player ID and year (Lebron James 2016 stats) -- /stats/playerID/year
+Stats by player for the current season -- /stats/lastName/firstName 
+
+Database Schema:
+Tables: 
+players:
+
+lastName
+firstName
+fullName
+height
+weight
+profileURL
+team
+position
+playerId
+status
+number
+
+stats:
+st
+fta
+bs
+offreb
+pf
+min
+fgm
+tos
+defreb
+pts
+tpa
+playerId
+ftm
+fga
+plusminus
+ast
+tpm
+totreb
