@@ -52,8 +52,12 @@ def populate_nba_players():
                          db="nbadb")
     # create Cursor object to execute queries
     cur = db.cursor()
+
+    # get the JSON of players
     response = urllib.urlopen(nba_base_url).read()
     active_roster = json.loads(response)
+
+    # loop through each player in the active roster
     for player in active_roster:
         player_ln = player['lastName']
         player_fn = player['firstName']
