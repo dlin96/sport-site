@@ -13,11 +13,14 @@ def nba_roster_stats_population():
                          db="nbadb")
     # create Cursor object to execute queries
     cur = db.cursor()
-    cur.execute();
-    url = nba_stat_base_url + '/james/lebron'
-    response = urllib.urlopen(url).read()
-    stat_body = json.loads(response)
-    print stat_body[0]['plusminus']
+    cur.execute('''SELECT firstName, lastName, playerId FROM players''');
+
+    row = cur.fetchone();
+    print row
+    # url = nba_stat_base_url + '/james/lebron'
+    # response = urllib.urlopen(url).read()
+    # stat_body = json.loads(response)
+    # print stat_body[0]['plusminus']
 
 if __name__ == '__main__':
     nba_roster_stats_population()
