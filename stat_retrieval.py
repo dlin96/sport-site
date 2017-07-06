@@ -26,72 +26,58 @@ def nba_roster_stats_population():
         pid = row['playerId']
         player_id_list.append(pid)
 
-    for j in range(0, 445):
-        url = nba_stat_base_url % player_id_list[j]
-        response = urllib.urlopen(url).read()
-        stat_body = json.loads(response)
-        try:
-            stat_body['league']['standard']['stats']['regularSeason']['season'][0]['total']
-        except IndexError:
-
-if __name__ == '__main__':
-    nba_roster_stats_population()
-
-
-
-
-
-    url = nba_stat_base_url %  
-    player_list = []
-
-    # populate the player name list for url
-    for i in range(0, 445):
-        row = cur.fetchone()
-        fullName = row['fullName']
-        player_list.append(fullName)
-
-    # fetch all players in the db
-    for j in range(0, 445): # TODO: don't use magic numbers here
-        name = player_list[j].split()
-        fname = name[0].lower()
-        lname = name[1].lower()
-
-        if ',' in lname:
-            temp = lname.split(',')
-            lname = temp[0]
-            
-        url = nba_stat_base_url + '/' + lname + '/' + fname
+    for j in range(len(player_id_list)):
+        pid = player_id_list[j]
+        url = nba_stat_base_url % pid
         print url
+
         response = urllib.urlopen(url).read()
         stat_body = json.loads(response)
-        if len(stat_body) > 0:
-            stats = stat_body[0]
-            # # st, fta, bs, off, pf, min, fgm, tos, def, pts, tpa, playerId, ftm, fga, plusminus, ast, tpm, tot
-            player_st = stat_body[0]['st']
-            player_fta = stat_body[0]['fta']
-            player_bs = stat_body[0]['bs']
-            player_off = stat_body[0]['off']
-            player_pf = stat_body[0]['pf']
-            player_min = stat_body[0]['min']
-            player_fgm = stat_body[0]['fgm']
-            player_tos = stat_body[0]['to']
-            player_def = stat_body[0]['deff']
-            player_pts = stat_body[0]['pts']
-            player_tpa = stat_body[0]['tpa']
-            player_playerId = stat_body[0]['playerId']
-            player_ftm = stat_body[0]['ftm']
-            player_fga = stat_body[0]['fga']
-            player_plusminus = stat_body[0]['plusminus']
-            player_ast = stat_body[0]['ast']
-            player_tpm = stat_body[0]['tpm']
-            player_tot = stat_body[0]['tot']
 
-            cur.execute('''INSERT INTO stats (st, fta, bs, offreb, pf, min, fgm, tos, defreb, pts, tpa, playerId, ftm, fga, plusminus, ast, tpm, totreb)
-                        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''',
-                        (player_st, player_fta, player_bs, player_off, player_pf, player_min, player_fgm, player_tos, player_def, player_pts, player_tpa, player_playerId,
-                            player_ftm, player_fga, player_plusminus, player_ast, player_tpm, player_tot))
+        '''
+        apg, ast, blk, bpg, dd2, defreb, fga, fgm, fgp, fta, ftm, ftp, gp, gs, min, mpg, offreb, pfouls, plusminus, pts, 
+        ppg, rpg, spg, st, td3, topg, totreb, tpa, tpm, tpp, to
+        '''
+        try:
+            stat = stat_body['league']['standard']['stats']['regularSeason']['season'][0]['total']
+            player_apg = stat['apg']
+            player_ast = stat['assists']
+            player_blk = stat['blocks']
+            player_bpg = stat['bpg']
+            player_dd2 = stat['dd2']
+            player_defreb = stat['defReb']
+            player_fga = stat['fga']
+            player_fgm = stat['fgm']
+            player_fgp = stat['fgp']
+            player_fta = stat['fta']
+            player_ftm = stat['ftm']
+            player_ftp = stat['ftp']
+            player_gp = stat['gamesPlayed']
+            player_gs = stat['gamesStarted']
+            player_min = stat['min']
+            player_mpg = stat['mpg']
+            player_offreb = stat['offReb']
+            player_pfouls = stat['pFouls']
+            player_plusminus = stat['plusMinus']
+            player_pts = stat['points']
+            player_ppg = stat['ppg']
+            player_rpg = stat['rpg']
+            player_spg = stat['spg']
+            player_st = stat['steals']
+            player_td3 = stat['td3']
+            player_topg = stat['topg']
+            player_totreb = stat['totReb']
+            player_tpa = stat['tpa']
+            player_tpm = stat['tpm']
+            player_tpp = stat['tpp']
+            player_to = stat['turnovers']
+        except IndexError:
+            continue
 
-            db.commit()
+        cur.execute('''INSERT INTO stats (playerId, apg, ast, blk, bpg, dd2, defreb, fga, fgm, fgp, fta, ftm, ftp, gp, gs, min, mpg, offreb, pfouls, plusminus, pts, ppg, rpg, spg, st, td3, topg, totreb, tpa, tpm, tpp, tos)
+                     VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', (pid, player_apg, player_ast, player_blk, player_bpg, player_dd2, player_defreb, player_fga, player_fgm, player_fgp, player_fta, player_ftm, player_ftp, player_gp, player_gs, player_min, player_mpg, player_offreb, player_pfouls, player_plusminus, player_pts, player_ppg, player_rpg, player_spg, player_st, player_td3, player_topg, player_totreb, player_tpa, player_tpm, player_tpp, player_to))
+
+        db.commit()
     db.close()
 
 if __name__ == '__main__':
