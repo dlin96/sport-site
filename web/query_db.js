@@ -14,9 +14,6 @@ con.connect(function(err) {
 	console.log("Connected!");
 });
 
-prompt.start();
-
-prompt.get()
 con.query("use nbadb", function(err, result) {
 	if (err) throw err;
 	console.log("use db");
