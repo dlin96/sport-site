@@ -16,6 +16,7 @@ def nba_roster_stats_population():
     cur.execute('''SELECT fullName FROM players ORDER BY lastName''')
     player_list = []
 
+    # populate the player name list for url
     for i in range(0, 445):
         row = cur.fetchone()
         fullName = row['fullName']

@@ -10,7 +10,7 @@ import pprint as pp
 # global variables
 nba_base_url = 'http://api.suredbits.com/nba/v0/players'
 
-"""
+'''
 inputs: first_name, last_name
 Correspond to the first and last names of the player we want to 
 look up. 
@@ -23,7 +23,7 @@ return:
 JSON object of player (first_name, last_name) for use by another function.
 JSON object of player information (not statistics).
 E.g. height, weight, etc. 
-"""
+'''
 
 
 def player_info_json(first_name, last_name):
@@ -32,7 +32,7 @@ def player_info_json(first_name, last_name):
     data = json.loads(response)
     pp.pprint(data)
 
-"""
+'''
 Inputs: none
 Outputs: It will loop through the list of active players and insert them into the 
 players database. 
@@ -41,7 +41,7 @@ Purpose: Populate our MySQL database with the active players in the roster. DOES
 Variables: 
 response - the body of the http response we get from the urllib call.
 active_roster - array of json objects representing players in the NBA. 
-"""
+'''
 
 
 def populate_nba_players():
