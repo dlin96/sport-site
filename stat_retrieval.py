@@ -2,7 +2,8 @@ import urllib
 import json
 import pymysql
 
-nba_stat_base_url = 'http://api.suredbits.com/nba/v0/stats'
+#nba_stat_base_url = 'http://api.suredbits.com/nba/v0/stats'
+nba_stat_base_url = 'http://data.nba.net/10s/prod/v1/data/10s/prod/v1/2016/players/%d_profile.json'
 
 
 def nba_roster_stats_population():
@@ -11,9 +12,36 @@ def nba_roster_stats_population():
                          user="root",
                          passwd="warriors73-9",
                          db="nbadb")
+
     # create Cursor object to execute queries
     cur = db.cursor(pymysql.cursors.DictCursor)
-    cur.execute('''SELECT fullName FROM players ORDER BY lastName''')
+
+    # select playerId from the players table
+    cur.execute('''SELECT playerId FROM players''')
+    player_id_list = []
+
+    # populate the player name list for url
+    for i in range(0, 445):
+        row = cur.fetchone()
+        pid = row['playerId']
+        player_id_list.append(pid)
+
+    for j in range(0, 445):
+        url = nba_stat_base_url % player_id_list[j]
+        response = urllib.urlopen(url).read()
+        stat_body = json.loads(response)
+        try:
+            stat_body['league']['standard']['stats']['regularSeason']['season'][0]['total']
+        except IndexError:
+
+if __name__ == '__main__':
+    nba_roster_stats_population()
+
+
+
+
+
+    url = nba_stat_base_url %  
     player_list = []
 
     # populate the player name list for url
