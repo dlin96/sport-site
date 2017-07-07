@@ -1,5 +1,6 @@
 var http = require('http');
 var mysql = require('mysql');
+var prompt = require('prompt');
 var express = require('express');
 
 var app = express();
@@ -33,14 +34,22 @@ function queryDb(callback) {
 		console.log("Connected!");
 	});
 
-	con.query("SELECT * FROM players WHERE lastName='curry'", function(err, result, fields) {
-		if (err) throw err;
-		console.log(result);
+	prompt.start();
+	prompt.get(['playerId_one', 'playerId_two'], function(err, result) {
+		if(err) {console.log("Error");
+			return;
+		};
 
-		json = JSON.stringify(result);
+		var query = "SELECT * FROM stats WHERE playerId=? UNION ALL SELECT * FROM stats WHERE playerId=?"
+		con.query(query, [result.playerId_one, result.playerId_two], function(err, result, fields) {
+			if (err) throw err;
+			console.log(result);
 
-		con.end();
-		console.log('json-result: ', json);
-		callback(null, json);
+			json = JSON.stringify(result);
+
+			con.end();
+			console.log('json-result: ', json);
+			callback(null, json);
+		});
 	});
 }
