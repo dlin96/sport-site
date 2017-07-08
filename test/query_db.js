@@ -1,5 +1,4 @@
 var mysql = require('mysql');
-var prompt = require('prompt');
 
 // create mysql connection
 var con = mysql.createConnection({
