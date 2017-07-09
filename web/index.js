@@ -76,17 +76,12 @@ app.get('/json/:playername', function (req, res) {
 		//data should only contain one player id
 		var playerID = rows[0].playerId;
 
-		var statsQuery = 'SELECT pts, ast, to, tpm WHERE playerId LIKE "%' + playerID + '%"';
+		var statsQuery = 'SELECT pts, ast, tpm FROM stats WHERE playerId LIKE "%' + playerID + '%"';
 
-		con.query(statsQuery, function(err, rows, fields) {
-			
-/*
-NOT SURE HOW TO PARSE THROUGH THIS QUERY
-*/
+		con.query(statsQuery, function(_err, _rows, _fields) {
+			res.json(_rows);
+			console.log(_rows);
 
-			// var json = JSON.stringify(data);
-			// console.log(json);
-			// res.end(json);
 		});
 	});
 });
