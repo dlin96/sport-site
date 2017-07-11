@@ -2,58 +2,102 @@ var http = require('http');
 var mysql = require('mysql');
 var prompt = require('prompt');
 var express = require('express');
+var bodyParser = require('body-parser');
 
 var app = express();
-
-// http.createServer(function(req, res) {
-// 	console.log("listening on port 3000");
-// 	var callback = function(err, result) {
-// 		res.writeHead(200, {
-// 			'Content-Type' : 'application/json'
-// 		});
-// 		console.log('json:', result);
-// 		res.end(result);
-// 	};
-
-// 	queryDb(callback);
-
-// }).listen(3000);
 
 app.set('views',__dirname + '/public');
 app.use(express.static(__dirname + '/js'));
 app.set('view engine', 'ejs');
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true}));
 app.engine('html', require('ejs').renderFile);
+
+// function to connect to mysqldb. Created for sake of reusability. 
+// create mysql connection 
+var con = mysql.createConnection({
+	host: "sports-db.ceutzulos0qe.us-west-1.rds.amazonaws.com",
+	user: "root",
+	password: "warriors73-9",
+	database: "nbadb"
+});
+
+// connect to the db
+con.connect();
 
 app.get('/', function(req, res) {
 	res.sendFile(__dirname + '/public/index.html');
 });
 
 app.get('/search', function(req, res) {
-	// create mysql connection 
-	var con = mysql.createConnection({
-		host: "sports-db.ceutzulos0qe.us-west-1.rds.amazonaws.com",
-		user: "root",
-		password: "warriors73-9",
-		database: "nbadb"
-	});
-
-	// connect to the db
-	con.connect();
-
-	query = 'SELECT fullName FROM players WHERE fullName LIKE "%' + req.query.key+'%"';
+	// dbConnection();
+	// query using the user input
+	var query = 'SELECT fullName, playerId, team FROM players WHERE fullName LIKE "%' + req.query.key+'%"';
 	con.query(query, function(err, rows, fields) {
 		var data=[];
 		for(var i=0; i<rows.length;i++) {
-			data.push(rows[i].fullName);
+			data.push(rows[i].fullName + " " + rows[i].team);
 		}
 
-		// for(var i=0; i<data.length; i++) {
-		// 	console.log(data[i]);
-		// }
-		console.log(rows.length);
 		json = JSON.stringify(data);
-		console.log(json);
-		res.end(json);
+		res.send(json);
+	});
+});
+
+function splitParam(url_param) {
+	var fullName = url_param;
+	var playerNameArr = fullName.split();
+	fullName = playerNameArr[0] + ' ' + playerNameArr[1];
+	var team = playerNameArr[2]; 
+
+	return [fullName, team];
+}
+
+/*
+ * Post method that takes the input from the page and returns a json of the 
+ * selected players stats. This method is strictly for comparing 2 players.
+ *
+ * TODO: see if we can avoid doing a query for playerId.
+ *		 need to refactor the duplicate code for both players
+ */
+
+app.post('/comparison/:playerName/:player2', function(req, res) {
+
+	// dbConnection();
+	// player 1
+	var fullName = req.params.playerName;
+	var playerNameArr = fullName.split(' ');
+	fullName = playerNameArr[0] + ' ' + playerNameArr[1];
+	var team = playerNameArr[2]; 
+
+	// player 2
+	var fullName2 = req.params.player2;
+	var playerNameArr2 = fullName2.split(' ');
+	fullName2 = playerNameArr2[0] + ' ' + playerNameArr2[1];
+	var team2 = playerNameArr2[2]; 
+
+
+	// var data = splitParam(req.params.playerName);
+	// console.log(data);
+	// var fullName = data[0];
+	// var team = data[1];
+
+	//retrieves playerId from the fullName and team. 
+	var q =  'SELECT playerId FROM players WHERE fullName="' + fullName2 + '" AND team="' + team2 +'"';
+	var query = 'SELECT playerId FROM players WHERE fullName="'+fullName+'" AND team="'+team+'" UNION ' + q;
+	con.query(query, function(err, rows, fields) {
+		var playerId = rows[0].playerId;
+		var playerId2 = rows[1].playerId;
+
+		// retrieves the stats from the given unique playerId.
+		var secQ = 'SELECT * FROM stats WHERE playerId="'+playerId2+'"'
+		var secQuery = 'SELECT * FROM stats WHERE playerId="'+playerId+'" UNION ' + secQ;
+		con.query(secQuery, function(err, rows) {
+			console.log(rows[0]);
+			console.log(rows[1]);
+			var json = JSON.stringify([rows[0], rows[1]]);
+			res.send(json);
+		});
 	});
 });
 
@@ -70,10 +114,10 @@ app.get('/json/:playername', function (req, res) {
 	//connect to db
 	con.connect();
 	
-	//retrieve playerid
+	//retrieve playerId
 	var playerIDquery = 'SELECT playerId FROM players WHERE fullname LIKE "%' + playername +'%"';
 	con.query(playerIDquery, function(err, rows, fields) {
-		//data should only contain one player id
+		//data should only contain one player Id
 		var playerID = rows[0].playerId;
 
 		var statsQuery = 'SELECT pts, ast, tpm FROM stats WHERE playerId LIKE "%' + playerID + '%"';
@@ -90,41 +134,7 @@ function queryPlayerStats(callback) {
 
 }
 
-function queryDb(callback) {
-	// create mysql connection 
-	var con = mysql.createConnection({
-		host: "sports-db.ceutzulos0qe.us-west-1.rds.amazonaws.com",
-		user: "root",
-		password: "warriors73-9",
-		database: "nbadb"
-	});
-
-	// connect to the db
-	con.connect(function(err) {
-		if (err) throw err;
-		console.log("Connected!");
-	});
-
-	prompt.start();
-	prompt.get(['playerId_one', 'playerId_two'], function(err, result) {
-		if(err) {console.log("Error");
-			return;
-		};
-
-		var query = "SELECT * FROM stats WHERE playerId=? UNION ALL SELECT * FROM stats WHERE playerId=?"
-		con.query(query, [result.playerId_one, result.playerId_two], function(err, result, fields) {
-			if (err) throw err;
-			console.log(result);
-
-			json = JSON.stringify(result);
-
-			con.end();
-			console.log(json);
-			callback(null, json);
-		});
-	});
-}
-
+// start our server, listening on port 3000
 var server=app.listen(3000,function(){
 	console.log("We have started our server on port 3000");
 });
