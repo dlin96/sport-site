@@ -61,7 +61,7 @@ function splitParam(url_param) {
  *		 need to refactor the duplicate code for both players
  */
 
-app.post('/comparison/:playerName/:player2', function(req, res) {
+app.get('/comparison/:playerName/:player2', function(req, res) {
 
 	// dbConnection();
 	// player 1
