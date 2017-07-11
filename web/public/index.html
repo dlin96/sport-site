@@ -8,9 +8,19 @@
 <script type="text/javascript">
 $(document).ready(function(){
     $('input.typeahead').typeahead({
-        name: 'countries',
+        name: 'players',
         remote: 'http://localhost:3000/search?key=%QUERY',
-        limit: 10
+        limit: 10,
+        templates: {
+        	// empty: [
+        	// '<div class="empty-message">',
+        	// 	'unable to find any players by that name',
+        	// '</div>'
+        	// ].join('/n'),
+        	suggestion: function(data) {
+        		console.log(data);
+        	}
+        }
     });
 });
 </script>
@@ -70,7 +80,19 @@ $(document).ready(function(){
         <h1>Ajax Search Box using Node and MySQL <small>Codeforgeek Tutorial</small></h1>
     </div>
     <div class="bs-example">
-        <input type="text" name="typeahead" class="typeahead tt-query" autocomplete="off" spellcheck="false" placeholder="Type your Query">
+        <input type="text" id="player" name="typeahead" class="typeahead tt-query" autocomplete="off" spellcheck="false" placeholder="Type your Query">
+        <input type="text" id="player2" name="typeahead" class="typeahead tt-query" autocomplete="off" spellcheck="false" placeholder="Type your Query">
+        <script>
+        	$(document).ready(function() {
+        		var player;
+        		$("#submit").click(function() {
+        			player=$("#player").val();
+        			player2=$("#player2").val();
+        			$.post("http://localhost:3000/comparison/" + player + "/" + player2, {player: player, player2: player2});
+        		});
+        	});
+        </script>
+        <input type="button" id="submit" value="Submit">
     </div>
 </body>
 </html>
