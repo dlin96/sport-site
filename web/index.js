@@ -14,23 +14,27 @@ app.use(bodyParser.urlencoded({ extended: true}));
 app.engine('html', require('ejs').renderFile);
 
 // function to connect to mysqldb. Created for sake of reusability. 
-// create mysql connection 
-var con = mysql.createConnection({
-	host: "sports-db.ceutzulos0qe.us-west-1.rds.amazonaws.com",
-	user: "root",
-	password: "warriors73-9",
-	database: "nbadb"
-});
+function dbConnection() {
+	// create mysql connection 
+	var con = mysql.createConnection({
+		host: "sports-db.ceutzulos0qe.us-west-1.rds.amazonaws.com",
+		user: "root",
+		password: "warriors73-9",
+		database: "nbadb"
+	});
 
-// connect to the db
-con.connect();
+	// connect to the db
+	con.connect();
+	return con;
+}
 
 app.get('/', function(req, res) {
+
 	res.sendFile(__dirname + '/public/index.html');
 });
 
 app.get('/search', function(req, res) {
-	// dbConnection();
+	var con = dbConnection();
 	// query using the user input
 	var query = 'SELECT fullName, playerId, team FROM players WHERE fullName LIKE "%' + req.query.key+'%"';
 	con.query(query, function(err, rows, fields) {
@@ -46,7 +50,7 @@ app.get('/search', function(req, res) {
 
 function splitParam(url_param) {
 	var fullName = url_param;
-	var playerNameArr = fullName.split();
+	var playerNameArr = fullName.split(' ');
 	fullName = playerNameArr[0] + ' ' + playerNameArr[1];
 	var team = playerNameArr[2]; 
 
@@ -58,29 +62,18 @@ function splitParam(url_param) {
  * selected players stats. This method is strictly for comparing 2 players.
  *
  * TODO: see if we can avoid doing a query for playerId.
- *		 need to refactor the duplicate code for both players
  */
 
 app.post('/comparison/:playerName/:player2', function(req, res) {
+	var con = dbConnection();
 
-	// dbConnection();
-	// player 1
-	var fullName = req.params.playerName;
-	var playerNameArr = fullName.split(' ');
-	fullName = playerNameArr[0] + ' ' + playerNameArr[1];
-	var team = playerNameArr[2]; 
+	var playerOne = splitParam(req.params.playerName);
+	var fullName = playerOne[0];
+	var team = playerOne[1];
 
-	// player 2
-	var fullName2 = req.params.player2;
-	var playerNameArr2 = fullName2.split(' ');
-	fullName2 = playerNameArr2[0] + ' ' + playerNameArr2[1];
-	var team2 = playerNameArr2[2]; 
-
-
-	// var data = splitParam(req.params.playerName);
-	// console.log(data);
-	// var fullName = data[0];
-	// var team = data[1];
+	var playerTwo = splitParam(req.params.player2);
+	var fullName2 = playerTwo[0];
+	var team2 = playerTwo[1];
 
 	//retrieves playerId from the fullName and team. 
 	var q =  'SELECT playerId FROM players WHERE fullName="' + fullName2 + '" AND team="' + team2 +'"';
@@ -93,9 +86,8 @@ app.post('/comparison/:playerName/:player2', function(req, res) {
 		var secQ = 'SELECT * FROM stats WHERE playerId="'+playerId2+'"'
 		var secQuery = 'SELECT * FROM stats WHERE playerId="'+playerId+'" UNION ' + secQ;
 		con.query(secQuery, function(err, rows) {
-			console.log(rows[0]);
-			console.log(rows[1]);
 			var json = JSON.stringify([rows[0], rows[1]]);
+			console.log(json);
 			res.send(json);
 		});
 	});
@@ -125,7 +117,6 @@ app.get('/json/:playername', function (req, res) {
 		con.query(statsQuery, function(_err, _rows, _fields) {
 			res.json(_rows);
 			console.log(_rows);
-
 		});
 	});
 });
