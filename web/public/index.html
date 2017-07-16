@@ -12,13 +12,12 @@ $(document).ready(function(){
         name: 'players',
         remote: 'http://localhost:3000/search?key=%QUERY',
         limit: 10,
-        }
-    });
+        });
 });
 </script>
 <link rel="stylesheet" href="./stylesheet.css" type="text/css"/>
 
-<!-- <style type="text/css">
+<style type="text/css">
 .queryBlock{
 	font-family: sans-serif;
 	position: relative;
@@ -68,18 +67,24 @@ $(document).ready(function(){
 	margin: 0;
 }
 </style>
- --></head>
+</head>
 <body>
+    <div class="result"></div>
+
     <div class="queryBlock">
         <input type="text" id="player" name="typeahead" class="typeahead tt-query" autocomplete="off" spellcheck="false" placeholder="Type your Query">
         <input type="text" id="player2" name="typeahead" class="typeahead tt-query" autocomplete="off" spellcheck="false" placeholder="Type your Query">
         <script>
         	$(document).ready(function() {
-        		var player;
         		$("#submit").click(function() {
-        			player=$("#player").val();
-        			player2=$("#player2").val();
-        			$.post("http://localhost:3000/comparison/" + player + "/" + player2, {player: player, player2: player2});
+        			var player=$("#player").val();
+        			var player2=$("#player2").val();
+        			var posting = $.post("http://localhost:3000/comparison/" + player + "/" + player2, {player: player, player2: player2});
+
+        			posting.done(function(data) {
+        				console.log(data);
+        				$("#result").empty().append(data);
+        			});
         		});
         	});
         </script>
