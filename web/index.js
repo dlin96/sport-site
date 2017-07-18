@@ -34,6 +34,11 @@ app.get('/', function(req, res) {
 	res.sendFile(__dirname + '/public/index.html');
 });
 
+// temporary route
+app.get('/styles.css', function(req, res) {
+	res.sendFile(__dirname + 'public/styles.css');
+});
+
 app.get('/search', function(req, res) {
 	var con = dbConnection();
 	// query using the user input
