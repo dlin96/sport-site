@@ -36,7 +36,7 @@ app.get('/', function(req, res) {
 
 // temporary route
 app.get('/styles.css', function(req, res) {
-	res.sendFile(__dirname + 'public/styles.css');
+	res.sendFile(__dirname + '/public/styles.css');
 });
 
 app.get('/search', function(req, res) {
