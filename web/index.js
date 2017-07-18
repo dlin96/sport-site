@@ -8,6 +8,7 @@ var app = express();
 
 app.set('views',__dirname + '/public');
 app.use(express.static(__dirname + '/js'));
+app.use(express.static('public'))
 app.set('view engine', 'ejs');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true}));
@@ -66,7 +67,6 @@ function splitParam(url_param) {
 
 app.post('/comparison/:playerName/:player2', function(req, res) {
 	var con = dbConnection();
-
 	var playerOne = splitParam(req.params.playerName);
 	var fullName = playerOne[0];
 	var team = playerOne[1];
