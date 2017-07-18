@@ -6,6 +6,7 @@
 <title>StatLab</title>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="typeahead.min.js"></script>
+<script src="fill_table.js"></script>
 <script>
 $(document).ready(function(){
     $('input.typeahead').typeahead({
@@ -21,37 +22,6 @@ $(document).ready(function(){
     <div class="queryBlock">
         <input type="text" id="player" name="typeahead" class="typeahead tt-query" autocomplete="off" spellcheck="false" placeholder="Type your Query">
         <input type="text" id="player2" name="typeahead" class="typeahead tt-query" autocomplete="off" spellcheck="false" placeholder="Type your Query">
-        <script>
-        	$(document).ready(function() {
-        		$("#submit").click(function() {
-        			var player=$("#player").val();
-        			var player2=$("#player2").val();
-        			$.post("http://localhost:3000/comparison/" + player + "/" + player2, {player: player, player2: player2}).done(function(data) {
-                        var playerData = $.parseJSON(data);
-                        console.log(playerData);
-        				console.log("player1: " + playerData[0].apg);
-        				console.log("player2: " + playerData[1].apg);
-                        $("#playerTable").prepend("<th>" + player + "</th>");
-                        $("#playerTable").prepend("<th>stat</th>");
-                        $("#playerTable").prepend("<th>" + player2 + "</th>");
-                        for(var key in playerData[0]) {
-                            if(key === "playerId")
-                                continue;
-                            var txt = "<tr><td id='player1" + key+"''>" + playerData[0][key] + "</td><td>" + key + "</td><td id='player2"+key+ "''>" + playerData[1][key]+"</td></tr>";
-                            $("#playerTable").append(txt);
-                            if(playerData[0][key] > playerData[1][key]) {
-                                $("#player1"+key).css("background-color", "green");
-                                $("#player2"+key).css("background-color", "red");
-                            } else if(playerData[0][key] < playerData[1][key]) {
-                                $("#player2"+key).css("background-color", "green");
-                                $("#player1"+key).css("background-color", "red");
-                            }
-                        }
-        				$("#result").append(JSON.stringify(data));
-        			}, "json");
-        		});
-        	});
-        </script>
         <input type="button" id="submit" value="Submit">
     </div>
     <div id="result">
