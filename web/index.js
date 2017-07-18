@@ -87,7 +87,7 @@ app.post('/comparison/:playerName/:player2', function(req, res) {
 		var secQuery = 'SELECT * FROM stats WHERE playerId="'+playerId+'" UNION ' + secQ;
 		con.query(secQuery, function(err, rows) {
 			var json = JSON.stringify([rows[0], rows[1]]);
-			console.log(json);
+			// console.log(json);
 			res.send(json);
 		});
 	});
