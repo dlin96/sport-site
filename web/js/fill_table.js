@@ -5,10 +5,12 @@ $(document).ready(function() {
 		$.post("http://localhost:3000/comparison/" + player + "/" + player2, {player: player, player2: player2}).done(function(data) {
             var playerData = $.parseJSON(data);
             console.log(playerData);
+            $("#playerTable tr").remove();
+            $("#playerTable th").remove();
             $("#result").css('visibility', 'visible');
-            $("#playerTable").prepend("<th>" + player + "</th>");
-            $("#playerTable").prepend("<th>stat</th>");
             $("#playerTable").prepend("<th>" + player2 + "</th>");
+            $("#playerTable").prepend("<th>stat</th>");
+            $("#playerTable").prepend("<th>" + player + "</th>");
             for(var key in playerData[0]) {
                 if(key === "playerId")
                     continue;
@@ -22,7 +24,7 @@ $(document).ready(function() {
                     $("#player1"+key).css("background-color", "red");
                 }
             }
-			$("#result").append(JSON.stringify(data));
+			// $("#result").append(JSON.stringify(data));
 		}, "json");
 	});
 });
