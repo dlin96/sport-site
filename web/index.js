@@ -95,35 +95,31 @@ app.post('/comparison/:playerName/:player2', function(req, res) {
 
 app.get('/json/:playername', function (req, res) {
 	var playername = req.params.playername;
-	// create mysql connection
-	var con = mysql.createConnection({
-		host: "sports-db.ceutzulos0qe.us-west-1.rds.amazonaws.com",
-		user: "root",
-		password: "warriors73-9",
-		database: "nbadb"
-	});
 
-	//connect to db
-	con.connect();
+	var con = dbConnection();
 	
 	//retrieve playerId
 	var playerIDquery = 'SELECT playerId FROM players WHERE fullname LIKE "%' + playername +'%"';
 	con.query(playerIDquery, function(err, rows, fields) {
-		//data should only contain one player Id
+
+		//data should only contain one player id
 		var playerID = rows[0].playerId;
 
-		var statsQuery = 'SELECT pts, ast, tpm FROM stats WHERE playerId LIKE "%' + playerID + '%"';
+		var statsQuery = 'SELECT * FROM stats WHERE playerId LIKE "%' + playerID + '%"';
 
 		con.query(statsQuery, function(_err, _rows, _fields) {
-			res.json(_rows);
-			console.log(_rows);
+
+			var data = _rows[0];
+			var json = JSON.stringify(data);
+
+			console.log(json);
+			res.end(json);
+
+			con.end(); 
 		});
 	});
 });
 
-function queryPlayerStats(callback) {
-
-}
 
 // start our server, listening on port 3000
 var server=app.listen(3000,function(){
