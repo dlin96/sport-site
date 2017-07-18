@@ -67,7 +67,6 @@ function splitParam(url_param) {
 
 app.post('/comparison/:playerName/:player2', function(req, res) {
 	var con = dbConnection();
-
 	var playerOne = splitParam(req.params.playerName);
 	var fullName = playerOne[0];
 	var team = playerOne[1];
