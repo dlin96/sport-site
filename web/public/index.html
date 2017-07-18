@@ -27,10 +27,28 @@ $(document).ready(function(){
         			var player=$("#player").val();
         			var player2=$("#player2").val();
         			$.post("http://localhost:3000/comparison/" + player + "/" + player2, {player: player, player2: player2}).done(function(data) {
-        				console.log("player1: " + data[0]);
-        				console.log("player2: " + data[1]);
+                        var playerData = $.parseJSON(data);
+                        console.log(playerData);
+        				console.log("player1: " + playerData[0].apg);
+        				console.log("player2: " + playerData[1].apg);
+                        $("#playerTable").prepend("<th>" + player + "</th>");
+                        $("#playerTable").prepend("<th>stat</th>");
+                        $("#playerTable").prepend("<th>" + player2 + "</th>");
+                        for(var key in playerData[0]) {
+                            if(key === "playerId")
+                                continue;
+                            var txt = "<tr><td id='player1" + key+"''>" + playerData[0][key] + "</td><td>" + key + "</td><td id='player2"+key+ "''>" + playerData[1][key]+"</td></tr>";
+                            $("#playerTable").append(txt);
+                            if(playerData[0][key] > playerData[1][key]) {
+                                $("#player1"+key).css("background-color", "green");
+                                $("#player2"+key).css("background-color", "red");
+                            } else if(playerData[0][key] < playerData[1][key]) {
+                                $("#player2"+key).css("background-color", "green");
+                                $("#player1"+key).css("background-color", "red");
+                            }
+                        }
         				$("#result").append(JSON.stringify(data));
-        			});
+        			}, "json");
         		});
         	});
         </script>
@@ -40,8 +58,6 @@ $(document).ready(function(){
     	<h1>Result:</h1>
     	<table id="playerTable">
     		<tr>
-	    		<th>Player 1</th>
-	    		<th>Player 2</th>
 	    	</tr>
     	</table>
     </div>
