@@ -84,17 +84,22 @@ app.post('/comparison/:playerName/:player2', function(req, res) {
 	var q =  'SELECT playerId FROM players WHERE fullName="' + fullName2 + '" AND team="' + team2 +'"';
 	var query = 'SELECT playerId FROM players WHERE fullName="'+fullName+'" AND team="'+team+'" UNION ' + q;
 	con.query(query, function(err, rows, fields) {
-		var playerId = rows[0].playerId;
-		var playerId2 = rows[1].playerId;
+		if(rows[0] && rows[1]) {
+			var playerId = rows[0].playerId;
+			var playerId2 = rows[1].playerId;
 
-		// retrieves the stats from the given unique playerId.
-		var secQ = 'SELECT * FROM stats WHERE playerId="'+playerId2+'"'
-		var secQuery = 'SELECT * FROM stats WHERE playerId="'+playerId+'" UNION ' + secQ;
-		con.query(secQuery, function(err, rows) {
-			var json = JSON.stringify([rows[0], rows[1]]);
-			// console.log(json);
+			// retrieves the stats from the given unique playerId.
+			var secQ = 'SELECT * FROM stats WHERE playerId="'+playerId2+'"'
+			var secQuery = 'SELECT * FROM stats WHERE playerId="'+playerId+'" UNION ' + secQ;
+			con.query(secQuery, function(err, rows) {
+				var json = JSON.stringify([rows[0], rows[1]]);
+				// console.log(json);
+				res.send(json);
+			});
+		} else {
+			var json = {};
 			res.send(json);
-		});
+		}
 	});
 });
 
