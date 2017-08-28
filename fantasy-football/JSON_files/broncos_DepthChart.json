@@ -1,0 +1,1310 @@
+ {
+    "formations" :
+        {
+        
+        "Offense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "WR",
+                        "players"	: [
+                            
+                            "a951744a-72dd-4748-a461-02fc06668e12",
+                            
+                            "7d64cb5d-c23c-403f-bc44-fd397ada22fa",
+                            
+                            "86e98abc-f9fe-4918-81f6-a0aba45ec096"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LT",
+                        "players"	: [
+                            
+                            "26511820-959a-45cc-b433-eeef9f8c0e2e",
+                            
+                            "988f4cc8-d4b1-4b08-a847-97f8ef2dc1f0"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LG",
+                        "players"	: [
+                            
+                            "3952b7ce-7aaf-4b84-ab0a-bccfbcd43cce",
+                            
+                            "917fbccc-d180-4b84-a01b-8984aac06443"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "C",
+                        "players"	: [
+                            
+                            "89452bd8-fa44-4a29-af03-ad9736b64032",
+                            
+                            "95b7a787-a891-4e52-b48f-c9b7318b3284"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RG",
+                        "players"	: [
+                            
+                            "f365a653-d9f4-4715-9ffd-121bfde86276",
+                            
+                            "d7ef0cb4-e19e-4885-94c7-8d27847fca99"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RT",
+                        "players"	: [
+                            
+                            "8c8dcb78-315e-42cb-80fe-1d5499905099",
+                            
+                            "988f4cc8-d4b1-4b08-a847-97f8ef2dc1f0"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "TE",
+                        "players"	: [
+                            
+                            "697bb3b3-c95e-4735-ae6b-4c0da89c12d2",
+                            
+                            "5a034318-45dd-4778-8eda-eee331e7f549",
+                            
+                            "ae79b04c-383c-4917-98fd-4256f991780a"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WR",
+                        "players"	: [
+                            
+                            "bce0376a-1fa7-456e-b493-867b0186c393",
+                            
+                            "271f9b88-03c0-466f-afb1-c430912f0d36",
+                            
+                            "e34113f9-588f-4226-8275-4dc72d301705"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RB",
+                        "players"	: [
+                            
+                            "d388f589-0901-4fa8-9b3e-8c13b12762ae",
+                            
+                            "1157bc00-00f8-48a8-89c9-bbeea545909e",
+                            
+                            "b248c912-1442-484c-b685-258a490d4e9e"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "QB",
+                        "players"	: [
+                            
+                            "87d42081-706b-4395-b422-05b4c0acb2d8",
+                            
+                            "8916cae3-7aa2-43f1-b9f4-8f1b6212f35d",
+                            
+                            "9b8cabe2-804c-4f57-891a-094b8e906b51"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "FB",
+                        "players"	: [
+                            
+                            "631a71f4-1a91-4231-a38d-7c0027f508f8"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Defense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "DE",
+                        "players"	: [
+                            
+                            "5ca193b1-8865-496d-866e-48608d5b0602",
+                            
+                            "e92ce959-0b7a-4fde-a588-4568ce5e844d"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "NT",
+                        "players"	: [
+                            
+                            "1abac565-2d5e-4051-963c-e71bd515f5f2",
+                            
+                            "7169d337-5c86-42d8-beab-b1dc3345352b",
+                            
+                            "f4d2a67c-f543-4758-9437-0882227b95e4"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "DE",
+                        "players"	: [
+                            
+                            "d03ba05b-795a-427c-b574-d62778d84c53",
+                            
+                            "d59e47c1-4c77-4d69-8d94-8239bc7b4e9c"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "SLB",
+                        "players"	: [
+                            
+                            "036470c3-df00-47e4-a936-86200f2c88dc",
+                            
+                            "20345da3-fa8e-46df-a686-961588421b82",
+                            
+                            "60558843-9454-4349-8502-51b49edd19a9"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WLB",
+                        "players"	: [
+                            
+                            "b39f033b-ce6e-448d-85e6-e3da2b56d14f",
+                            
+                            "c2da8c9b-1554-4a66-9b8f-34959c4e774b"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "ILB",
+                        "players"	: [
+                            
+                            "50224e48-91ca-40e0-9c01-042327dce97c",
+                            
+                            "f456eb82-eff6-4311-bfd0-6d6663b37d04"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "ILB",
+                        "players"	: [
+                            
+                            "745f7af4-e7b3-4d40-aa88-8734914ddb26",
+                            
+                            "d804f43d-ad53-4cec-9971-53c028018a9d"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LCB",
+                        "players"	: [
+                            
+                            "8b5aba78-4164-4bc6-a4cd-7b6c32dbb294",
+                            
+                            "01b4eaac-a67e-4484-b952-6a1f8ae6af1b"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RCB",
+                        "players"	: [
+                            
+                            "6fb07762-c228-4b8e-9a2c-8007c6b1e5e2",
+                            
+                            "d85c2a37-fe3b-4c92-a56b-47e8048cc50a",
+                            
+                            "6e058027-699a-419d-8790-473dc12667e7"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "SS",
+                        "players"	: [
+                            
+                            "5a46c6a9-45e4-4ae2-bdd3-c504392976ec",
+                            
+                            "41338978-d6ff-4390-9f9f-94e407f9b3b7"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "FS",
+                        "players"	: [
+                            
+                            "cc7abaf4-71f7-4f43-8505-089debc6b670",
+                            
+                            "12f6bcca-ff70-43ca-9b34-b7cc74a84ff8"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Special Teams" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "K",
+                        "players"	: [
+                            
+                            "67e9fcab-63f9-42d6-84a0-a97dae02eb46"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "KO",
+                        "players"	: [
+                            
+                            "67e9fcab-63f9-42d6-84a0-a97dae02eb46"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "P",
+                        "players"	: [
+                            
+                            "72c2cca9-9aa3-4b6a-a512-7bb81f19ec92"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "H",
+                        "players"	: [
+                            
+                            "72c2cca9-9aa3-4b6a-a512-7bb81f19ec92"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LS",
+                        "players"	: [
+                            
+                            "f55f9e7c-a1a7-4678-9d48-51aecbb3d889"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "PR",
+                        "players"	: [
+                            
+                            "e34113f9-588f-4226-8275-4dc72d301705",
+                            
+                            "bce0376a-1fa7-456e-b493-867b0186c393"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "KR",
+                        "players"	: [
+                            
+                            "271f9b88-03c0-466f-afb1-c430912f0d36",
+                            
+                            "e34113f9-588f-4226-8275-4dc72d301705"
+                            
+                        ]
+                        }
+                    
+                    ]
+              }
+
+        
+        },
+        "players" : [
+          
+              {
+                    "id"	: "7169d337-5c86-42d8-beab-b1dc3345352b",
+                    "fname"	: "Darius",
+                    "lname"	: "Kilgo",
+                    "teamNumber"	:  "98",
+                    "position"	: "NT",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "12/14/91",
+                    "hometown"	: "Charlotte, N.C.",
+                    "height"	: "6-3",
+                    "weight"	: "319",
+                    "college"	: "Maryland",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Darius-Kilgo/7169d337-5c86-42d8-beab-b1dc3345352b"
+              },
+           
+              {
+                    "id"	: "c2da8c9b-1554-4a66-9b8f-34959c4e774b",
+                    "fname"	: "Shane",
+                    "lname"	: "Ray",
+                    "teamNumber"	:  "56",
+                    "position"	: "OLB",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "05/18/93",
+                    "hometown"	: "Shawnee Mission, Kan",
+                    "height"	: "6-3",
+                    "weight"	: "245",
+                    "college"	: "Missouri",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Shane-Ray/c2da8c9b-1554-4a66-9b8f-34959c4e774b"
+              },
+           
+              {
+                    "id"	: "7d64cb5d-c23c-403f-bc44-fd397ada22fa",
+                    "fname"	: "Bennie",
+                    "lname"	: "Fowler",
+                    "teamNumber"	:  "16",
+                    "position"	: "WR",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "06/10/91",
+                    "hometown"	: "Bloomfield, Mich.",
+                    "height"	: "6-1",
+                    "weight"	: "212",
+                    "college"	: "Michigan State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Bennie-Fowler/7d64cb5d-c23c-403f-bc44-fd397ada22fa"
+              },
+           
+              {
+                    "id"	: "f365a653-d9f4-4715-9ffd-121bfde86276",
+                    "fname"	: "Michael",
+                    "lname"	: "Schofield",
+                    "teamNumber"	:  "79",
+                    "position"	: "T",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "11/15/90",
+                    "hometown"	: "Orland Park, Ill.",
+                    "height"	: "6-6",
+                    "weight"	: "301",
+                    "college"	: "Michigan",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Michael-Schofield/f365a653-d9f4-4715-9ffd-121bfde86276"
+              },
+           
+              {
+                    "id"	: "b39f033b-ce6e-448d-85e6-e3da2b56d14f",
+                    "fname"	: "DeMarcus",
+                    "lname"	: "Ware",
+                    "teamNumber"	:  "94",
+                    "position"	: "OLB",
+                    "experience"	:  "12",
+                    "age"	: "34",
+                    "born"	: "07/31/82",
+                    "hometown"	: "Auburn, Ala.",
+                    "height"	: "6-4",
+                    "weight"	: "258",
+                    "college"	: "Troy",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/DeMarcus-Ware/b39f033b-ce6e-448d-85e6-e3da2b56d14f"
+              },
+           
+              {
+                    "id"	: "5ca193b1-8865-496d-866e-48608d5b0602",
+                    "fname"	: "Derek",
+                    "lname"	: "Wolfe",
+                    "teamNumber"	:  "95",
+                    "position"	: "DE",
+                    "experience"	:  "5",
+                    "age"	: "26",
+                    "born"	: "02/24/90",
+                    "hometown"	: "Lisbon, Ohio",
+                    "height"	: "6-5",
+                    "weight"	: "285",
+                    "college"	: "Cincinnati",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Derek-Wolfe/5ca193b1-8865-496d-866e-48608d5b0602"
+              },
+           
+              {
+                    "id"	: "ae79b04c-383c-4917-98fd-4256f991780a",
+                    "fname"	: "John",
+                    "lname"	: "Phillips",
+                    "teamNumber"	:  "86",
+                    "position"	: "TE",
+                    "experience"	:  "8",
+                    "age"	: "29",
+                    "born"	: "06/11/87",
+                    "hometown"	: "Lowmoor, VA",
+                    "height"	: "6-5",
+                    "weight"	: "251",
+                    "college"	: "Virginia",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/John-Phillips/ae79b04c-383c-4917-98fd-4256f991780a"
+              },
+           
+              {
+                    "id"	: "f4d2a67c-f543-4758-9437-0882227b95e4",
+                    "fname"	: "Kyle",
+                    "lname"	: "Peko",
+                    "teamNumber"	:  "90",
+                    "position"	: "NT",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "07/23/93",
+                    "hometown"	: "La Habra, Calif.",
+                    "height"	: "6-1",
+                    "weight"	: "305",
+                    "college"	: "Oregon State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kyle-Peko/f4d2a67c-f543-4758-9437-0882227b95e4"
+              },
+           
+              {
+                    "id"	: "20345da3-fa8e-46df-a686-961588421b82",
+                    "fname"	: "Shaquil",
+                    "lname"	: "Barrett",
+                    "teamNumber"	:  "48",
+                    "position"	: "OLB",
+                    "experience"	:  "3",
+                    "age"	: "23",
+                    "born"	: "11/17/92",
+                    "hometown"	: "Baltimore, Md.",
+                    "height"	: "6-2",
+                    "weight"	: "250",
+                    "college"	: "Colorado State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Shaquil-Barrett/20345da3-fa8e-46df-a686-961588421b82"
+              },
+           
+              {
+                    "id"	: "b248c912-1442-484c-b685-258a490d4e9e",
+                    "fname"	: "Kapri",
+                    "lname"	: "Bibbs",
+                    "teamNumber"	:  "35",
+                    "position"	: "RB",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "01/10/93",
+                    "hometown"	: "Plainfield, Ill.",
+                    "height"	: "5-11",
+                    "weight"	: "203",
+                    "college"	: "Colorado State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kapri-Bibbs/b248c912-1442-484c-b685-258a490d4e9e"
+              },
+           
+              {
+                    "id"	: "3952b7ce-7aaf-4b84-ab0a-bccfbcd43cce",
+                    "fname"	: "Max",
+                    "lname"	: "Garcia",
+                    "teamNumber"	:  "76",
+                    "position"	: "G",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "11/09/91",
+                    "hometown"	: "Norcross, Ga.",
+                    "height"	: "6-4",
+                    "weight"	: "309",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Max-Garcia/3952b7ce-7aaf-4b84-ab0a-bccfbcd43cce"
+              },
+           
+              {
+                    "id"	: "917fbccc-d180-4b84-a01b-8984aac06443",
+                    "fname"	: "Connor",
+                    "lname"	: "McGovern",
+                    "teamNumber"	:  "60",
+                    "position"	: "G",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "04/27/93",
+                    "hometown"	: "Fargo, N.D.",
+                    "height"	: "6-4",
+                    "weight"	: "306",
+                    "college"	: "Missouri",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Connor-McGovern/917fbccc-d180-4b84-a01b-8984aac06443"
+              },
+           
+              {
+                    "id"	: "988f4cc8-d4b1-4b08-a847-97f8ef2dc1f0",
+                    "fname"	: "Ty",
+                    "lname"	: "Sambrailo",
+                    "teamNumber"	:  "74",
+                    "position"	: "OL",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "03/10/92",
+                    "hometown"	: "Watsonville, Calif.",
+                    "height"	: "6-5",
+                    "weight"	: "315",
+                    "college"	: "Colorado State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ty-Sambrailo/988f4cc8-d4b1-4b08-a847-97f8ef2dc1f0"
+              },
+           
+              {
+                    "id"	: "1157bc00-00f8-48a8-89c9-bbeea545909e",
+                    "fname"	: "Devontae",
+                    "lname"	: "Booker",
+                    "teamNumber"	:  "23",
+                    "position"	: "RB",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "05/27/92",
+                    "hometown"	: "Sacramento, Calif.",
+                    "height"	: "5-11",
+                    "weight"	: "219",
+                    "college"	: "Utah",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Devontae-Booker/1157bc00-00f8-48a8-89c9-bbeea545909e"
+              },
+           
+              {
+                    "id"	: "60558843-9454-4349-8502-51b49edd19a9",
+                    "fname"	: "Dekoda",
+                    "lname"	: "Watson",
+                    "teamNumber"	:  "57",
+                    "position"	: "OLB",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "03/03/88",
+                    "hometown"	: "Aiken, SC",
+                    "height"	: "6-2",
+                    "weight"	: "245",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Dekoda-Watson/60558843-9454-4349-8502-51b49edd19a9"
+              },
+           
+              {
+                    "id"	: "f55f9e7c-a1a7-4678-9d48-51aecbb3d889",
+                    "fname"	: "Casey",
+                    "lname"	: "Kreiter",
+                    "teamNumber"	:  "42",
+                    "position"	: "LS",
+                    "experience"	:  "1",
+                    "age"	: "26",
+                    "born"	: "08/13/90",
+                    "hometown"	: "DeWitt, Iowa",
+                    "height"	: "6-1",
+                    "weight"	: "250",
+                    "college"	: "Iowa",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Casey-Kreiter/f55f9e7c-a1a7-4678-9d48-51aecbb3d889"
+              },
+           
+              {
+                    "id"	: "86e98abc-f9fe-4918-81f6-a0aba45ec096",
+                    "fname"	: "Jordan",
+                    "lname"	: "Taylor",
+                    "teamNumber"	:  "87",
+                    "position"	: "WR",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "02/18/92",
+                    "hometown"	: "Denison, Texas",
+                    "height"	: "6-5",
+                    "weight"	: "210",
+                    "college"	: "Rice",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jordan-Taylor/86e98abc-f9fe-4918-81f6-a0aba45ec096"
+              },
+           
+              {
+                    "id"	: "95b7a787-a891-4e52-b48f-c9b7318b3284",
+                    "fname"	: "James",
+                    "lname"	: "Ferentz",
+                    "teamNumber"	:  "53",
+                    "position"	: "C",
+                    "experience"	:  "2",
+                    "age"	: "27",
+                    "born"	: "06/05/89",
+                    "hometown"	: "Iowa City, Iowa",
+                    "height"	: "6-2",
+                    "weight"	: "285",
+                    "college"	: "Iowa",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/James-Ferentz/95b7a787-a891-4e52-b48f-c9b7318b3284"
+              },
+           
+              {
+                    "id"	: "9b8cabe2-804c-4f57-891a-094b8e906b51",
+                    "fname"	: "Austin",
+                    "lname"	: "Davis",
+                    "teamNumber"	:  "4",
+                    "position"	: "QB",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "06/02/89",
+                    "hometown"	: "Ringgold, GA",
+                    "height"	: "6-2",
+                    "weight"	: "221",
+                    "college"	: "Southern Mississippi",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Austin-Davis/9b8cabe2-804c-4f57-891a-094b8e906b51"
+              },
+           
+              {
+                    "id"	: "8916cae3-7aa2-43f1-b9f4-8f1b6212f35d",
+                    "fname"	: "Paxton",
+                    "lname"	: "Lynch",
+                    "teamNumber"	:  "12",
+                    "position"	: "QB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "02/12/94",
+                    "hometown"	: "San Antonio",
+                    "height"	: "6-7",
+                    "weight"	: "244",
+                    "college"	: "Memphis",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Paxton-Lynch/8916cae3-7aa2-43f1-b9f4-8f1b6212f35d"
+              },
+           
+              {
+                    "id"	: "8b5aba78-4164-4bc6-a4cd-7b6c32dbb294",
+                    "fname"	: "Aqib",
+                    "lname"	: "Talib",
+                    "teamNumber"	:  "21",
+                    "position"	: "CB",
+                    "experience"	:  "9",
+                    "age"	: "30",
+                    "born"	: "02/13/86",
+                    "hometown"	: "Richardson, Texas",
+                    "height"	: "6-1",
+                    "weight"	: "205",
+                    "college"	: "Kansas",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Aqib-Talib/8b5aba78-4164-4bc6-a4cd-7b6c32dbb294"
+              },
+           
+              {
+                    "id"	: "6fb07762-c228-4b8e-9a2c-8007c6b1e5e2",
+                    "fname"	: "Chris",
+                    "lname"	: "Harris Jr.",
+                    "teamNumber"	:  "25",
+                    "position"	: "CB",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "06/18/89",
+                    "hometown"	: "Bixby, Okla.",
+                    "height"	: "5-10",
+                    "weight"	: "199",
+                    "college"	: "Kansas",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Chris-Harris Jr./6fb07762-c228-4b8e-9a2c-8007c6b1e5e2"
+              },
+           
+              {
+                    "id"	: "6e058027-699a-419d-8790-473dc12667e7",
+                    "fname"	: "Lorenzo",
+                    "lname"	: "Doss",
+                    "teamNumber"	:  "37",
+                    "position"	: "CB",
+                    "experience"	:  "2",
+                    "age"	: "22",
+                    "born"	: "04/22/94",
+                    "hometown"	: "New Orleans",
+                    "height"	: "5-11",
+                    "weight"	: "187",
+                    "college"	: "Tulane",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Lorenzo-Doss/6e058027-699a-419d-8790-473dc12667e7"
+              },
+           
+              {
+                    "id"	: "271f9b88-03c0-466f-afb1-c430912f0d36",
+                    "fname"	: "Cody",
+                    "lname"	: "Latimer",
+                    "teamNumber"	:  "14",
+                    "position"	: "WR",
+                    "experience"	:  "3",
+                    "age"	: "23",
+                    "born"	: "10/10/92",
+                    "hometown"	: "Dayton, Ohio",
+                    "height"	: "6-2",
+                    "weight"	: "215",
+                    "college"	: "Indiana",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Cody-Latimer/271f9b88-03c0-466f-afb1-c430912f0d36"
+              },
+           
+              {
+                    "id"	: "d59e47c1-4c77-4d69-8d94-8239bc7b4e9c",
+                    "fname"	: "Adam",
+                    "lname"	: "Gotsis",
+                    "teamNumber"	:  "99",
+                    "position"	: "DE",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "09/23/92",
+                    "hometown"	: "Melbourne, Australia",
+                    "height"	: "6-4",
+                    "weight"	: "287",
+                    "college"	: "Georgia Tech",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Adam-Gotsis/d59e47c1-4c77-4d69-8d94-8239bc7b4e9c"
+              },
+           
+              {
+                    "id"	: "87d42081-706b-4395-b422-05b4c0acb2d8",
+                    "fname"	: "Trevor",
+                    "lname"	: "Siemian",
+                    "teamNumber"	:  "13",
+                    "position"	: "QB",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "12/26/91",
+                    "hometown"	: "Windermere, Fla.",
+                    "height"	: "6-3",
+                    "weight"	: "220",
+                    "college"	: "Northwestern",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Trevor-Siemian/87d42081-706b-4395-b422-05b4c0acb2d8"
+              },
+           
+              {
+                    "id"	: "5a46c6a9-45e4-4ae2-bdd3-c504392976ec",
+                    "fname"	: "T.J.",
+                    "lname"	: "Ward",
+                    "teamNumber"	:  "43",
+                    "position"	: "S",
+                    "experience"	:  "7",
+                    "age"	: "29",
+                    "born"	: "12/12/86",
+                    "hometown"	: "Concord, Calif.",
+                    "height"	: "5-10",
+                    "weight"	: "200",
+                    "college"	: "Oregon",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/T.J.-Ward/5a46c6a9-45e4-4ae2-bdd3-c504392976ec"
+              },
+           
+              {
+                    "id"	: "67e9fcab-63f9-42d6-84a0-a97dae02eb46",
+                    "fname"	: "Brandon",
+                    "lname"	: "McManus",
+                    "teamNumber"	:  "8",
+                    "position"	: "K",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "07/25/91",
+                    "hometown"	: "Lansdale, Penn.",
+                    "height"	: "6-3",
+                    "weight"	: "201",
+                    "college"	: "Temple",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-McManus/67e9fcab-63f9-42d6-84a0-a97dae02eb46"
+              },
+           
+              {
+                    "id"	: "5a034318-45dd-4778-8eda-eee331e7f549",
+                    "fname"	: "Jeff",
+                    "lname"	: "Heuerman",
+                    "teamNumber"	:  "82",
+                    "position"	: "TE",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "11/24/92",
+                    "hometown"	: "Naples, Fla.",
+                    "height"	: "6-5",
+                    "weight"	: "255",
+                    "college"	: "Ohio State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jeff-Heuerman/5a034318-45dd-4778-8eda-eee331e7f549"
+              },
+           
+              {
+                    "id"	: "41338978-d6ff-4390-9f9f-94e407f9b3b7",
+                    "fname"	: "Will",
+                    "lname"	: "Parks",
+                    "teamNumber"	:  "34",
+                    "position"	: "S",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "07/29/94",
+                    "hometown"	: "Philadelphia",
+                    "height"	: "6-1",
+                    "weight"	: "194",
+                    "college"	: "Arizona",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Will-Parks/41338978-d6ff-4390-9f9f-94e407f9b3b7"
+              },
+           
+              {
+                    "id"	: "bce0376a-1fa7-456e-b493-867b0186c393",
+                    "fname"	: "Emmanuel",
+                    "lname"	: "Sanders",
+                    "teamNumber"	:  "10",
+                    "position"	: "WR",
+                    "experience"	:  "7",
+                    "age"	: "29",
+                    "born"	: "03/17/87",
+                    "hometown"	: "Bellville, Texas",
+                    "height"	: "5-11",
+                    "weight"	: "180",
+                    "college"	: "Southern Methodist",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Emmanuel-Sanders/bce0376a-1fa7-456e-b493-867b0186c393"
+              },
+           
+              {
+                    "id"	: "d85c2a37-fe3b-4c92-a56b-47e8048cc50a",
+                    "fname"	: "Bradley",
+                    "lname"	: "Roby",
+                    "teamNumber"	:  "29",
+                    "position"	: "CB",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "05/01/92",
+                    "hometown"	: "Suwanee, Ga.",
+                    "height"	: "5-11",
+                    "weight"	: "194",
+                    "college"	: "Ohio State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Bradley-Roby/d85c2a37-fe3b-4c92-a56b-47e8048cc50a"
+              },
+           
+              {
+                    "id"	: "631a71f4-1a91-4231-a38d-7c0027f508f8",
+                    "fname"	: "Andy",
+                    "lname"	: "Janovich",
+                    "teamNumber"	:  "32",
+                    "position"	: "FB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "05/23/93",
+                    "hometown"	: "Gretna, Neb.",
+                    "height"	: "6-1",
+                    "weight"	: "238",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Andy-Janovich/631a71f4-1a91-4231-a38d-7c0027f508f8"
+              },
+           
+              {
+                    "id"	: "89452bd8-fa44-4a29-af03-ad9736b64032",
+                    "fname"	: "Matt",
+                    "lname"	: "Paradis",
+                    "teamNumber"	:  "61",
+                    "position"	: "C",
+                    "experience"	:  "2",
+                    "age"	: "26",
+                    "born"	: "10/12/89",
+                    "hometown"	: "Council, Idaho",
+                    "height"	: "6-3",
+                    "weight"	: "300",
+                    "college"	: "Boise State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matt-Paradis/89452bd8-fa44-4a29-af03-ad9736b64032"
+              },
+           
+              {
+                    "id"	: "d804f43d-ad53-4cec-9971-53c028018a9d",
+                    "fname"	: "Zaire",
+                    "lname"	: "Anderson",
+                    "teamNumber"	:  "50",
+                    "position"	: "ILB",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "08/18/92",
+                    "hometown"	: "Philadelphia",
+                    "height"	: "5-11",
+                    "weight"	: "220",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Zaire-Anderson/d804f43d-ad53-4cec-9971-53c028018a9d"
+              },
+           
+              {
+                    "id"	: "e34113f9-588f-4226-8275-4dc72d301705",
+                    "fname"	: "Jordan",
+                    "lname"	: "Norwood",
+                    "teamNumber"	:  "11",
+                    "position"	: "WR",
+                    "experience"	:  "7",
+                    "age"	: "29",
+                    "born"	: "09/29/86",
+                    "hometown"	: "State College, Pa.",
+                    "height"	: "5-11",
+                    "weight"	: "180",
+                    "college"	: "Penn State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jordan-Norwood/e34113f9-588f-4226-8275-4dc72d301705"
+              },
+           
+              {
+                    "id"	: "50224e48-91ca-40e0-9c01-042327dce97c",
+                    "fname"	: "Brandon",
+                    "lname"	: "Marshall",
+                    "teamNumber"	:  "54",
+                    "position"	: "ILB",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "09/10/89",
+                    "hometown"	: "Las Vegas",
+                    "height"	: "6-1",
+                    "weight"	: "250",
+                    "college"	: "Nevada",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Marshall/50224e48-91ca-40e0-9c01-042327dce97c"
+              },
+           
+              {
+                    "id"	: "72c2cca9-9aa3-4b6a-a512-7bb81f19ec92",
+                    "fname"	: "Riley",
+                    "lname"	: "Dixon",
+                    "teamNumber"	:  "9",
+                    "position"	: "P",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "08/24/93",
+                    "hometown"	: "Blossvale, N.Y.",
+                    "height"	: "6-4",
+                    "weight"	: "221",
+                    "college"	: "Syracuse",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Riley-Dixon/72c2cca9-9aa3-4b6a-a512-7bb81f19ec92"
+              },
+           
+              {
+                    "id"	: "26511820-959a-45cc-b433-eeef9f8c0e2e",
+                    "fname"	: "Russell",
+                    "lname"	: "Okung",
+                    "teamNumber"	:  "73",
+                    "position"	: "T",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "10/07/87",
+                    "hometown"	: "Richmond, Texas",
+                    "height"	: "6-5",
+                    "weight"	: "310",
+                    "college"	: "Oklahoma State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Russell-Okung/26511820-959a-45cc-b433-eeef9f8c0e2e"
+              },
+           
+              {
+                    "id"	: "d388f589-0901-4fa8-9b3e-8c13b12762ae",
+                    "fname"	: "C.J.",
+                    "lname"	: "Anderson",
+                    "teamNumber"	:  "22",
+                    "position"	: "RB",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "02/10/91",
+                    "hometown"	: "Vallejo, CA",
+                    "height"	: "5-8",
+                    "weight"	: "224",
+                    "college"	: "California",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/C.J.-Anderson/d388f589-0901-4fa8-9b3e-8c13b12762ae"
+              },
+           
+              {
+                    "id"	: "cc7abaf4-71f7-4f43-8505-089debc6b670",
+                    "fname"	: "Darian",
+                    "lname"	: "Stewart",
+                    "teamNumber"	:  "26",
+                    "position"	: "S",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "08/04/88",
+                    "hometown"	: "Huntsville, Ala.",
+                    "height"	: "5-11",
+                    "weight"	: "214",
+                    "college"	: "South Carolina",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Darian-Stewart/cc7abaf4-71f7-4f43-8505-089debc6b670"
+              },
+           
+              {
+                    "id"	: "a951744a-72dd-4748-a461-02fc06668e12",
+                    "fname"	: "Demaryius",
+                    "lname"	: "Thomas",
+                    "teamNumber"	:  "88",
+                    "position"	: "WR",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "12/25/87",
+                    "hometown"	: "Montrose, Ga.",
+                    "height"	: "6-3",
+                    "weight"	: "229",
+                    "college"	: "Georgia Tech",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Demaryius-Thomas/a951744a-72dd-4748-a461-02fc06668e12"
+              },
+           
+              {
+                    "id"	: "8c8dcb78-315e-42cb-80fe-1d5499905099",
+                    "fname"	: "Donald",
+                    "lname"	: "Stephenson",
+                    "teamNumber"	:  "71",
+                    "position"	: "T",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "09/30/88",
+                    "hometown"	: "Kansas City, Mo.",
+                    "height"	: "6-6",
+                    "weight"	: "312",
+                    "college"	: "Oklahoma",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Donald-Stephenson/8c8dcb78-315e-42cb-80fe-1d5499905099"
+              },
+           
+              {
+                    "id"	: "697bb3b3-c95e-4735-ae6b-4c0da89c12d2",
+                    "fname"	: "Virgil",
+                    "lname"	: "Green",
+                    "teamNumber"	:  "85",
+                    "position"	: "TE",
+                    "experience"	:  "6",
+                    "age"	: "28",
+                    "born"	: "08/03/88",
+                    "hometown"	: "Tulare, Calif.",
+                    "height"	: "6-5",
+                    "weight"	: "255",
+                    "college"	: "Nevada",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Virgil-Green/697bb3b3-c95e-4735-ae6b-4c0da89c12d2"
+              },
+           
+              {
+                    "id"	: "e92ce959-0b7a-4fde-a588-4568ce5e844d",
+                    "fname"	: "Billy",
+                    "lname"	: "Winn",
+                    "teamNumber"	:  "97",
+                    "position"	: "DE",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "04/15/89",
+                    "hometown"	: "Las Vegas, NV",
+                    "height"	: "6-4",
+                    "weight"	: "300",
+                    "college"	: "Boise State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Billy-Winn/e92ce959-0b7a-4fde-a588-4568ce5e844d"
+              },
+           
+              {
+                    "id"	: "1abac565-2d5e-4051-963c-e71bd515f5f2",
+                    "fname"	: "Sylvester",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "92",
+                    "position"	: "NT",
+                    "experience"	:  "4",
+                    "age"	: "27",
+                    "born"	: "11/21/88",
+                    "hometown"	: "Jefferson City, Mo.",
+                    "height"	: "6-2",
+                    "weight"	: "313",
+                    "college"	: "North Carolina",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Sylvester-Williams/1abac565-2d5e-4051-963c-e71bd515f5f2"
+              },
+           
+              {
+                    "id"	: "d03ba05b-795a-427c-b574-d62778d84c53",
+                    "fname"	: "Jared",
+                    "lname"	: "Crick",
+                    "teamNumber"	:  "93",
+                    "position"	: "DE",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "08/21/89",
+                    "hometown"	: "Cozad, Neb.",
+                    "height"	: "6-4",
+                    "weight"	: "285",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jared-Crick/d03ba05b-795a-427c-b574-d62778d84c53"
+              },
+           
+              {
+                    "id"	: "12f6bcca-ff70-43ca-9b34-b7cc74a84ff8",
+                    "fname"	: "Justin",
+                    "lname"	: "Simmons",
+                    "teamNumber"	:  "31",
+                    "position"	: "S",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "11/19/93",
+                    "hometown"	: "Manassas, Va.",
+                    "height"	: "6-2",
+                    "weight"	: "202",
+                    "college"	: "Boston College",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Justin-Simmons/12f6bcca-ff70-43ca-9b34-b7cc74a84ff8"
+              },
+           
+              {
+                    "id"	: "036470c3-df00-47e4-a936-86200f2c88dc",
+                    "fname"	: "Von",
+                    "lname"	: "Miller",
+                    "teamNumber"	:  "58",
+                    "position"	: "OLB",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "03/26/89",
+                    "hometown"	: "DeSoto, Texas",
+                    "height"	: "6-3",
+                    "weight"	: "250",
+                    "college"	: "Texas A&M",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Von-Miller/036470c3-df00-47e4-a936-86200f2c88dc"
+              },
+           
+              {
+                    "id"	: "f456eb82-eff6-4311-bfd0-6d6663b37d04",
+                    "fname"	: "Corey",
+                    "lname"	: "Nelson",
+                    "teamNumber"	:  "52",
+                    "position"	: "ILB",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "04/22/92",
+                    "hometown"	: "Dallas",
+                    "height"	: "6-1",
+                    "weight"	: "226",
+                    "college"	: "Oklahoma",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Corey-Nelson/f456eb82-eff6-4311-bfd0-6d6663b37d04"
+              },
+           
+              {
+                    "id"	: "745f7af4-e7b3-4d40-aa88-8734914ddb26",
+                    "fname"	: "Todd",
+                    "lname"	: "Davis",
+                    "teamNumber"	:  "51",
+                    "position"	: "ILB",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "05/17/92",
+                    "hometown"	: "Lancaster, Calif.",
+                    "height"	: "6-1",
+                    "weight"	: "230",
+                    "college"	: "Sacramento State",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Todd-Davis/745f7af4-e7b3-4d40-aa88-8734914ddb26"
+              },
+           
+              {
+                    "id"	: "01b4eaac-a67e-4484-b952-6a1f8ae6af1b",
+                    "fname"	: "Kayvon",
+                    "lname"	: "Webster",
+                    "teamNumber"	:  "36",
+                    "position"	: "CB",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "02/01/91",
+                    "hometown"	: "Opa-locka, Fla.",
+                    "height"	: "5-11",
+                    "weight"	: "198",
+                    "college"	: "South Florida",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kayvon-Webster/01b4eaac-a67e-4484-b952-6a1f8ae6af1b"
+              },
+           
+              {
+                    "id"	: "d7ef0cb4-e19e-4885-94c7-8d27847fca99",
+                    "fname"	: "Darrion",
+                    "lname"	: "Weems",
+                    "teamNumber"	:  "77",
+                    "position"	: "OL",
+                    "experience"	:  "3",
+                    "age"	: "28",
+                    "born"	: "09/04/88",
+                    "hometown"	: "Winnetka, Calif.",
+                    "height"	: "6-5",
+                    "weight"	: "310",
+                    "college"	: "Oregon",
+                    "image"	: "http://prod.static.broncos.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Darrion-Weems/d7ef0cb4-e19e-4885-94c7-8d27847fca99"
+              }
+           
+        ]
+    }

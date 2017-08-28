@@ -1,0 +1,1310 @@
+ {
+    "formations" :
+        {
+        
+        "Offense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "WR1",
+                        "players"	: [
+                            
+                            "8d880101-5af5-443b-9ceb-432547ce40bb",
+                            
+                            "56d0fa9a-296f-4c64-a3cd-5115720e35a2",
+                            
+                            "a44bafc8-da9d-4f12-8bc7-acf83261633a"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WR2",
+                        "players"	: [
+                            
+                            "1d2978c0-1e6d-4073-9de3-d1f915fbad0e",
+                            
+                            "fef17dcd-623e-4605-87e5-9d802779e40b",
+                            
+                            "edee65e0-64b6-4e47-8323-26f402c7873a"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LT",
+                        "players"	: [
+                            
+                            "17c75def-7509-4473-98fb-467b7abf4d95",
+                            
+                            "940ca5db-aaaf-4524-849d-cdf6e067604a"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LG",
+                        "players"	: [
+                            
+                            "2c9052c0-ccc9-4c2b-ad68-c0ad0859ffff"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "C",
+                        "players"	: [
+                            
+                            "28177895-2da7-45bc-bdcf-80ff3f3995f2",
+                            
+                            "1b528965-a08d-45bf-bce5-9fc385f1ff00"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RG",
+                        "players"	: [
+                            
+                            "17b39558-e6c7-457e-acb8-1beaa9b011fe",
+                            
+                            "16b154f1-017a-4592-80a9-b4d84be08545"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RT",
+                        "players"	: [
+                            
+                            "539be3c0-0cc2-40ce-99b4-2ca471ec4e57"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "TE",
+                        "players"	: [
+                            
+                            "d587ed85-39bf-408a-9aa0-f970a9eea580",
+                            
+                            "96b1a0b0-1ab9-4d1e-8684-b46c0b179f0b",
+                            
+                            "17bd8420-2f0a-47fe-8252-7c0f5de92843"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "QB",
+                        "players"	: [
+                            
+                            "50822efc-81dc-4baa-8b40-65ac68a1ee00",
+                            
+                            "b82e36fa-61ba-42fc-835b-f86cfd2a31fb",
+                            
+                            "4facce17-b43d-491e-ae2c-1857f4a3c3f2"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "FB",
+                        "players"	: [
+                            
+                            "86af6045-ef51-4bb8-9ed4-1e54fb21ce15"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RB",
+                        "players"	: [
+                            
+                            "f218977e-a40f-4b8a-9e1b-95f93b484b77",
+                            
+                            "839c649e-cd6b-4c64-9837-468e98951715",
+                            
+                            "4ca29a88-34b7-4e73-bf3e-c32d58f75b65",
+                            
+                            "b0de80aa-201e-4862-a952-f777e3e38dd2"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Defense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "DT",
+                        "players"	: [
+                            
+                            "58099d36-0140-417f-9874-283bd834d7cc",
+                            
+                            "eb4eb2f8-585b-4486-8264-b52e634fdabe"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "NT",
+                        "players"	: [
+                            
+                            "ba2f66f6-19b6-4134-8ced-890f150dc469"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "DE",
+                        "players"	: [
+                            
+                            "db66f0f1-06f4-43a8-bddf-cfc7dda13ab8",
+                            
+                            "10bee57e-701b-4e63-87d1-555596434477"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "OLB",
+                        "players"	: [
+                            
+                            "5bcaff92-3da5-4998-8a09-3a8f891fb0b8",
+                            
+                            "910a21de-9213-4d4b-a6b0-8681c2e9d180"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WLB",
+                        "players"	: [
+                            
+                            "35788f6b-b8ab-4eb7-82a4-1ed23c79130b",
+                            
+                            "89508375-a7f6-4d5c-bb19-f32c6654a289"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "MLB",
+                        "players"	: [
+                            
+                            "ccaa5155-3748-43de-8c6c-82414960be20",
+                            
+                            "34a8a75a-c340-4ff4-b121-80b774d0aef9"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "OLB",
+                        "players"	: [
+                            
+                            "ea2ec69f-3769-4aa9-be9a-8a661b96c3f7",
+                            
+                            "a41e7fb0-2f55-457b-9e4e-d1df00447613"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RCB",
+                        "players"	: [
+                            
+                            "45f298ed-ae21-4c2a-9930-0dbb00fca803",
+                            
+                            "b9aca9f5-fcd2-4e14-802f-4d7b98d6b6d6",
+                            
+                            "efb68fe9-0ac9-405f-932f-3c21fcb30faf"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "S",
+                        "players"	: [
+                            
+                            "25cb6cbf-d4b2-47dd-81eb-485842a537b7",
+                            
+                            "4ab950e3-8a50-4da3-8d7e-3a2a5f030a92",
+                            
+                            "584e3739-c8b3-4e4c-b58f-683210882712"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "S",
+                        "players"	: [
+                            
+                            "1d992e6d-5c5e-4957-8615-58b6376ad7ec",
+                            
+                            "07bfd522-21be-44b5-9d6e-adacb812c604",
+                            
+                            "2a4d0c66-356b-41b8-a842-81dc2e671635"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LCB",
+                        "players"	: [
+                            
+                            "82b07980-86af-44d2-b856-bdfbc41713d5",
+                            
+                            "add32bbd-d8ad-4f2f-9668-ccccbae32256"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Special Teams" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "K",
+                        "players"	: [
+                            
+                            "65920fc8-5611-4a8e-afb6-f8229cb7a793"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "KO",
+                        "players"	: [
+                            
+                            "f6bf5f6f-cce2-47b4-aaa5-b95009c8b2bf",
+                            
+                            "65920fc8-5611-4a8e-afb6-f8229cb7a793"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "P",
+                        "players"	: [
+                            
+                            "c042de5b-a0a6-4965-b6a7-4c6861e6ae0b"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "KR",
+                        "players"	: [
+                            
+                            "4ca29a88-34b7-4e73-bf3e-c32d58f75b65",
+                            
+                            "a44bafc8-da9d-4f12-8bc7-acf83261633a"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "PR",
+                        "players"	: [
+                            
+                            "4ca29a88-34b7-4e73-bf3e-c32d58f75b65",
+                            
+                            "a44bafc8-da9d-4f12-8bc7-acf83261633a",
+                            
+                            "fef17dcd-623e-4605-87e5-9d802779e40b"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LS",
+                        "players"	: [
+                            
+                            "3d29a7da-5f7c-4da2-98ea-d6f3ad404a73"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "H",
+                        "players"	: [
+                            
+                            "c042de5b-a0a6-4965-b6a7-4c6861e6ae0b"
+                            
+                        ]
+                        }
+                    
+                    ]
+              }
+
+        
+        },
+        "players" : [
+          
+              {
+                    "id"	: "4ab950e3-8a50-4da3-8d7e-3a2a5f030a92",
+                    "fname"	: "Duke",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "27",
+                    "position"	: "S",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "10/15/90",
+                    "hometown"	: "Reno, NV",
+                    "height"	: "5-11",
+                    "weight"	: "201",
+                    "college"	: "Nevada",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0084_Williams_Duke--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Duke-Williams/4ab950e3-8a50-4da3-8d7e-3a2a5f030a92"
+              },
+           
+              {
+                    "id"	: "2a4d0c66-356b-41b8-a842-81dc2e671635",
+                    "fname"	: "Colt",
+                    "lname"	: "Anderson",
+                    "teamNumber"	:  "33",
+                    "position"	: "S",
+                    "experience"	:  "7",
+                    "age"	: "30",
+                    "born"	: "10/25/85",
+                    "hometown"	: "Butte, MT",
+                    "height"	: "5-10",
+                    "weight"	: "195",
+                    "college"	: "Montana",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/anderson-cold-edit.gif",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Colt-Anderson/2a4d0c66-356b-41b8-a842-81dc2e671635"
+              },
+           
+              {
+                    "id"	: "c042de5b-a0a6-4965-b6a7-4c6861e6ae0b",
+                    "fname"	: "Colton",
+                    "lname"	: "Schmidt",
+                    "teamNumber"	:  "6",
+                    "position"	: "P",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "10/27/90",
+                    "hometown"	: "",
+                    "height"	: "5-11",
+                    "weight"	: "224",
+                    "college"	: "California-Davis",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0070_Schmidt_Colton--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Colton-Schmidt/c042de5b-a0a6-4965-b6a7-4c6861e6ae0b"
+              },
+           
+              {
+                    "id"	: "25cb6cbf-d4b2-47dd-81eb-485842a537b7",
+                    "fname"	: "Aaron",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "23",
+                    "position"	: "S",
+                    "experience"	:  "6",
+                    "age"	: "26",
+                    "born"	: "04/23/90",
+                    "hometown"	: "Round Rock, TX",
+                    "height"	: "6-0",
+                    "weight"	: "199",
+                    "college"	: "Texas",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0082_Williams_Aaron--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Aaron-Williams/25cb6cbf-d4b2-47dd-81eb-485842a537b7"
+              },
+           
+              {
+                    "id"	: "3d29a7da-5f7c-4da2-98ea-d6f3ad404a73",
+                    "fname"	: "Garrison",
+                    "lname"	: "Sanborn",
+                    "teamNumber"	:  "65",
+                    "position"	: "LS",
+                    "experience"	:  "8",
+                    "age"	: "31",
+                    "born"	: "07/31/85",
+                    "hometown"	: "Tampa, FL",
+                    "height"	: "6-1",
+                    "weight"	: "240",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0069_Sanborn_Garrison--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Garrison-Sanborn/3d29a7da-5f7c-4da2-98ea-d6f3ad404a73"
+              },
+           
+              {
+                    "id"	: "eb4eb2f8-585b-4486-8264-b52e634fdabe",
+                    "fname"	: "Jerel",
+                    "lname"	: "Worthy",
+                    "teamNumber"	:  "94",
+                    "position"	: "DT",
+                    "experience"	:  "3",
+                    "age"	: "26",
+                    "born"	: "04/28/90",
+                    "hometown"	: "Dayton, OH",
+                    "height"	: "6-2",
+                    "weight"	: "308",
+                    "college"	: "Michigan State",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/jerel-worthy-edit.gif",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jerel-Worthy/eb4eb2f8-585b-4486-8264-b52e634fdabe"
+              },
+           
+              {
+                    "id"	: "f6bf5f6f-cce2-47b4-aaa5-b95009c8b2bf",
+                    "fname"	: "Jordan",
+                    "lname"	: "Gay",
+                    "teamNumber"	:  "4",
+                    "position"	: "K",
+                    "experience"	:  "3",
+                    "age"	: "26",
+                    "born"	: "03/29/90",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "200",
+                    "college"	: "Centre College",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0028_Gay_Jordan--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jordan-Gay/f6bf5f6f-cce2-47b4-aaa5-b95009c8b2bf"
+              },
+           
+              {
+                    "id"	: "1d2978c0-1e6d-4073-9de3-d1f915fbad0e",
+                    "fname"	: "Robert",
+                    "lname"	: "Woods",
+                    "teamNumber"	:  "10",
+                    "position"	: "WR",
+                    "experience"	:  "4",
+                    "age"	: "24",
+                    "born"	: "04/10/92",
+                    "hometown"	: "Carson, CA",
+                    "height"	: "6-0",
+                    "weight"	: "190",
+                    "college"	: "Southern California",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0090_Woods_Robert--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Robert-Woods/1d2978c0-1e6d-4073-9de3-d1f915fbad0e"
+              },
+           
+              {
+                    "id"	: "1b528965-a08d-45bf-bce5-9fc385f1ff00",
+                    "fname"	: "Patrick",
+                    "lname"	: "Lewis",
+                    "teamNumber"	:  "67",
+                    "position"	: "C",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "01/30/91",
+                    "hometown"	: "Metairie, LA",
+                    "height"	: "6-1",
+                    "weight"	: "305",
+                    "college"	: "Texas A&M",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Patrick-Lewis/1b528965-a08d-45bf-bce5-9fc385f1ff00"
+              },
+           
+              {
+                    "id"	: "ccaa5155-3748-43de-8c6c-82414960be20",
+                    "fname"	: "Preston",
+                    "lname"	: "Brown",
+                    "teamNumber"	:  "52",
+                    "position"	: "LB",
+                    "experience"	:  "3",
+                    "age"	: "23",
+                    "born"	: "10/27/92",
+                    "hometown"	: "Cincinnati, OH",
+                    "height"	: "6-1",
+                    "weight"	: "251",
+                    "college"	: "Louisville",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0006_Brown_Preston--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Preston-Brown/ccaa5155-3748-43de-8c6c-82414960be20"
+              },
+           
+              {
+                    "id"	: "d587ed85-39bf-408a-9aa0-f970a9eea580",
+                    "fname"	: "Charles",
+                    "lname"	: "Clay",
+                    "teamNumber"	:  "85",
+                    "position"	: "TE",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "02/13/89",
+                    "hometown"	: "Little Rock, AR",
+                    "height"	: "6-3",
+                    "weight"	: "255",
+                    "college"	: "Tulsa",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0017_Clay_Charles--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Charles-Clay/d587ed85-39bf-408a-9aa0-f970a9eea580"
+              },
+           
+              {
+                    "id"	: "db66f0f1-06f4-43a8-bddf-cfc7dda13ab8",
+                    "fname"	: "Adolphus",
+                    "lname"	: "Washington",
+                    "teamNumber"	:  "92",
+                    "position"	: "DT",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "06/06/94",
+                    "hometown"	: "Cincinnati, OH",
+                    "height"	: "6-4",
+                    "weight"	: "297",
+                    "college"	: "Ohio State",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/adolphus-washington-headshot-thumb.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Adolphus-Washington/db66f0f1-06f4-43a8-bddf-cfc7dda13ab8"
+              },
+           
+              {
+                    "id"	: "584e3739-c8b3-4e4c-b58f-683210882712",
+                    "fname"	: "Jonathan",
+                    "lname"	: "Meeks",
+                    "teamNumber"	:  "36",
+                    "position"	: "S",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "11/08/89",
+                    "hometown"	: "Rock Hill, SC",
+                    "height"	: "6-0",
+                    "weight"	: "209",
+                    "college"	: "Clemson",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0056_Meeks_Jonathan--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jonathan-Meeks/584e3739-c8b3-4e4c-b58f-683210882712"
+              },
+           
+              {
+                    "id"	: "35788f6b-b8ab-4eb7-82a4-1ed23c79130b",
+                    "fname"	: "Zach",
+                    "lname"	: "Brown",
+                    "teamNumber"	:  "53",
+                    "position"	: "LB",
+                    "experience"	:  "5",
+                    "age"	: "26",
+                    "born"	: "10/23/89",
+                    "hometown"	: "Beaufort, SC",
+                    "height"	: "6-1",
+                    "weight"	: "248",
+                    "college"	: "North Carolina",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/zach-brown-edit.gif",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Zach-Brown/35788f6b-b8ab-4eb7-82a4-1ed23c79130b"
+              },
+           
+              {
+                    "id"	: "45f298ed-ae21-4c2a-9930-0dbb00fca803",
+                    "fname"	: "Ronald",
+                    "lname"	: "Darby",
+                    "teamNumber"	:  "28",
+                    "position"	: "CB",
+                    "experience"	:  "2",
+                    "age"	: "22",
+                    "born"	: "01/02/94",
+                    "hometown"	: "Oxon Hill, MD",
+                    "height"	: "5-11",
+                    "weight"	: "193",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0020_Darby_Ron--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ronald-Darby/45f298ed-ae21-4c2a-9930-0dbb00fca803"
+              },
+           
+              {
+                    "id"	: "28177895-2da7-45bc-bdcf-80ff3f3995f2",
+                    "fname"	: "Eric",
+                    "lname"	: "Wood",
+                    "teamNumber"	:  "70",
+                    "position"	: "C",
+                    "experience"	:  "8",
+                    "age"	: "30",
+                    "born"	: "03/18/86",
+                    "hometown"	: "Cincinnati, OH",
+                    "height"	: "6-4",
+                    "weight"	: "310",
+                    "college"	: "Louisville",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0089_Wood_Eric--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Eric-Wood/28177895-2da7-45bc-bdcf-80ff3f3995f2"
+              },
+           
+              {
+                    "id"	: "1d992e6d-5c5e-4957-8615-58b6376ad7ec",
+                    "fname"	: "Corey",
+                    "lname"	: "Graham",
+                    "teamNumber"	:  "20",
+                    "position"	: "S",
+                    "experience"	:  "10",
+                    "age"	: "31",
+                    "born"	: "07/25/85",
+                    "hometown"	: "Buffalo, NY",
+                    "height"	: "6-0",
+                    "weight"	: "196",
+                    "college"	: "New Hampshire",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0033_Graham_Corey--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Corey-Graham/1d992e6d-5c5e-4957-8615-58b6376ad7ec"
+              },
+           
+              {
+                    "id"	: "17bd8420-2f0a-47fe-8252-7c0f5de92843",
+                    "fname"	: "Nick",
+                    "lname"	: "O'Leary",
+                    "teamNumber"	:  "84",
+                    "position"	: "TE",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "08/31/92",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "252",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0062_OLeary_Nick--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nick-O'Leary/17bd8420-2f0a-47fe-8252-7c0f5de92843"
+              },
+           
+              {
+                    "id"	: "65920fc8-5611-4a8e-afb6-f8229cb7a793",
+                    "fname"	: "Dan",
+                    "lname"	: "Carpenter",
+                    "teamNumber"	:  "2",
+                    "position"	: "K",
+                    "experience"	:  "9",
+                    "age"	: "30",
+                    "born"	: "11/25/85",
+                    "hometown"	: "Helena, MT",
+                    "height"	: "6-2",
+                    "weight"	: "228",
+                    "college"	: "Montana",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0012_Carpenter_Dan--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Dan-Carpenter/65920fc8-5611-4a8e-afb6-f8229cb7a793"
+              },
+           
+              {
+                    "id"	: "4ca29a88-34b7-4e73-bf3e-c32d58f75b65",
+                    "fname"	: "Reggie",
+                    "lname"	: "Bush",
+                    "teamNumber"	:  "22",
+                    "position"	: "RB",
+                    "experience"	:  "11",
+                    "age"	: "31",
+                    "born"	: "03/02/85",
+                    "hometown"	: "San Diego, CA",
+                    "height"	: "6-0",
+                    "weight"	: "205",
+                    "college"	: "Southern California",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/bush-reggie-headshot-thumb.jpg ",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Reggie-Bush/4ca29a88-34b7-4e73-bf3e-c32d58f75b65"
+              },
+           
+              {
+                    "id"	: "86af6045-ef51-4bb8-9ed4-1e54fb21ce15",
+                    "fname"	: "Glenn",
+                    "lname"	: "Gronkowski",
+                    "teamNumber"	:  "48",
+                    "position"	: "FB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "03/25/93",
+                    "hometown"	: "Amherst, N.Y.",
+                    "height"	: "6-3",
+                    "weight"	: "234",
+                    "college"	: "Kansas State",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/glenn-gronkowski-headshot-thumb.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Glenn-Gronkowski/86af6045-ef51-4bb8-9ed4-1e54fb21ce15"
+              },
+           
+              {
+                    "id"	: "56d0fa9a-296f-4c64-a3cd-5115720e35a2",
+                    "fname"	: "Marquise",
+                    "lname"	: "Goodwin",
+                    "teamNumber"	:  "88",
+                    "position"	: "WR",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "11/19/90",
+                    "hometown"	: "Garland, TX",
+                    "height"	: "5-9",
+                    "weight"	: "179",
+                    "college"	: "Texas",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0031_Goodwin_Marquise--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Marquise-Goodwin/56d0fa9a-296f-4c64-a3cd-5115720e35a2"
+              },
+           
+              {
+                    "id"	: "5bcaff92-3da5-4998-8a09-3a8f891fb0b8",
+                    "fname"	: "Jerry",
+                    "lname"	: "Hughes",
+                    "teamNumber"	:  "55",
+                    "position"	: "DE",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "08/13/88",
+                    "hometown"	: "Sugar Land, TX",
+                    "height"	: "6-2",
+                    "weight"	: "254",
+                    "college"	: "Texas Christian",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0041_Hughes_Jerry--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jerry-Hughes/5bcaff92-3da5-4998-8a09-3a8f891fb0b8"
+              },
+           
+              {
+                    "id"	: "16b154f1-017a-4592-80a9-b4d84be08545",
+                    "fname"	: "Ryan",
+                    "lname"	: "Groy",
+                    "teamNumber"	:  "72",
+                    "position"	: "G",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "09/30/90",
+                    "hometown"	: "Charlotte, NC",
+                    "height"	: "6-5",
+                    "weight"	: "320",
+                    "college"	: "Wisconsin",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/ryan-groy-edit.gif",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ryan-Groy/16b154f1-017a-4592-80a9-b4d84be08545"
+              },
+           
+              {
+                    "id"	: "539be3c0-0cc2-40ce-99b4-2ca471ec4e57",
+                    "fname"	: "Jordan",
+                    "lname"	: "Mills",
+                    "teamNumber"	:  "79",
+                    "position"	: "T",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "12/24/90",
+                    "hometown"	: "Thibodaux, LA",
+                    "height"	: "6-5",
+                    "weight"	: "316",
+                    "college"	: "Louisiana Tech",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/jordan-mills-edit.gif",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jordan-Mills/539be3c0-0cc2-40ce-99b4-2ca471ec4e57"
+              },
+           
+              {
+                    "id"	: "2c9052c0-ccc9-4c2b-ad68-c0ad0859ffff",
+                    "fname"	: "Richie",
+                    "lname"	: "Incognito",
+                    "teamNumber"	:  "64",
+                    "position"	: "G",
+                    "experience"	:  "10",
+                    "age"	: "33",
+                    "born"	: "07/05/83",
+                    "hometown"	: "Englewood, NJ",
+                    "height"	: "6-3",
+                    "weight"	: "319",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0042_Incognito_Richie--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Richie-Incognito/2c9052c0-ccc9-4c2b-ad68-c0ad0859ffff"
+              },
+           
+              {
+                    "id"	: "17c75def-7509-4473-98fb-467b7abf4d95",
+                    "fname"	: "Cordy",
+                    "lname"	: "Glenn",
+                    "teamNumber"	:  "77",
+                    "position"	: "T",
+                    "experience"	:  "5",
+                    "age"	: "26",
+                    "born"	: "09/18/89",
+                    "hometown"	: "Riverdale, GA",
+                    "height"	: "6-6",
+                    "weight"	: "345",
+                    "college"	: "Georgia",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0030_Glenn_Cordy--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Cordy-Glenn/17c75def-7509-4473-98fb-467b7abf4d95"
+              },
+           
+              {
+                    "id"	: "17b39558-e6c7-457e-acb8-1beaa9b011fe",
+                    "fname"	: "John",
+                    "lname"	: "Miller",
+                    "teamNumber"	:  "76",
+                    "position"	: "G",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "08/12/93",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "303",
+                    "college"	: "Louisville",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0057_Miller_John--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/John-Miller/17b39558-e6c7-457e-acb8-1beaa9b011fe"
+              },
+           
+              {
+                    "id"	: "96b1a0b0-1ab9-4d1e-8684-b46c0b179f0b",
+                    "fname"	: "Jim",
+                    "lname"	: "Dray",
+                    "teamNumber"	:  "82",
+                    "position"	: "TE",
+                    "experience"	:  "7",
+                    "age"	: "29",
+                    "born"	: "12/31/86",
+                    "hometown"	: "New Milford, NJ",
+                    "height"	: "6-5",
+                    "weight"	: "255",
+                    "college"	: "Stanford",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/jim-dray-edit.gif",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jim-Dray/96b1a0b0-1ab9-4d1e-8684-b46c0b179f0b"
+              },
+           
+              {
+                    "id"	: "940ca5db-aaaf-4524-849d-cdf6e067604a",
+                    "fname"	: "Cyrus",
+                    "lname"	: "Kouandjio",
+                    "teamNumber"	:  "71",
+                    "position"	: "T",
+                    "experience"	:  "3",
+                    "age"	: "23",
+                    "born"	: "07/21/93",
+                    "hometown"	: "",
+                    "height"	: "6-7",
+                    "weight"	: "322",
+                    "college"	: "Alabama",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0046_Kouandji_Cyrus--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Cyrus-Kouandjio/940ca5db-aaaf-4524-849d-cdf6e067604a"
+              },
+           
+              {
+                    "id"	: "fef17dcd-623e-4605-87e5-9d802779e40b",
+                    "fname"	: "Greg",
+                    "lname"	: "Salas",
+                    "teamNumber"	:  "11",
+                    "position"	: "WR",
+                    "experience"	:  "5",
+                    "age"	: "28",
+                    "born"	: "08/25/88",
+                    "hometown"	: "Chino, CA",
+                    "height"	: "6-2",
+                    "weight"	: "210",
+                    "college"	: "Hawaii",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/salas-greg-thumb.jpg ",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Greg-Salas/fef17dcd-623e-4605-87e5-9d802779e40b"
+              },
+           
+              {
+                    "id"	: "b9aca9f5-fcd2-4e14-802f-4d7b98d6b6d6",
+                    "fname"	: "Nickell",
+                    "lname"	: "Robey-Coleman",
+                    "teamNumber"	:  "21",
+                    "position"	: "CB",
+                    "experience"	:  "4",
+                    "age"	: "24",
+                    "born"	: "01/17/92",
+                    "hometown"	: "Frostproof, FL",
+                    "height"	: "5-8",
+                    "weight"	: "165",
+                    "college"	: "Southern California",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0068_Robey_Nickell--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nickell-Robey-Coleman/b9aca9f5-fcd2-4e14-802f-4d7b98d6b6d6"
+              },
+           
+              {
+                    "id"	: "34a8a75a-c340-4ff4-b121-80b774d0aef9",
+                    "fname"	: "Brandon",
+                    "lname"	: "Spikes",
+                    "teamNumber"	:  "51",
+                    "position"	: "LB",
+                    "experience"	:  "6",
+                    "age"	: "29",
+                    "born"	: "09/03/87",
+                    "hometown"	: "Shelby, NC",
+                    "height"	: "6-2",
+                    "weight"	: "255",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/spikes-brandon-headshot-thumb.jpg ",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Spikes/34a8a75a-c340-4ff4-b121-80b774d0aef9"
+              },
+           
+              {
+                    "id"	: "a44bafc8-da9d-4f12-8bc7-acf83261633a",
+                    "fname"	: "Walter",
+                    "lname"	: "Powell",
+                    "teamNumber"	:  "19",
+                    "position"	: "WR",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "11/23/91",
+                    "hometown"	: "St. Louis, MO",
+                    "height"	: "6-0",
+                    "weight"	: "189",
+                    "college"	: "Murray State",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/walter-powell-edit.gif",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Walter-Powell/a44bafc8-da9d-4f12-8bc7-acf83261633a"
+              },
+           
+              {
+                    "id"	: "ba2f66f6-19b6-4134-8ced-890f150dc469",
+                    "fname"	: "Corbin",
+                    "lname"	: "Bryant",
+                    "teamNumber"	:  "97",
+                    "position"	: "DT",
+                    "experience"	:  "4",
+                    "age"	: "28",
+                    "born"	: "01/04/88",
+                    "hometown"	: "Chicago, IL",
+                    "height"	: "6-4",
+                    "weight"	: "300",
+                    "college"	: "Northwestern",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0007_Bryant_Corbin--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Corbin-Bryant/ba2f66f6-19b6-4134-8ced-890f150dc469"
+              },
+           
+              {
+                    "id"	: "58099d36-0140-417f-9874-283bd834d7cc",
+                    "fname"	: "Kyle",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "95",
+                    "position"	: "DT",
+                    "experience"	:  "11",
+                    "age"	: "33",
+                    "born"	: "06/10/83",
+                    "hometown"	: "Ruston, LA",
+                    "height"	: "6-1",
+                    "weight"	: "303",
+                    "college"	: "LSU",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0087_Williams_Kyle--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kyle-Williams/58099d36-0140-417f-9874-283bd834d7cc"
+              },
+           
+              {
+                    "id"	: "add32bbd-d8ad-4f2f-9668-ccccbae32256",
+                    "fname"	: "Kevon",
+                    "lname"	: "Seymour",
+                    "teamNumber"	:  "29",
+                    "position"	: "CB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "11/30/93",
+                    "hometown"	: "",
+                    "height"	: "5-11",
+                    "weight"	: "185",
+                    "college"	: "Southern California",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/kevon-seymour-headshot-thumb.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kevon-Seymour/add32bbd-d8ad-4f2f-9668-ccccbae32256"
+              },
+           
+              {
+                    "id"	: "4facce17-b43d-491e-ae2c-1857f4a3c3f2",
+                    "fname"	: "Cardale",
+                    "lname"	: "Jones",
+                    "teamNumber"	:  "7",
+                    "position"	: "QB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "09/29/92",
+                    "hometown"	: "Cleveland, OH",
+                    "height"	: "6-5",
+                    "weight"	: "250",
+                    "college"	: "Ohio State",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/cardale-jones-headshot-thumb.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Cardale-Jones/4facce17-b43d-491e-ae2c-1857f4a3c3f2"
+              },
+           
+              {
+                    "id"	: "839c649e-cd6b-4c64-9837-468e98951715",
+                    "fname"	: "Mike",
+                    "lname"	: "Gillislee",
+                    "teamNumber"	:  "35",
+                    "position"	: "RB",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "11/01/90",
+                    "hometown"	: "DeLand, FL",
+                    "height"	: "5-11",
+                    "weight"	: "219",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/mike-gillislee-edit.gif",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Mike-Gillislee/839c649e-cd6b-4c64-9837-468e98951715"
+              },
+           
+              {
+                    "id"	: "82b07980-86af-44d2-b856-bdfbc41713d5",
+                    "fname"	: "Stephon",
+                    "lname"	: "Gilmore",
+                    "teamNumber"	:  "24",
+                    "position"	: "CB",
+                    "experience"	:  "5",
+                    "age"	: "25",
+                    "born"	: "09/19/90",
+                    "hometown"	: "Rock Hill, SC",
+                    "height"	: "6-1",
+                    "weight"	: "190",
+                    "college"	: "South Carolina",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0029_Gilmore_Stephon--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Stephon-Gilmore/82b07980-86af-44d2-b856-bdfbc41713d5"
+              },
+           
+              {
+                    "id"	: "efb68fe9-0ac9-405f-932f-3c21fcb30faf",
+                    "fname"	: "Corey",
+                    "lname"	: "White",
+                    "teamNumber"	:  "30",
+                    "position"	: "CB",
+                    "experience"	:  "5",
+                    "age"	: "26",
+                    "born"	: "05/09/90",
+                    "hometown"	: "Dunwoody, GA",
+                    "height"	: "6-1",
+                    "weight"	: "210",
+                    "college"	: "Samford",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Corey-White/efb68fe9-0ac9-405f-932f-3c21fcb30faf"
+              },
+           
+              {
+                    "id"	: "07bfd522-21be-44b5-9d6e-adacb812c604",
+                    "fname"	: "Robert",
+                    "lname"	: "Blanton",
+                    "teamNumber"	:  "26",
+                    "position"	: "S",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "09/07/89",
+                    "hometown"	: "Clackamas, OR",
+                    "height"	: "6-1",
+                    "weight"	: "200",
+                    "college"	: "Notre Dame",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/ryan-groy-edit.gif",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Robert-Blanton/07bfd522-21be-44b5-9d6e-adacb812c604"
+              },
+           
+              {
+                    "id"	: "89508375-a7f6-4d5c-bb19-f32c6654a289",
+                    "fname"	: "Ramon",
+                    "lname"	: "Humber",
+                    "teamNumber"	:  "50",
+                    "position"	: "LB",
+                    "experience"	:  "8",
+                    "age"	: "29",
+                    "born"	: "08/10/87",
+                    "hometown"	: "Minneapolis, MN",
+                    "height"	: "5-11",
+                    "weight"	: "235",
+                    "college"	: "North Dakota State",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ramon-Humber/89508375-a7f6-4d5c-bb19-f32c6654a289"
+              },
+           
+              {
+                    "id"	: "50822efc-81dc-4baa-8b40-65ac68a1ee00",
+                    "fname"	: "Tyrod",
+                    "lname"	: "Taylor",
+                    "teamNumber"	:  "5",
+                    "position"	: "QB",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "08/03/89",
+                    "hometown"	: "Hampton, VA",
+                    "height"	: "6-1",
+                    "weight"	: "215",
+                    "college"	: "Virginia Tech",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0075_Taylor_Tyrod--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tyrod-Taylor/50822efc-81dc-4baa-8b40-65ac68a1ee00"
+              },
+           
+              {
+                    "id"	: "b82e36fa-61ba-42fc-835b-f86cfd2a31fb",
+                    "fname"	: "EJ",
+                    "lname"	: "Manuel",
+                    "teamNumber"	:  "3",
+                    "position"	: "QB",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "03/19/90",
+                    "hometown"	: "Virginia Beach, VA",
+                    "height"	: "6-4",
+                    "weight"	: "237",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0053_Manuel_E--nfl_thumb3_65_90.J..jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/EJ-Manuel/b82e36fa-61ba-42fc-835b-f86cfd2a31fb"
+              },
+           
+              {
+                    "id"	: "b0de80aa-201e-4862-a952-f777e3e38dd2",
+                    "fname"	: "Jonathan",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "31",
+                    "position"	: "RB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "02/02/94",
+                    "hometown"	: "Allen, TX",
+                    "height"	: "6-0",
+                    "weight"	: "223",
+                    "college"	: "Arkansas",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/jonathan-williams-headshot-thumb.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jonathan-Williams/b0de80aa-201e-4862-a952-f777e3e38dd2"
+              },
+           
+              {
+                    "id"	: "f218977e-a40f-4b8a-9e1b-95f93b484b77",
+                    "fname"	: "LeSean",
+                    "lname"	: "McCoy",
+                    "teamNumber"	:  "25",
+                    "position"	: "RB",
+                    "experience"	:  "8",
+                    "age"	: "28",
+                    "born"	: "07/12/88",
+                    "hometown"	: "Harrisburg, PA",
+                    "height"	: "5-11",
+                    "weight"	: "208",
+                    "college"	: "Pittsburgh",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0054_McCoy_LeSean--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/LeSean-McCoy/f218977e-a40f-4b8a-9e1b-95f93b484b77"
+              },
+           
+              {
+                    "id"	: "10bee57e-701b-4e63-87d1-555596434477",
+                    "fname"	: "Leger",
+                    "lname"	: "Douzable",
+                    "teamNumber"	:  "91",
+                    "position"	: "DE",
+                    "experience"	:  "9",
+                    "age"	: "30",
+                    "born"	: "05/31/86",
+                    "hometown"	: "Tampa, FL",
+                    "height"	: "6-0",
+                    "weight"	: "284",
+                    "college"	: "Central Florida",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/douzable-leger-edit.gif",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Leger-Douzable/10bee57e-701b-4e63-87d1-555596434477"
+              },
+           
+              {
+                    "id"	: "a41e7fb0-2f55-457b-9e4e-d1df00447613",
+                    "fname"	: "Bryson",
+                    "lname"	: "Albright",
+                    "teamNumber"	:  "49",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "03/15/94",
+                    "hometown"	: "Cincinnati, OH",
+                    "height"	: "6-5",
+                    "weight"	: "225",
+                    "college"	: "Miami (Ohio)",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/bryson-albright-headshot-thumb.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Bryson-Albright/a41e7fb0-2f55-457b-9e4e-d1df00447613"
+              },
+           
+              {
+                    "id"	: "910a21de-9213-4d4b-a6b0-8681c2e9d180",
+                    "fname"	: "Lerentee",
+                    "lname"	: "McCray",
+                    "teamNumber"	:  "56",
+                    "position"	: "LB",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "08/26/90",
+                    "hometown"	: "Ocala, FL",
+                    "height"	: "6-2",
+                    "weight"	: "246",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Lerentee-McCray/910a21de-9213-4d4b-a6b0-8681c2e9d180"
+              },
+           
+              {
+                    "id"	: "ea2ec69f-3769-4aa9-be9a-8a661b96c3f7",
+                    "fname"	: "Lorenzo",
+                    "lname"	: "Alexander",
+                    "teamNumber"	:  "57",
+                    "position"	: "LB",
+                    "experience"	:  "10",
+                    "age"	: "33",
+                    "born"	: "05/31/83",
+                    "hometown"	: "Oakland, CA",
+                    "height"	: "6-1",
+                    "weight"	: "245",
+                    "college"	: "California",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2016/alexander-lorenzo-edit.jpeg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Lorenzo-Alexander/ea2ec69f-3769-4aa9-be9a-8a661b96c3f7"
+              },
+           
+              {
+                    "id"	: "8d880101-5af5-443b-9ceb-432547ce40bb",
+                    "fname"	: "Sammy",
+                    "lname"	: "Watkins",
+                    "teamNumber"	:  "14",
+                    "position"	: "WR",
+                    "experience"	:  "3",
+                    "age"	: "23",
+                    "born"	: "06/14/93",
+                    "hometown"	: "Fort Myers, FL",
+                    "height"	: "6-1",
+                    "weight"	: "211",
+                    "college"	: "Clemson",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com//assets/images/imported/BUF/photos/player-headshots/2015/_0081_Watkins_Sammy--nfl_thumb3_65_90.jpg.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Sammy-Watkins/8d880101-5af5-443b-9ceb-432547ce40bb"
+              },
+           
+              {
+                    "id"	: "edee65e0-64b6-4e47-8323-26f402c7873a",
+                    "fname"	: "Brandon",
+                    "lname"	: "Tate",
+                    "teamNumber"	:  "15",
+                    "position"	: "WR",
+                    "experience"	:  "8",
+                    "age"	: "28",
+                    "born"	: "10/05/87",
+                    "hometown"	: "Burlington, NC",
+                    "height"	: "6-1",
+                    "weight"	: "195",
+                    "college"	: "North Carolina",
+                    "image"	: "http://prod.static.bills.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Tate/edee65e0-64b6-4e47-8323-26f402c7873a"
+              }
+           
+        ]
+    }

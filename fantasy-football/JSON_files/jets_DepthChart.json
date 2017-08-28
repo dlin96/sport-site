@@ -1,0 +1,1317 @@
+ {
+    "formations" :
+        {
+        
+        "Offense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "WR",
+                        "players"	: [
+                            
+                            "d5119ade-3547-49a6-80f3-2afb6530e06d",
+                            
+                            "8d6aedeb-c43a-4565-b87c-c71742de4295",
+                            
+                            "24392ff9-fbd4-4591-9d49-fede1f73e8ee"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LT",
+                        "players"	: [
+                            
+                            "b70ecfc9-0b75-443a-82ed-791f8524c098",
+                            
+                            "3f0d7c85-e305-4a60-ac6a-3c8670689efa"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LG",
+                        "players"	: [
+                            
+                            "30eefcc5-ee1d-4df2-91cb-c61171106971",
+                            
+                            "f8def387-a709-49ac-b966-899a188bc477"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "C",
+                        "players"	: [
+                            
+                            "c5f01433-160a-4c91-a23c-a50200b97c89",
+                            
+                            "39a9ed8c-a734-4ee7-9320-8c59483af686"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RG",
+                        "players"	: [
+                            
+                            "f973a107-d9c5-4ace-bb95-948f3271d156",
+                            
+                            "f8def387-a709-49ac-b966-899a188bc477"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RT",
+                        "players"	: [
+                            
+                            "ea28e3ed-b8d2-48fb-8697-98ffd1570ed5",
+                            
+                            "f5a22b3b-935d-4ef8-b082-995de9c83236"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "TE",
+                        "players"	: [
+                            
+                            "af63a350-75fd-49cf-b50a-86b2426c6e5b",
+                            
+                            "9c112b28-2203-470d-8b2c-ef8a1e27be6f",
+                            
+                            "307bde10-00e5-49ca-8518-837ba10dca4d"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WR",
+                        "players"	: [
+                            
+                            "af0a81fe-31a8-4f99-9aad-1fdcbf2f71ea",
+                            
+                            "4f0243d4-37ec-47b0-bb98-4772b092a3bf",
+                            
+                            "6d0ee8a1-359d-41f8-ba31-e1f7168a86a4"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "QB",
+                        "players"	: [
+                            
+                            "5b23ab68-35a5-4ab8-88da-448cc5bcf307",
+                            
+                            "ee4f4ec6-28f3-406e-ac43-be743013225f",
+                            
+                            "2e60ecf1-4128-47e7-9655-38fa1397433c",
+                            
+                            "e2825097-7c10-4cff-8482-191a2f94603a"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "FB",
+                        "players"	: [
+                            
+                            "5598f219-e6be-4105-ab62-7e35f41f3d71"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RB",
+                        "players"	: [
+                            
+                            "ca11609d-9324-4797-957a-6de64049878a",
+                            
+                            "cc5fd9d4-e82d-4c8d-bee4-c73d1e9e7d54",
+                            
+                            "e38efac4-c257-47ec-ab83-a81d285ce8a2"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Defense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "DE",
+                        "players"	: [
+                            
+                            "b05a6572-3196-4c35-ace1-39201900bd32",
+                            
+                            "d3d04263-0fd2-4390-a0cd-52cdb7d48f7f",
+                            
+                            "fac6389e-a95a-468d-8ce3-404d72e60753"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "NT",
+                        "players"	: [
+                            
+                            "1daa7810-53ae-4e2a-986d-b2de2555cbf7",
+                            
+                            "902fc679-b77c-4b14-9b03-1f71bbbd6fa9"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "DE",
+                        "players"	: [
+                            
+                            "1275186c-48ee-4942-99fd-443a3fcc1afa",
+                            
+                            "5b3b4ab4-1775-499a-b1bc-2fbe40f48e85"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "OLB",
+                        "players"	: [
+                            
+                            "f8616f35-d874-4462-b62e-a3f5571380ff",
+                            
+                            "feccb469-9783-4216-badc-205491d84075"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "ILB",
+                        "players"	: [
+                            
+                            "079d2cd8-76c3-41eb-be10-822a0b68e71e",
+                            
+                            "055ecbba-5606-4e8f-a19b-9a00db407cd9",
+                            
+                            "41afd4a2-7607-4a2b-9851-7793a3860811"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "ILB",
+                        "players"	: [
+                            
+                            "ea537048-21e5-4d1c-8ed6-6aafcc71b55c",
+                            
+                            "0dd24c36-3e1a-4336-9ff8-e822f8a0f608"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "OLB",
+                        "players"	: [
+                            
+                            "1cb33170-201f-429e-91cc-8d9cb6355838",
+                            
+                            "85536575-b619-47c2-b9cc-b3a8156403fe"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "CB",
+                        "players"	: [
+                            
+                            "60e6a400-4f5a-43f7-be21-8100c679e2d3",
+                            
+                            "7c0f0cdd-09d5-407c-9903-c4c89e007c6b",
+                            
+                            "5c3e01a6-ca06-4977-9c23-12cc32bd6cd9"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "CB",
+                        "players"	: [
+                            
+                            "8fa5f5d3-1063-4644-9e4f-e2e2e9695d8b",
+                            
+                            "509b0d60-ab6e-4f3c-88d3-3869355e0714"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "SS",
+                        "players"	: [
+                            
+                            "c3efd8ab-b92b-4bea-99e7-526b0df737a5",
+                            
+                            "67d3ff15-b568-48ab-b245-1e04df538bdc"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "FS",
+                        "players"	: [
+                            
+                            "8cd2f842-9527-4edb-90e9-1927fe92552e",
+                            
+                            "67b489a3-1f01-4442-bdc3-0e6b1eea0e70"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Special Teams" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "K",
+                        "players"	: [
+                            
+                            "5fcd3517-393a-4dc3-8e92-9f3518f575eb"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "P",
+                        "players"	: [
+                            
+                            "54618284-2972-4ac8-a6f0-c49c603bdbfe"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "H",
+                        "players"	: [
+                            
+                            "54618284-2972-4ac8-a6f0-c49c603bdbfe"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "PR",
+                        "players"	: [
+                            
+                            "8d6aedeb-c43a-4565-b87c-c71742de4295"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "KR",
+                        "players"	: [
+                            
+                            "8d6aedeb-c43a-4565-b87c-c71742de4295"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LS",
+                        "players"	: [
+                            
+                            "43a731d9-9229-496d-91ea-d39b80b3be76"
+                            
+                        ]
+                        }
+                    
+                    ]
+              }
+
+        
+        },
+        "players" : [
+          
+              {
+                    "id"	: "0dd24c36-3e1a-4336-9ff8-e822f8a0f608",
+                    "fname"	: "Bruce",
+                    "lname"	: "Carter",
+                    "teamNumber"	:  "54",
+                    "position"	: "LB",
+                    "experience"	:  "6",
+                    "age"	: "28",
+                    "born"	: "02/19/88",
+                    "hometown"	: "Havelock, NC",
+                    "height"	: "6-2",
+                    "weight"	: "240",
+                    "college"	: "North Carolina",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Bruce-Carter/0dd24c36-3e1a-4336-9ff8-e822f8a0f608"
+              },
+           
+              {
+                    "id"	: "f8616f35-d874-4462-b62e-a3f5571380ff",
+                    "fname"	: "Jordan",
+                    "lname"	: "Jenkins",
+                    "teamNumber"	:  "48",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "07/01/94",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "259",
+                    "college"	: "Georgia",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jordan-Jenkins/f8616f35-d874-4462-b62e-a3f5571380ff"
+              },
+           
+              {
+                    "id"	: "ee4f4ec6-28f3-406e-ac43-be743013225f",
+                    "fname"	: "Geno",
+                    "lname"	: "Smith",
+                    "teamNumber"	:  "7",
+                    "position"	: "QB",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "10/10/90",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "221",
+                    "college"	: "West Virginia",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com//assets/images/imported/NYJ/photos/persons/player-cards/2013/geno-smith-headshot--nfl_thumb5_130_167.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Geno-Smith/ee4f4ec6-28f3-406e-ac43-be743013225f"
+              },
+           
+              {
+                    "id"	: "24392ff9-fbd4-4591-9d49-fede1f73e8ee",
+                    "fname"	: "Robby",
+                    "lname"	: "Anderson",
+                    "teamNumber"	:  "11",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "05/09/93",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "190",
+                    "college"	: "Temple",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Robby-Anderson/24392ff9-fbd4-4591-9d49-fede1f73e8ee"
+              },
+           
+              {
+                    "id"	: "67d3ff15-b568-48ab-b245-1e04df538bdc",
+                    "fname"	: "Rontez",
+                    "lname"	: "Miles",
+                    "teamNumber"	:  "45",
+                    "position"	: "S",
+                    "experience"	:  "2",
+                    "age"	: "27",
+                    "born"	: "11/25/88",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "203",
+                    "college"	: "California (PA)",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com//assets/images/imported/NYJ/photos/persons/player-headshots/RontezMiles-Headshot--nfl_thumb3_65_90.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Rontez-Miles/67d3ff15-b568-48ab-b245-1e04df538bdc"
+              },
+           
+              {
+                    "id"	: "5fcd3517-393a-4dc3-8e92-9f3518f575eb",
+                    "fname"	: "Nick",
+                    "lname"	: "Folk",
+                    "teamNumber"	:  "2",
+                    "position"	: "K",
+                    "experience"	:  "10",
+                    "age"	: "31",
+                    "born"	: "11/05/84",
+                    "hometown"	: "",
+                    "height"	: "6-1",
+                    "weight"	: "222",
+                    "college"	: "Arizona",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com//assets/images/imported/NYJ/photos/persons/player-cards/2013/NickFolkHeadshot--nfl_thumb5_130_167.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nick-Folk/5fcd3517-393a-4dc3-8e92-9f3518f575eb"
+              },
+           
+              {
+                    "id"	: "41afd4a2-7607-4a2b-9851-7793a3860811",
+                    "fname"	: "Julian",
+                    "lname"	: "Stanford",
+                    "teamNumber"	:  "51",
+                    "position"	: "LB",
+                    "experience"	:  "3",
+                    "age"	: "26",
+                    "born"	: "09/02/90",
+                    "hometown"	: "Bloomfield, CT",
+                    "height"	: "6-1",
+                    "weight"	: "230",
+                    "college"	: "Wagner",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Julian-Stanford/41afd4a2-7607-4a2b-9851-7793a3860811"
+              },
+           
+              {
+                    "id"	: "39a9ed8c-a734-4ee7-9320-8c59483af686",
+                    "fname"	: "Wesley",
+                    "lname"	: "Johnson",
+                    "teamNumber"	:  "76",
+                    "position"	: "G",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "01/09/91",
+                    "hometown"	: "Nashville, TN",
+                    "height"	: "6-5",
+                    "weight"	: "297",
+                    "college"	: "Vanderbilt",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Wesley-Johnson/39a9ed8c-a734-4ee7-9320-8c59483af686"
+              },
+           
+              {
+                    "id"	: "60e6a400-4f5a-43f7-be21-8100c679e2d3",
+                    "fname"	: "Buster",
+                    "lname"	: "Skrine",
+                    "teamNumber"	:  "41",
+                    "position"	: "CB",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "04/26/89",
+                    "hometown"	: "Decatur, GA",
+                    "height"	: "5-9",
+                    "weight"	: "185",
+                    "college"	: "Tennessee-Chattanooga",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Buster-Skrine/60e6a400-4f5a-43f7-be21-8100c679e2d3"
+              },
+           
+              {
+                    "id"	: "6d0ee8a1-359d-41f8-ba31-e1f7168a86a4",
+                    "fname"	: "Charone",
+                    "lname"	: "Peake",
+                    "teamNumber"	:  "17",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "10/16/92",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "209",
+                    "college"	: "Clemson",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Charone-Peake/6d0ee8a1-359d-41f8-ba31-e1f7168a86a4"
+              },
+           
+              {
+                    "id"	: "8fa5f5d3-1063-4644-9e4f-e2e2e9695d8b",
+                    "fname"	: "Darrelle",
+                    "lname"	: "Revis",
+                    "teamNumber"	:  "24",
+                    "position"	: "CB",
+                    "experience"	:  "10",
+                    "age"	: "31",
+                    "born"	: "07/14/85",
+                    "hometown"	: "",
+                    "height"	: "5-11",
+                    "weight"	: "198",
+                    "college"	: "Pittsburgh",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Darrelle-Revis/8fa5f5d3-1063-4644-9e4f-e2e2e9695d8b"
+              },
+           
+              {
+                    "id"	: "feccb469-9783-4216-badc-205491d84075",
+                    "fname"	: "Mike",
+                    "lname"	: "Catapano",
+                    "teamNumber"	:  "53",
+                    "position"	: "LB",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "08/17/90",
+                    "hometown"	: "Chaminade, NY",
+                    "height"	: "6-4",
+                    "weight"	: "270",
+                    "college"	: "Princeton",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Mike-Catapano/feccb469-9783-4216-badc-205491d84075"
+              },
+           
+              {
+                    "id"	: "5b23ab68-35a5-4ab8-88da-448cc5bcf307",
+                    "fname"	: "Ryan",
+                    "lname"	: "Fitzpatrick",
+                    "teamNumber"	:  "14",
+                    "position"	: "QB",
+                    "experience"	:  "12",
+                    "age"	: "33",
+                    "born"	: "11/24/82",
+                    "hometown"	: "Gilbert, AZ",
+                    "height"	: "6-2",
+                    "weight"	: "223",
+                    "college"	: "Harvard",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ryan-Fitzpatrick/5b23ab68-35a5-4ab8-88da-448cc5bcf307"
+              },
+           
+              {
+                    "id"	: "ca11609d-9324-4797-957a-6de64049878a",
+                    "fname"	: "Matt",
+                    "lname"	: "Forté",
+                    "teamNumber"	:  "22",
+                    "position"	: "RB",
+                    "experience"	:  "9",
+                    "age"	: "30",
+                    "born"	: "12/10/85",
+                    "hometown"	: "Lake Charles, LA",
+                    "height"	: "6-2",
+                    "weight"	: "218",
+                    "college"	: "Tulane",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matt-Forté/ca11609d-9324-4797-957a-6de64049878a"
+              },
+           
+              {
+                    "id"	: "4f0243d4-37ec-47b0-bb98-4772b092a3bf",
+                    "fname"	: "Quincy",
+                    "lname"	: "Enunwa",
+                    "teamNumber"	:  "81",
+                    "position"	: "WR",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "05/31/92",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "225",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Quincy-Enunwa/4f0243d4-37ec-47b0-bb98-4772b092a3bf"
+              },
+           
+              {
+                    "id"	: "ea537048-21e5-4d1c-8ed6-6aafcc71b55c",
+                    "fname"	: "David",
+                    "lname"	: "Harris",
+                    "teamNumber"	:  "52",
+                    "position"	: "LB",
+                    "experience"	:  "10",
+                    "age"	: "32",
+                    "born"	: "01/21/84",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "250",
+                    "college"	: "Michigan",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com//assets/images/imported/NYJ/photos/persons/player-cards/2013/DavidHarris-Headshot--nfl_thumb5_130_167.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/David-Harris/ea537048-21e5-4d1c-8ed6-6aafcc71b55c"
+              },
+           
+              {
+                    "id"	: "b70ecfc9-0b75-443a-82ed-791f8524c098",
+                    "fname"	: "Ryan",
+                    "lname"	: "Clady",
+                    "teamNumber"	:  "78",
+                    "position"	: "T",
+                    "experience"	:  "9",
+                    "age"	: "30",
+                    "born"	: "09/06/86",
+                    "hometown"	: "Long Beach, CA",
+                    "height"	: "6-6",
+                    "weight"	: "315",
+                    "college"	: "Boise State",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ryan-Clady/b70ecfc9-0b75-443a-82ed-791f8524c098"
+              },
+           
+              {
+                    "id"	: "079d2cd8-76c3-41eb-be10-822a0b68e71e",
+                    "fname"	: "Erin",
+                    "lname"	: "Henderson",
+                    "teamNumber"	:  "58",
+                    "position"	: "LB",
+                    "experience"	:  "8",
+                    "age"	: "30",
+                    "born"	: "07/01/86",
+                    "hometown"	: "Aberdeen, MD",
+                    "height"	: "6-3",
+                    "weight"	: "244",
+                    "college"	: "Maryland",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Erin-Henderson/079d2cd8-76c3-41eb-be10-822a0b68e71e"
+              },
+           
+              {
+                    "id"	: "d3d04263-0fd2-4390-a0cd-52cdb7d48f7f",
+                    "fname"	: "Jarvis",
+                    "lname"	: "Jenkins",
+                    "teamNumber"	:  "98",
+                    "position"	: "DL",
+                    "experience"	:  "6",
+                    "age"	: "28",
+                    "born"	: "04/24/88",
+                    "hometown"	: "Clemson, SC",
+                    "height"	: "6-4",
+                    "weight"	: "300",
+                    "college"	: "Clemson",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jarvis-Jenkins/d3d04263-0fd2-4390-a0cd-52cdb7d48f7f"
+              },
+           
+              {
+                    "id"	: "cc5fd9d4-e82d-4c8d-bee4-c73d1e9e7d54",
+                    "fname"	: "Bilal",
+                    "lname"	: "Powell",
+                    "teamNumber"	:  "29",
+                    "position"	: "RB",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "10/27/88",
+                    "hometown"	: "",
+                    "height"	: "5-10",
+                    "weight"	: "204",
+                    "college"	: "Louisville",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Bilal-Powell/cc5fd9d4-e82d-4c8d-bee4-c73d1e9e7d54"
+              },
+           
+              {
+                    "id"	: "d5119ade-3547-49a6-80f3-2afb6530e06d",
+                    "fname"	: "Brandon",
+                    "lname"	: "Marshall",
+                    "teamNumber"	:  "15",
+                    "position"	: "WR",
+                    "experience"	:  "11",
+                    "age"	: "32",
+                    "born"	: "03/23/84",
+                    "hometown"	: "Pittsburgh, PA",
+                    "height"	: "6-4",
+                    "weight"	: "230",
+                    "college"	: "Central Florida",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Marshall/d5119ade-3547-49a6-80f3-2afb6530e06d"
+              },
+           
+              {
+                    "id"	: "1daa7810-53ae-4e2a-986d-b2de2555cbf7",
+                    "fname"	: "Steve",
+                    "lname"	: "McLendon",
+                    "teamNumber"	:  "99",
+                    "position"	: "DT",
+                    "experience"	:  "7",
+                    "age"	: "30",
+                    "born"	: "01/03/86",
+                    "hometown"	: "Ozark, AL",
+                    "height"	: "6-3",
+                    "weight"	: "310",
+                    "college"	: "Troy",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Steve-McLendon/1daa7810-53ae-4e2a-986d-b2de2555cbf7"
+              },
+           
+              {
+                    "id"	: "af0a81fe-31a8-4f99-9aad-1fdcbf2f71ea",
+                    "fname"	: "Eric",
+                    "lname"	: "Decker",
+                    "teamNumber"	:  "87",
+                    "position"	: "WR",
+                    "experience"	:  "7",
+                    "age"	: "29",
+                    "born"	: "03/15/87",
+                    "hometown"	: "Cold Spring, MN",
+                    "height"	: "6-3",
+                    "weight"	: "214",
+                    "college"	: "Minnesota",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Eric-Decker/af0a81fe-31a8-4f99-9aad-1fdcbf2f71ea"
+              },
+           
+              {
+                    "id"	: "fac6389e-a95a-468d-8ce3-404d72e60753",
+                    "fname"	: "Sheldon",
+                    "lname"	: "Richardson",
+                    "teamNumber"	:  "91",
+                    "position"	: "DE",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "11/30/90",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "294",
+                    "college"	: "Missouri",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com//assets/images/imported/NYJ/photos/persons/player-cards/2013/sheldon-richardson-headshot--nfl_thumb5_130_167.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Sheldon-Richardson/fac6389e-a95a-468d-8ce3-404d72e60753"
+              },
+           
+              {
+                    "id"	: "c5f01433-160a-4c91-a23c-a50200b97c89",
+                    "fname"	: "Nick",
+                    "lname"	: "Mangold",
+                    "teamNumber"	:  "74",
+                    "position"	: "C",
+                    "experience"	:  "11",
+                    "age"	: "32",
+                    "born"	: "01/13/84",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "307",
+                    "college"	: "Ohio State",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com//assets/images/imported/NYJ/photos/persons/player-cards/2013/NickMangoldHeadshot--nfl_thumb5_130_167.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nick-Mangold/c5f01433-160a-4c91-a23c-a50200b97c89"
+              },
+           
+              {
+                    "id"	: "c3efd8ab-b92b-4bea-99e7-526b0df737a5",
+                    "fname"	: "Calvin",
+                    "lname"	: "Pryor",
+                    "teamNumber"	:  "25",
+                    "position"	: "S",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "07/02/92",
+                    "hometown"	: "Port St. Joe, FL",
+                    "height"	: "5-11",
+                    "weight"	: "207",
+                    "college"	: "Louisville",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Calvin-Pryor/c3efd8ab-b92b-4bea-99e7-526b0df737a5"
+              },
+           
+              {
+                    "id"	: "af63a350-75fd-49cf-b50a-86b2426c6e5b",
+                    "fname"	: "Kellen",
+                    "lname"	: "Davis",
+                    "teamNumber"	:  "47",
+                    "position"	: "TE",
+                    "experience"	:  "9",
+                    "age"	: "30",
+                    "born"	: "10/11/85",
+                    "hometown"	: "Adrian, MI",
+                    "height"	: "6-7",
+                    "weight"	: "265",
+                    "college"	: "Michigan State",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kellen-Davis/af63a350-75fd-49cf-b50a-86b2426c6e5b"
+              },
+           
+              {
+                    "id"	: "3f0d7c85-e305-4a60-ac6a-3c8670689efa",
+                    "fname"	: "Brandon",
+                    "lname"	: "Shell",
+                    "teamNumber"	:  "72",
+                    "position"	: "T",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "02/06/92",
+                    "hometown"	: "",
+                    "height"	: "6-5",
+                    "weight"	: "324",
+                    "college"	: "South Carolina",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Shell/3f0d7c85-e305-4a60-ac6a-3c8670689efa"
+              },
+           
+              {
+                    "id"	: "f8def387-a709-49ac-b966-899a188bc477",
+                    "fname"	: "Dakota",
+                    "lname"	: "Dozier",
+                    "teamNumber"	:  "70",
+                    "position"	: "G",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "04/30/91",
+                    "hometown"	: "West Columbia, SC",
+                    "height"	: "6-4",
+                    "weight"	: "313",
+                    "college"	: "Furman",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Dakota-Dozier/f8def387-a709-49ac-b966-899a188bc477"
+              },
+           
+              {
+                    "id"	: "2e60ecf1-4128-47e7-9655-38fa1397433c",
+                    "fname"	: "Bryce",
+                    "lname"	: "Petty",
+                    "teamNumber"	:  "9",
+                    "position"	: "QB",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "05/31/91",
+                    "hometown"	: "Midlothian, TX",
+                    "height"	: "6-3",
+                    "weight"	: "230",
+                    "college"	: "Baylor",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Bryce-Petty/2e60ecf1-4128-47e7-9655-38fa1397433c"
+              },
+           
+              {
+                    "id"	: "ea28e3ed-b8d2-48fb-8697-98ffd1570ed5",
+                    "fname"	: "Ben",
+                    "lname"	: "Ijalana",
+                    "teamNumber"	:  "71",
+                    "position"	: "T",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "08/06/89",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "322",
+                    "college"	: "Villanova",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com//assets/images/imported/NYJ/photos/persons/player-headshots/BenIjalana-Headshot--nfl_thumb3_65_90.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ben-Ijalana/ea28e3ed-b8d2-48fb-8697-98ffd1570ed5"
+              },
+           
+              {
+                    "id"	: "54618284-2972-4ac8-a6f0-c49c603bdbfe",
+                    "fname"	: "Lachlan",
+                    "lname"	: "Edwards",
+                    "teamNumber"	:  "4",
+                    "position"	: "P",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "04/27/92",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "209",
+                    "college"	: "Sam Houston State",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Lachlan-Edwards/54618284-2972-4ac8-a6f0-c49c603bdbfe"
+              },
+           
+              {
+                    "id"	: "85536575-b619-47c2-b9cc-b3a8156403fe",
+                    "fname"	: "Josh",
+                    "lname"	: "Martin",
+                    "teamNumber"	:  "95",
+                    "position"	: "LB",
+                    "experience"	:  "4",
+                    "age"	: "24",
+                    "born"	: "11/07/91",
+                    "hometown"	: "Houston, TX",
+                    "height"	: "6-3",
+                    "weight"	: "245",
+                    "college"	: "Columbia",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Josh-Martin/85536575-b619-47c2-b9cc-b3a8156403fe"
+              },
+           
+              {
+                    "id"	: "902fc679-b77c-4b14-9b03-1f71bbbd6fa9",
+                    "fname"	: "Deon",
+                    "lname"	: "Simon",
+                    "teamNumber"	:  "93",
+                    "position"	: "NT",
+                    "experience"	:  "1",
+                    "age"	: "26",
+                    "born"	: "07/06/90",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "332",
+                    "college"	: "Northwestern State-Louisiana",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Deon-Simon/902fc679-b77c-4b14-9b03-1f71bbbd6fa9"
+              },
+           
+              {
+                    "id"	: "f973a107-d9c5-4ace-bb95-948f3271d156",
+                    "fname"	: "Brian",
+                    "lname"	: "Winters",
+                    "teamNumber"	:  "67",
+                    "position"	: "G",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "07/10/91",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "320",
+                    "college"	: "Kent State",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com//assets/images/imported/NYJ/photos/persons/player-cards/2013/brian-winters-headshot--nfl_thumb5_130_167.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brian-Winters/f973a107-d9c5-4ace-bb95-948f3271d156"
+              },
+           
+              {
+                    "id"	: "b05a6572-3196-4c35-ace1-39201900bd32",
+                    "fname"	: "Leonard",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "92",
+                    "position"	: "DE",
+                    "experience"	:  "2",
+                    "age"	: "22",
+                    "born"	: "06/20/94",
+                    "hometown"	: "Daytona Beach, FL",
+                    "height"	: "6-5",
+                    "weight"	: "302",
+                    "college"	: "USC",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Leonard-Williams/b05a6572-3196-4c35-ace1-39201900bd32"
+              },
+           
+              {
+                    "id"	: "67b489a3-1f01-4442-bdc3-0e6b1eea0e70",
+                    "fname"	: "Antonio",
+                    "lname"	: "Allen",
+                    "teamNumber"	:  "39",
+                    "position"	: "S",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "09/23/88",
+                    "hometown"	: "",
+                    "height"	: "6-1",
+                    "weight"	: "210",
+                    "college"	: "South Carolina",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com//assets/images/imported/NYJ/photos/persons/player-cards/2012/120428-headshot-antonio-allen--nfl_thumb5_130_167.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Antonio-Allen/67b489a3-1f01-4442-bdc3-0e6b1eea0e70"
+              },
+           
+              {
+                    "id"	: "f5a22b3b-935d-4ef8-b082-995de9c83236",
+                    "fname"	: "Brent",
+                    "lname"	: "Qvale",
+                    "teamNumber"	:  "79",
+                    "position"	: "OL",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "03/11/91",
+                    "hometown"	: "",
+                    "height"	: "6-7",
+                    "weight"	: "315",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brent-Qvale/f5a22b3b-935d-4ef8-b082-995de9c83236"
+              },
+           
+              {
+                    "id"	: "5598f219-e6be-4105-ab62-7e35f41f3d71",
+                    "fname"	: "Julian",
+                    "lname"	: "Howsare",
+                    "teamNumber"	:  "43",
+                    "position"	: "FB",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "09/11/92",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "255",
+                    "college"	: "Clarion",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Julian-Howsare/5598f219-e6be-4105-ab62-7e35f41f3d71"
+              },
+           
+              {
+                    "id"	: "307bde10-00e5-49ca-8518-837ba10dca4d",
+                    "fname"	: "Braedon",
+                    "lname"	: "Bowman",
+                    "teamNumber"	:  "84",
+                    "position"	: "TE",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "01/30/94",
+                    "hometown"	: "Mesa, AZ",
+                    "height"	: "6-4",
+                    "weight"	: "244",
+                    "college"	: "South Alabama",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Braedon-Bowman/307bde10-00e5-49ca-8518-837ba10dca4d"
+              },
+           
+              {
+                    "id"	: "43a731d9-9229-496d-91ea-d39b80b3be76",
+                    "fname"	: "Tanner",
+                    "lname"	: "Purdum",
+                    "teamNumber"	:  "46",
+                    "position"	: "LS",
+                    "experience"	:  "7",
+                    "age"	: "32",
+                    "born"	: "08/15/84",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "270",
+                    "college"	: "Baker",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com//assets/images/imported/NYJ/photos/persons/player-cards/2013/TannerPurdumHeadshot--nfl_thumb5_130_167.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tanner-Purdum/43a731d9-9229-496d-91ea-d39b80b3be76"
+              },
+           
+              {
+                    "id"	: "9c112b28-2203-470d-8b2c-ef8a1e27be6f",
+                    "fname"	: "Brandon",
+                    "lname"	: "Bostick",
+                    "teamNumber"	:  "82",
+                    "position"	: "TE",
+                    "experience"	:  "3",
+                    "age"	: "27",
+                    "born"	: "05/03/89",
+                    "hometown"	: "Florence, SC",
+                    "height"	: "6-3",
+                    "weight"	: "250",
+                    "college"	: "Newberry",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Bostick/9c112b28-2203-470d-8b2c-ef8a1e27be6f"
+              },
+           
+              {
+                    "id"	: "055ecbba-5606-4e8f-a19b-9a00db407cd9",
+                    "fname"	: "Darron ",
+                    "lname"	: "Lee",
+                    "teamNumber"	:  "50",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "10/18/94",
+                    "hometown"	: "",
+                    "height"	: "6-1",
+                    "weight"	: "232",
+                    "college"	: "Ohio St.",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com//assets/images/imported/NYJ/Lee_Darron-card--nfl_thumb5_130_167.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Darron-Lee/055ecbba-5606-4e8f-a19b-9a00db407cd9"
+              },
+           
+              {
+                    "id"	: "7c0f0cdd-09d5-407c-9903-c4c89e007c6b",
+                    "fname"	: "Marcus",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "20",
+                    "position"	: "CB",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "03/24/91",
+                    "hometown"	: "",
+                    "height"	: "5-11",
+                    "weight"	: "196",
+                    "college"	: "North Dakota State",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Marcus-Williams/7c0f0cdd-09d5-407c-9903-c4c89e007c6b"
+              },
+           
+              {
+                    "id"	: "8cd2f842-9527-4edb-90e9-1927fe92552e",
+                    "fname"	: "Marcus",
+                    "lname"	: "Gilchrist",
+                    "teamNumber"	:  "21",
+                    "position"	: "S",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "12/08/88",
+                    "hometown"	: "High Point, NC",
+                    "height"	: "5-10",
+                    "weight"	: "198",
+                    "college"	: "Clemson",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Marcus-Gilchrist/8cd2f842-9527-4edb-90e9-1927fe92552e"
+              },
+           
+              {
+                    "id"	: "1cb33170-201f-429e-91cc-8d9cb6355838",
+                    "fname"	: "Lorenzo",
+                    "lname"	: "Mauldin",
+                    "teamNumber"	:  "55",
+                    "position"	: "LB",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "10/01/92",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "259",
+                    "college"	: "Louisville",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Lorenzo-Mauldin/1cb33170-201f-429e-91cc-8d9cb6355838"
+              },
+           
+              {
+                    "id"	: "5c3e01a6-ca06-4977-9c23-12cc32bd6cd9",
+                    "fname"	: "Darryl",
+                    "lname"	: "Roberts",
+                    "teamNumber"	:  "27",
+                    "position"	: "CB",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "11/26/90",
+                    "hometown"	: "Lakeland, FL",
+                    "height"	: "6-0",
+                    "weight"	: "190",
+                    "college"	: "Marshall",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Darryl-Roberts/5c3e01a6-ca06-4977-9c23-12cc32bd6cd9"
+              },
+           
+              {
+                    "id"	: "e38efac4-c257-47ec-ab83-a81d285ce8a2",
+                    "fname"	: "Troymaine",
+                    "lname"	: "Pope",
+                    "teamNumber"	:  "26",
+                    "position"	: "RB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "11/29/93",
+                    "hometown"	: "Anniston, AL",
+                    "height"	: "5-9",
+                    "weight"	: "207",
+                    "college"	: "Jacksonville State",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Troymaine-Pope/e38efac4-c257-47ec-ab83-a81d285ce8a2"
+              },
+           
+              {
+                    "id"	: "30eefcc5-ee1d-4df2-91cb-c61171106971",
+                    "fname"	: "James",
+                    "lname"	: "Carpenter",
+                    "teamNumber"	:  "77",
+                    "position"	: "G",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "03/22/89",
+                    "hometown"	: "Augusta, GA",
+                    "height"	: "6-5",
+                    "weight"	: "321",
+                    "college"	: "Alabama",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/James-Carpenter/30eefcc5-ee1d-4df2-91cb-c61171106971"
+              },
+           
+              {
+                    "id"	: "1275186c-48ee-4942-99fd-443a3fcc1afa",
+                    "fname"	: "Muhammad",
+                    "lname"	: "Wilkerson",
+                    "teamNumber"	:  "96",
+                    "position"	: "DE",
+                    "experience"	:  "6",
+                    "age"	: "26",
+                    "born"	: "10/22/89",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "315",
+                    "college"	: "Temple",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Muhammad-Wilkerson/1275186c-48ee-4942-99fd-443a3fcc1afa"
+              },
+           
+              {
+                    "id"	: "509b0d60-ab6e-4f3c-88d3-3869355e0714",
+                    "fname"	: "Juston",
+                    "lname"	: "Burris",
+                    "teamNumber"	:  "32",
+                    "position"	: "CB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "08/04/93",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "212",
+                    "college"	: "N.C. State",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Juston-Burris/509b0d60-ab6e-4f3c-88d3-3869355e0714"
+              },
+           
+              {
+                    "id"	: "8d6aedeb-c43a-4565-b87c-c71742de4295",
+                    "fname"	: "Jalin",
+                    "lname"	: "Marshall",
+                    "teamNumber"	:  "89",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "07/21/95",
+                    "hometown"	: "",
+                    "height"	: "5-10",
+                    "weight"	: "200",
+                    "college"	: "Ohio State",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jalin-Marshall/8d6aedeb-c43a-4565-b87c-c71742de4295"
+              },
+           
+              {
+                    "id"	: "5b3b4ab4-1775-499a-b1bc-2fbe40f48e85",
+                    "fname"	: "Lawrence",
+                    "lname"	: "Thomas",
+                    "teamNumber"	:  "97",
+                    "position"	: "DE",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "04/16/93",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "286",
+                    "college"	: "Michigan State",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Lawrence-Thomas/5b3b4ab4-1775-499a-b1bc-2fbe40f48e85"
+              },
+           
+              {
+                    "id"	: "e2825097-7c10-4cff-8482-191a2f94603a",
+                    "fname"	: "Christian",
+                    "lname"	: "Hackenberg",
+                    "teamNumber"	:  "5",
+                    "position"	: "QB",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "02/14/95",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "228",
+                    "college"	: "Penn St.",
+                    "image"	: "http://prod.static.jets.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Christian-Hackenberg/e2825097-7c10-4cff-8482-191a2f94603a"
+              }
+           
+        ]
+    }

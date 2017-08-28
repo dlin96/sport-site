@@ -1,0 +1,1287 @@
+ {
+    "formations" :
+        {
+        
+        "Offense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "WR",
+                        "players"	: [
+                            
+                            "ee9c6d98-93d3-4e5a-970b-fe94d6aa4999",
+                            
+                            "5294bec9-0af1-411d-838c-96dc9da474c1"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LT",
+                        "players"	: [
+                            
+                            "579cb358-8263-4a86-867a-a175e2f41851",
+                            
+                            "f2985632-0698-4927-b9ec-5ec1a7a00d75"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LG",
+                        "players"	: [
+                            
+                            "5fd1fbb7-6b51-4815-842d-aeb40dcad784",
+                            
+                            "75ed6316-016b-47e1-a889-dc7e521cb1ba"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "C",
+                        "players"	: [
+                            
+                            "1c688fe0-33d0-41db-bd13-c53d1f0dae0b",
+                            
+                            "75ed6316-016b-47e1-a889-dc7e521cb1ba"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RG",
+                        "players"	: [
+                            
+                            "0ac530ac-4a2f-4ced-b276-b88874609761",
+                            
+                            "874d9d4a-9239-48fe-98cb-25993cb019ff"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RT",
+                        "players"	: [
+                            
+                            "f8dbcd74-1f9c-469f-ac81-7a001eff6537",
+                            
+                            "7a4d4afe-cc93-4ac4-8094-1d1d8400abde"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "TE",
+                        "players"	: [
+                            
+                            "b7df5b82-bb53-444f-8c8e-184389d2c725",
+                            
+                            "8d284a60-bfc6-4abe-8921-15990dda1de5",
+                            
+                            "e68cdbd1-a8ff-42d4-b3f7-7b6a1b211efb"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WR",
+                        "players"	: [
+                            
+                            "50d52821-5dbf-4347-9a09-06fd8ba66a73",
+                            
+                            "5284d4a6-7762-4808-bdf9-984891b9573d",
+                            
+                            "e29f9127-c991-48bb-97b9-e7e51f8baa3d"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "QB",
+                        "players"	: [
+                            
+                            "b563a3f9-3ece-4b65-bcc5-ee2fec6f9a65",
+                            
+                            "3192c4b7-f443-4202-8676-aae0e8dd04e7",
+                            
+                            "9018abb9-48b8-4d7d-821c-be42201100f3"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RB",
+                        "players"	: [
+                            
+                            "c125a1b3-cb11-435a-b87a-307669a8d123",
+                            
+                            "d5ff687d-01a6-4830-8ca7-9e4ad4dd8409",
+                            
+                            "b0b83308-af9f-491c-81f4-1f41ea0d38b4",
+                            
+                            "14db34ed-b61a-403b-b2a7-3b9ec95af1fc"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "FB",
+                        "players"	: [
+                            
+                            "b5a72914-8c7a-40ed-b1b4-88569f9b4081"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Defense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "DE",
+                        "players"	: [
+                            
+                            "741525aa-0118-4365-b9c9-6344883d3f6a",
+                            
+                            "ae5eddcc-a6ec-46ba-b533-374e5dfce724"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "DT",
+                        "players"	: [
+                            
+                            "514e3018-79ab-4867-b74f-4cc48707c387",
+                            
+                            "d8c27fca-31d9-4cd2-9f04-ea4c0517b5a3"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "NT",
+                        "players"	: [
+                            
+                            "e511d178-ce35-4938-9183-2b4ee2828364",
+                            
+                            "5afd6095-d349-424d-80f1-abb5ec362b7f"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "DE",
+                        "players"	: [
+                            
+                            "13aaece1-085f-4755-b476-3eb6e3cdae7a",
+                            
+                            "741525aa-0118-4365-b9c9-6344883d3f6a"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "SLB",
+                        "players"	: [
+                            
+                            "611d05c9-b2d1-4479-95a8-fe1637445956",
+                            
+                            "6df1b490-0a5e-446b-8b68-a61d2b5f508d"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "MLB",
+                        "players"	: [
+                            
+                            "f6e2bb06-7540-44de-9d28-e0565bfc722c",
+                            
+                            "0b2965c1-d28b-4f6d-87cf-1c942a4d4122"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WLB",
+                        "players"	: [
+                            
+                            "a086d55e-3612-4396-94d6-4939bd8b3441",
+                            
+                            "18528d66-ba1e-4cc6-8292-baf3d590d4a5"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LCB",
+                        "players"	: [
+                            
+                            "4a84cb36-1fc9-4f4e-85d8-f08c21875ad5",
+                            
+                            "a9b93532-85b6-4347-984e-36bfd70f35fb",
+                            
+                            "375ff718-dc24-4300-8e44-02e81e6a1c9b"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RCB",
+                        "players"	: [
+                            
+                            "3c97f344-14af-4bce-a39e-34d7f505ef50",
+                            
+                            "76d368ac-9f4b-4bde-b5f6-01032d4f9be2",
+                            
+                            "dc5af2c2-9016-4283-a004-70ad7dbdb862"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "FS",
+                        "players"	: [
+                            
+                            "57cce4b1-c5a0-4a5e-81cb-8db12a3f5812",
+                            
+                            "102bf74d-5a84-4c51-9270-b9389e07c07b",
+                            
+                            "8b94ea66-b1f3-4236-820f-3e48a55481fa"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "SS",
+                        "players"	: [
+                            
+                            "160157f3-b906-4e39-b60e-2e18debb3bfe",
+                            
+                            "46044cff-f534-4bfa-af45-9afb3944461f"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Special Teams" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "P",
+                        "players"	: [
+                            
+                            "4000cb63-d397-46ef-bf90-f21b879af7aa"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "K",
+                        "players"	: [
+                            
+                            "9469ace1-7efb-45d9-9194-b98647252cb8"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "H",
+                        "players"	: [
+                            
+                            "4000cb63-d397-46ef-bf90-f21b879af7aa"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LS",
+                        "players"	: [
+                            
+                            "da09a49b-1367-4ed2-93ce-e8f68cb24f6f"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "KR",
+                        "players"	: [
+                            
+                            "d5ff687d-01a6-4830-8ca7-9e4ad4dd8409",
+                            
+                            "b0b83308-af9f-491c-81f4-1f41ea0d38b4",
+                            
+                            "e29f9127-c991-48bb-97b9-e7e51f8baa3d"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "PR",
+                        "players"	: [
+                            
+                            "76d368ac-9f4b-4bde-b5f6-01032d4f9be2",
+                            
+                            "b0b83308-af9f-491c-81f4-1f41ea0d38b4",
+                            
+                            "14db34ed-b61a-403b-b2a7-3b9ec95af1fc"
+                            
+                        ]
+                        }
+                    
+                    ]
+              }
+
+        
+        },
+        "players" : [
+          
+              {
+                    "id"	: "c125a1b3-cb11-435a-b87a-307669a8d123",
+                    "fname"	: "Latavius",
+                    "lname"	: "Murray",
+                    "teamNumber"	:  "28",
+                    "position"	: "RB",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "01/18/90",
+                    "hometown"	: "Nedrow, N.Y.",
+                    "height"	: "6-3",
+                    "weight"	: "225",
+                    "college"	: "Central Florida",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Latavius-Murray/c125a1b3-cb11-435a-b87a-307669a8d123"
+              },
+           
+              {
+                    "id"	: "741525aa-0118-4365-b9c9-6344883d3f6a",
+                    "fname"	: "Jihad",
+                    "lname"	: "Ward",
+                    "teamNumber"	:  "95",
+                    "position"	: "DE",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "03/11/94",
+                    "hometown"	: "",
+                    "height"	: "6-5",
+                    "weight"	: "296",
+                    "college"	: "Illinois",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jihad-Ward/741525aa-0118-4365-b9c9-6344883d3f6a"
+              },
+           
+              {
+                    "id"	: "7a4d4afe-cc93-4ac4-8094-1d1d8400abde",
+                    "fname"	: "Austin",
+                    "lname"	: "Howard",
+                    "teamNumber"	:  "77",
+                    "position"	: "T",
+                    "experience"	:  "7",
+                    "age"	: "29",
+                    "born"	: "03/22/87",
+                    "hometown"	: "Davenport, IA",
+                    "height"	: "6-7",
+                    "weight"	: "330",
+                    "college"	: "Northern Iowa",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Austin-Howard/7a4d4afe-cc93-4ac4-8094-1d1d8400abde"
+              },
+           
+              {
+                    "id"	: "9469ace1-7efb-45d9-9194-b98647252cb8",
+                    "fname"	: "Sebastian",
+                    "lname"	: "Janikowski",
+                    "teamNumber"	:  "11",
+                    "position"	: "K",
+                    "experience"	:  "17",
+                    "age"	: "38",
+                    "born"	: "03/02/78",
+                    "hometown"	: "Daytona Bleach, Fla.",
+                    "height"	: "6-1",
+                    "weight"	: "258",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Sebastian-Janikowski/9469ace1-7efb-45d9-9194-b98647252cb8"
+              },
+           
+              {
+                    "id"	: "8d284a60-bfc6-4abe-8921-15990dda1de5",
+                    "fname"	: "Clive",
+                    "lname"	: "Walford",
+                    "teamNumber"	:  "88",
+                    "position"	: "TE",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "10/21/91",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "258",
+                    "college"	: "Miami (Fla.)",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Clive-Walford/8d284a60-bfc6-4abe-8921-15990dda1de5"
+              },
+           
+              {
+                    "id"	: "e511d178-ce35-4938-9183-2b4ee2828364",
+                    "fname"	: "Justin",
+                    "lname"	: "Ellis",
+                    "teamNumber"	:  "78",
+                    "position"	: "DT",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "12/27/90",
+                    "hometown"	: "Monroe, La.",
+                    "height"	: "6-2",
+                    "weight"	: "334",
+                    "college"	: "Louisiana Tech",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Justin-Ellis/e511d178-ce35-4938-9183-2b4ee2828364"
+              },
+           
+              {
+                    "id"	: "18528d66-ba1e-4cc6-8292-baf3d590d4a5",
+                    "fname"	: "Daren",
+                    "lname"	: "Bates",
+                    "teamNumber"	:  "56",
+                    "position"	: "LB",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "11/27/90",
+                    "hometown"	: "Memphis, TN",
+                    "height"	: "5-11",
+                    "weight"	: "225",
+                    "college"	: "Auburn",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Daren-Bates/18528d66-ba1e-4cc6-8292-baf3d590d4a5"
+              },
+           
+              {
+                    "id"	: "0ac530ac-4a2f-4ced-b276-b88874609761",
+                    "fname"	: "Gabe",
+                    "lname"	: "Jackson",
+                    "teamNumber"	:  "66",
+                    "position"	: "G",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "07/12/91",
+                    "hometown"	: "Liberty, Miss.",
+                    "height"	: "6-3",
+                    "weight"	: "336",
+                    "college"	: "Mississippi State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Gabe-Jackson/0ac530ac-4a2f-4ced-b276-b88874609761"
+              },
+           
+              {
+                    "id"	: "8b94ea66-b1f3-4236-820f-3e48a55481fa",
+                    "fname"	: "Brynden",
+                    "lname"	: "Trawick",
+                    "teamNumber"	:  "41",
+                    "position"	: "S",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "10/23/89",
+                    "hometown"	: "Marietta, GA",
+                    "height"	: "6-2",
+                    "weight"	: "225",
+                    "college"	: "Troy",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brynden-Trawick/8b94ea66-b1f3-4236-820f-3e48a55481fa"
+              },
+           
+              {
+                    "id"	: "b0b83308-af9f-491c-81f4-1f41ea0d38b4",
+                    "fname"	: "DeAndré",
+                    "lname"	: "Washington",
+                    "teamNumber"	:  "33",
+                    "position"	: "RB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "02/22/93",
+                    "hometown"	: "Houston, TX",
+                    "height"	: "5-8",
+                    "weight"	: "204",
+                    "college"	: "Texas Tech",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/DeAndré-Washington/b0b83308-af9f-491c-81f4-1f41ea0d38b4"
+              },
+           
+              {
+                    "id"	: "e68cdbd1-a8ff-42d4-b3f7-7b6a1b211efb",
+                    "fname"	: "Mychal",
+                    "lname"	: "Rivera",
+                    "teamNumber"	:  "81",
+                    "position"	: "TE",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "09/08/90",
+                    "hometown"	: "Valencia, Calif.",
+                    "height"	: "6-3",
+                    "weight"	: "245",
+                    "college"	: "Tennessee",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Mychal-Rivera/e68cdbd1-a8ff-42d4-b3f7-7b6a1b211efb"
+              },
+           
+              {
+                    "id"	: "9018abb9-48b8-4d7d-821c-be42201100f3",
+                    "fname"	: "Connor",
+                    "lname"	: "Cook",
+                    "teamNumber"	:  "8",
+                    "position"	: "QB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "01/29/93",
+                    "hometown"	: "Hinckley, OH",
+                    "height"	: "6-4",
+                    "weight"	: "217",
+                    "college"	: "Michigan St.",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Connor-Cook/9018abb9-48b8-4d7d-821c-be42201100f3"
+              },
+           
+              {
+                    "id"	: "874d9d4a-9239-48fe-98cb-25993cb019ff",
+                    "fname"	: "Vadal",
+                    "lname"	: "Alexander",
+                    "teamNumber"	:  "74",
+                    "position"	: "G",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "03/23/94",
+                    "hometown"	: "New Orleans, LA",
+                    "height"	: "6-5",
+                    "weight"	: "326",
+                    "college"	: "LSU",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Vadal-Alexander/874d9d4a-9239-48fe-98cb-25993cb019ff"
+              },
+           
+              {
+                    "id"	: "d8c27fca-31d9-4cd2-9f04-ea4c0517b5a3",
+                    "fname"	: "Stacy",
+                    "lname"	: "McGee",
+                    "teamNumber"	:  "92",
+                    "position"	: "DT",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "01/17/90",
+                    "hometown"	: "Muskogee, Okla.",
+                    "height"	: "6-3",
+                    "weight"	: "310",
+                    "college"	: "Oklahoma",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Stacy-McGee/d8c27fca-31d9-4cd2-9f04-ea4c0517b5a3"
+              },
+           
+              {
+                    "id"	: "ae5eddcc-a6ec-46ba-b533-374e5dfce724",
+                    "fname"	: "Denico",
+                    "lname"	: "Autry",
+                    "teamNumber"	:  "96",
+                    "position"	: "DL",
+                    "experience"	:  "3",
+                    "age"	: "26",
+                    "born"	: "07/15/90",
+                    "hometown"	: "",
+                    "height"	: "6-5",
+                    "weight"	: "273",
+                    "college"	: "Mississippi State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Denico-Autry/ae5eddcc-a6ec-46ba-b533-374e5dfce724"
+              },
+           
+              {
+                    "id"	: "0b2965c1-d28b-4f6d-87cf-1c942a4d4122",
+                    "fname"	: "Cory",
+                    "lname"	: "James",
+                    "teamNumber"	:  "57",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "05/22/93",
+                    "hometown"	: "Del Rico, TX",
+                    "height"	: "6-0",
+                    "weight"	: "229",
+                    "college"	: "Colorado St.",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Cory-James/0b2965c1-d28b-4f6d-87cf-1c942a4d4122"
+              },
+           
+              {
+                    "id"	: "5284d4a6-7762-4808-bdf9-984891b9573d",
+                    "fname"	: "Andre",
+                    "lname"	: "Holmes",
+                    "teamNumber"	:  "18",
+                    "position"	: "WR",
+                    "experience"	:  "5",
+                    "age"	: "28",
+                    "born"	: "06/16/88",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "210",
+                    "college"	: "Hillsdale",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Andre-Holmes/5284d4a6-7762-4808-bdf9-984891b9573d"
+              },
+           
+              {
+                    "id"	: "3c97f344-14af-4bce-a39e-34d7f505ef50",
+                    "fname"	: "Sean",
+                    "lname"	: "Smith",
+                    "teamNumber"	:  "21",
+                    "position"	: "CB",
+                    "experience"	:  "8",
+                    "age"	: "29",
+                    "born"	: "07/14/87",
+                    "hometown"	: "Pasadena, CA",
+                    "height"	: "6-3",
+                    "weight"	: "218",
+                    "college"	: "Utah",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Sean-Smith/3c97f344-14af-4bce-a39e-34d7f505ef50"
+              },
+           
+              {
+                    "id"	: "160157f3-b906-4e39-b60e-2e18debb3bfe",
+                    "fname"	: "Keith",
+                    "lname"	: "McGill II",
+                    "teamNumber"	:  "39",
+                    "position"	: "DB",
+                    "experience"	:  "3",
+                    "age"	: "27",
+                    "born"	: "03/09/89",
+                    "hometown"	: "La Mirada, Calif.",
+                    "height"	: "6-3",
+                    "weight"	: "211",
+                    "college"	: "Utah",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Keith-McGill II/160157f3-b906-4e39-b60e-2e18debb3bfe"
+              },
+           
+              {
+                    "id"	: "50d52821-5dbf-4347-9a09-06fd8ba66a73",
+                    "fname"	: "Amari",
+                    "lname"	: "Cooper",
+                    "teamNumber"	:  "89",
+                    "position"	: "WR",
+                    "experience"	:  "2",
+                    "age"	: "22",
+                    "born"	: "06/18/94",
+                    "hometown"	: "",
+                    "height"	: "6-1",
+                    "weight"	: "211",
+                    "college"	: "Alabama",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Amari-Cooper/50d52821-5dbf-4347-9a09-06fd8ba66a73"
+              },
+           
+              {
+                    "id"	: "b5a72914-8c7a-40ed-b1b4-88569f9b4081",
+                    "fname"	: "Jamize",
+                    "lname"	: "Olawale",
+                    "teamNumber"	:  "49",
+                    "position"	: "FB",
+                    "experience"	:  "4",
+                    "age"	: "27",
+                    "born"	: "04/17/89",
+                    "hometown"	: "",
+                    "height"	: "6-1",
+                    "weight"	: "240",
+                    "college"	: "North Texas",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jamize-Olawale/b5a72914-8c7a-40ed-b1b4-88569f9b4081"
+              },
+           
+              {
+                    "id"	: "5294bec9-0af1-411d-838c-96dc9da474c1",
+                    "fname"	: "Seth",
+                    "lname"	: "Roberts",
+                    "teamNumber"	:  "10",
+                    "position"	: "WR",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "02/22/91",
+                    "hometown"	: "Moultrie, GA",
+                    "height"	: "6-2",
+                    "weight"	: "195",
+                    "college"	: "West Alabama",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Seth-Roberts/5294bec9-0af1-411d-838c-96dc9da474c1"
+              },
+           
+              {
+                    "id"	: "dc5af2c2-9016-4283-a004-70ad7dbdb862",
+                    "fname"	: "Dexter",
+                    "lname"	: "McDonald",
+                    "teamNumber"	:  "23",
+                    "position"	: "CB",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "11/30/91",
+                    "hometown"	: "Kansas City, MO",
+                    "height"	: "6-1",
+                    "weight"	: "200",
+                    "college"	: "Kansas",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Dexter-McDonald/dc5af2c2-9016-4283-a004-70ad7dbdb862"
+              },
+           
+              {
+                    "id"	: "f2985632-0698-4927-b9ec-5ec1a7a00d75",
+                    "fname"	: "Matt",
+                    "lname"	: "McCants",
+                    "teamNumber"	:  "73",
+                    "position"	: "OL",
+                    "experience"	:  "4",
+                    "age"	: "27",
+                    "born"	: "08/18/89",
+                    "hometown"	: "Mobile, AL",
+                    "height"	: "6-5",
+                    "weight"	: "309",
+                    "college"	: "Alabama-Birmingham",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matt-McCants/f2985632-0698-4927-b9ec-5ec1a7a00d75"
+              },
+           
+              {
+                    "id"	: "13aaece1-085f-4755-b476-3eb6e3cdae7a",
+                    "fname"	: "Khalil",
+                    "lname"	: "Mack",
+                    "teamNumber"	:  "52",
+                    "position"	: "DE",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "02/22/91",
+                    "hometown"	: "Fort Pierce, Fla.",
+                    "height"	: "6-3",
+                    "weight"	: "252",
+                    "college"	: "Buffalo",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Khalil-Mack/13aaece1-085f-4755-b476-3eb6e3cdae7a"
+              },
+           
+              {
+                    "id"	: "da09a49b-1367-4ed2-93ce-e8f68cb24f6f",
+                    "fname"	: "Jon",
+                    "lname"	: "Condo",
+                    "teamNumber"	:  "59",
+                    "position"	: "LS",
+                    "experience"	:  "10",
+                    "age"	: "35",
+                    "born"	: "08/26/81",
+                    "hometown"	: "Philipsburg, Pa.",
+                    "height"	: "6-3",
+                    "weight"	: "240",
+                    "college"	: "Maryland",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jon-Condo/da09a49b-1367-4ed2-93ce-e8f68cb24f6f"
+              },
+           
+              {
+                    "id"	: "611d05c9-b2d1-4479-95a8-fe1637445956",
+                    "fname"	: "Bruce",
+                    "lname"	: "Irvin",
+                    "teamNumber"	:  "51",
+                    "position"	: "OLB",
+                    "experience"	:  "5",
+                    "age"	: "28",
+                    "born"	: "11/01/87",
+                    "hometown"	: "Atlanta, GA",
+                    "height"	: "6-3",
+                    "weight"	: "260",
+                    "college"	: "West Virginia",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Bruce-Irvin/611d05c9-b2d1-4479-95a8-fe1637445956"
+              },
+           
+              {
+                    "id"	: "57cce4b1-c5a0-4a5e-81cb-8db12a3f5812",
+                    "fname"	: "Reggie",
+                    "lname"	: "Nelson",
+                    "teamNumber"	:  "27",
+                    "position"	: "S",
+                    "experience"	:  "10",
+                    "age"	: "32",
+                    "born"	: "09/21/83",
+                    "hometown"	: "Melbourne, FL",
+                    "height"	: "5-11",
+                    "weight"	: "210",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Reggie-Nelson/57cce4b1-c5a0-4a5e-81cb-8db12a3f5812"
+              },
+           
+              {
+                    "id"	: "102bf74d-5a84-4c51-9270-b9389e07c07b",
+                    "fname"	: "Nate",
+                    "lname"	: "Allen",
+                    "teamNumber"	:  "20",
+                    "position"	: "S",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "11/30/87",
+                    "hometown"	: "Fort Myers, FL",
+                    "height"	: "6-1",
+                    "weight"	: "210",
+                    "college"	: "South Florida",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nate-Allen/102bf74d-5a84-4c51-9270-b9389e07c07b"
+              },
+           
+              {
+                    "id"	: "6df1b490-0a5e-446b-8b68-a61d2b5f508d",
+                    "fname"	: "Shilique",
+                    "lname"	: "Calhoun",
+                    "teamNumber"	:  "91",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "03/20/92",
+                    "hometown"	: "Middletown Township, NJ",
+                    "height"	: "6-4",
+                    "weight"	: "251",
+                    "college"	: "Michigan State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Shilique-Calhoun/6df1b490-0a5e-446b-8b68-a61d2b5f508d"
+              },
+           
+              {
+                    "id"	: "3192c4b7-f443-4202-8676-aae0e8dd04e7",
+                    "fname"	: "Matt",
+                    "lname"	: "McGloin",
+                    "teamNumber"	:  "14",
+                    "position"	: "QB",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "12/02/89",
+                    "hometown"	: "Scranton, Pa.",
+                    "height"	: "6-1",
+                    "weight"	: "210",
+                    "college"	: "Penn State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matt-McGloin/3192c4b7-f443-4202-8676-aae0e8dd04e7"
+              },
+           
+              {
+                    "id"	: "4a84cb36-1fc9-4f4e-85d8-f08c21875ad5",
+                    "fname"	: "David",
+                    "lname"	: "Amerson",
+                    "teamNumber"	:  "29",
+                    "position"	: "CB",
+                    "experience"	:  "4",
+                    "age"	: "24",
+                    "born"	: "12/08/91",
+                    "hometown"	: "Honolulu, HI",
+                    "height"	: "6-1",
+                    "weight"	: "205",
+                    "college"	: "North Carolina State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/David-Amerson/4a84cb36-1fc9-4f4e-85d8-f08c21875ad5"
+              },
+           
+              {
+                    "id"	: "ee9c6d98-93d3-4e5a-970b-fe94d6aa4999",
+                    "fname"	: "Michael",
+                    "lname"	: "Crabtree",
+                    "teamNumber"	:  "15",
+                    "position"	: "WR",
+                    "experience"	:  "8",
+                    "age"	: "28",
+                    "born"	: "09/14/87",
+                    "hometown"	: "Dallas, TX",
+                    "height"	: "6-1",
+                    "weight"	: "214",
+                    "college"	: "Texas Tech",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Michael-Crabtree/ee9c6d98-93d3-4e5a-970b-fe94d6aa4999"
+              },
+           
+              {
+                    "id"	: "75ed6316-016b-47e1-a889-dc7e521cb1ba",
+                    "fname"	: "Jon",
+                    "lname"	: "Feliciano",
+                    "teamNumber"	:  "76",
+                    "position"	: "OL",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "02/10/92",
+                    "hometown"	: "Davie, FL",
+                    "height"	: "6-4",
+                    "weight"	: "323",
+                    "college"	: "Miami (Fla.)",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jon-Feliciano/75ed6316-016b-47e1-a889-dc7e521cb1ba"
+              },
+           
+              {
+                    "id"	: "a9b93532-85b6-4347-984e-36bfd70f35fb",
+                    "fname"	: "DJ",
+                    "lname"	: "Hayden",
+                    "teamNumber"	:  "25",
+                    "position"	: "CB",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "06/27/90",
+                    "hometown"	: "Houston, Texas",
+                    "height"	: "5-11",
+                    "weight"	: "190",
+                    "college"	: "Houston",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/DJ-Hayden/a9b93532-85b6-4347-984e-36bfd70f35fb"
+              },
+           
+              {
+                    "id"	: "b563a3f9-3ece-4b65-bcc5-ee2fec6f9a65",
+                    "fname"	: "Derek",
+                    "lname"	: "Carr",
+                    "teamNumber"	:  "4",
+                    "position"	: "QB",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "03/28/91",
+                    "hometown"	: "Bakersfield, Calif.",
+                    "height"	: "6-3",
+                    "weight"	: "214",
+                    "college"	: "Fresno State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Derek-Carr/b563a3f9-3ece-4b65-bcc5-ee2fec6f9a65"
+              },
+           
+              {
+                    "id"	: "5fd1fbb7-6b51-4815-842d-aeb40dcad784",
+                    "fname"	: "Kelechi",
+                    "lname"	: "Osemele",
+                    "teamNumber"	:  "70",
+                    "position"	: "OL",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "06/24/89",
+                    "hometown"	: "Houston, TX",
+                    "height"	: "6-5",
+                    "weight"	: "330",
+                    "college"	: "Iowa State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kelechi-Osemele/5fd1fbb7-6b51-4815-842d-aeb40dcad784"
+              },
+           
+              {
+                    "id"	: "f8dbcd74-1f9c-469f-ac81-7a001eff6537",
+                    "fname"	: "Menelik",
+                    "lname"	: "Watson",
+                    "teamNumber"	:  "71",
+                    "position"	: "T",
+                    "experience"	:  "4",
+                    "age"	: "27",
+                    "born"	: "12/22/88",
+                    "hometown"	: "Manchester, England",
+                    "height"	: "6-5",
+                    "weight"	: "315",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Menelik-Watson/f8dbcd74-1f9c-469f-ac81-7a001eff6537"
+              },
+           
+              {
+                    "id"	: "f6e2bb06-7540-44de-9d28-e0565bfc722c",
+                    "fname"	: "Ben",
+                    "lname"	: "Heeney",
+                    "teamNumber"	:  "50",
+                    "position"	: "LB",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "12/10/92",
+                    "hometown"	: "Overland Park, KS",
+                    "height"	: "6-0",
+                    "weight"	: "231",
+                    "college"	: "Kansas",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ben-Heeney/f6e2bb06-7540-44de-9d28-e0565bfc722c"
+              },
+           
+              {
+                    "id"	: "14db34ed-b61a-403b-b2a7-3b9ec95af1fc",
+                    "fname"	: "Jalen",
+                    "lname"	: "Richard",
+                    "teamNumber"	:  "30",
+                    "position"	: "RB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "10/15/93",
+                    "hometown"	: "Baton Rouge, LA",
+                    "height"	: "5-8",
+                    "weight"	: "207",
+                    "college"	: "Southern Mississippi",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jalen-Richard/14db34ed-b61a-403b-b2a7-3b9ec95af1fc"
+              },
+           
+              {
+                    "id"	: "579cb358-8263-4a86-867a-a175e2f41851",
+                    "fname"	: "Donald",
+                    "lname"	: "Penn",
+                    "teamNumber"	:  "72",
+                    "position"	: "T",
+                    "experience"	:  "11",
+                    "age"	: "33",
+                    "born"	: "04/27/83",
+                    "hometown"	: "Inglewood, Calif.",
+                    "height"	: "6-4",
+                    "weight"	: "340",
+                    "college"	: "Utah State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Donald-Penn/579cb358-8263-4a86-867a-a175e2f41851"
+              },
+           
+              {
+                    "id"	: "5afd6095-d349-424d-80f1-abb5ec362b7f",
+                    "fname"	: "Darius",
+                    "lname"	: "Latham",
+                    "teamNumber"	:  "75",
+                    "position"	: "DT",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "11/09/94",
+                    "hometown"	: "",
+                    "height"	: "6-5",
+                    "weight"	: "305",
+                    "college"	: "Indiana",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Darius-Latham/5afd6095-d349-424d-80f1-abb5ec362b7f"
+              },
+           
+              {
+                    "id"	: "76d368ac-9f4b-4bde-b5f6-01032d4f9be2",
+                    "fname"	: "TJ",
+                    "lname"	: "Carrie",
+                    "teamNumber"	:  "38",
+                    "position"	: "CB",
+                    "experience"	:  "3",
+                    "age"	: "26",
+                    "born"	: "07/28/90",
+                    "hometown"	: "Antioch, Calif.",
+                    "height"	: "6-0",
+                    "weight"	: "204",
+                    "college"	: "Ohio",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/TJ-Carrie/76d368ac-9f4b-4bde-b5f6-01032d4f9be2"
+              },
+           
+              {
+                    "id"	: "d5ff687d-01a6-4830-8ca7-9e4ad4dd8409",
+                    "fname"	: "Taiwan",
+                    "lname"	: "Jones",
+                    "teamNumber"	:  "22",
+                    "position"	: "RB",
+                    "experience"	:  "6",
+                    "age"	: "28",
+                    "born"	: "07/26/88",
+                    "hometown"	: "Antioch, Calif.",
+                    "height"	: "6-0",
+                    "weight"	: "195",
+                    "college"	: "Eastern Washington",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Taiwan-Jones/d5ff687d-01a6-4830-8ca7-9e4ad4dd8409"
+              },
+           
+              {
+                    "id"	: "46044cff-f534-4bfa-af45-9afb3944461f",
+                    "fname"	: "Karl",
+                    "lname"	: "Joseph",
+                    "teamNumber"	:  "42",
+                    "position"	: "S",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "09/08/93",
+                    "hometown"	: "",
+                    "height"	: "5-10",
+                    "weight"	: "205",
+                    "college"	: "West Virginia",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Karl-Joseph/46044cff-f534-4bfa-af45-9afb3944461f"
+              },
+           
+              {
+                    "id"	: "e29f9127-c991-48bb-97b9-e7e51f8baa3d",
+                    "fname"	: "Johnny",
+                    "lname"	: "Holton",
+                    "teamNumber"	:  "16",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "25",
+                    "born"	: "08/22/91",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "190",
+                    "college"	: "Cincinnati",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Johnny-Holton/e29f9127-c991-48bb-97b9-e7e51f8baa3d"
+              },
+           
+              {
+                    "id"	: "1c688fe0-33d0-41db-bd13-c53d1f0dae0b",
+                    "fname"	: "Rodney",
+                    "lname"	: "Hudson",
+                    "teamNumber"	:  "61",
+                    "position"	: "C",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "07/12/89",
+                    "hometown"	: "Mobile, AL",
+                    "height"	: "6-2",
+                    "weight"	: "300",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Rodney-Hudson/1c688fe0-33d0-41db-bd13-c53d1f0dae0b"
+              },
+           
+              {
+                    "id"	: "375ff718-dc24-4300-8e44-02e81e6a1c9b",
+                    "fname"	: "Antonio",
+                    "lname"	: "Hamilton",
+                    "teamNumber"	:  "32",
+                    "position"	: "CB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "01/24/93",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "185",
+                    "college"	: "South Carolina State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Antonio-Hamilton/375ff718-dc24-4300-8e44-02e81e6a1c9b"
+              },
+           
+              {
+                    "id"	: "b7df5b82-bb53-444f-8c8e-184389d2c725",
+                    "fname"	: "Lee",
+                    "lname"	: "Smith",
+                    "teamNumber"	:  "86",
+                    "position"	: "TE",
+                    "experience"	:  "6",
+                    "age"	: "28",
+                    "born"	: "11/21/87",
+                    "hometown"	: "Powell, TN",
+                    "height"	: "6-6",
+                    "weight"	: "265",
+                    "college"	: "Marshall",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Lee-Smith/b7df5b82-bb53-444f-8c8e-184389d2c725"
+              },
+           
+              {
+                    "id"	: "a086d55e-3612-4396-94d6-4939bd8b3441",
+                    "fname"	: "Malcolm",
+                    "lname"	: "Smith",
+                    "teamNumber"	:  "53",
+                    "position"	: "LB",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "07/05/89",
+                    "hometown"	: "Woodland Hills, CA",
+                    "height"	: "6-0",
+                    "weight"	: "226",
+                    "college"	: "USC",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Malcolm-Smith/a086d55e-3612-4396-94d6-4939bd8b3441"
+              },
+           
+              {
+                    "id"	: "4000cb63-d397-46ef-bf90-f21b879af7aa",
+                    "fname"	: "Marquette",
+                    "lname"	: "King",
+                    "teamNumber"	:  "7",
+                    "position"	: "P",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "10/26/88",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "192",
+                    "college"	: "Fort Valley State",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Marquette-King/4000cb63-d397-46ef-bf90-f21b879af7aa"
+              },
+           
+              {
+                    "id"	: "514e3018-79ab-4867-b74f-4cc48707c387",
+                    "fname"	: "Dan",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "90",
+                    "position"	: "DT",
+                    "experience"	:  "7",
+                    "age"	: "29",
+                    "born"	: "06/01/87",
+                    "hometown"	: "Memphis, TN",
+                    "height"	: "6-3",
+                    "weight"	: "315",
+                    "college"	: "Tennessee",
+                    "image"	: "http://prod.static.raiders.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Dan-Williams/514e3018-79ab-4867-b74f-4cc48707c387"
+              }
+           
+        ]
+    }

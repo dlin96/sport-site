@@ -1,0 +1,1966 @@
+ {
+    "formations" :
+        {
+        
+        "Offense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "WR",
+                        "players"	: [
+                            
+                            "f50300de-294a-4c40-a814-d439a1a34f29",
+                            
+                            "2cef8cb8-b80c-4dff-b248-d672de5d35e1",
+                            
+                            "9e80d638-89eb-493d-b3d1-7ba8de678f92",
+                            
+                            "ff8ecb7b-f868-4556-9b15-46e711221352",
+                            
+                            "6c747026-473e-4aac-9650-ddd610daed42"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LT",
+                        "players"	: [
+                            
+                            "132348eb-4e42-4a86-b08f-ef38be8c07f7",
+                            
+                            "90e11f26-1c09-4929-933b-d067fcd00102",
+                            
+                            "b1ed9806-1729-4b24-a6b5-14770f0c43a2"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LG",
+                        "players"	: [
+                            
+                            "c907cf47-822c-4a5f-a97a-bbb9f995b4d0",
+                            
+                            "a6cdc78c-c5cb-4a93-870f-d9ca913a96c3",
+                            
+                            "9c73a33f-d7ce-4f23-8d03-8a6974082474"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "C",
+                        "players"	: [
+                            
+                            "adbf4cb6-d3de-4ddc-96dd-bca28bdd9203",
+                            
+                            "983c47c2-392a-487e-bec9-fa400072bdca"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RG",
+                        "players"	: [
+                            
+                            "61acb076-266b-4d94-8d03-b563f0f16afb",
+                            
+                            "f5152152-18e9-4b25-9083-03d92f9e9e42",
+                            
+                            "4dba81e8-6f47-44ec-8c45-d56fa602ed0b"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RT",
+                        "players"	: [
+                            
+                            "406baa46-dcbd-4b15-99b3-c14c71db9a61",
+                            
+                            "1e9a811a-a6c9-4c78-adef-86b912490029",
+                            
+                            "5595fd12-1ed2-4f5c-bd41-b2db3713e385"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "TE",
+                        "players"	: [
+                            
+                            "c244144f-5664-449e-92af-4ddc564e5d4b",
+                            
+                            "4a11ad03-99f7-4436-973a-0e2959731e45",
+                            
+                            "dac3453f-a98a-4e4b-ba63-eae0e2808841",
+                            
+                            "2c96d373-aa73-4ac0-b888-19870995d83e",
+                            
+                            "c99e9dd6-fd95-40b1-8ce6-686f40035c7d",
+                            
+                            "c0ee44e3-fe98-43fc-9855-4826a4c80b64",
+                            
+                            "0fc5641c-d35b-43a8-b87d-f6997910df9e",
+                            
+                            "6bfda690-6cc9-4153-bc95-7ed84e36ad3c"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WR",
+                        "players"	: [
+                            
+                            "25a92123-778e-43e2-a6d1-647158d8f875",
+                            
+                            "9d0077cc-ab03-4746-bca0-b0d9a501a793",
+                            
+                            "20d320d7-d68a-42cc-bdc2-5987967c90b1",
+                            
+                            "bab04d8b-02ae-43a2-ae92-03209fd8a914",
+                            
+                            "041fdf9a-6b28-4845-9bec-f0cf287652f9",
+                            
+                            "d1daec5a-fb4e-4a22-87b4-fa171f1cdbb6"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "QB",
+                        "players"	: [
+                            
+                            "6729b028-3d95-445f-a139-7ffb2fb0018c",
+                            
+                            "5c5914a1-0994-464c-8443-b78a26677d2c",
+                            
+                            "996ee6aa-ad5f-4806-ab40-1a4ec4353e73"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RB",
+                        "players"	: [
+                            
+                            "692b2d96-cbb9-4893-9f98-cae62e80932d",
+                            
+                            "9c053643-bc1e-4537-bc01-f89b44b45fd0",
+                            
+                            "09aeeca5-9d1b-4845-8b42-34c34acd909b"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RB",
+                        "players"	: [
+                            
+                            "32bbe3f5-1064-44d2-bd44-d010615dad84",
+                            
+                            "e8db97a1-38b8-4ce0-a729-db3e7aee2f05",
+                            
+                            "1566e78c-c7a3-4a79-afa6-eb70186f5373"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Defense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "DE",
+                        "players"	: [
+                            
+                            "148b9aa3-8e71-4b9f-bd60-9286624e3925",
+                            
+                            "e6960ebb-fca6-4a89-8d1a-09c04b7e9367",
+                            
+                            "38fbbdfa-f493-4649-811e-50a96d70af42",
+                            
+                            "1f17383d-d7d6-451d-a596-5efcd81d84b5"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "DT",
+                        "players"	: [
+                            
+                            "300cb9f2-0378-4e3b-9f8f-a76a0ae44987",
+                            
+                            "eb79f3a7-59fe-49dc-8314-59cea25a6fec",
+                            
+                            "552908d4-15c2-42d6-985f-9c24f2423957",
+                            
+                            "bd6678ae-9843-424a-ba41-6081d39759bd"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "DT",
+                        "players"	: [
+                            
+                            "ca3420f8-6465-4c9f-ba6c-faf17dddc42e",
+                            
+                            "97ed07e7-bcbf-457e-bd58-489e1605a434",
+                            
+                            "e504fb15-76c3-4ba7-9f72-d921f0fbde61",
+                            
+                            "bf2a3c13-6980-4d57-882d-6a5675fb5c8c"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "DE",
+                        "players"	: [
+                            
+                            "a30f0069-f1b5-4419-b8bc-ebc6465f4853",
+                            
+                            "2ba85b2e-9111-4397-917a-cddf1d666c80",
+                            
+                            "a3083ee3-54b9-4642-ab03-498a895bc7f6"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "OLB",
+                        "players"	: [
+                            
+                            "317e844a-dec7-40a8-a9e4-7689f4ddf7d8",
+                            
+                            "807dc91a-492e-4e54-a4bd-d8fdce385a6e",
+                            
+                            "3cd6dbe6-f8a0-4342-80f8-0825e3c795a8"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "MLB",
+                        "players"	: [
+                            
+                            "43581cbb-fe5b-4843-829a-a0d1eb0c2cf7",
+                            
+                            "a36fcf7b-be16-416b-8e09-6c892a7f7fe0",
+                            
+                            "4dbfcd4a-d66e-410c-afa9-d721a4a757d4"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "OLB",
+                        "players"	: [
+                            
+                            "bbe3c990-8fd8-4ae4-8e29-e45d22b0f36f",
+                            
+                            "37a00414-ddda-4b7c-ad52-b05bf5f0b4e5"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "CB",
+                        "players"	: [
+                            
+                            "56b7e50b-16b4-4140-98e3-5f96ad55e912",
+                            
+                            "d2d121b5-dac1-4388-80fa-7519c105b48f",
+                            
+                            "37db15e9-4c07-484c-b74c-ed7cd8715bf8",
+                            
+                            "5c104182-33c9-4fb9-9ef3-8b2a014b1255",
+                            
+                            "231ec739-4180-4379-8e40-b19d336619d0"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "CB",
+                        "players"	: [
+                            
+                            "b8527b94-c3ad-4558-8c09-e19bedc36a51",
+                            
+                            "c1551fc0-927d-4377-8252-89f5418741ae",
+                            
+                            "21a1cd20-1411-47c9-9a07-301c1a7f1e4a",
+                            
+                            "9fba93f0-2148-4043-84f3-5144af0d1ca7",
+                            
+                            "6b84628f-c588-4427-854f-4883d01c1d79"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "SS",
+                        "players"	: [
+                            
+                            "991fbd0f-34eb-4326-bd7c-800329fe54e2",
+                            
+                            "0a116738-88ae-42aa-b1e9-b5dcaba88ebb",
+                            
+                            "8a8e9a00-70a7-45a1-95fc-fcee7f54f9c8"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "FS",
+                        "players"	: [
+                            
+                            "50d4013b-9155-4700-a1ae-d531c8ba7e08",
+                            
+                            "9bbc72f5-0f80-4e2d-9569-c5d79c0387a8",
+                            
+                            "750e1a1d-0382-45ca-beb5-df0f57ef399d",
+                            
+                            "ae330b20-cebd-440e-92e5-f3da619e18b6"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Special Teams" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "PK",
+                        "players"	: [
+                            
+                            "bd107bf2-4e3d-43f6-b7d3-c0f16d1395c7"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "H",
+                        "players"	: [
+                            
+                            "1ee6c633-e135-4233-b9f9-2e4164a274b9"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "KO",
+                        "players"	: [
+                            
+                            "bd107bf2-4e3d-43f6-b7d3-c0f16d1395c7",
+                            
+                            "1ee6c633-e135-4233-b9f9-2e4164a274b9"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "P",
+                        "players"	: [
+                            
+                            "1ee6c633-e135-4233-b9f9-2e4164a274b9"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LS",
+                        "players"	: [
+                            
+                            "304801c0-2a1f-4905-afd8-b9f532d74e88"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "PR",
+                        "players"	: [
+                            
+                            "f50300de-294a-4c40-a814-d439a1a34f29",
+                            
+                            "9d0077cc-ab03-4746-bca0-b0d9a501a793",
+                            
+                            "5c104182-33c9-4fb9-9ef3-8b2a014b1255",
+                            
+                            "ff8ecb7b-f868-4556-9b15-46e711221352",
+                            
+                            "9e80d638-89eb-493d-b3d1-7ba8de678f92",
+                            
+                            "20d320d7-d68a-42cc-bdc2-5987967c90b1"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "KR",
+                        "players"	: [
+                            
+                            "e8db97a1-38b8-4ce0-a729-db3e7aee2f05",
+                            
+                            "9d0077cc-ab03-4746-bca0-b0d9a501a793",
+                            
+                            "5c104182-33c9-4fb9-9ef3-8b2a014b1255",
+                            
+                            "ff8ecb7b-f868-4556-9b15-46e711221352",
+                            
+                            "9e80d638-89eb-493d-b3d1-7ba8de678f92",
+                            
+                            "20d320d7-d68a-42cc-bdc2-5987967c90b1"
+                            
+                        ]
+                        }
+                    
+                    ]
+              }
+
+        
+        },
+        "players" : [
+          
+              {
+                    "id"	: "25a92123-778e-43e2-a6d1-647158d8f875",
+                    "fname"	: "Marvin",
+                    "lname"	: "Jones Jr.",
+                    "teamNumber"	:  "11",
+                    "position"	: "WR",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "03/12/90",
+                    "hometown"	: "Fontana, CA",
+                    "height"	: "6-2",
+                    "weight"	: "198",
+                    "college"	: "California",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Marvin-Jones Jr./25a92123-778e-43e2-a6d1-647158d8f875"
+              },
+           
+              {
+                    "id"	: "6729b028-3d95-445f-a139-7ffb2fb0018c",
+                    "fname"	: "Matthew",
+                    "lname"	: "Stafford",
+                    "teamNumber"	:  "9",
+                    "position"	: "QB",
+                    "experience"	:  "9",
+                    "age"	: "29",
+                    "born"	: "02/07/88",
+                    "hometown"	: "Highland Park, TX",
+                    "height"	: "6-3",
+                    "weight"	: "220",
+                    "college"	: "Georgia",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matthew-Stafford/6729b028-3d95-445f-a139-7ffb2fb0018c"
+              },
+           
+              {
+                    "id"	: "0fc5641c-d35b-43a8-b87d-f6997910df9e",
+                    "fname"	: "Tim",
+                    "lname"	: "Wright",
+                    "teamNumber"	:  "82",
+                    "position"	: "TE",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "04/07/90",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "245",
+                    "college"	: "Rutgers",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tim-Wright/0fc5641c-d35b-43a8-b87d-f6997910df9e"
+              },
+           
+              {
+                    "id"	: "231ec739-4180-4379-8e40-b19d336619d0",
+                    "fname"	: "Tramain",
+                    "lname"	: "Jacobs",
+                    "teamNumber"	:  "46",
+                    "position"	: "CB",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "05/20/92",
+                    "hometown"	: "Overland Park, KS",
+                    "height"	: "5-11",
+                    "weight"	: "190",
+                    "college"	: "Texas A&M",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tramain-Jacobs/231ec739-4180-4379-8e40-b19d336619d0"
+              },
+           
+              {
+                    "id"	: "37db15e9-4c07-484c-b74c-ed7cd8715bf8",
+                    "fname"	: "Johnson",
+                    "lname"	: "Bademosi",
+                    "teamNumber"	:  "29",
+                    "position"	: "CB",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "07/23/90",
+                    "hometown"	: "Silver Spring, MD",
+                    "height"	: "6-0",
+                    "weight"	: "206",
+                    "college"	: "Stanford",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Johnson-Bademosi/37db15e9-4c07-484c-b74c-ed7cd8715bf8"
+              },
+           
+              {
+                    "id"	: "4a11ad03-99f7-4436-973a-0e2959731e45",
+                    "fname"	: "Darren",
+                    "lname"	: "Fells",
+                    "teamNumber"	:  "87",
+                    "position"	: "TE",
+                    "experience"	:  "4",
+                    "age"	: "31",
+                    "born"	: "04/22/86",
+                    "hometown"	: "Fullerton, CA",
+                    "height"	: "6-7",
+                    "weight"	: "270",
+                    "college"	: "California-Irvine",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Darren-Fells/4a11ad03-99f7-4436-973a-0e2959731e45"
+              },
+           
+              {
+                    "id"	: "406baa46-dcbd-4b15-99b3-c14c71db9a61",
+                    "fname"	: "Rick",
+                    "lname"	: "Wagner",
+                    "teamNumber"	:  "71",
+                    "position"	: "T",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "10/21/89",
+                    "hometown"	: "West Allis, WI",
+                    "height"	: "6-6",
+                    "weight"	: "315",
+                    "college"	: "Wisconsin",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Rick-Wagner/406baa46-dcbd-4b15-99b3-c14c71db9a61"
+              },
+           
+              {
+                    "id"	: "9c053643-bc1e-4537-bc01-f89b44b45fd0",
+                    "fname"	: "Zach",
+                    "lname"	: "Zenner",
+                    "teamNumber"	:  "34",
+                    "position"	: "RB",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "09/13/91",
+                    "hometown"	: "Eagan, MN",
+                    "height"	: "5-11",
+                    "weight"	: "221",
+                    "college"	: "South Dakota State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Zach-Zenner/9c053643-bc1e-4537-bc01-f89b44b45fd0"
+              },
+           
+              {
+                    "id"	: "6b84628f-c588-4427-854f-4883d01c1d79",
+                    "fname"	: "Josh",
+                    "lname"	: "Thornton",
+                    "teamNumber"	:  "47",
+                    "position"	: "CB",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "11/24/92",
+                    "hometown"	: "West Palm, Fla.",
+                    "height"	: "5-11",
+                    "weight"	: "185",
+                    "college"	: "Southern Utah",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Josh-Thornton/6b84628f-c588-4427-854f-4883d01c1d79"
+              },
+           
+              {
+                    "id"	: "1ee6c633-e135-4233-b9f9-2e4164a274b9",
+                    "fname"	: "Kasey",
+                    "lname"	: "Redfern",
+                    "teamNumber"	:  "2",
+                    "position"	: "P",
+                    "experience"	:  "1",
+                    "age"	: "25",
+                    "born"	: "09/26/91",
+                    "hometown"	: "Jamestown, N.C.",
+                    "height"	: "6-1",
+                    "weight"	: "205",
+                    "college"	: "Wofford",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kasey-Redfern/1ee6c633-e135-4233-b9f9-2e4164a274b9"
+              },
+           
+              {
+                    "id"	: "692b2d96-cbb9-4893-9f98-cae62e80932d",
+                    "fname"	: "Ameer",
+                    "lname"	: "Abdullah",
+                    "teamNumber"	:  "21",
+                    "position"	: "RB",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "06/13/93",
+                    "hometown"	: "Homewood, AL",
+                    "height"	: "5-9",
+                    "weight"	: "203",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ameer-Abdullah/692b2d96-cbb9-4893-9f98-cae62e80932d"
+              },
+           
+              {
+                    "id"	: "c0ee44e3-fe98-43fc-9855-4826a4c80b64",
+                    "fname"	: "Robert",
+                    "lname"	: "Tonyan",
+                    "teamNumber"	:  "49",
+                    "position"	: "TE",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "04/30/94",
+                    "hometown"	: "McHenry, Ill.",
+                    "height"	: "6-5",
+                    "weight"	: "235",
+                    "college"	: "Indiana State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Robert-Tonyan/c0ee44e3-fe98-43fc-9855-4826a4c80b64"
+              },
+           
+              {
+                    "id"	: "21a1cd20-1411-47c9-9a07-301c1a7f1e4a",
+                    "fname"	: "Quandre",
+                    "lname"	: "Diggs",
+                    "teamNumber"	:  "28",
+                    "position"	: "CB",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "01/22/93",
+                    "hometown"	: "Angleton, TX",
+                    "height"	: "5-9",
+                    "weight"	: "200",
+                    "college"	: "Texas",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Quandre-Diggs/21a1cd20-1411-47c9-9a07-301c1a7f1e4a"
+              },
+           
+              {
+                    "id"	: "d1daec5a-fb4e-4a22-87b4-fa171f1cdbb6",
+                    "fname"	: "Dez",
+                    "lname"	: "Stewart",
+                    "teamNumber"	:  "18",
+                    "position"	: "WR",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "04/18/93",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "200",
+                    "college"	: "Ohio Dominican",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Dez-Stewart/d1daec5a-fb4e-4a22-87b4-fa171f1cdbb6"
+              },
+           
+              {
+                    "id"	: "f50300de-294a-4c40-a814-d439a1a34f29",
+                    "fname"	: "Golden",
+                    "lname"	: "Tate",
+                    "teamNumber"	:  "15",
+                    "position"	: "WR",
+                    "experience"	:  "8",
+                    "age"	: "29",
+                    "born"	: "08/02/88",
+                    "hometown"	: "Hendersonville, TN",
+                    "height"	: "5-10",
+                    "weight"	: "197",
+                    "college"	: "Notre Dame",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Golden-Tate/f50300de-294a-4c40-a814-d439a1a34f29"
+              },
+           
+              {
+                    "id"	: "a30f0069-f1b5-4419-b8bc-ebc6465f4853",
+                    "fname"	: "Anthony",
+                    "lname"	: "Zettel",
+                    "teamNumber"	:  "69",
+                    "position"	: "DE",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "08/09/92",
+                    "hometown"	: "West Branch, MI",
+                    "height"	: "6-4",
+                    "weight"	: "270",
+                    "college"	: "Penn State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Anthony-Zettel/a30f0069-f1b5-4419-b8bc-ebc6465f4853"
+              },
+           
+              {
+                    "id"	: "bab04d8b-02ae-43a2-ae92-03209fd8a914",
+                    "fname"	: "Noel ",
+                    "lname"	: "Thomas",
+                    "teamNumber"	:  "12",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "09/18/94",
+                    "hometown"	: "Norwalk, Conn.",
+                    "height"	: "6-1",
+                    "weight"	: "200",
+                    "college"	: "Connecticut",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Noel-Thomas/bab04d8b-02ae-43a2-ae92-03209fd8a914"
+              },
+           
+              {
+                    "id"	: "4dbfcd4a-d66e-410c-afa9-d721a4a757d4",
+                    "fname"	: "Nick",
+                    "lname"	: "Bellore",
+                    "teamNumber"	:  "43",
+                    "position"	: "LB",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "05/12/89",
+                    "hometown"	: "Whitefish Bay, Wis.",
+                    "height"	: "6-1",
+                    "weight"	: "250",
+                    "college"	: "Central Michigan",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nick-Bellore/4dbfcd4a-d66e-410c-afa9-d721a4a757d4"
+              },
+           
+              {
+                    "id"	: "20d320d7-d68a-42cc-bdc2-5987967c90b1",
+                    "fname"	: "Jared",
+                    "lname"	: "Abbrederis",
+                    "teamNumber"	:  "10",
+                    "position"	: "WR",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "12/17/90",
+                    "hometown"	: "Wautoma, WI",
+                    "height"	: "6-1",
+                    "weight"	: "195",
+                    "college"	: "Wisconsin",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jared-Abbrederis/20d320d7-d68a-42cc-bdc2-5987967c90b1"
+              },
+           
+              {
+                    "id"	: "b8527b94-c3ad-4558-8c09-e19bedc36a51",
+                    "fname"	: "Nevin",
+                    "lname"	: "Lawson",
+                    "teamNumber"	:  "24",
+                    "position"	: "CB",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "04/23/91",
+                    "hometown"	: "Lauderhill, FL",
+                    "height"	: "5-9",
+                    "weight"	: "192",
+                    "college"	: "Utah State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nevin-Lawson/b8527b94-c3ad-4558-8c09-e19bedc36a51"
+              },
+           
+              {
+                    "id"	: "32bbe3f5-1064-44d2-bd44-d010615dad84",
+                    "fname"	: "Theo",
+                    "lname"	: "Riddick",
+                    "teamNumber"	:  "25",
+                    "position"	: "RB",
+                    "experience"	:  "5",
+                    "age"	: "26",
+                    "born"	: "05/04/91",
+                    "hometown"	: "Manville, NJ",
+                    "height"	: "5-9",
+                    "weight"	: "201",
+                    "college"	: "Notre Dame",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Theo-Riddick/32bbe3f5-1064-44d2-bd44-d010615dad84"
+              },
+           
+              {
+                    "id"	: "2cef8cb8-b80c-4dff-b248-d672de5d35e1",
+                    "fname"	: "Kenny",
+                    "lname"	: "Golladay",
+                    "teamNumber"	:  "19",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "11/03/93",
+                    "hometown"	: "Chicago, IL",
+                    "height"	: "6-4",
+                    "weight"	: "213",
+                    "college"	: "Northern Illinois",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kenny-Golladay/2cef8cb8-b80c-4dff-b248-d672de5d35e1"
+              },
+           
+              {
+                    "id"	: "09aeeca5-9d1b-4845-8b42-34c34acd909b",
+                    "fname"	: "Matt",
+                    "lname"	: "Asiata",
+                    "teamNumber"	:  "41",
+                    "position"	: "RB",
+                    "experience"	:  "6",
+                    "age"	: "30",
+                    "born"	: "07/24/87",
+                    "hometown"	: "Santa Ana, Calif.",
+                    "height"	: "6-0",
+                    "weight"	: "225",
+                    "college"	: "Utah",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matt-Asiata/09aeeca5-9d1b-4845-8b42-34c34acd909b"
+              },
+           
+              {
+                    "id"	: "dac3453f-a98a-4e4b-ba63-eae0e2808841",
+                    "fname"	: "Cole",
+                    "lname"	: "Wick",
+                    "teamNumber"	:  "89",
+                    "position"	: "TE",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "11/30/93",
+                    "hometown"	: "Hallettsville, TX",
+                    "height"	: "6-6",
+                    "weight"	: "257",
+                    "college"	: "Incarnate Word",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Cole-Wick/dac3453f-a98a-4e4b-ba63-eae0e2808841"
+              },
+           
+              {
+                    "id"	: "4dba81e8-6f47-44ec-8c45-d56fa602ed0b",
+                    "fname"	: "Connor ",
+                    "lname"	: "Bozick",
+                    "teamNumber"	:  "74",
+                    "position"	: "G",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "08/17/94",
+                    "hometown"	: "Severn, MD",
+                    "height"	: "6-5",
+                    "weight"	: "310",
+                    "college"	: "Delaware",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Connor-Bozick/4dba81e8-6f47-44ec-8c45-d56fa602ed0b"
+              },
+           
+              {
+                    "id"	: "bd107bf2-4e3d-43f6-b7d3-c0f16d1395c7",
+                    "fname"	: "Matt",
+                    "lname"	: "Prater",
+                    "teamNumber"	:  "5",
+                    "position"	: "K",
+                    "experience"	:  "11",
+                    "age"	: "33",
+                    "born"	: "08/10/84",
+                    "hometown"	: "Mayfield Heights, OH",
+                    "height"	: "5-10",
+                    "weight"	: "201",
+                    "college"	: "Central Florida",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matt-Prater/bd107bf2-4e3d-43f6-b7d3-c0f16d1395c7"
+              },
+           
+              {
+                    "id"	: "9d0077cc-ab03-4746-bca0-b0d9a501a793",
+                    "fname"	: "TJ",
+                    "lname"	: "Jones",
+                    "teamNumber"	:  "13",
+                    "position"	: "WR",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "07/19/92",
+                    "hometown"	: "Roswell, GA",
+                    "height"	: "6-0",
+                    "weight"	: "190",
+                    "college"	: "Notre Dame",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/TJ-Jones/9d0077cc-ab03-4746-bca0-b0d9a501a793"
+              },
+           
+              {
+                    "id"	: "9bbc72f5-0f80-4e2d-9569-c5d79c0387a8",
+                    "fname"	: "Charles",
+                    "lname"	: "Washington",
+                    "teamNumber"	:  "45",
+                    "position"	: "S",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "03/16/93",
+                    "hometown"	: "",
+                    "height"	: "5-10",
+                    "weight"	: "192",
+                    "college"	: "Fresno State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Charles-Washington/9bbc72f5-0f80-4e2d-9569-c5d79c0387a8"
+              },
+           
+              {
+                    "id"	: "2c96d373-aa73-4ac0-b888-19870995d83e",
+                    "fname"	: "Michael ",
+                    "lname"	: "Roberts",
+                    "teamNumber"	:  "80",
+                    "position"	: "TE",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "05/07/94",
+                    "hometown"	: "Cleveland, OH",
+                    "height"	: "6-5",
+                    "weight"	: "265",
+                    "college"	: "Toledo",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Michael-Roberts/2c96d373-aa73-4ac0-b888-19870995d83e"
+              },
+           
+              {
+                    "id"	: "bf2a3c13-6980-4d57-882d-6a5675fb5c8c",
+                    "fname"	: "Derrick ",
+                    "lname"	: "Lott",
+                    "teamNumber"	:  "70",
+                    "position"	: "DT",
+                    "experience"	:  "2",
+                    "age"	: "27",
+                    "born"	: "06/18/90",
+                    "hometown"	: "Kennesaw, GA",
+                    "height"	: "6-4",
+                    "weight"	: "285",
+                    "college"	: "Chattanooga",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Derrick-Lott/bf2a3c13-6980-4d57-882d-6a5675fb5c8c"
+              },
+           
+              {
+                    "id"	: "0a116738-88ae-42aa-b1e9-b5dcaba88ebb",
+                    "fname"	: "Miles",
+                    "lname"	: "Killebrew",
+                    "teamNumber"	:  "35",
+                    "position"	: "S",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "05/10/93",
+                    "hometown"	: "Henderson, NV",
+                    "height"	: "6-2",
+                    "weight"	: "222",
+                    "college"	: "Southern Utah",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Miles-Killebrew/0a116738-88ae-42aa-b1e9-b5dcaba88ebb"
+              },
+           
+              {
+                    "id"	: "807dc91a-492e-4e54-a4bd-d8fdce385a6e",
+                    "fname"	: "Jalen",
+                    "lname"	: "Reeves-Maybin",
+                    "teamNumber"	:  "44",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "01/31/95",
+                    "hometown"	: "Clarksville, Tenn.",
+                    "height"	: "6-0",
+                    "weight"	: "230",
+                    "college"	: "Tennessee",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jalen-Reeves-Maybin/807dc91a-492e-4e54-a4bd-d8fdce385a6e"
+              },
+           
+              {
+                    "id"	: "2ba85b2e-9111-4397-917a-cddf1d666c80",
+                    "fname"	: "Armonty",
+                    "lname"	: "Bryant",
+                    "teamNumber"	:  "95",
+                    "position"	: "DE",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "05/20/90",
+                    "hometown"	: "Wichita Falls, TX",
+                    "height"	: "6-4",
+                    "weight"	: "265",
+                    "college"	: "East Central (Okla.)",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Armonty-Bryant/2ba85b2e-9111-4397-917a-cddf1d666c80"
+              },
+           
+              {
+                    "id"	: "c907cf47-822c-4a5f-a97a-bbb9f995b4d0",
+                    "fname"	: "Graham",
+                    "lname"	: "Glasgow",
+                    "teamNumber"	:  "60",
+                    "position"	: "G",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "08/19/92",
+                    "hometown"	: "Aurora, IL",
+                    "height"	: "6-6",
+                    "weight"	: "310",
+                    "college"	: "Michigan",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Graham-Glasgow/c907cf47-822c-4a5f-a97a-bbb9f995b4d0"
+              },
+           
+              {
+                    "id"	: "6bfda690-6cc9-4153-bc95-7ed84e36ad3c",
+                    "fname"	: "Scott",
+                    "lname"	: "Orndoff",
+                    "teamNumber"	:  "42",
+                    "position"	: "TE",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "12/16/93",
+                    "hometown"	: "Waynesburg, PA",
+                    "height"	: "6-4",
+                    "weight"	: "265",
+                    "college"	: "Pittsburgh",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Scott-Orndoff/6bfda690-6cc9-4153-bc95-7ed84e36ad3c"
+              },
+           
+              {
+                    "id"	: "991fbd0f-34eb-4326-bd7c-800329fe54e2",
+                    "fname"	: "Tavon",
+                    "lname"	: "Wilson",
+                    "teamNumber"	:  "32",
+                    "position"	: "S",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "03/19/90",
+                    "hometown"	: "Washington, DC",
+                    "height"	: "6-0",
+                    "weight"	: "212",
+                    "college"	: "Illinois",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tavon-Wilson/991fbd0f-34eb-4326-bd7c-800329fe54e2"
+              },
+           
+              {
+                    "id"	: "bbe3c990-8fd8-4ae4-8e29-e45d22b0f36f",
+                    "fname"	: "Antwione",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "52",
+                    "position"	: "LB",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "05/26/93",
+                    "hometown"	: "Lovejoy, GA",
+                    "height"	: "6-3",
+                    "weight"	: "245",
+                    "college"	: "Georgia Southern",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Antwione-Williams/bbe3c990-8fd8-4ae4-8e29-e45d22b0f36f"
+              },
+           
+              {
+                    "id"	: "61acb076-266b-4d94-8d03-b563f0f16afb",
+                    "fname"	: "T.J.",
+                    "lname"	: "Lang",
+                    "teamNumber"	:  "76",
+                    "position"	: "G",
+                    "experience"	:  "9",
+                    "age"	: "29",
+                    "born"	: "09/20/87",
+                    "hometown"	: "Royal Oak, MI",
+                    "height"	: "6-4",
+                    "weight"	: "315",
+                    "college"	: "Eastern Michigan",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/T.J.-Lang/61acb076-266b-4d94-8d03-b563f0f16afb"
+              },
+           
+              {
+                    "id"	: "6c747026-473e-4aac-9650-ddd610daed42",
+                    "fname"	: "Michael ",
+                    "lname"	: "Rector",
+                    "teamNumber"	:  "84",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "12/16/93",
+                    "hometown"	: "Gig Harbor, Wash.",
+                    "height"	: "6-1",
+                    "weight"	: "190",
+                    "college"	: "Stanford",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Michael-Rector/6c747026-473e-4aac-9650-ddd610daed42"
+              },
+           
+              {
+                    "id"	: "eb79f3a7-59fe-49dc-8314-59cea25a6fec",
+                    "fname"	: "Akeem",
+                    "lname"	: "Spence",
+                    "teamNumber"	:  "97",
+                    "position"	: "DT",
+                    "experience"	:  "5",
+                    "age"	: "25",
+                    "born"	: "11/29/91",
+                    "hometown"	: "Navarre, FL",
+                    "height"	: "6-1",
+                    "weight"	: "307",
+                    "college"	: "Illinois",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Akeem-Spence/eb79f3a7-59fe-49dc-8314-59cea25a6fec"
+              },
+           
+              {
+                    "id"	: "b1ed9806-1729-4b24-a6b5-14770f0c43a2",
+                    "fname"	: "Storm",
+                    "lname"	: "Norton",
+                    "teamNumber"	:  "65",
+                    "position"	: "T",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "05/16/94",
+                    "hometown"	: "Toledo, Ohio",
+                    "height"	: "6-8",
+                    "weight"	: "310",
+                    "college"	: "Toledo",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Storm-Norton/b1ed9806-1729-4b24-a6b5-14770f0c43a2"
+              },
+           
+              {
+                    "id"	: "9e80d638-89eb-493d-b3d1-7ba8de678f92",
+                    "fname"	: "Jace",
+                    "lname"	: "Billingsley",
+                    "teamNumber"	:  "16",
+                    "position"	: "WR",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "05/17/93",
+                    "hometown"	: "Winnemucca, NV",
+                    "height"	: "5-9",
+                    "weight"	: "189",
+                    "college"	: "Eastern Oregon",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jace-Billingsley/9e80d638-89eb-493d-b3d1-7ba8de678f92"
+              },
+           
+              {
+                    "id"	: "a36fcf7b-be16-416b-8e09-6c892a7f7fe0",
+                    "fname"	: "Paul",
+                    "lname"	: "Worrilow",
+                    "teamNumber"	:  "58",
+                    "position"	: "LB",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "05/01/90",
+                    "hometown"	: "Wilmington, DE",
+                    "height"	: "6-0",
+                    "weight"	: "230",
+                    "college"	: "Delaware",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Paul-Worrilow/a36fcf7b-be16-416b-8e09-6c892a7f7fe0"
+              },
+           
+              {
+                    "id"	: "e6960ebb-fca6-4a89-8d1a-09c04b7e9367",
+                    "fname"	: "Pat",
+                    "lname"	: "O'Connor",
+                    "teamNumber"	:  "96",
+                    "position"	: "DE",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "01/01/95",
+                    "hometown"	: "Chicago, IL",
+                    "height"	: "6-4",
+                    "weight"	: "270",
+                    "college"	: "Eastern Michigan",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Pat-O'Connor/e6960ebb-fca6-4a89-8d1a-09c04b7e9367"
+              },
+           
+              {
+                    "id"	: "ca3420f8-6465-4c9f-ba6c-faf17dddc42e",
+                    "fname"	: "Haloti",
+                    "lname"	: "Ngata",
+                    "teamNumber"	:  "92",
+                    "position"	: "DT",
+                    "experience"	:  "12",
+                    "age"	: "33",
+                    "born"	: "01/21/84",
+                    "hometown"	: "Salt Lake City, UT",
+                    "height"	: "6-4",
+                    "weight"	: "340",
+                    "college"	: "Oregon",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Haloti-Ngata/ca3420f8-6465-4c9f-ba6c-faf17dddc42e"
+              },
+           
+              {
+                    "id"	: "f5152152-18e9-4b25-9083-03d92f9e9e42",
+                    "fname"	: "Laken",
+                    "lname"	: "Tomlinson",
+                    "teamNumber"	:  "72",
+                    "position"	: "G",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "02/09/92",
+                    "hometown"	: "Chicago, IL",
+                    "height"	: "6-3",
+                    "weight"	: "312",
+                    "college"	: "Duke",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Laken-Tomlinson/f5152152-18e9-4b25-9083-03d92f9e9e42"
+              },
+           
+              {
+                    "id"	: "97ed07e7-bcbf-457e-bd58-489e1605a434",
+                    "fname"	: "Khyri",
+                    "lname"	: "Thornton",
+                    "teamNumber"	:  "99",
+                    "position"	: "DT",
+                    "experience"	:  "4",
+                    "age"	: "27",
+                    "born"	: "11/21/89",
+                    "hometown"	: "Panama City, FL",
+                    "height"	: "6-3",
+                    "weight"	: "315",
+                    "college"	: "Southern Mississippi",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Khyri-Thornton/97ed07e7-bcbf-457e-bd58-489e1605a434"
+              },
+           
+              {
+                    "id"	: "9c73a33f-d7ce-4f23-8d03-8a6974082474",
+                    "fname"	: "Brandon",
+                    "lname"	: "Thomas",
+                    "teamNumber"	:  "63",
+                    "position"	: "G",
+                    "experience"	:  "3",
+                    "age"	: "26",
+                    "born"	: "02/18/91",
+                    "hometown"	: "Spartanburg, SC",
+                    "height"	: "6-3",
+                    "weight"	: "317",
+                    "college"	: "Clemson",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Thomas/9c73a33f-d7ce-4f23-8d03-8a6974082474"
+              },
+           
+              {
+                    "id"	: "3cd6dbe6-f8a0-4342-80f8-0825e3c795a8",
+                    "fname"	: "Steve",
+                    "lname"	: "Longa",
+                    "teamNumber"	:  "54",
+                    "position"	: "LB",
+                    "experience"	:  "1",
+                    "age"	: "22",
+                    "born"	: "09/29/94",
+                    "hometown"	: "Saddle Brook, NJ",
+                    "height"	: "6-0",
+                    "weight"	: "240",
+                    "college"	: "Rutgers",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Steve-Longa/3cd6dbe6-f8a0-4342-80f8-0825e3c795a8"
+              },
+           
+              {
+                    "id"	: "148b9aa3-8e71-4b9f-bd60-9286624e3925",
+                    "fname"	: "Cornelius",
+                    "lname"	: "Washington",
+                    "teamNumber"	:  "90",
+                    "position"	: "DE",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "09/10/89",
+                    "hometown"	: "Hephzibah, GA",
+                    "height"	: "6-4",
+                    "weight"	: "280",
+                    "college"	: "Georgia",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Cornelius-Washington/148b9aa3-8e71-4b9f-bd60-9286624e3925"
+              },
+           
+              {
+                    "id"	: "750e1a1d-0382-45ca-beb5-df0f57ef399d",
+                    "fname"	: "Don",
+                    "lname"	: "Carey",
+                    "teamNumber"	:  "26",
+                    "position"	: "S",
+                    "experience"	:  "9",
+                    "age"	: "30",
+                    "born"	: "02/14/87",
+                    "hometown"	: "Norfolk, VA",
+                    "height"	: "5-11",
+                    "weight"	: "202",
+                    "college"	: "Norfolk State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Don-Carey/750e1a1d-0382-45ca-beb5-df0f57ef399d"
+              },
+           
+              {
+                    "id"	: "56b7e50b-16b4-4140-98e3-5f96ad55e912",
+                    "fname"	: "Darius",
+                    "lname"	: "Slay",
+                    "teamNumber"	:  "23",
+                    "position"	: "CB",
+                    "experience"	:  "5",
+                    "age"	: "26",
+                    "born"	: "01/01/91",
+                    "hometown"	: "Brunswick, GA",
+                    "height"	: "6-0",
+                    "weight"	: "190",
+                    "college"	: "Mississippi State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Darius-Slay/56b7e50b-16b4-4140-98e3-5f96ad55e912"
+              },
+           
+              {
+                    "id"	: "300cb9f2-0378-4e3b-9f8f-a76a0ae44987",
+                    "fname"	: "A'Shawn",
+                    "lname"	: "Robinson",
+                    "teamNumber"	:  "91",
+                    "position"	: "DT",
+                    "experience"	:  "2",
+                    "age"	: "22",
+                    "born"	: "03/21/95",
+                    "hometown"	: "Fort Worth, TX",
+                    "height"	: "6-4",
+                    "weight"	: "322",
+                    "college"	: "Alabama",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/A'Shawn-Robinson/300cb9f2-0378-4e3b-9f8f-a76a0ae44987"
+              },
+           
+              {
+                    "id"	: "1e9a811a-a6c9-4c78-adef-86b912490029",
+                    "fname"	: "Cornelius",
+                    "lname"	: "Lucas",
+                    "teamNumber"	:  "77",
+                    "position"	: "T",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "07/18/91",
+                    "hometown"	: "New Orleans, LA",
+                    "height"	: "6-9",
+                    "weight"	: "320",
+                    "college"	: "Kansas State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Cornelius-Lucas/1e9a811a-a6c9-4c78-adef-86b912490029"
+              },
+           
+              {
+                    "id"	: "43581cbb-fe5b-4843-829a-a0d1eb0c2cf7",
+                    "fname"	: "Jarrad",
+                    "lname"	: "Davis",
+                    "teamNumber"	:  "40",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "11/16/95",
+                    "hometown"	: "Kingsland, GA",
+                    "height"	: "6-1",
+                    "weight"	: "238",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jarrad-Davis/43581cbb-fe5b-4843-829a-a0d1eb0c2cf7"
+              },
+           
+              {
+                    "id"	: "50d4013b-9155-4700-a1ae-d531c8ba7e08",
+                    "fname"	: "Glover",
+                    "lname"	: "Quin",
+                    "teamNumber"	:  "27",
+                    "position"	: "S",
+                    "experience"	:  "9",
+                    "age"	: "31",
+                    "born"	: "01/15/86",
+                    "hometown"	: "Summit, MS",
+                    "height"	: "6-0",
+                    "weight"	: "207",
+                    "college"	: "New Mexico",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Glover-Quin/50d4013b-9155-4700-a1ae-d531c8ba7e08"
+              },
+           
+              {
+                    "id"	: "1f17383d-d7d6-451d-a596-5efcd81d84b5",
+                    "fname"	: "Giorgio",
+                    "lname"	: "Newberry",
+                    "teamNumber"	:  "57",
+                    "position"	: "DE",
+                    "experience"	:  "1",
+                    "age"	: "25",
+                    "born"	: "11/26/91",
+                    "hometown"	: "Fort Pierce, FL ",
+                    "height"	: "6-6",
+                    "weight"	: "260",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Giorgio-Newberry/1f17383d-d7d6-451d-a596-5efcd81d84b5"
+              },
+           
+              {
+                    "id"	: "9fba93f0-2148-4043-84f3-5144af0d1ca7",
+                    "fname"	: "Adairius",
+                    "lname"	: "Barnes",
+                    "teamNumber"	:  "38",
+                    "position"	: "CB",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "04/30/94",
+                    "hometown"	: "Port Gibson, MS",
+                    "height"	: "5-11",
+                    "weight"	: "188",
+                    "college"	: "Louisiana Tech ",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Adairius-Barnes/9fba93f0-2148-4043-84f3-5144af0d1ca7"
+              },
+           
+              {
+                    "id"	: "37a00414-ddda-4b7c-ad52-b05bf5f0b4e5",
+                    "fname"	: "Thurston",
+                    "lname"	: "Armbrister",
+                    "teamNumber"	:  "50",
+                    "position"	: "LB",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "12/25/92",
+                    "hometown"	: "Hollywood, FL",
+                    "height"	: "6-3",
+                    "weight"	: "235",
+                    "college"	: "Miami (Fla.)",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Thurston-Armbrister/37a00414-ddda-4b7c-ad52-b05bf5f0b4e5"
+              },
+           
+              {
+                    "id"	: "041fdf9a-6b28-4845-9bec-f0cf287652f9",
+                    "fname"	: "Dontez",
+                    "lname"	: "Ford",
+                    "teamNumber"	:  "83",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "02/03/94",
+                    "hometown"	: "McKees Rocks, Pa.",
+                    "height"	: "6-2",
+                    "weight"	: "210",
+                    "college"	: "Pittsburgh",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Dontez-Ford/041fdf9a-6b28-4845-9bec-f0cf287652f9"
+              },
+           
+              {
+                    "id"	: "996ee6aa-ad5f-4806-ab40-1a4ec4353e73",
+                    "fname"	: "Brad ",
+                    "lname"	: "Kaaya",
+                    "teamNumber"	:  "8",
+                    "position"	: "QB",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "09/03/95",
+                    "hometown"	: "Los Angeles, Calif.",
+                    "height"	: "6-4",
+                    "weight"	: "215",
+                    "college"	: "Miami",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brad-Kaaya/996ee6aa-ad5f-4806-ab40-1a4ec4353e73"
+              },
+           
+              {
+                    "id"	: "ae330b20-cebd-440e-92e5-f3da619e18b6",
+                    "fname"	: "Rolan",
+                    "lname"	: "Milligan",
+                    "teamNumber"	:  "41",
+                    "position"	: "S",
+                    "experience"	:  "1",
+                    "age"	: "23",
+                    "born"	: "08/16/94",
+                    "hometown"	: "Lake Wales, Fla.",
+                    "height"	: "5-10",
+                    "weight"	: "200",
+                    "college"	: "Toledo",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Rolan-Milligan/ae330b20-cebd-440e-92e5-f3da619e18b6"
+              },
+           
+              {
+                    "id"	: "d2d121b5-dac1-4388-80fa-7519c105b48f",
+                    "fname"	: "DJ",
+                    "lname"	: "Hayden",
+                    "teamNumber"	:  "31",
+                    "position"	: "CB",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "06/22/90",
+                    "hometown"	: "Houston, TX",
+                    "height"	: "5-11",
+                    "weight"	: "190",
+                    "college"	: "Houston",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/DJ-Hayden/d2d121b5-dac1-4388-80fa-7519c105b48f"
+              },
+           
+              {
+                    "id"	: "317e844a-dec7-40a8-a9e4-7689f4ddf7d8",
+                    "fname"	: "Tahir",
+                    "lname"	: "Whitehead",
+                    "teamNumber"	:  "59",
+                    "position"	: "LB",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "04/02/90",
+                    "hometown"	: "Newark, NJ",
+                    "height"	: "6-2",
+                    "weight"	: "241",
+                    "college"	: "Temple",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tahir-Whitehead/317e844a-dec7-40a8-a9e4-7689f4ddf7d8"
+              },
+           
+              {
+                    "id"	: "bd6678ae-9843-424a-ba41-6081d39759bd",
+                    "fname"	: "Caushaud",
+                    "lname"	: "Lyons",
+                    "teamNumber"	:  "62",
+                    "position"	: "DT",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "01/03/93",
+                    "hometown"	: "Atlanta, GA",
+                    "height"	: "6-4",
+                    "weight"	: "310",
+                    "college"	: "Tusculum",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Caushaud-Lyons/bd6678ae-9843-424a-ba41-6081d39759bd"
+              },
+           
+              {
+                    "id"	: "132348eb-4e42-4a86-b08f-ef38be8c07f7",
+                    "fname"	: "Greg",
+                    "lname"	: "Robinson",
+                    "teamNumber"	:  "73",
+                    "position"	: "T",
+                    "experience"	:  "4",
+                    "age"	: "24",
+                    "born"	: "10/21/92",
+                    "hometown"	: "Thibodaux, LA",
+                    "height"	: "6-5",
+                    "weight"	: "332",
+                    "college"	: "Auburn",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Greg-Robinson/132348eb-4e42-4a86-b08f-ef38be8c07f7"
+              },
+           
+              {
+                    "id"	: "a3083ee3-54b9-4642-ab03-498a895bc7f6",
+                    "fname"	: "Alex",
+                    "lname"	: "Barrett",
+                    "teamNumber"	:  "79",
+                    "position"	: "DE",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "03/06/94",
+                    "hometown"	: "Mesa, Ariz.",
+                    "height"	: "6-3",
+                    "weight"	: "260",
+                    "college"	: "San Diego State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Alex-Barrett/a3083ee3-54b9-4642-ab03-498a895bc7f6"
+              },
+           
+              {
+                    "id"	: "90e11f26-1c09-4929-933b-d067fcd00102",
+                    "fname"	: "Cyrus",
+                    "lname"	: "Kouandjio",
+                    "teamNumber"	:  "62",
+                    "position"	: "T",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "07/21/93",
+                    "hometown"	: "Cameroon",
+                    "height"	: "6-7",
+                    "weight"	: "325",
+                    "college"	: "Alabama",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Cyrus-Kouandjio/90e11f26-1c09-4929-933b-d067fcd00102"
+              },
+           
+              {
+                    "id"	: "adbf4cb6-d3de-4ddc-96dd-bca28bdd9203",
+                    "fname"	: "Travis",
+                    "lname"	: "Swanson",
+                    "teamNumber"	:  "64",
+                    "position"	: "C",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "01/30/91",
+                    "hometown"	: "Kingwood, TX",
+                    "height"	: "6-5",
+                    "weight"	: "304",
+                    "college"	: "Arkansas",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Travis-Swanson/adbf4cb6-d3de-4ddc-96dd-bca28bdd9203"
+              },
+           
+              {
+                    "id"	: "e8db97a1-38b8-4ce0-a729-db3e7aee2f05",
+                    "fname"	: "Dwayne",
+                    "lname"	: "Washington",
+                    "teamNumber"	:  "36",
+                    "position"	: "RB",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "04/24/94",
+                    "hometown"	: "Lakewood, CA",
+                    "height"	: "6-2",
+                    "weight"	: "223",
+                    "college"	: "Washington",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Dwayne-Washington/e8db97a1-38b8-4ce0-a729-db3e7aee2f05"
+              },
+           
+              {
+                    "id"	: "5c5914a1-0994-464c-8443-b78a26677d2c",
+                    "fname"	: "Jake",
+                    "lname"	: "Rudock",
+                    "teamNumber"	:  "14",
+                    "position"	: "QB",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "01/21/93",
+                    "hometown"	: "Weston, FL",
+                    "height"	: "6-3",
+                    "weight"	: "212",
+                    "college"	: "Michigan",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jake-Rudock/5c5914a1-0994-464c-8443-b78a26677d2c"
+              },
+           
+              {
+                    "id"	: "5595fd12-1ed2-4f5c-bd41-b2db3713e385",
+                    "fname"	: "Nick",
+                    "lname"	: "Becton",
+                    "teamNumber"	:  "67",
+                    "position"	: "T",
+                    "experience"	:  "3",
+                    "age"	: "27",
+                    "born"	: "02/11/90",
+                    "hometown"	: "Wilmington, NC",
+                    "height"	: "6-6",
+                    "weight"	: "322",
+                    "college"	: "Virginia Tech",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nick-Becton/5595fd12-1ed2-4f5c-bd41-b2db3713e385"
+              },
+           
+              {
+                    "id"	: "8a8e9a00-70a7-45a1-95fc-fcee7f54f9c8",
+                    "fname"	: "Alex",
+                    "lname"	: "Carter",
+                    "teamNumber"	:  "33",
+                    "position"	: "S",
+                    "experience"	:  "2",
+                    "age"	: "22",
+                    "born"	: "10/19/94",
+                    "hometown"	: "Ashburn, VA",
+                    "height"	: "6-0",
+                    "weight"	: "200",
+                    "college"	: "Stanford",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Alex-Carter/8a8e9a00-70a7-45a1-95fc-fcee7f54f9c8"
+              },
+           
+              {
+                    "id"	: "c1551fc0-927d-4377-8252-89f5418741ae",
+                    "fname"	: "Teez",
+                    "lname"	: "Tabor",
+                    "teamNumber"	:  "30",
+                    "position"	: "CB",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "12/31/95",
+                    "hometown"	: "Washington D.C.",
+                    "height"	: "6-0",
+                    "weight"	: "201",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Teez-Tabor/c1551fc0-927d-4377-8252-89f5418741ae"
+              },
+           
+              {
+                    "id"	: "983c47c2-392a-487e-bec9-fa400072bdca",
+                    "fname"	: "Leo",
+                    "lname"	: "Koloamatangi",
+                    "teamNumber"	:  "75",
+                    "position"	: "C",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "05/09/94",
+                    "hometown"	: "East Palo Alto, Cal.",
+                    "height"	: "6-5",
+                    "weight"	: "305",
+                    "college"	: "Hawaii",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Leo-Koloamatangi/983c47c2-392a-487e-bec9-fa400072bdca"
+              },
+           
+              {
+                    "id"	: "c99e9dd6-fd95-40b1-8ce6-686f40035c7d",
+                    "fname"	: "Khari",
+                    "lname"	: "Lee",
+                    "teamNumber"	:  "86",
+                    "position"	: "TE",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "01/16/92",
+                    "hometown"	: "Baltimore, MD",
+                    "height"	: "6-4",
+                    "weight"	: "255",
+                    "college"	: "Bowie State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Khari-Lee/c99e9dd6-fd95-40b1-8ce6-686f40035c7d"
+              },
+           
+              {
+                    "id"	: "e504fb15-76c3-4ba7-9f72-d921f0fbde61",
+                    "fname"	: "Ego",
+                    "lname"	: "Ferguson",
+                    "teamNumber"	:  "67",
+                    "position"	: "DT",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "09/22/91",
+                    "hometown"	: "Miami, FL",
+                    "height"	: "6-2",
+                    "weight"	: "300",
+                    "college"	: "LSU",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ego-Ferguson/e504fb15-76c3-4ba7-9f72-d921f0fbde61"
+              },
+           
+              {
+                    "id"	: "5c104182-33c9-4fb9-9ef3-8b2a014b1255",
+                    "fname"	: "Jamal",
+                    "lname"	: "Agnew",
+                    "teamNumber"	:  "39",
+                    "position"	: "CB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "04/03/95",
+                    "hometown"	: "San Diego, Calif.",
+                    "height"	: "5-10",
+                    "weight"	: "190",
+                    "college"	: "San Diego",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jamal-Agnew/5c104182-33c9-4fb9-9ef3-8b2a014b1255"
+              },
+           
+              {
+                    "id"	: "ff8ecb7b-f868-4556-9b15-46e711221352",
+                    "fname"	: "Keshawn",
+                    "lname"	: "Martin",
+                    "teamNumber"	:  "17",
+                    "position"	: "WR",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "03/15/90",
+                    "hometown"	: "Inkster, MI",
+                    "height"	: "5-11",
+                    "weight"	: "195",
+                    "college"	: "Michigan State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Keshawn-Martin/ff8ecb7b-f868-4556-9b15-46e711221352"
+              },
+           
+              {
+                    "id"	: "304801c0-2a1f-4905-afd8-b9f532d74e88",
+                    "fname"	: "Don",
+                    "lname"	: "Muhlbach",
+                    "teamNumber"	:  "48",
+                    "position"	: "LS",
+                    "experience"	:  "14",
+                    "age"	: "36",
+                    "born"	: "08/17/81",
+                    "hometown"	: "Lufkin, TX",
+                    "height"	: "6-4",
+                    "weight"	: "258",
+                    "college"	: "Texas A&M",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Don-Muhlbach/304801c0-2a1f-4905-afd8-b9f532d74e88"
+              },
+           
+              {
+                    "id"	: "c244144f-5664-449e-92af-4ddc564e5d4b",
+                    "fname"	: "Eric",
+                    "lname"	: "Ebron",
+                    "teamNumber"	:  "85",
+                    "position"	: "TE",
+                    "experience"	:  "4",
+                    "age"	: "24",
+                    "born"	: "04/10/93",
+                    "hometown"	: "Greensboro, NC",
+                    "height"	: "6-4",
+                    "weight"	: "253",
+                    "college"	: "North Carolina",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Eric-Ebron/c244144f-5664-449e-92af-4ddc564e5d4b"
+              },
+           
+              {
+                    "id"	: "a6cdc78c-c5cb-4a93-870f-d9ca913a96c3",
+                    "fname"	: "Joe",
+                    "lname"	: "Dahl",
+                    "teamNumber"	:  "66",
+                    "position"	: "G",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "04/09/93",
+                    "hometown"	: "Spokane, WA",
+                    "height"	: "6-4",
+                    "weight"	: "305",
+                    "college"	: "Washington State",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Joe-Dahl/a6cdc78c-c5cb-4a93-870f-d9ca913a96c3"
+              },
+           
+              {
+                    "id"	: "1566e78c-c7a3-4a79-afa6-eb70186f5373",
+                    "fname"	: "Tion",
+                    "lname"	: "Green",
+                    "teamNumber"	:  "38",
+                    "position"	: "RB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "12/14/93",
+                    "hometown"	: "Sanford, Fla.",
+                    "height"	: "6-0",
+                    "weight"	: "220",
+                    "college"	: "Cincinnati",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tion-Green/1566e78c-c7a3-4a79-afa6-eb70186f5373"
+              },
+           
+              {
+                    "id"	: "552908d4-15c2-42d6-985f-9c24f2423957",
+                    "fname"	: "Jeremiah ",
+                    "lname"	: "Ledbetter",
+                    "teamNumber"	:  "98",
+                    "position"	: "DT",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "06/02/94",
+                    "hometown"	: "Orlando, Fla.",
+                    "height"	: "6-3",
+                    "weight"	: "295",
+                    "college"	: "Arkansas",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jeremiah-Ledbetter/552908d4-15c2-42d6-985f-9c24f2423957"
+              },
+           
+              {
+                    "id"	: "38fbbdfa-f493-4649-811e-50a96d70af42",
+                    "fname"	: "Jeremiah",
+                    "lname"	: "Valoaga",
+                    "teamNumber"	:  "78",
+                    "position"	: "DE",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "11/15/94",
+                    "hometown"	: "Oxnard, Calif.",
+                    "height"	: "6-6",
+                    "weight"	: "275",
+                    "college"	: "UNLV",
+                    "image"	: "http://prod.static.lions.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jeremiah-Valoaga/38fbbdfa-f493-4649-811e-50a96d70af42"
+              }
+           
+        ]
+    }

@@ -1,0 +1,2001 @@
+ {
+    "formations" :
+        {
+        
+        "Offense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "WR",
+                        "players"	: [
+                            
+                            "0b7ba670-df8b-4308-81bd-40845d4f6bbe",
+                            
+                            "0e45504f-f275-4d49-aa6d-b88861cb1d7d",
+                            
+                            "bd357806-e837-4ff6-8cf8-35c157fb07d0"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LT",
+                        "players"	: [
+                            
+                            "c2ac02e4-9ab8-4a73-9087-2aa9579eed52",
+                            
+                            "93edf4af-409c-4fe1-a7ab-68d3a18ac05f",
+                            
+                            "3f8a1224-0bcf-4fe8-8ad7-488e55240563"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LG",
+                        "players"	: [
+                            
+                            "ef1aeec5-0e0b-49e6-a9cd-3667e2f205f9",
+                            
+                            "a293271b-4504-41de-9567-53a873643c9a",
+                            
+                            "cc7199ba-1221-4b49-9dab-8249c4db92cc"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "C",
+                        "players"	: [
+                            
+                            "2008e038-84db-4add-8076-e4368a25b874",
+                            
+                            "758d32a9-f17f-439d-819f-2cccc964c0d0",
+                            
+                            "05948cb0-49c8-4583-9495-bea34595c488"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RG",
+                        "players"	: [
+                            
+                            "c77dea55-3036-4bb5-9672-10ada54c5a37",
+                            
+                            "1e7c5454-438c-4088-a0ff-7da48d1b4800",
+                            
+                            "95a74999-6f32-47a2-819c-295e8a0f803e"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RT",
+                        "players"	: [
+                            
+                            "e421a610-4560-4879-830c-3a3e8141d41f",
+                            
+                            "fbb789c7-847e-4465-8ea4-09cc0f0fa974",
+                            
+                            "28b87e59-1dc5-4b77-b646-6a9e30a262fa"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "TE",
+                        "players"	: [
+                            
+                            "1133b0ba-423f-4242-8a15-78e41d58c69a",
+                            
+                            "411c91fc-8138-4003-9076-969a6733ab2a",
+                            
+                            "8b038512-f9dd-47f6-813d-6a7958e5b3a2",
+                            
+                            "c9bfb542-3da1-43ac-b6ae-74d25fe45e7f",
+                            
+                            "91e430c6-1d60-444e-a365-57eb4ad9906c",
+                            
+                            "91e1355f-0d1b-4aa5-8de4-c5c96b343854",
+                            
+                            "f16d5554-baba-4a24-b029-7d7b0ab66318"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WR",
+                        "players"	: [
+                            
+                            "9cfe2d69-24c0-42e2-938e-aef33cd8d030",
+                            
+                            "86745f3d-3a09-4258-8396-472d4f3ce68f",
+                            
+                            "9956e1a4-6ee2-41b2-bb4b-8da251a956a3",
+                            
+                            "4d935bd2-130a-4e91-ae44-864603c171a8"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WR",
+                        "players"	: [
+                            
+                            "1b991e51-2f04-4bc0-9e1f-0dabd472240f",
+                            
+                            "85c35ce6-fb73-456d-a0ae-c5546d11bb54",
+                            
+                            "5e9bd22e-f05a-4ec6-ad65-7c2dc5a4f3e6",
+                            
+                            "c4d11db4-dceb-4f4d-8c82-15bab333e8e8"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "QB",
+                        "players"	: [
+                            
+                            "12b204ed-dfd6-4e83-9314-35b9e5f52223",
+                            
+                            "71cef262-d1d1-46f8-8975-22324272f9a8",
+                            
+                            "dc63dfa8-201c-4682-856b-6dfe943f599b"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RB",
+                        "players"	: [
+                            
+                            "fc5e8d6b-c924-4dcc-9244-c604e9ba3611",
+                            
+                            "2fdd4cd6-43bf-4c34-9ac7-bc58faf8a8ef",
+                            
+                            "fadfdb40-8b4a-4161-ae22-735060ed4253",
+                            
+                            "6c7f09d3-6886-40b0-aeb2-b665c5729d02",
+                            
+                            "71cafb89-40a8-41e7-9af9-1852589bb45b",
+                            
+                            "49d2fa1e-03f2-4811-821c-a0f25ec75a8f"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Defense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "DE",
+                        "players"	: [
+                            
+                            "e22b467e-42ac-48a5-975e-3043b0c4687d",
+                            
+                            "af0d5ccb-cc67-4fb1-8e6f-108db5b15801",
+                            
+                            "4c2febce-b595-4fbe-a179-5d4d4833e0d3"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "NT",
+                        "players"	: [
+                            
+                            "aed78c86-bd5e-491d-b85a-64ea39fe9a5c",
+                            
+                            "64e04852-e991-493c-975e-6f9824927673",
+                            
+                            "50190801-69bd-4ccb-ba3a-3bf7a922e4c5",
+                            
+                            "8429827b-5d8c-43af-8b66-f4810c660778"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "DE",
+                        "players"	: [
+                            
+                            "a0d692a6-be83-41a9-9508-f4322b973546",
+                            
+                            "69f8fcf0-24b5-4495-ac6c-90e62d9410ee",
+                            
+                            "38fc889c-03ef-4e6a-a28f-f3034584b227",
+                            
+                            "c2ff6208-131b-4119-8f36-9df8c4aead3a"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "SLB",
+                        "players"	: [
+                            
+                            "3003535c-df77-4404-b35f-d4bfc3e9e492",
+                            
+                            "dc0289db-bc31-4ba1-a0cc-0ad510ea34e5",
+                            
+                            "46f093b7-405e-4cb4-adf1-b8b155ebfd21",
+                            
+                            "cc8d5b7c-2dd3-40f5-9de8-f0d14dba3523"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "MLB",
+                        "players"	: [
+                            
+                            "b2b48b91-fa75-4bd5-ba63-a050502e9da0",
+                            
+                            "e03ddef7-3a23-4f78-be4f-c9d3af0041e8",
+                            
+                            "80d19b1c-98e8-490d-a422-de233a7ca62d",
+                            
+                            "627449f2-d8b6-4a38-968b-3b829d866e7b"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "MLB",
+                        "players"	: [
+                            
+                            "d3b63a1e-c9c1-4277-ad8a-cdb86812b2b9",
+                            
+                            "b3510c64-8c1b-4396-9172-be482c7e75e8",
+                            
+                            "d01063c8-d5b8-4313-bdd3-97d7011a1563",
+                            
+                            "c97bb2f8-de7f-4491-bc1c-19a002942225"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WLB",
+                        "players"	: [
+                            
+                            "90771100-fd62-49ca-b8d4-387d87b5b373",
+                            
+                            "2d69b026-33dc-40c9-a7e5-9d55c434f780",
+                            
+                            "7e0a86f2-25d8-4852-bdf1-fe5ba816e9d4"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "CB",
+                        "players"	: [
+                            
+                            "fe20491e-0583-498d-ad87-bdb5c9225c69",
+                            
+                            "4c548b2a-8a8c-4a0b-8c9c-aaa17477f02e",
+                            
+                            "423c5fe7-095b-4fc2-8122-c9ed74f95356",
+                            
+                            "5897b303-b63b-47df-a300-753b3080e805",
+                            
+                            "40401f33-5eb2-489b-bbb4-ccc9674fdf85"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "CB",
+                        "players"	: [
+                            
+                            "f81b0011-c04f-4127-b9d6-18f32e14569c",
+                            
+                            "9ea78f61-d7f0-435b-90fe-3bf42db177ee",
+                            
+                            "c364a331-22e9-40d1-a072-a6e508ec57b2",
+                            
+                            "c248a4be-d7ec-430f-b634-9269f6a7a35b"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "SS",
+                        "players"	: [
+                            
+                            "ca3a001b-f176-45d3-91e5-b9f343022ed5",
+                            
+                            "00700bfe-e4f3-453e-8b20-5e4490791ae2",
+                            
+                            "85abe40e-f550-4d28-9186-280e46580bd2"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "FS",
+                        "players"	: [
+                            
+                            "a1662b35-0c62-48ea-81c9-eae2dbf7e48c",
+                            
+                            "81d9e1b2-0c03-4c16-945f-89494ccf232f",
+                            
+                            "bfec59b6-fe65-4f09-84eb-5565b720d7a9",
+                            
+                            "303281c3-e7cb-4632-9e9e-2abb65288cde"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Special Teams" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "P",
+                        "players"	: [
+                            
+                            "13623a14-53d5-4712-83c8-13af5be43deb"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "K",
+                        "players"	: [
+                            
+                            "7267860a-9bf4-499d-ad27-11236bd3d69e"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "H",
+                        "players"	: [
+                            
+                            "13623a14-53d5-4712-83c8-13af5be43deb"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LS",
+                        "players"	: [
+                            
+                            "fc338802-4294-49b6-a2f6-fbbd6334f3b6"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "KR",
+                        "players"	: [
+                            
+                            "2fdd4cd6-43bf-4c34-9ac7-bc58faf8a8ef",
+                            
+                            "fe20491e-0583-498d-ad87-bdb5c9225c69",
+                            
+                            "a85cf524-6346-427a-8ddc-38e0d5c63b7c"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "PR",
+                        "players"	: [
+                            
+                            "9cfe2d69-24c0-42e2-938e-aef33cd8d030",
+                            
+                            "81d9e1b2-0c03-4c16-945f-89494ccf232f",
+                            
+                            "9ea78f61-d7f0-435b-90fe-3bf42db177ee"
+                            
+                        ]
+                        }
+                    
+                    ]
+              }
+
+        
+        },
+        "players" : [
+          
+              {
+                    "id"	: "bfec59b6-fe65-4f09-84eb-5565b720d7a9",
+                    "fname"	: "Fish",
+                    "lname"	: "Smithson",
+                    "teamNumber"	:  "25R",
+                    "position"	: "S",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "03/18/94",
+                    "hometown"	: "",
+                    "height"	: "5-11",
+                    "weight"	: "196",
+                    "college"	: "Kansas",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Fish-Smithson/bfec59b6-fe65-4f09-84eb-5565b720d7a9"
+              },
+           
+              {
+                    "id"	: "e421a610-4560-4879-830c-3a3e8141d41f",
+                    "fname"	: "Morgan",
+                    "lname"	: "Moses",
+                    "teamNumber"	:  "76",
+                    "position"	: "T",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "03/03/91",
+                    "hometown"	: "N. Chesterfield, Va.",
+                    "height"	: "6-6",
+                    "weight"	: "335",
+                    "college"	: "Virginia",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Morgan-Moses/e421a610-4560-4879-830c-3a3e8141d41f"
+              },
+           
+              {
+                    "id"	: "4d935bd2-130a-4e91-ae44-864603c171a8",
+                    "fname"	: "James",
+                    "lname"	: "Quick",
+                    "teamNumber"	:  "17",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "10/06/94",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "177",
+                    "college"	: "Louisville",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/James-Quick/4d935bd2-130a-4e91-ae44-864603c171a8"
+              },
+           
+              {
+                    "id"	: "c364a331-22e9-40d1-a072-a6e508ec57b2",
+                    "fname"	: "Joshua",
+                    "lname"	: "Holsey",
+                    "teamNumber"	:  "20R",
+                    "position"	: "CB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "06/25/94",
+                    "hometown"	: "",
+                    "height"	: "5-11",
+                    "weight"	: "195",
+                    "college"	: "Auburn",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Joshua-Holsey/c364a331-22e9-40d1-a072-a6e508ec57b2"
+              },
+           
+              {
+                    "id"	: "d3b63a1e-c9c1-4277-ad8a-cdb86812b2b9",
+                    "fname"	: "Mason",
+                    "lname"	: "Foster",
+                    "teamNumber"	:  "54",
+                    "position"	: "LB",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "03/01/89",
+                    "hometown"	: "Seaside, Calif.",
+                    "height"	: "6-1",
+                    "weight"	: "250",
+                    "college"	: "Washington",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Mason-Foster/d3b63a1e-c9c1-4277-ad8a-cdb86812b2b9"
+              },
+           
+              {
+                    "id"	: "80d19b1c-98e8-490d-a422-de233a7ca62d",
+                    "fname"	: "Zach",
+                    "lname"	: "Vigil",
+                    "teamNumber"	:  "59",
+                    "position"	: "LB",
+                    "experience"	:  "3",
+                    "age"	: "26",
+                    "born"	: "03/28/91",
+                    "hometown"	: "Roy, Utah",
+                    "height"	: "6-2",
+                    "weight"	: "238",
+                    "college"	: "Utah State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Zach-Vigil/80d19b1c-98e8-490d-a422-de233a7ca62d"
+              },
+           
+              {
+                    "id"	: "8429827b-5d8c-43af-8b66-f4810c660778",
+                    "fname"	: "Ondre",
+                    "lname"	: "Pipkins",
+                    "teamNumber"	:  "73R",
+                    "position"	: "DL",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "02/25/94",
+                    "hometown"	: "Kansas City, Mo.",
+                    "height"	: "6-3",
+                    "weight"	: "321",
+                    "college"	: "Texas Tech",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ondre-Pipkins/8429827b-5d8c-43af-8b66-f4810c660778"
+              },
+           
+              {
+                    "id"	: "3003535c-df77-4404-b35f-d4bfc3e9e492",
+                    "fname"	: "Preston",
+                    "lname"	: "Smith",
+                    "teamNumber"	:  "94",
+                    "position"	: "LB",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "11/17/92",
+                    "hometown"	: "Stone Mountain, Ga.",
+                    "height"	: "6-5",
+                    "weight"	: "265",
+                    "college"	: "Mississippi State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Preston-Smith/3003535c-df77-4404-b35f-d4bfc3e9e492"
+              },
+           
+              {
+                    "id"	: "5e9bd22e-f05a-4ec6-ad65-7c2dc5a4f3e6",
+                    "fname"	: "Zach",
+                    "lname"	: "Pascal",
+                    "teamNumber"	:  "16",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "12/18/94",
+                    "hometown"	: "Upper Marlboro, Md.",
+                    "height"	: "6-2",
+                    "weight"	: "219",
+                    "college"	: "Old Dominion",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Zach-Pascal/5e9bd22e-f05a-4ec6-ad65-7c2dc5a4f3e6"
+              },
+           
+              {
+                    "id"	: "95a74999-6f32-47a2-819c-295e8a0f803e",
+                    "fname"	: "Kyle",
+                    "lname"	: "Kalis",
+                    "teamNumber"	:  "67",
+                    "position"	: "G",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "12/21/93",
+                    "hometown"	: "Lakewood, Ohio",
+                    "height"	: "6-4",
+                    "weight"	: "302",
+                    "college"	: "Michigan",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kyle-Kalis/95a74999-6f32-47a2-819c-295e8a0f803e"
+              },
+           
+              {
+                    "id"	: "00700bfe-e4f3-453e-8b20-5e4490791ae2",
+                    "fname"	: "Deshazor",
+                    "lname"	: "Everett",
+                    "teamNumber"	:  "22",
+                    "position"	: "S",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "02/22/92",
+                    "hometown"	: "DeRidder, La.",
+                    "height"	: "6-0",
+                    "weight"	: "195",
+                    "college"	: "Texas A&M",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Deshazor-Everett/00700bfe-e4f3-453e-8b20-5e4490791ae2"
+              },
+           
+              {
+                    "id"	: "a85cf524-6346-427a-8ddc-38e0d5c63b7c",
+                    "fname"	: "Levern",
+                    "lname"	: "Jacobs",
+                    "teamNumber"	:  "88",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "01/09/93",
+                    "hometown"	: "Forestville, Md.",
+                    "height"	: "5-11",
+                    "weight"	: "185",
+                    "college"	: "Maryland",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Levern-Jacobs/a85cf524-6346-427a-8ddc-38e0d5c63b7c"
+              },
+           
+              {
+                    "id"	: "71cafb89-40a8-41e7-9af9-1852589bb45b",
+                    "fname"	: "Mack",
+                    "lname"	: "Brown",
+                    "teamNumber"	:  "34W",
+                    "position"	: "RB",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "09/24/91",
+                    "hometown"	: "Lithonia, Ga.",
+                    "height"	: "5-11",
+                    "weight"	: "213",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Mack-Brown/71cafb89-40a8-41e7-9af9-1852589bb45b"
+              },
+           
+              {
+                    "id"	: "cc7199ba-1221-4b49-9dab-8249c4db92cc",
+                    "fname"	: "Tyler",
+                    "lname"	: "Catalina",
+                    "teamNumber"	:  "68",
+                    "position"	: "G",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "01/24/93",
+                    "hometown"	: "",
+                    "height"	: "6-6",
+                    "weight"	: "325",
+                    "college"	: "Georgia",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tyler-Catalina/cc7199ba-1221-4b49-9dab-8249c4db92cc"
+              },
+           
+              {
+                    "id"	: "fbb789c7-847e-4465-8ea4-09cc0f0fa974",
+                    "fname"	: "Vinston",
+                    "lname"	: "Painter",
+                    "teamNumber"	:  "60",
+                    "position"	: "OL",
+                    "experience"	:  "3",
+                    "age"	: "27",
+                    "born"	: "10/11/89",
+                    "hometown"	: "Norfolk, Va.",
+                    "height"	: "6-4",
+                    "weight"	: "318",
+                    "college"	: "Virginia Tech",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Vinston-Painter/fbb789c7-847e-4465-8ea4-09cc0f0fa974"
+              },
+           
+              {
+                    "id"	: "c2ff6208-131b-4119-8f36-9df8c4aead3a",
+                    "fname"	: "Brandon",
+                    "lname"	: "Banks",
+                    "teamNumber"	:  "63",
+                    "position"	: "DL",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "07/13/94",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "267",
+                    "college"	: "Charlotte",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Banks/c2ff6208-131b-4119-8f36-9df8c4aead3a"
+              },
+           
+              {
+                    "id"	: "91e430c6-1d60-444e-a365-57eb4ad9906c",
+                    "fname"	: "Jeremy",
+                    "lname"	: "Sprinkle",
+                    "teamNumber"	:  "87",
+                    "position"	: "TE",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "08/10/94",
+                    "hometown"	: "White Hall, Ark.",
+                    "height"	: "6-5",
+                    "weight"	: "252",
+                    "college"	: "Arkansas",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jeremy-Sprinkle/91e430c6-1d60-444e-a365-57eb4ad9906c"
+              },
+           
+              {
+                    "id"	: "0e45504f-f275-4d49-aa6d-b88861cb1d7d",
+                    "fname"	: "Maurice",
+                    "lname"	: "Harris",
+                    "teamNumber"	:  "13",
+                    "position"	: "WR",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "11/11/92",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "200",
+                    "college"	: "California",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Maurice-Harris/0e45504f-f275-4d49-aa6d-b88861cb1d7d"
+              },
+           
+              {
+                    "id"	: "2fdd4cd6-43bf-4c34-9ac7-bc58faf8a8ef",
+                    "fname"	: "Chris",
+                    "lname"	: "Thompson",
+                    "teamNumber"	:  "25W",
+                    "position"	: "RB",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "10/20/90",
+                    "hometown"	: "Madison, Fla.",
+                    "height"	: "5-8",
+                    "weight"	: "191",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Chris-Thompson/2fdd4cd6-43bf-4c34-9ac7-bc58faf8a8ef"
+              },
+           
+              {
+                    "id"	: "ca3a001b-f176-45d3-91e5-b9f343022ed5",
+                    "fname"	: "Su'a",
+                    "lname"	: "Cravens",
+                    "teamNumber"	:  "30",
+                    "position"	: "S",
+                    "experience"	:  "2",
+                    "age"	: "22",
+                    "born"	: "07/07/95",
+                    "hometown"	: "Los Angeles",
+                    "height"	: "6-1",
+                    "weight"	: "224",
+                    "college"	: "USC",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Su'a-Cravens/ca3a001b-f176-45d3-91e5-b9f343022ed5"
+              },
+           
+              {
+                    "id"	: "423c5fe7-095b-4fc2-8122-c9ed74f95356",
+                    "fname"	: "Dashaun",
+                    "lname"	: "Phillips",
+                    "teamNumber"	:  "35",
+                    "position"	: "CB",
+                    "experience"	:  "3",
+                    "age"	: "26",
+                    "born"	: "01/03/91",
+                    "hometown"	: "",
+                    "height"	: "5-11",
+                    "weight"	: "186",
+                    "college"	: "Tarleton State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Dashaun-Phillips/423c5fe7-095b-4fc2-8122-c9ed74f95356"
+              },
+           
+              {
+                    "id"	: "8b038512-f9dd-47f6-813d-6a7958e5b3a2",
+                    "fname"	: "Niles",
+                    "lname"	: "Paul",
+                    "teamNumber"	:  "84",
+                    "position"	: "TE",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "08/09/89",
+                    "hometown"	: "Omaha, Neb. ",
+                    "height"	: "6-1",
+                    "weight"	: "242",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Niles-Paul/8b038512-f9dd-47f6-813d-6a7958e5b3a2"
+              },
+           
+              {
+                    "id"	: "1133b0ba-423f-4242-8a15-78e41d58c69a",
+                    "fname"	: "Jordan",
+                    "lname"	: "Reed",
+                    "teamNumber"	:  "86",
+                    "position"	: "TE",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "07/03/90",
+                    "hometown"	: "New London, Conn.",
+                    "height"	: "6-2",
+                    "weight"	: "246",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jordan-Reed/1133b0ba-423f-4242-8a15-78e41d58c69a"
+              },
+           
+              {
+                    "id"	: "46f093b7-405e-4cb4-adf1-b8b155ebfd21",
+                    "fname"	: "Chris",
+                    "lname"	: "Carter",
+                    "teamNumber"	:  "55",
+                    "position"	: "LB",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "04/06/89",
+                    "hometown"	: "Los Angeles",
+                    "height"	: "6-1",
+                    "weight"	: "240",
+                    "college"	: "Fresno State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Chris-Carter/46f093b7-405e-4cb4-adf1-b8b155ebfd21"
+              },
+           
+              {
+                    "id"	: "c2ac02e4-9ab8-4a73-9087-2aa9579eed52",
+                    "fname"	: "Trent",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "71",
+                    "position"	: "T",
+                    "experience"	:  "8",
+                    "age"	: "29",
+                    "born"	: "07/19/88",
+                    "hometown"	: "Longview, TX, USA",
+                    "height"	: "6-5",
+                    "weight"	: "320",
+                    "college"	: "Oklahoma",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Trent-Williams/c2ac02e4-9ab8-4a73-9087-2aa9579eed52"
+              },
+           
+              {
+                    "id"	: "40401f33-5eb2-489b-bbb4-ccc9674fdf85",
+                    "fname"	: "Fabian",
+                    "lname"	: "Moreau",
+                    "teamNumber"	:  "31R",
+                    "position"	: "CB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "04/09/94",
+                    "hometown"	: "Davie, Fla.",
+                    "height"	: "6-0",
+                    "weight"	: "198",
+                    "college"	: "UCLA",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Fabian-Moreau/40401f33-5eb2-489b-bbb4-ccc9674fdf85"
+              },
+           
+              {
+                    "id"	: "7267860a-9bf4-499d-ad27-11236bd3d69e",
+                    "fname"	: "Dustin",
+                    "lname"	: "Hopkins",
+                    "teamNumber"	:  "3",
+                    "position"	: "K",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "10/01/90",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "203",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Dustin-Hopkins/7267860a-9bf4-499d-ad27-11236bd3d69e"
+              },
+           
+              {
+                    "id"	: "13623a14-53d5-4712-83c8-13af5be43deb",
+                    "fname"	: "Tress",
+                    "lname"	: "Way",
+                    "teamNumber"	:  "5",
+                    "position"	: "P",
+                    "experience"	:  "4",
+                    "age"	: "27",
+                    "born"	: "04/18/90",
+                    "hometown"	: "Tulsa, Okla.",
+                    "height"	: "6-1",
+                    "weight"	: "216",
+                    "college"	: "Oklahoma",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tress-Way/13623a14-53d5-4712-83c8-13af5be43deb"
+              },
+           
+              {
+                    "id"	: "93edf4af-409c-4fe1-a7ab-68d3a18ac05f",
+                    "fname"	: "Ty",
+                    "lname"	: "Nsekhe",
+                    "teamNumber"	:  "79",
+                    "position"	: "T",
+                    "experience"	:  "3",
+                    "age"	: "31",
+                    "born"	: "10/27/85",
+                    "hometown"	: "Arlington, Texas",
+                    "height"	: "6-8",
+                    "weight"	: "338",
+                    "college"	: "Texas State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ty-Nsekhe/93edf4af-409c-4fe1-a7ab-68d3a18ac05f"
+              },
+           
+              {
+                    "id"	: "fadfdb40-8b4a-4161-ae22-735060ed4253",
+                    "fname"	: "Samaje",
+                    "lname"	: "Perine",
+                    "teamNumber"	:  "32W",
+                    "position"	: "RB",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "09/16/95",
+                    "hometown"	: "Pflugerville, Texas",
+                    "height"	: "5-11",
+                    "weight"	: "236",
+                    "college"	: "Oklahoma",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Samaje-Perine/fadfdb40-8b4a-4161-ae22-735060ed4253"
+              },
+           
+              {
+                    "id"	: "c9bfb542-3da1-43ac-b6ae-74d25fe45e7f",
+                    "fname"	: "Derek",
+                    "lname"	: "Carrier",
+                    "teamNumber"	:  "89",
+                    "position"	: "TE",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "07/25/90",
+                    "hometown"	: "Edgerton, Wis.",
+                    "height"	: "6-4",
+                    "weight"	: "244",
+                    "college"	: "Beloit",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Derek-Carrier/c9bfb542-3da1-43ac-b6ae-74d25fe45e7f"
+              },
+           
+              {
+                    "id"	: "a0d692a6-be83-41a9-9508-f4322b973546",
+                    "fname"	: "Stacy",
+                    "lname"	: "McGee",
+                    "teamNumber"	:  "92",
+                    "position"	: "DL",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "01/17/90",
+                    "hometown"	: "Muskogee, Okla.",
+                    "height"	: "6-3",
+                    "weight"	: "341",
+                    "college"	: "Oklahoma",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Stacy-McGee/a0d692a6-be83-41a9-9508-f4322b973546"
+              },
+           
+              {
+                    "id"	: "4c2febce-b595-4fbe-a179-5d4d4833e0d3",
+                    "fname"	: "Matt",
+                    "lname"	: "Ioannidis",
+                    "teamNumber"	:  "98",
+                    "position"	: "DL",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "01/11/94",
+                    "hometown"	: "Ringoes, N.J.",
+                    "height"	: "6-3",
+                    "weight"	: "305",
+                    "college"	: "Temple",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matt-Ioannidis/4c2febce-b595-4fbe-a179-5d4d4833e0d3"
+              },
+           
+              {
+                    "id"	: "90771100-fd62-49ca-b8d4-387d87b5b373",
+                    "fname"	: "Ryan",
+                    "lname"	: "Kerrigan",
+                    "teamNumber"	:  "91",
+                    "position"	: "LB",
+                    "experience"	:  "7",
+                    "age"	: "29",
+                    "born"	: "08/16/88",
+                    "hometown"	: "Muncie, Ind.",
+                    "height"	: "6-4",
+                    "weight"	: "259",
+                    "college"	: "Purdue",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ryan-Kerrigan/90771100-fd62-49ca-b8d4-387d87b5b373"
+              },
+           
+              {
+                    "id"	: "c77dea55-3036-4bb5-9672-10ada54c5a37",
+                    "fname"	: "Brandon",
+                    "lname"	: "Scherff",
+                    "teamNumber"	:  "75",
+                    "position"	: "G",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "12/26/91",
+                    "hometown"	: "Denison, IA",
+                    "height"	: "6-5",
+                    "weight"	: "319",
+                    "college"	: "Iowa",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Scherff/c77dea55-3036-4bb5-9672-10ada54c5a37"
+              },
+           
+              {
+                    "id"	: "dc63dfa8-201c-4682-856b-6dfe943f599b",
+                    "fname"	: "Nate",
+                    "lname"	: "Sudfeld",
+                    "teamNumber"	:  "2",
+                    "position"	: "QB",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "10/07/93",
+                    "hometown"	: "Modesto, Calif.",
+                    "height"	: "6-6",
+                    "weight"	: "227",
+                    "college"	: "Indiana",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nate-Sudfeld/dc63dfa8-201c-4682-856b-6dfe943f599b"
+              },
+           
+              {
+                    "id"	: "85abe40e-f550-4d28-9186-280e46580bd2",
+                    "fname"	: "Stefan",
+                    "lname"	: "McClure",
+                    "teamNumber"	:  "39",
+                    "position"	: "S",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "01/31/93",
+                    "hometown"	: "",
+                    "height"	: "5-11",
+                    "weight"	: "205",
+                    "college"	: "California",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Stefan-McClure/85abe40e-f550-4d28-9186-280e46580bd2"
+              },
+           
+              {
+                    "id"	: "5897b303-b63b-47df-a300-753b3080e805",
+                    "fname"	: "Tevin",
+                    "lname"	: "Homer",
+                    "teamNumber"	:  "37",
+                    "position"	: "CB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "03/13/95",
+                    "hometown"	: "West Palm Beach, Fla",
+                    "height"	: "6-2",
+                    "weight"	: "191",
+                    "college"	: "Florida Atlantic",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tevin-Homer/5897b303-b63b-47df-a300-753b3080e805"
+              },
+           
+              {
+                    "id"	: "12b204ed-dfd6-4e83-9314-35b9e5f52223",
+                    "fname"	: "Kirk",
+                    "lname"	: "Cousins",
+                    "teamNumber"	:  "8",
+                    "position"	: "QB",
+                    "experience"	:  "6",
+                    "age"	: "29",
+                    "born"	: "08/19/88",
+                    "hometown"	: "Holland, Mich.",
+                    "height"	: "6-3",
+                    "weight"	: "202",
+                    "college"	: "Michigan State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com//assets/images/imported/WAS/photos/person-cards/Players/Headshots/0default_hs--nfl_thumb_65_90--nfl_thumb5_130_167.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kirk-Cousins/12b204ed-dfd6-4e83-9314-35b9e5f52223"
+              },
+           
+              {
+                    "id"	: "69f8fcf0-24b5-4495-ac6c-90e62d9410ee",
+                    "fname"	: "Jonathan",
+                    "lname"	: "Allen",
+                    "teamNumber"	:  "95",
+                    "position"	: "DL",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "01/16/95",
+                    "hometown"	: "Ashburn, Va.",
+                    "height"	: "6-3",
+                    "weight"	: "288",
+                    "college"	: "Alabama",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jonathan-Allen/69f8fcf0-24b5-4495-ac6c-90e62d9410ee"
+              },
+           
+              {
+                    "id"	: "91e1355f-0d1b-4aa5-8de4-c5c96b343854",
+                    "fname"	: "Manasseh",
+                    "lname"	: "Garner",
+                    "teamNumber"	:  "82",
+                    "position"	: "TE",
+                    "experience"	:  "1",
+                    "age"	: "25",
+                    "born"	: "03/11/92",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "239",
+                    "college"	: "Pittsburgh",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Manasseh-Garner/91e1355f-0d1b-4aa5-8de4-c5c96b343854"
+              },
+           
+              {
+                    "id"	: "303281c3-e7cb-4632-9e9e-2abb65288cde",
+                    "fname"	: "Montae",
+                    "lname"	: "Nicholson",
+                    "teamNumber"	:  "34R",
+                    "position"	: "S",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "12/04/95",
+                    "hometown"	: "Monroeville, Pa.",
+                    "height"	: "6-2",
+                    "weight"	: "216",
+                    "college"	: "Michigan State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Montae-Nicholson/303281c3-e7cb-4632-9e9e-2abb65288cde"
+              },
+           
+              {
+                    "id"	: "411c91fc-8138-4003-9076-969a6733ab2a",
+                    "fname"	: "Vernon",
+                    "lname"	: "Davis",
+                    "teamNumber"	:  "85",
+                    "position"	: "TE",
+                    "experience"	:  "12",
+                    "age"	: "33",
+                    "born"	: "01/31/84",
+                    "hometown"	: "Washington, D.C.",
+                    "height"	: "6-3",
+                    "weight"	: "244",
+                    "college"	: "Maryland",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Vernon-Davis/411c91fc-8138-4003-9076-969a6733ab2a"
+              },
+           
+              {
+                    "id"	: "a1662b35-0c62-48ea-81c9-eae2dbf7e48c",
+                    "fname"	: "D.J.",
+                    "lname"	: "Swearinger",
+                    "teamNumber"	:  "36",
+                    "position"	: "S",
+                    "experience"	:  "5",
+                    "age"	: "25",
+                    "born"	: "09/01/91",
+                    "hometown"	: "",
+                    "height"	: "5-10",
+                    "weight"	: "205",
+                    "college"	: "South Carolina",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/D.J.-Swearinger/a1662b35-0c62-48ea-81c9-eae2dbf7e48c"
+              },
+           
+              {
+                    "id"	: "9cfe2d69-24c0-42e2-938e-aef33cd8d030",
+                    "fname"	: "Jamison",
+                    "lname"	: "Crowder",
+                    "teamNumber"	:  "80",
+                    "position"	: "WR",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "06/17/93",
+                    "hometown"	: "Monroe, N.C.",
+                    "height"	: "5-9",
+                    "weight"	: "177",
+                    "college"	: "Duke",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jamison-Crowder/9cfe2d69-24c0-42e2-938e-aef33cd8d030"
+              },
+           
+              {
+                    "id"	: "fe20491e-0583-498d-ad87-bdb5c9225c69",
+                    "fname"	: "Bashaud",
+                    "lname"	: "Breeland",
+                    "teamNumber"	:  "26",
+                    "position"	: "CB",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "01/30/92",
+                    "hometown"	: "Allendale, S.C.",
+                    "height"	: "5-11",
+                    "weight"	: "195",
+                    "college"	: "Clemson",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Bashaud-Breeland/fe20491e-0583-498d-ad87-bdb5c9225c69"
+              },
+           
+              {
+                    "id"	: "a293271b-4504-41de-9567-53a873643c9a",
+                    "fname"	: "Arie",
+                    "lname"	: "Kouandjio",
+                    "teamNumber"	:  "74",
+                    "position"	: "G",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "04/23/92",
+                    "hometown"	: "Hyattsville, Md.",
+                    "height"	: "6-5",
+                    "weight"	: "316",
+                    "college"	: "Alabama",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Arie-Kouandjio/a293271b-4504-41de-9567-53a873643c9a"
+              },
+           
+              {
+                    "id"	: "86745f3d-3a09-4258-8396-472d4f3ce68f",
+                    "fname"	: "Ryan",
+                    "lname"	: "Grant",
+                    "teamNumber"	:  "14",
+                    "position"	: "WR",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "12/19/90",
+                    "hometown"	: "Beaumont, Texas",
+                    "height"	: "6-0",
+                    "weight"	: "204",
+                    "college"	: "Tulane",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ryan-Grant/86745f3d-3a09-4258-8396-472d4f3ce68f"
+              },
+           
+              {
+                    "id"	: "1b991e51-2f04-4bc0-9e1f-0dabd472240f",
+                    "fname"	: "Josh ",
+                    "lname"	: "Doctson",
+                    "teamNumber"	:  "18",
+                    "position"	: "WR",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "12/03/92",
+                    "hometown"	: "Mansfield, Texas",
+                    "height"	: "6-2",
+                    "weight"	: "206",
+                    "college"	: "TCU",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Josh-Doctson/1b991e51-2f04-4bc0-9e1f-0dabd472240f"
+              },
+           
+              {
+                    "id"	: "6c7f09d3-6886-40b0-aeb2-b665c5729d02",
+                    "fname"	: "Matt",
+                    "lname"	: "Jones",
+                    "teamNumber"	:  "31W",
+                    "position"	: "RB",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "03/07/93",
+                    "hometown"	: "Seffner, Fla.",
+                    "height"	: "6-2",
+                    "weight"	: "239",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matt-Jones/6c7f09d3-6886-40b0-aeb2-b665c5729d02"
+              },
+           
+              {
+                    "id"	: "64e04852-e991-493c-975e-6f9824927673",
+                    "fname"	: "A.J.",
+                    "lname"	: "Francis",
+                    "teamNumber"	:  "69R",
+                    "position"	: "DL",
+                    "experience"	:  "3",
+                    "age"	: "27",
+                    "born"	: "05/07/90",
+                    "hometown"	: "Washington, D.C.",
+                    "height"	: "6-5",
+                    "weight"	: "337",
+                    "college"	: "Maryland",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/A.J.-Francis/64e04852-e991-493c-975e-6f9824927673"
+              },
+           
+              {
+                    "id"	: "b2b48b91-fa75-4bd5-ba63-a050502e9da0",
+                    "fname"	: "Will",
+                    "lname"	: "Compton",
+                    "teamNumber"	:  "51",
+                    "position"	: "LB",
+                    "experience"	:  "4",
+                    "age"	: "27",
+                    "born"	: "09/19/89",
+                    "hometown"	: "Bonne Terre, Mo.",
+                    "height"	: "6-1",
+                    "weight"	: "235",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Will-Compton/b2b48b91-fa75-4bd5-ba63-a050502e9da0"
+              },
+           
+              {
+                    "id"	: "4c548b2a-8a8c-4a0b-8c9c-aaa17477f02e",
+                    "fname"	: "Quinton",
+                    "lname"	: "Dunbar",
+                    "teamNumber"	:  "47",
+                    "position"	: "CB",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "07/22/92",
+                    "hometown"	: "Miami, Fla.",
+                    "height"	: "6-2",
+                    "weight"	: "197",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Quinton-Dunbar/4c548b2a-8a8c-4a0b-8c9c-aaa17477f02e"
+              },
+           
+              {
+                    "id"	: "627449f2-d8b6-4a38-968b-3b829d866e7b",
+                    "fname"	: "Pete",
+                    "lname"	: "Robertson",
+                    "teamNumber"	:  "45",
+                    "position"	: "LB",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "12/12/92",
+                    "hometown"	: "Longview, Texas",
+                    "height"	: "6-2",
+                    "weight"	: "243",
+                    "college"	: "Texas Tech",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Pete-Robertson/627449f2-d8b6-4a38-968b-3b829d866e7b"
+              },
+           
+              {
+                    "id"	: "9956e1a4-6ee2-41b2-bb4b-8da251a956a3",
+                    "fname"	: "Matt",
+                    "lname"	: "Hazel",
+                    "teamNumber"	:  "15",
+                    "position"	: "WR",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "01/23/92",
+                    "hometown"	: "",
+                    "height"	: "6-1",
+                    "weight"	: "195",
+                    "college"	: "Coastal Carolina",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matt-Hazel/9956e1a4-6ee2-41b2-bb4b-8da251a956a3"
+              },
+           
+              {
+                    "id"	: "758d32a9-f17f-439d-819f-2cccc964c0d0",
+                    "fname"	: "Chase",
+                    "lname"	: "Roullier",
+                    "teamNumber"	:  "73W",
+                    "position"	: "C",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "08/23/93",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "317",
+                    "college"	: "Wyoming",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Chase-Roullier/758d32a9-f17f-439d-819f-2cccc964c0d0"
+              },
+           
+              {
+                    "id"	: "aed78c86-bd5e-491d-b85a-64ea39fe9a5c",
+                    "fname"	: "Phil",
+                    "lname"	: "Taylor Sr.",
+                    "teamNumber"	:  "99",
+                    "position"	: "DL",
+                    "experience"	:  "5",
+                    "age"	: "29",
+                    "born"	: "04/07/88",
+                    "hometown"	: "Brandywine, Md.",
+                    "height"	: "6-3",
+                    "weight"	: "343",
+                    "college"	: "Baylor",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Phil-Taylor Sr./aed78c86-bd5e-491d-b85a-64ea39fe9a5c"
+              },
+           
+              {
+                    "id"	: "71cef262-d1d1-46f8-8975-22324272f9a8",
+                    "fname"	: "Colt",
+                    "lname"	: "McCoy",
+                    "teamNumber"	:  "12",
+                    "position"	: "QB",
+                    "experience"	:  "8",
+                    "age"	: "30",
+                    "born"	: "09/05/86",
+                    "hometown"	: "Tuscola, Texas",
+                    "height"	: "6-1",
+                    "weight"	: "215",
+                    "college"	: "Texas",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Colt-McCoy/71cef262-d1d1-46f8-8975-22324272f9a8"
+              },
+           
+              {
+                    "id"	: "c4d11db4-dceb-4f4d-8c82-15bab333e8e8",
+                    "fname"	: "Jamari",
+                    "lname"	: "Staples",
+                    "teamNumber"	:  "6",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "",
+                    "born"	: "",
+                    "hometown"	: "Lineville, Ala.",
+                    "height"	: "6-3",
+                    "weight"	: "190",
+                    "college"	: "Louisville",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jamari-Staples/c4d11db4-dceb-4f4d-8c82-15bab333e8e8"
+              },
+           
+              {
+                    "id"	: "f81b0011-c04f-4127-b9d6-18f32e14569c",
+                    "fname"	: "Josh",
+                    "lname"	: "Norman",
+                    "teamNumber"	:  "24",
+                    "position"	: "CB",
+                    "experience"	:  "6",
+                    "age"	: "29",
+                    "born"	: "12/15/87",
+                    "hometown"	: "Greenwood, S.C.",
+                    "height"	: "6-0",
+                    "weight"	: "200",
+                    "college"	: "Coastal Carolina",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Josh-Norman/f81b0011-c04f-4127-b9d6-18f32e14569c"
+              },
+           
+              {
+                    "id"	: "05948cb0-49c8-4583-9495-bea34595c488",
+                    "fname"	: "Ronald",
+                    "lname"	: "Patrick",
+                    "teamNumber"	:  "62",
+                    "position"	: "OL",
+                    "experience"	:  "1",
+                    "age"	: "25",
+                    "born"	: "11/01/91",
+                    "hometown"	: "",
+                    "height"	: "6-1",
+                    "weight"	: "310",
+                    "college"	: "South Carolina",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ronald-Patrick/05948cb0-49c8-4583-9495-bea34595c488"
+              },
+           
+              {
+                    "id"	: "49d2fa1e-03f2-4811-821c-a0f25ec75a8f",
+                    "fname"	: "Kenny",
+                    "lname"	: "Hilliard",
+                    "teamNumber"	:  "35",
+                    "position"	: "RB",
+                    "experience"	:  "1",
+                    "age"	: "25",
+                    "born"	: "10/03/91",
+                    "hometown"	: "",
+                    "height"	: "5-11",
+                    "weight"	: "226",
+                    "college"	: "LSU",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kenny-Hilliard/49d2fa1e-03f2-4811-821c-a0f25ec75a8f"
+              },
+           
+              {
+                    "id"	: "9ea78f61-d7f0-435b-90fe-3bf42db177ee",
+                    "fname"	: "Kendall",
+                    "lname"	: "Fuller",
+                    "teamNumber"	:  "29",
+                    "position"	: "CB",
+                    "experience"	:  "2",
+                    "age"	: "22",
+                    "born"	: "02/13/95",
+                    "hometown"	: "Baltimore",
+                    "height"	: "5-11",
+                    "weight"	: "198",
+                    "college"	: "Virginia Tech",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kendall-Fuller/9ea78f61-d7f0-435b-90fe-3bf42db177ee"
+              },
+           
+              {
+                    "id"	: "e22b467e-42ac-48a5-975e-3043b0c4687d",
+                    "fname"	: "Ziggy",
+                    "lname"	: "Hood",
+                    "teamNumber"	:  "90",
+                    "position"	: "DL",
+                    "experience"	:  "9",
+                    "age"	: "30",
+                    "born"	: "02/16/87",
+                    "hometown"	: "Amarillo, Texas",
+                    "height"	: "6-3",
+                    "weight"	: "305",
+                    "college"	: "Missouri",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ziggy-Hood/e22b467e-42ac-48a5-975e-3043b0c4687d"
+              },
+           
+              {
+                    "id"	: "ef1aeec5-0e0b-49e6-a9cd-3667e2f205f9",
+                    "fname"	: "Shawn",
+                    "lname"	: "Lauvao",
+                    "teamNumber"	:  "77",
+                    "position"	: "G",
+                    "experience"	:  "8",
+                    "age"	: "29",
+                    "born"	: "10/26/87",
+                    "hometown"	: "Honolulu, HI",
+                    "height"	: "6-3",
+                    "weight"	: "308",
+                    "college"	: "Arizona State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Shawn-Lauvao/ef1aeec5-0e0b-49e6-a9cd-3667e2f205f9"
+              },
+           
+              {
+                    "id"	: "50190801-69bd-4ccb-ba3a-3bf7a922e4c5",
+                    "fname"	: "Joey",
+                    "lname"	: "Mbu",
+                    "teamNumber"	:  "78",
+                    "position"	: "DL",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "03/28/93",
+                    "hometown"	: "Silver Spring, Md.",
+                    "height"	: "6-3",
+                    "weight"	: "323",
+                    "college"	: "Houston",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Joey-Mbu/50190801-69bd-4ccb-ba3a-3bf7a922e4c5"
+              },
+           
+              {
+                    "id"	: "fc338802-4294-49b6-a2f6-fbbd6334f3b6",
+                    "fname"	: "Nick",
+                    "lname"	: "Sundberg",
+                    "teamNumber"	:  "57",
+                    "position"	: "LS",
+                    "experience"	:  "8",
+                    "age"	: "30",
+                    "born"	: "07/29/87",
+                    "hometown"	: "Phoenix",
+                    "height"	: "6-0",
+                    "weight"	: "256",
+                    "college"	: "California",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nick-Sundberg/fc338802-4294-49b6-a2f6-fbbd6334f3b6"
+              },
+           
+              {
+                    "id"	: "81d9e1b2-0c03-4c16-945f-89494ccf232f",
+                    "fname"	: "Will",
+                    "lname"	: "Blackmon",
+                    "teamNumber"	:  "41",
+                    "position"	: "S",
+                    "experience"	:  "11",
+                    "age"	: "32",
+                    "born"	: "10/27/84",
+                    "hometown"	: "Providence, RI",
+                    "height"	: "6-0",
+                    "weight"	: "212",
+                    "college"	: "Boston College",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Will-Blackmon/81d9e1b2-0c03-4c16-945f-89494ccf232f"
+              },
+           
+              {
+                    "id"	: "f16d5554-baba-4a24-b029-7d7b0ab66318",
+                    "fname"	: "E.J.",
+                    "lname"	: "Bibbs",
+                    "teamNumber"	:  "45",
+                    "position"	: "TE",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "08/28/91",
+                    "hometown"	: "Chicago",
+                    "height"	: "6-2",
+                    "weight"	: "258",
+                    "college"	: "Iowa State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/E.J.-Bibbs/f16d5554-baba-4a24-b029-7d7b0ab66318"
+              },
+           
+              {
+                    "id"	: "85c35ce6-fb73-456d-a0ae-c5546d11bb54",
+                    "fname"	: "Brian",
+                    "lname"	: "Quick",
+                    "teamNumber"	:  "83",
+                    "position"	: "WR",
+                    "experience"	:  "6",
+                    "age"	: "28",
+                    "born"	: "06/05/89",
+                    "hometown"	: "Columbia, S.C.",
+                    "height"	: "6-3",
+                    "weight"	: "218",
+                    "college"	: "Appalachian State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brian-Quick/85c35ce6-fb73-456d-a0ae-c5546d11bb54"
+              },
+           
+              {
+                    "id"	: "1e7c5454-438c-4088-a0ff-7da48d1b4800",
+                    "fname"	: "Isaiah",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "63W",
+                    "position"	: "T",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "05/05/93",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "306",
+                    "college"	: "Akron",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Isaiah-Williams/1e7c5454-438c-4088-a0ff-7da48d1b4800"
+              },
+           
+              {
+                    "id"	: "fc5e8d6b-c924-4dcc-9244-c604e9ba3611",
+                    "fname"	: "Rob",
+                    "lname"	: "Kelley",
+                    "teamNumber"	:  "20W",
+                    "position"	: "RB",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "10/03/92",
+                    "hometown"	: "New Orleans, LA",
+                    "height"	: "6-0",
+                    "weight"	: "233",
+                    "college"	: "Tulane",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Rob-Kelley/fc5e8d6b-c924-4dcc-9244-c604e9ba3611"
+              },
+           
+              {
+                    "id"	: "38fc889c-03ef-4e6a-a28f-f3034584b227",
+                    "fname"	: "Anthony",
+                    "lname"	: "Lanier II",
+                    "teamNumber"	:  "72R",
+                    "position"	: "DL",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "05/08/93",
+                    "hometown"	: "",
+                    "height"	: "6-6",
+                    "weight"	: "286",
+                    "college"	: "Alabama A&M",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Anthony-Lanier II/38fc889c-03ef-4e6a-a28f-f3034584b227"
+              },
+           
+              {
+                    "id"	: "bd357806-e837-4ff6-8cf8-35c157fb07d0",
+                    "fname"	: "Robert",
+                    "lname"	: "Davis",
+                    "teamNumber"	:  "19",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "04/02/95",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "217",
+                    "college"	: "Georgia State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Robert-Davis/bd357806-e837-4ff6-8cf8-35c157fb07d0"
+              },
+           
+              {
+                    "id"	: "0b7ba670-df8b-4308-81bd-40845d4f6bbe",
+                    "fname"	: "Terrelle",
+                    "lname"	: "Pryor Sr.",
+                    "teamNumber"	:  "11",
+                    "position"	: "WR",
+                    "experience"	:  "5",
+                    "age"	: "28",
+                    "born"	: "06/20/89",
+                    "hometown"	: "Jeannette, Pa.",
+                    "height"	: "6-4",
+                    "weight"	: "228",
+                    "college"	: "Ohio State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Terrelle-Pryor Sr./0b7ba670-df8b-4308-81bd-40845d4f6bbe"
+              },
+           
+              {
+                    "id"	: "e03ddef7-3a23-4f78-be4f-c9d3af0041e8",
+                    "fname"	: "Martrell",
+                    "lname"	: "Spaight",
+                    "teamNumber"	:  "50",
+                    "position"	: "LB",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "08/05/93",
+                    "hometown"	: "Little Rock, Ark.",
+                    "height"	: "6-0",
+                    "weight"	: "243",
+                    "college"	: "Arkansas",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Martrell-Spaight/e03ddef7-3a23-4f78-be4f-c9d3af0041e8"
+              },
+           
+              {
+                    "id"	: "2008e038-84db-4add-8076-e4368a25b874",
+                    "fname"	: "Spencer",
+                    "lname"	: "Long",
+                    "teamNumber"	:  "61",
+                    "position"	: "C",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "11/08/90",
+                    "hometown"	: "Elkhorn, Neb.",
+                    "height"	: "6-5",
+                    "weight"	: "318",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Spencer-Long/2008e038-84db-4add-8076-e4368a25b874"
+              },
+           
+              {
+                    "id"	: "28b87e59-1dc5-4b77-b646-6a9e30a262fa",
+                    "fname"	: "John",
+                    "lname"	: "Kling",
+                    "teamNumber"	:  "69W",
+                    "position"	: "OL",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "07/09/93",
+                    "hometown"	: "",
+                    "height"	: "6-8",
+                    "weight"	: "328",
+                    "college"	: "Buffalo",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/John-Kling/28b87e59-1dc5-4b77-b646-6a9e30a262fa"
+              },
+           
+              {
+                    "id"	: "c97bb2f8-de7f-4491-bc1c-19a002942225",
+                    "fname"	: "Nico",
+                    "lname"	: "Marley",
+                    "teamNumber"	:  "46",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "01/05/95",
+                    "hometown"	: "Weston, Fla.",
+                    "height"	: "5-8",
+                    "weight"	: "200",
+                    "college"	: "Tulane",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nico-Marley/c97bb2f8-de7f-4491-bc1c-19a002942225"
+              },
+           
+              {
+                    "id"	: "7e0a86f2-25d8-4852-bdf1-fe5ba816e9d4",
+                    "fname"	: "Lynden",
+                    "lname"	: "Trail",
+                    "teamNumber"	:  "48",
+                    "position"	: "LB",
+                    "experience"	:  "1",
+                    "age"	: "26",
+                    "born"	: "03/19/91",
+                    "hometown"	: "Miami, Fla.",
+                    "height"	: "6-7",
+                    "weight"	: "277",
+                    "college"	: "Norfolk State",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Lynden-Trail/7e0a86f2-25d8-4852-bdf1-fe5ba816e9d4"
+              },
+           
+              {
+                    "id"	: "b3510c64-8c1b-4396-9172-be482c7e75e8",
+                    "fname"	: "Zach",
+                    "lname"	: "Brown",
+                    "teamNumber"	:  "53",
+                    "position"	: "LB",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "10/23/89",
+                    "hometown"	: "Columbia, Md.",
+                    "height"	: "6-1",
+                    "weight"	: "251",
+                    "college"	: "North Carolina",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Zach-Brown/b3510c64-8c1b-4396-9172-be482c7e75e8"
+              },
+           
+              {
+                    "id"	: "c248a4be-d7ec-430f-b634-9269f6a7a35b",
+                    "fname"	: "Jeremiah",
+                    "lname"	: "McKinnon",
+                    "teamNumber"	:  "38",
+                    "position"	: "DB",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "06/29/93",
+                    "hometown"	: "",
+                    "height"	: "5-11",
+                    "weight"	: "192",
+                    "college"	: "Florida International",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jeremiah-McKinnon/c248a4be-d7ec-430f-b634-9269f6a7a35b"
+              },
+           
+              {
+                    "id"	: "dc0289db-bc31-4ba1-a0cc-0ad510ea34e5",
+                    "fname"	: "Ryan",
+                    "lname"	: "Anderson",
+                    "teamNumber"	:  "52",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "08/12/94",
+                    "hometown"	: "Daphne, Ala.",
+                    "height"	: "6-2",
+                    "weight"	: "253",
+                    "college"	: "Alabama",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ryan-Anderson/dc0289db-bc31-4ba1-a0cc-0ad510ea34e5"
+              },
+           
+              {
+                    "id"	: "2d69b026-33dc-40c9-a7e5-9d55c434f780",
+                    "fname"	: "Junior",
+                    "lname"	: "Galette",
+                    "teamNumber"	:  "58",
+                    "position"	: "LB",
+                    "experience"	:  "7",
+                    "age"	: "29",
+                    "born"	: "03/27/88",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "254",
+                    "college"	: "Stillman",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Junior-Galette/2d69b026-33dc-40c9-a7e5-9d55c434f780"
+              },
+           
+              {
+                    "id"	: "cc8d5b7c-2dd3-40f5-9de8-f0d14dba3523",
+                    "fname"	: "Ron",
+                    "lname"	: "Thompson Jr.",
+                    "teamNumber"	:  "56",
+                    "position"	: "LB",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "08/02/93",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "268",
+                    "college"	: "Syracuse",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ron-Thompson Jr./cc8d5b7c-2dd3-40f5-9de8-f0d14dba3523"
+              },
+           
+              {
+                    "id"	: "3f8a1224-0bcf-4fe8-8ad7-488e55240563",
+                    "fname"	: "Kendall",
+                    "lname"	: "Pace",
+                    "teamNumber"	:  "66",
+                    "position"	: "OL",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "08/07/96",
+                    "hometown"	: "Suitland, Md.",
+                    "height"	: "6-4",
+                    "weight"	: "302",
+                    "college"	: "Columbia",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kendall-Pace/3f8a1224-0bcf-4fe8-8ad7-488e55240563"
+              },
+           
+              {
+                    "id"	: "af0d5ccb-cc67-4fb1-8e6f-108db5b15801",
+                    "fname"	: "Terrell",
+                    "lname"	: "McClain",
+                    "teamNumber"	:  "97",
+                    "position"	: "DL",
+                    "experience"	:  "7",
+                    "age"	: "29",
+                    "born"	: "07/20/88",
+                    "hometown"	: "Tampa, Fla.",
+                    "height"	: "6-2",
+                    "weight"	: "302",
+                    "college"	: "South Florida",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Terrell-McClain/af0d5ccb-cc67-4fb1-8e6f-108db5b15801"
+              },
+           
+              {
+                    "id"	: "d01063c8-d5b8-4313-bdd3-97d7011a1563",
+                    "fname"	: "Josh",
+                    "lname"	: "Harvey-Clemons",
+                    "teamNumber"	:  "40",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "02/20/94",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "226",
+                    "college"	: "Louisville",
+                    "image"	: "http://prod.static.redskins.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Josh-Harvey-Clemons/d01063c8-d5b8-4313-bdd3-97d7011a1563"
+              }
+           
+        ]
+    }

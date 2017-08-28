@@ -1,0 +1,1299 @@
+ {
+    "formations" :
+        {
+        
+        "Offense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "QB",
+                        "players"	: [
+                            
+                            "b6254411-e91d-437c-bbd1-4222d2f8cb7b",
+                            
+                            "c59b5651-d870-4191-bac7-280cc390156e"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RB",
+                        "players"	: [
+                            
+                            "4dd7544a-5210-4aad-8e05-8ffb8cd92ddd",
+                            
+                            "88c61c07-5651-4021-8ab7-457c5744891c",
+                            
+                            "5a5afeb8-7a8f-441c-995e-5452abe61abb"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "FB",
+                        "players"	: [
+                            
+                            "6cdafdbd-6e1f-4dc0-8c48-39c26326dab2"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WR1",
+                        "players"	: [
+                            
+                            "3836f711-151a-4ee4-b65c-b094bd6e1335",
+                            
+                            "afd2bda6-c910-4dab-b9ca-e36c15bca2a1"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WR2",
+                        "players"	: [
+                            
+                            "1359c12f-28c6-45d1-b08b-4bcf1afe9bf5",
+                            
+                            "0572bf6f-3462-47ee-9ded-ec62d0eecb1c",
+                            
+                            "db8b8cb1-0b1f-4da7-8f76-8b726f75f0d0",
+                            
+                            "6aadeaf5-8527-4153-87ce-659a6b973bda"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "TE",
+                        "players"	: [
+                            
+                            "e79c4bd3-fb6b-4a3a-8d4c-661b8cf2d0dd",
+                            
+                            "828f3745-ac74-4f85-ab1b-6d5ec511120f",
+                            
+                            "24446e8e-6d91-4050-8811-ad5db58110a1",
+                            
+                            "56d2c344-48cd-42fe-b508-75dc905249d2"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LT",
+                        "players"	: [
+                            
+                            "af665621-b205-41e6-8780-0844d8346d97",
+                            
+                            "5da6f81d-8425-450d-aa4b-a0d5a9a9f9e6"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LG",
+                        "players"	: [
+                            
+                            "2bb03acf-1ba0-4f07-bca0-9348046f5f2d",
+                            
+                            "26428e06-2a9b-4243-9d13-621062fb92c6"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "C",
+                        "players"	: [
+                            
+                            "d3cb1b8f-3945-42fd-b4d0-0ad5b62e03c8",
+                            
+                            "0476d63d-5b69-4ecd-bd68-f6acab24c2c1"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RG",
+                        "players"	: [
+                            
+                            "ecf793c2-6a33-499e-a877-cb4ad59414c5"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RT",
+                        "players"	: [
+                            
+                            "932442f4-0f4a-4180-a1ab-42f685c21b81",
+                            
+                            "8a65c556-6e38-4b42-a8d5-cb05a47e636b"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Defense" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "LDE",
+                        "players"	: [
+                            
+                            "e06ffea9-5780-41f2-9eba-e63c89f200bc",
+                            
+                            "5b5f50b6-a282-47a6-b6d7-bf07fb070d07"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "DT",
+                        "players"	: [
+                            
+                            "b775028c-ea2b-4381-b363-42d619eb19ea",
+                            
+                            "316c1b17-fc8d-499f-96a5-fb8035ecbc89"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "NT",
+                        "players"	: [
+                            
+                            "d46a2d18-d20d-4f34-9fda-fb2343ee1d26",
+                            
+                            "43716405-647a-41e9-966a-9cdd2339e633"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RDE",
+                        "players"	: [
+                            
+                            "be0b51d8-2c2e-4b3d-822e-0138d64ad1de",
+                            
+                            "d09c41e9-d33a-491a-90ce-2ef39ce2c886"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "SLB",
+                        "players"	: [
+                            
+                            "e32e843e-89ce-45af-a99d-9aaeb7ea5381",
+                            
+                            "7e4d30df-d267-4316-905e-b9328d4187bd"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "MLB",
+                        "players"	: [
+                            
+                            "025e12f0-eed4-4388-b917-ae7f942f6204",
+                            
+                            "af208a43-e984-43f0-8d48-3d7ac0b761bb",
+                            
+                            "99888941-bbcf-40d4-b64b-c6ce7bc854f8"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "WLB",
+                        "players"	: [
+                            
+                            "c7a1ca53-f462-4efa-b6e5-be6180b37fe6",
+                            
+                            "a78bae18-6761-472a-9c39-ef9e900d2627"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LCB",
+                        "players"	: [
+                            
+                            "61f9c1b2-ca84-4bee-8413-3cc4851c54a8",
+                            
+                            "2b9d9093-a1a2-43bc-a720-ca4787f3664c",
+                            
+                            "c01bea72-a3f9-49e2-8d61-2a4a182ade51"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "SS",
+                        "players"	: [
+                            
+                            "47dfeb06-1e05-40ad-8242-0014978bcff2",
+                            
+                            "0392d84a-0c86-4bb5-ad3e-b3e97d449975"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "FS",
+                        "players"	: [
+                            
+                            "d47e2013-1467-4157-89ba-0d1d85d359e9",
+                            
+                            "640d9813-b571-4742-9c3b-30fe81f74447"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "RCB",
+                        "players"	: [
+                            
+                            "6939069c-d1ad-4f66-91ea-c05f87b46732",
+                            
+                            "2992ef2e-d4cb-4ec5-a4f5-01fa13ad5860",
+                            
+                            "00a074d6-0823-43ad-be6a-42ee67b3e3dd"
+                            
+                        ]
+                        }
+                    
+                    ]
+              },
+
+        
+        "Special Teams" :
+            {
+                "Base" : [
+                    
+                    {
+                        "positionID"	: "K",
+                        "players"	: [
+                            
+                            "74306531-dad1-46b8-b136-595c9ea1d72f"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "P",
+                        "players"	: [
+                            
+                            "543b70aa-1f2e-41cc-952c-79e448905b65"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "LS",
+                        "players"	: [
+                            
+                            "c12c6c4c-b659-4808-af30-bd904473eea2"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "H",
+                        "players"	: [
+                            
+                            "543b70aa-1f2e-41cc-952c-79e448905b65"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "PR",
+                        "players"	: [
+                            
+                            "00a074d6-0823-43ad-be6a-42ee67b3e3dd",
+                            
+                            "0572bf6f-3462-47ee-9ded-ec62d0eecb1c"
+                            
+                        ]
+                        },
+                    
+                    {
+                        "positionID"	: "KR",
+                        "players"	: [
+                            
+                            "db8b8cb1-0b1f-4da7-8f76-8b726f75f0d0",
+                            
+                            "00a074d6-0823-43ad-be6a-42ee67b3e3dd"
+                            
+                        ]
+                        }
+                    
+                    ]
+              }
+
+        
+        },
+        "players" : [
+          
+              {
+                    "id"	: "640d9813-b571-4742-9c3b-30fe81f74447",
+                    "fname"	: "Anthony",
+                    "lname"	: "Harris",
+                    "teamNumber"	:  "41",
+                    "position"	: "S",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "10/09/91",
+                    "hometown"	: "",
+                    "height"	: "6-1",
+                    "weight"	: "192",
+                    "college"	: "Virginia",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Anthony-Harris/640d9813-b571-4742-9c3b-30fe81f74447"
+              },
+           
+              {
+                    "id"	: "47dfeb06-1e05-40ad-8242-0014978bcff2",
+                    "fname"	: "Andrew",
+                    "lname"	: "Sendejo",
+                    "teamNumber"	:  "34",
+                    "position"	: "S",
+                    "experience"	:  "6",
+                    "age"	: "29",
+                    "born"	: "09/09/87",
+                    "hometown"	: "San Antonio, TX",
+                    "height"	: "6-1",
+                    "weight"	: "210",
+                    "college"	: "Rice",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Andrew-Sendejo/47dfeb06-1e05-40ad-8242-0014978bcff2"
+              },
+           
+              {
+                    "id"	: "00a074d6-0823-43ad-be6a-42ee67b3e3dd",
+                    "fname"	: "Marcus",
+                    "lname"	: "Sherels",
+                    "teamNumber"	:  "35",
+                    "position"	: "CB",
+                    "experience"	:  "6",
+                    "age"	: "28",
+                    "born"	: "09/30/87",
+                    "hometown"	: "Rochester, MN",
+                    "height"	: "5-10",
+                    "weight"	: "175",
+                    "college"	: "Minnesota",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Marcus-Sherels/00a074d6-0823-43ad-be6a-42ee67b3e3dd"
+              },
+           
+              {
+                    "id"	: "1359c12f-28c6-45d1-b08b-4bcf1afe9bf5",
+                    "fname"	: "Stefon",
+                    "lname"	: "Diggs",
+                    "teamNumber"	:  "14",
+                    "position"	: "WR",
+                    "experience"	:  "2",
+                    "age"	: "22",
+                    "born"	: "11/29/93",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "191",
+                    "college"	: "Maryland",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Stefon-Diggs/1359c12f-28c6-45d1-b08b-4bcf1afe9bf5"
+              },
+           
+              {
+                    "id"	: "5b5f50b6-a282-47a6-b6d7-bf07fb070d07",
+                    "fname"	: "Danielle",
+                    "lname"	: "Hunter",
+                    "teamNumber"	:  "99",
+                    "position"	: "DE",
+                    "experience"	:  "2",
+                    "age"	: "21",
+                    "born"	: "10/29/94",
+                    "hometown"	: "",
+                    "height"	: "6-5",
+                    "weight"	: "252",
+                    "college"	: "LSU",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Danielle-Hunter/5b5f50b6-a282-47a6-b6d7-bf07fb070d07"
+              },
+           
+              {
+                    "id"	: "6939069c-d1ad-4f66-91ea-c05f87b46732",
+                    "fname"	: "Xavier",
+                    "lname"	: "Rhodes",
+                    "teamNumber"	:  "29",
+                    "position"	: "CB",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "06/19/90",
+                    "hometown"	: "",
+                    "height"	: "6-1",
+                    "weight"	: "218",
+                    "college"	: "Florida State",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Xavier-Rhodes/6939069c-d1ad-4f66-91ea-c05f87b46732"
+              },
+           
+              {
+                    "id"	: "025e12f0-eed4-4388-b917-ae7f942f6204",
+                    "fname"	: "Eric",
+                    "lname"	: "Kendricks",
+                    "teamNumber"	:  "54",
+                    "position"	: "LB",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "02/29/92",
+                    "hometown"	: "Clovis, CA",
+                    "height"	: "6-0",
+                    "weight"	: "232",
+                    "college"	: "UCLA",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Eric-Kendricks/025e12f0-eed4-4388-b917-ae7f942f6204"
+              },
+           
+              {
+                    "id"	: "24446e8e-6d91-4050-8811-ad5db58110a1",
+                    "fname"	: "Mycole",
+                    "lname"	: "Pruitt",
+                    "teamNumber"	:  "83",
+                    "position"	: "TE",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "03/24/92",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "258",
+                    "college"	: "Southern Illinois",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Mycole-Pruitt/24446e8e-6d91-4050-8811-ad5db58110a1"
+              },
+           
+              {
+                    "id"	: "d46a2d18-d20d-4f34-9fda-fb2343ee1d26",
+                    "fname"	: "Linval",
+                    "lname"	: "Joseph",
+                    "teamNumber"	:  "98",
+                    "position"	: "DT",
+                    "experience"	:  "7",
+                    "age"	: "27",
+                    "born"	: "10/10/88",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "329",
+                    "college"	: "East Carolina",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Linval-Joseph/d46a2d18-d20d-4f34-9fda-fb2343ee1d26"
+              },
+           
+              {
+                    "id"	: "56d2c344-48cd-42fe-b508-75dc905249d2",
+                    "fname"	: "David",
+                    "lname"	: "Morgan",
+                    "teamNumber"	:  "89",
+                    "position"	: "TE",
+                    "experience"	:  "0",
+                    "age"	: "23",
+                    "born"	: "05/19/93",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "265",
+                    "college"	: "Texas San Antonio",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/David-Morgan/56d2c344-48cd-42fe-b508-75dc905249d2"
+              },
+           
+              {
+                    "id"	: "0392d84a-0c86-4bb5-ad3e-b3e97d449975",
+                    "fname"	: "Jayron",
+                    "lname"	: "Kearse",
+                    "teamNumber"	:  "27",
+                    "position"	: "S",
+                    "experience"	:  "0",
+                    "age"	: "22",
+                    "born"	: "02/11/94",
+                    "hometown"	: "Fort Myers, FL",
+                    "height"	: "6-4",
+                    "weight"	: "215",
+                    "college"	: "Clemson",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jayron-Kearse/0392d84a-0c86-4bb5-ad3e-b3e97d449975"
+              },
+           
+              {
+                    "id"	: "afd2bda6-c910-4dab-b9ca-e36c15bca2a1",
+                    "fname"	: "Laquon",
+                    "lname"	: "Treadwell",
+                    "teamNumber"	:  "11",
+                    "position"	: "WR",
+                    "experience"	:  "0",
+                    "age"	: "21",
+                    "born"	: "06/14/95",
+                    "hometown"	: "Crete, Illinois",
+                    "height"	: "6-2",
+                    "weight"	: "215",
+                    "college"	: "Ole Miss",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Laquon-Treadwell/afd2bda6-c910-4dab-b9ca-e36c15bca2a1"
+              },
+           
+              {
+                    "id"	: "d47e2013-1467-4157-89ba-0d1d85d359e9",
+                    "fname"	: "Harrison",
+                    "lname"	: "Smith",
+                    "teamNumber"	:  "22",
+                    "position"	: "S",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "02/02/89",
+                    "hometown"	: "Knoxville, TN",
+                    "height"	: "6-2",
+                    "weight"	: "214",
+                    "college"	: "Notre Dame",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Harrison-Smith/d47e2013-1467-4157-89ba-0d1d85d359e9"
+              },
+           
+              {
+                    "id"	: "43716405-647a-41e9-966a-9cdd2339e633",
+                    "fname"	: "Shamar",
+                    "lname"	: "Stephen",
+                    "teamNumber"	:  "93",
+                    "position"	: "DT",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "02/25/91",
+                    "hometown"	: "",
+                    "height"	: "6-5",
+                    "weight"	: "310",
+                    "college"	: "UCONN",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Shamar-Stephen/43716405-647a-41e9-966a-9cdd2339e633"
+              },
+           
+              {
+                    "id"	: "af208a43-e984-43f0-8d48-3d7ac0b761bb",
+                    "fname"	: "Audie",
+                    "lname"	: "Cole",
+                    "teamNumber"	:  "57",
+                    "position"	: "LB",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "06/01/89",
+                    "hometown"	: "Monroe, MI",
+                    "height"	: "6-5",
+                    "weight"	: "248",
+                    "college"	: "North Carolina St.",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Audie-Cole/af208a43-e984-43f0-8d48-3d7ac0b761bb"
+              },
+           
+              {
+                    "id"	: "74306531-dad1-46b8-b136-595c9ea1d72f",
+                    "fname"	: "Blair",
+                    "lname"	: "Walsh",
+                    "teamNumber"	:  "3",
+                    "position"	: "K",
+                    "experience"	:  "5",
+                    "age"	: "26",
+                    "born"	: "01/08/90",
+                    "hometown"	: "Boca Raton, FL",
+                    "height"	: "5-10",
+                    "weight"	: "170",
+                    "college"	: "Georgia",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Blair-Walsh/74306531-dad1-46b8-b136-595c9ea1d72f"
+              },
+           
+              {
+                    "id"	: "e32e843e-89ce-45af-a99d-9aaeb7ea5381",
+                    "fname"	: "Anthony",
+                    "lname"	: "Barr",
+                    "teamNumber"	:  "55",
+                    "position"	: "LB",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "03/18/92",
+                    "hometown"	: "",
+                    "height"	: "6-5",
+                    "weight"	: "255",
+                    "college"	: "UCLA",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Anthony-Barr/e32e843e-89ce-45af-a99d-9aaeb7ea5381"
+              },
+           
+              {
+                    "id"	: "af665621-b205-41e6-8780-0844d8346d97",
+                    "fname"	: "Matt",
+                    "lname"	: "Kalil",
+                    "teamNumber"	:  "75",
+                    "position"	: "T",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "07/06/89",
+                    "hometown"	: "Corona, CA",
+                    "height"	: "6-7",
+                    "weight"	: "317",
+                    "college"	: "USC",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matt-Kalil/af665621-b205-41e6-8780-0844d8346d97"
+              },
+           
+              {
+                    "id"	: "c59b5651-d870-4191-bac7-280cc390156e",
+                    "fname"	: "Sam",
+                    "lname"	: "Bradford",
+                    "teamNumber"	:  "8",
+                    "position"	: "QB",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "11/08/87",
+                    "hometown"	: "Oklahoma City, OK",
+                    "height"	: "6-4",
+                    "weight"	: "224",
+                    "college"	: "Oklahoma",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Sam-Bradford/c59b5651-d870-4191-bac7-280cc390156e"
+              },
+           
+              {
+                    "id"	: "828f3745-ac74-4f85-ab1b-6d5ec511120f",
+                    "fname"	: "Rhett",
+                    "lname"	: "Ellison",
+                    "teamNumber"	:  "85",
+                    "position"	: "TE",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "10/03/88",
+                    "hometown"	: "Portola Valley, CA",
+                    "height"	: "6-5",
+                    "weight"	: "250",
+                    "college"	: "USC",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Rhett-Ellison/828f3745-ac74-4f85-ab1b-6d5ec511120f"
+              },
+           
+              {
+                    "id"	: "6aadeaf5-8527-4153-87ce-659a6b973bda",
+                    "fname"	: "Jarius",
+                    "lname"	: "Wright",
+                    "teamNumber"	:  "17",
+                    "position"	: "WR",
+                    "experience"	:  "5",
+                    "age"	: "26",
+                    "born"	: "11/25/89",
+                    "hometown"	: "Warren, AR",
+                    "height"	: "5-10",
+                    "weight"	: "191",
+                    "college"	: "Arkansas",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jarius-Wright/6aadeaf5-8527-4153-87ce-659a6b973bda"
+              },
+           
+              {
+                    "id"	: "8a65c556-6e38-4b42-a8d5-cb05a47e636b",
+                    "fname"	: "Jeremiah",
+                    "lname"	: "Sirles",
+                    "teamNumber"	:  "78",
+                    "position"	: "G / T",
+                    "experience"	:  "3",
+                    "age"	: "25",
+                    "born"	: "08/08/91",
+                    "hometown"	: "Lakewood, CO",
+                    "height"	: "6-6",
+                    "weight"	: "315",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jeremiah-Sirles/8a65c556-6e38-4b42-a8d5-cb05a47e636b"
+              },
+           
+              {
+                    "id"	: "88c61c07-5651-4021-8ab7-457c5744891c",
+                    "fname"	: "Jerick",
+                    "lname"	: "McKinnon",
+                    "teamNumber"	:  "21",
+                    "position"	: "RB",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "05/03/92",
+                    "hometown"	: "",
+                    "height"	: "5-9",
+                    "weight"	: "205",
+                    "college"	: "Georgia Southern",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jerick-McKinnon/88c61c07-5651-4021-8ab7-457c5744891c"
+              },
+           
+              {
+                    "id"	: "c12c6c4c-b659-4808-af30-bd904473eea2",
+                    "fname"	: "Kevin",
+                    "lname"	: "McDermott",
+                    "teamNumber"	:  "47",
+                    "position"	: "LS",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "01/12/90",
+                    "hometown"	: "Nashville, TN",
+                    "height"	: "6-5",
+                    "weight"	: "240",
+                    "college"	: "UCLA",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kevin-McDermott/c12c6c4c-b659-4808-af30-bd904473eea2"
+              },
+           
+              {
+                    "id"	: "a78bae18-6761-472a-9c39-ef9e900d2627",
+                    "fname"	: "Emmanuel",
+                    "lname"	: "Lamur",
+                    "teamNumber"	:  "59",
+                    "position"	: "OLB",
+                    "experience"	:  "5",
+                    "age"	: "27",
+                    "born"	: "06/08/89",
+                    "hometown"	: "Delray Beach, FL",
+                    "height"	: "6-4",
+                    "weight"	: "245",
+                    "college"	: "Kansas State",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Emmanuel-Lamur/a78bae18-6761-472a-9c39-ef9e900d2627"
+              },
+           
+              {
+                    "id"	: "543b70aa-1f2e-41cc-952c-79e448905b65",
+                    "fname"	: "Jeff",
+                    "lname"	: "Locke",
+                    "teamNumber"	:  "18",
+                    "position"	: "P",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "09/27/89",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "195",
+                    "college"	: "UCLA",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jeff-Locke/543b70aa-1f2e-41cc-952c-79e448905b65"
+              },
+           
+              {
+                    "id"	: "0572bf6f-3462-47ee-9ded-ec62d0eecb1c",
+                    "fname"	: "Adam",
+                    "lname"	: "Thielen",
+                    "teamNumber"	:  "19",
+                    "position"	: "WR",
+                    "experience"	:  "3",
+                    "age"	: "26",
+                    "born"	: "08/22/90",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "200",
+                    "college"	: "Minnesota State",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Adam-Thielen/0572bf6f-3462-47ee-9ded-ec62d0eecb1c"
+              },
+           
+              {
+                    "id"	: "b775028c-ea2b-4381-b363-42d619eb19ea",
+                    "fname"	: "Sharrif",
+                    "lname"	: "Floyd",
+                    "teamNumber"	:  "73",
+                    "position"	: "DT",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "05/28/91",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "311",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Sharrif-Floyd/b775028c-ea2b-4381-b363-42d619eb19ea"
+              },
+           
+              {
+                    "id"	: "5a5afeb8-7a8f-441c-995e-5452abe61abb",
+                    "fname"	: "Matt",
+                    "lname"	: "Asiata",
+                    "teamNumber"	:  "44",
+                    "position"	: "RB",
+                    "experience"	:  "5",
+                    "age"	: "29",
+                    "born"	: "07/24/87",
+                    "hometown"	: "West Valley City, UT",
+                    "height"	: "6-0",
+                    "weight"	: "219",
+                    "college"	: "Utah",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Matt-Asiata/5a5afeb8-7a8f-441c-995e-5452abe61abb"
+              },
+           
+              {
+                    "id"	: "0476d63d-5b69-4ecd-bd68-f6acab24c2c1",
+                    "fname"	: "Nick",
+                    "lname"	: "Easton",
+                    "teamNumber"	:  "62",
+                    "position"	: "C",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "06/16/92",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "303",
+                    "college"	: "Harvard",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Nick-Easton/0476d63d-5b69-4ecd-bd68-f6acab24c2c1"
+              },
+           
+              {
+                    "id"	: "db8b8cb1-0b1f-4da7-8f76-8b726f75f0d0",
+                    "fname"	: "Cordarrelle",
+                    "lname"	: "Patterson",
+                    "teamNumber"	:  "84",
+                    "position"	: "WR",
+                    "experience"	:  "4",
+                    "age"	: "25",
+                    "born"	: "03/17/91",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "220",
+                    "college"	: "Tennessee",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Cordarrelle-Patterson/db8b8cb1-0b1f-4da7-8f76-8b726f75f0d0"
+              },
+           
+              {
+                    "id"	: "2992ef2e-d4cb-4ec5-a4f5-01fa13ad5860",
+                    "fname"	: "Captain",
+                    "lname"	: "Munnerlyn",
+                    "teamNumber"	:  "24",
+                    "position"	: "CB",
+                    "experience"	:  "8",
+                    "age"	: "28",
+                    "born"	: "04/10/88",
+                    "hometown"	: "Mobile, AL",
+                    "height"	: "5-9",
+                    "weight"	: "195",
+                    "college"	: "South Carolina",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Captain-Munnerlyn/2992ef2e-d4cb-4ec5-a4f5-01fa13ad5860"
+              },
+           
+              {
+                    "id"	: "d3cb1b8f-3945-42fd-b4d0-0ad5b62e03c8",
+                    "fname"	: "Joe",
+                    "lname"	: "Berger",
+                    "teamNumber"	:  "61",
+                    "position"	: "G",
+                    "experience"	:  "12",
+                    "age"	: "34",
+                    "born"	: "05/25/82",
+                    "hometown"	: "Newyago, MI",
+                    "height"	: "6-5",
+                    "weight"	: "305",
+                    "college"	: "Michigan Tech",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Joe-Berger/d3cb1b8f-3945-42fd-b4d0-0ad5b62e03c8"
+              },
+           
+              {
+                    "id"	: "99888941-bbcf-40d4-b64b-c6ce7bc854f8",
+                    "fname"	: "Kentrell",
+                    "lname"	: "Brothers",
+                    "teamNumber"	:  "40",
+                    "position"	: "OLB",
+                    "experience"	:  "0",
+                    "age"	: "23",
+                    "born"	: "02/08/93",
+                    "hometown"	: "Guthrie, OK",
+                    "height"	: "6-1",
+                    "weight"	: "242",
+                    "college"	: "Missouri",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kentrell-Brothers/99888941-bbcf-40d4-b64b-c6ce7bc854f8"
+              },
+           
+              {
+                    "id"	: "c7a1ca53-f462-4efa-b6e5-be6180b37fe6",
+                    "fname"	: "Chad",
+                    "lname"	: "Greenway",
+                    "teamNumber"	:  "52",
+                    "position"	: "LB",
+                    "experience"	:  "11",
+                    "age"	: "33",
+                    "born"	: "01/12/83",
+                    "hometown"	: "Mount Vernon, SD",
+                    "height"	: "6-3",
+                    "weight"	: "237",
+                    "college"	: "Iowa",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Chad-Greenway/c7a1ca53-f462-4efa-b6e5-be6180b37fe6"
+              },
+           
+              {
+                    "id"	: "61f9c1b2-ca84-4bee-8413-3cc4851c54a8",
+                    "fname"	: "Terence",
+                    "lname"	: "Newman",
+                    "teamNumber"	:  "23",
+                    "position"	: "CB",
+                    "experience"	:  "14",
+                    "age"	: "38",
+                    "born"	: "09/04/78",
+                    "hometown"	: "Salina, KS",
+                    "height"	: "5-10",
+                    "weight"	: "197",
+                    "college"	: "Kansas State",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Terence-Newman/61f9c1b2-ca84-4bee-8413-3cc4851c54a8"
+              },
+           
+              {
+                    "id"	: "2b9d9093-a1a2-43bc-a720-ca4787f3664c",
+                    "fname"	: "Trae",
+                    "lname"	: "Waynes",
+                    "teamNumber"	:  "26",
+                    "position"	: "CB",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "07/25/92",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "190",
+                    "college"	: "Michigan State",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Trae-Waynes/2b9d9093-a1a2-43bc-a720-ca4787f3664c"
+              },
+           
+              {
+                    "id"	: "e06ffea9-5780-41f2-9eba-e63c89f200bc",
+                    "fname"	: "Brian",
+                    "lname"	: "Robison",
+                    "teamNumber"	:  "96",
+                    "position"	: "DE",
+                    "experience"	:  "10",
+                    "age"	: "33",
+                    "born"	: "04/27/83",
+                    "hometown"	: "Splendora, TX",
+                    "height"	: "6-3",
+                    "weight"	: "259",
+                    "college"	: "Texas",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brian-Robison/e06ffea9-5780-41f2-9eba-e63c89f200bc"
+              },
+           
+              {
+                    "id"	: "26428e06-2a9b-4243-9d13-621062fb92c6",
+                    "fname"	: "Zac",
+                    "lname"	: "Kerin",
+                    "teamNumber"	:  "67",
+                    "position"	: "C",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "08/13/91",
+                    "hometown"	: "",
+                    "height"	: "6-5",
+                    "weight"	: "305",
+                    "college"	: "Toledo",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Zac-Kerin/26428e06-2a9b-4243-9d13-621062fb92c6"
+              },
+           
+              {
+                    "id"	: "316c1b17-fc8d-499f-96a5-fb8035ecbc89",
+                    "fname"	: "Tom",
+                    "lname"	: "Johnson",
+                    "teamNumber"	:  "92",
+                    "position"	: "DT",
+                    "experience"	:  "6",
+                    "age"	: "32",
+                    "born"	: "08/30/84",
+                    "hometown"	: "Moss Point, MS",
+                    "height"	: "6-3",
+                    "weight"	: "288",
+                    "college"	: "Southern Mississippi",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tom-Johnson/316c1b17-fc8d-499f-96a5-fb8035ecbc89"
+              },
+           
+              {
+                    "id"	: "ecf793c2-6a33-499e-a877-cb4ad59414c5",
+                    "fname"	: "Brandon",
+                    "lname"	: "Fusco",
+                    "teamNumber"	:  "63",
+                    "position"	: "G",
+                    "experience"	:  "6",
+                    "age"	: "26",
+                    "born"	: "11/17/89",
+                    "hometown"	: "Cranberry TwnSp., PA",
+                    "height"	: "6-4",
+                    "weight"	: "306",
+                    "college"	: "Slippery Rock",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Fusco/ecf793c2-6a33-499e-a877-cb4ad59414c5"
+              },
+           
+              {
+                    "id"	: "5da6f81d-8425-450d-aa4b-a0d5a9a9f9e6",
+                    "fname"	: "T.J.",
+                    "lname"	: "Clemmings",
+                    "teamNumber"	:  "68",
+                    "position"	: "OL",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "11/18/91",
+                    "hometown"	: "",
+                    "height"	: "6-5",
+                    "weight"	: "309",
+                    "college"	: "Pittsburgh",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/T.J.-Clemmings/5da6f81d-8425-450d-aa4b-a0d5a9a9f9e6"
+              },
+           
+              {
+                    "id"	: "4dd7544a-5210-4aad-8e05-8ffb8cd92ddd",
+                    "fname"	: "Adrian",
+                    "lname"	: "Peterson",
+                    "teamNumber"	:  "28",
+                    "position"	: "RB",
+                    "experience"	:  "10",
+                    "age"	: "31",
+                    "born"	: "03/21/85",
+                    "hometown"	: "Palestine, TX",
+                    "height"	: "6-1",
+                    "weight"	: "220",
+                    "college"	: "Oklahoma",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Adrian-Peterson/4dd7544a-5210-4aad-8e05-8ffb8cd92ddd"
+              },
+           
+              {
+                    "id"	: "2bb03acf-1ba0-4f07-bca0-9348046f5f2d",
+                    "fname"	: "Alex",
+                    "lname"	: "Boone",
+                    "teamNumber"	:  "76",
+                    "position"	: "G",
+                    "experience"	:  "7",
+                    "age"	: "29",
+                    "born"	: "05/04/87",
+                    "hometown"	: "Lakewood, OH",
+                    "height"	: "6-8",
+                    "weight"	: "310",
+                    "college"	: "Ohio State",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Alex-Boone/2bb03acf-1ba0-4f07-bca0-9348046f5f2d"
+              },
+           
+              {
+                    "id"	: "7e4d30df-d267-4316-905e-b9328d4187bd",
+                    "fname"	: "Edmond",
+                    "lname"	: "Robinson",
+                    "teamNumber"	:  "51",
+                    "position"	: "LB",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "02/23/92",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "245",
+                    "college"	: "Newberry",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Edmond-Robinson/7e4d30df-d267-4316-905e-b9328d4187bd"
+              },
+           
+              {
+                    "id"	: "932442f4-0f4a-4180-a1ab-42f685c21b81",
+                    "fname"	: "Andre",
+                    "lname"	: "Smith",
+                    "teamNumber"	:  "71",
+                    "position"	: "T",
+                    "experience"	:  "8",
+                    "age"	: "29",
+                    "born"	: "01/25/87",
+                    "hometown"	: "Birmingham, AL",
+                    "height"	: "6-4",
+                    "weight"	: "325",
+                    "college"	: "Alabama",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Andre-Smith/932442f4-0f4a-4180-a1ab-42f685c21b81"
+              },
+           
+              {
+                    "id"	: "3836f711-151a-4ee4-b65c-b094bd6e1335",
+                    "fname"	: "Charles",
+                    "lname"	: "Johnson",
+                    "teamNumber"	:  "12",
+                    "position"	: "WR",
+                    "experience"	:  "4",
+                    "age"	: "27",
+                    "born"	: "02/27/89",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "217",
+                    "college"	: "Grand Valley State",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Charles-Johnson/3836f711-151a-4ee4-b65c-b094bd6e1335"
+              },
+           
+              {
+                    "id"	: "e79c4bd3-fb6b-4a3a-8d4c-661b8cf2d0dd",
+                    "fname"	: "Kyle",
+                    "lname"	: "Rudolph",
+                    "teamNumber"	:  "82",
+                    "position"	: "TE",
+                    "experience"	:  "6",
+                    "age"	: "26",
+                    "born"	: "11/09/89",
+                    "hometown"	: "Cincinnati, OH",
+                    "height"	: "6-6",
+                    "weight"	: "265",
+                    "college"	: "Notre Dame",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kyle-Rudolph/e79c4bd3-fb6b-4a3a-8d4c-661b8cf2d0dd"
+              },
+           
+              {
+                    "id"	: "c01bea72-a3f9-49e2-8d61-2a4a182ade51",
+                    "fname"	: "Mackensie",
+                    "lname"	: "Alexander",
+                    "teamNumber"	:  "20",
+                    "position"	: "CB",
+                    "experience"	:  "0",
+                    "age"	: "22",
+                    "born"	: "11/12/93",
+                    "hometown"	: "Immokalee, FL",
+                    "height"	: "5-10",
+                    "weight"	: "192",
+                    "college"	: "Clemson",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Mackensie-Alexander/c01bea72-a3f9-49e2-8d61-2a4a182ade51"
+              },
+           
+              {
+                    "id"	: "b6254411-e91d-437c-bbd1-4222d2f8cb7b",
+                    "fname"	: "Shaun",
+                    "lname"	: "Hill",
+                    "teamNumber"	:  "13",
+                    "position"	: "QB",
+                    "experience"	:  "15",
+                    "age"	: "36",
+                    "born"	: "01/09/80",
+                    "hometown"	: "Parsons, KS",
+                    "height"	: "6-3",
+                    "weight"	: "230",
+                    "college"	: "Maryland",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Shaun-Hill/b6254411-e91d-437c-bbd1-4222d2f8cb7b"
+              },
+           
+              {
+                    "id"	: "be0b51d8-2c2e-4b3d-822e-0138d64ad1de",
+                    "fname"	: "Everson",
+                    "lname"	: "Griffen",
+                    "teamNumber"	:  "97",
+                    "position"	: "DE",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "12/22/87",
+                    "hometown"	: "Avondale, AZ",
+                    "height"	: "6-3",
+                    "weight"	: "273",
+                    "college"	: "USC",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Everson-Griffen/be0b51d8-2c2e-4b3d-822e-0138d64ad1de"
+              },
+           
+              {
+                    "id"	: "d09c41e9-d33a-491a-90ce-2ef39ce2c886",
+                    "fname"	: "Justin",
+                    "lname"	: "Trattou",
+                    "teamNumber"	:  "94",
+                    "position"	: "DE",
+                    "experience"	:  "5",
+                    "age"	: "28",
+                    "born"	: "08/28/88",
+                    "hometown"	: "Maywood, NJ",
+                    "height"	: "6-4",
+                    "weight"	: "258",
+                    "college"	: "Florida",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Justin-Trattou/d09c41e9-d33a-491a-90ce-2ef39ce2c886"
+              },
+           
+              {
+                    "id"	: "6cdafdbd-6e1f-4dc0-8c48-39c26326dab2",
+                    "fname"	: "Zach",
+                    "lname"	: "Line",
+                    "teamNumber"	:  "48",
+                    "position"	: "FB",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "04/26/90",
+                    "hometown"	: "",
+                    "height"	: "6-1",
+                    "weight"	: "233",
+                    "college"	: "SMU",
+                    "image"	: "http://prod.static.vikings.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Zach-Line/6cdafdbd-6e1f-4dc0-8c48-39c26326dab2"
+              }
+           
+        ]
+    }
