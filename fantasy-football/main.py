@@ -1,5 +1,4 @@
 import depth_chart
-from pymongo import MongoClient
 
 if __name__ == '__main__':
     depth_chart.populate()
