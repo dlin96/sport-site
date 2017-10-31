@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # Filename: info_retrieval.py
 # Author: David Lin 
 # Date: 3/30/17

@@ -1,4 +1,4 @@
-#! h:/programs/Python27/python.exe
+#! /usr/bin/python
 import nfldb
 
 db = nfldb.connect()

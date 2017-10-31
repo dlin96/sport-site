@@ -1,35 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>StatLab</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="bootstrap.min.css">
+        <link rel="stylesheet" href="styles.css" type="text/css">
 
-<head>
-<meta charset="UTF-8">
-<title>StatLab</title>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script type="text/javascript" src="typeahead.min.js"></script>
-<script src="fill_table.js"></script>
-<script>
-$(document).ready(function(){
-    $('input.typeahead').typeahead({
-        name: 'players',
-        remote: 'http://localhost:3000/search?key=%QUERY',
-        limit: 10,
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script type="text/javascript" src="typeahead.min.js"></script>
+        <script src="fill_table.js"></script>
+        <script>
+        $(document).ready(function(){
+            $('input.typeahead').typeahead({
+                name: 'players',
+                remote: 'http://localhost:3000/search?key=%QUERY',
+                limit: 10,
+                });
         });
-});
-</script>
-<link rel="stylesheet" href="styles.css" type="text/css">
-</head>
-<body>
-    <span class="queryBlock">
-        <input type="text" id="player" name="typeahead" class="typeahead tt-query" autocomplete="off" spellcheck="false" placeholder="Type your Query">
-        <input type="text" id="player2" name="typeahead" class="typeahead tt-query" autocomplete="off" spellcheck="false" placeholder="Type your Query">
-        <input type="button" id="submit" value="Submit">
-    </span>
-    <div id="result">
-    	<h1 id="message"></h1>
-    	<table id="playerTable">
-    		<tr>
-	    	</tr>
-    	</table>
-    </div>
-</body>
+        </script>
+        <script src="bootstrap.bundle.min.js"></script>
+    </head>
+    <body>
+        <div class="jumbotron">
+            <div class="container">
+                <h1 class="display-3">Welcome!</h1>
+                <h1 class="display-5">To start, type a player's name into each of the boxes below (selecting from the dropdown), and press submit.</h1>
+            </div>
+        </div>
+        <div class="container text-center">
+            <input type="text" id="player" name="typeahead" class="form-control typeahead tt-query border border-primary" autocomplete="off" spellcheck="false" placeholder="Type a player's name">
+            <br />
+            <br />
+            <input type="text" id="player2" name="typeahead" class="form-control typeahead tt-query border border-primary" autocomplete="off" spellcheck="false" placeholder="Type a player's name">
+            <br />
+            <br />
+            <button type="button" class="btn btn-primary btn-lg" id="submit">Submit</button>
+        </div>
+        <div id="result">
+        	<h1 id="message"></h1>
+        	<table id="playerTable">
+        		<tr>
+    	    	</tr>
+        	</table>
+        </div>
+    </body>
 </html>

@@ -34,11 +34,6 @@ app.get('/', function(req, res) {
 	res.sendFile(__dirname + '/public/index.html');
 });
 
-// temporary route
-app.get('/styles.css', function(req, res) {
-	res.sendFile(__dirname + '/public/styles.css');
-});
-
 app.get('/search', function(req, res) {
 	var con = dbConnection();
 	// query using the user input
@@ -67,7 +62,8 @@ function splitParam(url_param) {
  * Post method that takes the input from the page and returns a json of the 
  * selected players stats. This method is strictly for comparing 2 players.
  *
- * TODO: see if we can avoid doing a query for playerId.
+ * TODO: see if we can avoid doing a query for playerId. Modify queries to 
+ *		 escape '' against SQL injection
  */
 
 app.post('/comparison/:playerName/:player2', function(req, res) {

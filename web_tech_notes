@@ -1,0 +1,37 @@
+Front End:
+ReactJS
+HTML5
+CSS3/Bootstrap
+JS/JQuery
+
+Web Server:  // need to figure out what each of these components do
+nginx(?)
+aws
+nodejs
+wordpress(?) -- CMS
+apache
+
+
+nginx -- http server
+
+
+
+wordpress -- CMS (Content Management System)
+
+
+
+apache -- http server:
+inetd
+when new TCP connection was received, inetd would fork() and exec() a Unix process to handle the connection
+
+forking new httpd worker process was expensive, so they adopted prefork model: a pool of worker processes was created in advance. 
+
+Did not scale well for high traffic volume and heavy pages (embedded resources requiring more HTTP requests).
+
+MPM: multi-processing modules
+replaced httpd processes with a small number of child processes that ran multiple worker threads and assigned one thread per connection
+
+event MPM: extends worker MPM by adding a separate listening thread that manages idle keepalive 
+
+
+Docker -- https://medium.com/@francoisromain/setup-node-js-apache-nginx-reverse-proxy-with-docker-1f5a5cb3e71e

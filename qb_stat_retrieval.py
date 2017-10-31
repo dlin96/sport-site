@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import nfldb
 
 db = nfldb.connect()
