@@ -3,6 +3,8 @@ var mysql = require('mysql');
 var prompt = require('prompt');
 var express = require('express');
 var bodyParser = require('body-parser');
+var iniParser = require('ini');
+var fs = require('fs');
 
 var app = express();
 
@@ -16,12 +18,14 @@ app.engine('html', require('ejs').renderFile);
 
 // function to connect to mysqldb. Created for sake of reusability. 
 function dbConnection() {
+	var config = iniParser.parse(fs.readFileSync('../config.ini', 'utf-8'));
+
 	// create mysql connection 
 	var con = mysql.createConnection({
-		host: "sports-db.ceutzulos0qe.us-west-1.rds.amazonaws.com",
-		user: "root",
-		password: "warriors73-9",
-		database: "nbadb"
+		host: config.DatabaseInfo.host,
+		user: config.DatabaseInfo.user,
+		password: config.DatabaseInfo.passwd,
+		database: config.DatabaseInfo.db
 	});
 
 	// connect to the db
@@ -126,6 +130,9 @@ app.get('/json/:playername', function (req, res) {
 	});
 });
 
+// app.get('/compare', function(req, res) {
+// 	res.sendFile()
+// })
 
 // start our server, listening on port 3000
 var server=app.listen(3000,function(){

@@ -10,14 +10,24 @@ table, th, td {
 	text-align: center;
 }
 
-.jumbotron{
-	padding-top: 5%;
+body {
+	background-image: url(/assets/basketball_jumbotron.jpg);
+	background-position: 10% 10%;
+	background-size: cover;
+}
+.header {
+	margin-top: 10%;
+	margin-bottom: 5%;
+	color: white;
+}
+/*.jumbotron{
+	padding-top: 10%;
 	height: 50vh;
 	background-image: url(/assets/basketball_jumbotron.jpg);
 	background-size: cover;
 	color: white;
 	background-position: 10% 10%;
-}
+}*/
 
 .tt-dropdown-menu {
     background-color: #FFFFFF;
@@ -27,6 +37,10 @@ table, th, td {
     margin-top: 12px;
     padding: 8px 0;
     width: 422px;
+}
+
+input {
+	margin-bottom: 10%;
 }
 
 .typeahead, .tt-query, .tt-hint {
