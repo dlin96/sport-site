@@ -8,10 +8,16 @@ import urllib
 import json
 import MySQLdb
 import pprint as pp
+import configparser
 
 # global variables
 nba_base_url = 'http://api.suredbits.com/nba/v0/players'
-
+config = configparser.ConfigParser()
+config.read("config.ini")
+host = config.get("DatabaseInfo", "host")
+user = config.get("DatabaseInfo", "user")
+passwd = config.get("DatabaseInfo", "passwd")
+db_name = config.get("DatabaseInfo", "db")
 '''
 inputs: first_name, last_name
 Correspond to the first and last names of the player we want to 
@@ -48,10 +54,10 @@ active_roster - array of json objects representing players in the NBA.
 
 def populate_nba_players():
     # connect to MySQL db
-    db = MySQLdb.connect(host="sports-db.ceutzulos0qe.us-west-1.rds.amazonaws.com",
-                         user="root",
-                         passwd="warriors73-9",
-                         db="nbadb")
+    db = MySQLdb.connect(host=host,
+                         user=user,
+                         passwd=passwd,
+                         db=db_name)
     # create Cursor object to execute queries
     cur = db.cursor()
 
@@ -105,10 +111,10 @@ Description: Should take all the necessary fields of a "player" in the table and
 # TODO: NEEDS TESTING.
 def insert_player(last_name, first_name, playerId):
     # connect to MySQL db
-    db = MySQLdb.connect(host="sports-db.ceutzulos0qe.us-west-1.rds.amazonaws.com",
-                         user="root",
-                         passwd="warriors73-9",
-                         db="nbadb")
+    db = MySQLdb.connect(host=host,
+                         user=user,
+                         passwd=passwd,
+                         db=db_name)
     # create Cursor object to execute queries
     cur = db.cursor()
     url = nba_base_url + '/' + last_name + '/' + first_name
