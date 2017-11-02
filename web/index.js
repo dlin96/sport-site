@@ -130,9 +130,9 @@ app.get('/json/:playername', function (req, res) {
 	});
 });
 
-// app.get('/compare', function(req, res) {
-// 	res.sendFile()
-// })
+app.get('/compare', function(req, res) {
+	res.sendFile(__dirname + '/public/player_comp.html');
+})
 
 // start our server, listening on port 3000
 var server=app.listen(3000,function(){

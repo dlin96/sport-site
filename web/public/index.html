@@ -9,7 +9,6 @@
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script type="text/javascript" src="typeahead.min.js"></script>
-        <script src="fill_table.js"></script>
         <script>
         $(document).ready(function(){
             $('input.typeahead').typeahead({
@@ -31,10 +30,10 @@
             <input type="text" id="player" name="typeahead" class="form-control typeahead tt-query border border-primary" autocomplete="off" spellcheck="false" placeholder="Type a player's name">
             
             <input type="text" id="player2" name="typeahead" class="form-control typeahead tt-query border border-primary" autocomplete="off" spellcheck="false" placeholder="Type a player's name">
-            <br />
-            <button type="button" class="btn btn-primary btn-lg" id="submit">Submit</button>
+            <br /><br/>
+            <button type="button" class="btn btn-primary btn-lg" id="submit"><a href="/compare">Submit</a></button>
         </div>
-        <div id="result">
+<!--         <div id="result">
         	<h1 id="message"></h1>
         	<table id="playerTable">
         		<tr>
@@ -43,6 +42,6 @@
 
             <br />
             <br />
-        </div>
+        </div> -->
     </body>
 </html>
