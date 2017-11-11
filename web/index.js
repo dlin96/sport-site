@@ -70,13 +70,14 @@ function splitParam(url_param) {
  *		 escape '' against SQL injection
  */
 
-app.post('/comparison/:playerName/:player2', function(req, res) {
+app.post('/comparison/', function(req, res) {
+	console.log(req.body.player);
 	var con = dbConnection();
-	var playerOne = splitParam(req.params.playerName);
+	var playerOne = splitParam(req.body.player);
 	var fullName = playerOne[0];
 	var team = playerOne[1];
 
-	var playerTwo = splitParam(req.params.player2);
+	var playerTwo = splitParam(req.body.player2);
 	var fullName2 = playerTwo[0];
 	var team2 = playerTwo[1];
 
