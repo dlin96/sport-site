@@ -8,9 +8,9 @@ var fs = require('fs');
 
 var app = express();
 
-app.set('views',__dirname + '/public');
+app.set('views',__dirname + '/src');
 app.use(express.static(__dirname + '/js'));
-app.use(express.static('public'))
+app.use(express.static('src'))
 app.set('view engine', 'ejs');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true}));
@@ -35,7 +35,7 @@ function dbConnection() {
 
 app.get('/', function(req, res) {
 
-	res.sendFile(__dirname + '/public/index.html');
+	res.sendFile(__dirname + '/src/index.html');
 });
 
 app.get('/search', function(req, res) {
@@ -70,14 +70,14 @@ function splitParam(url_param) {
  *		 escape '' against SQL injection
  */
 
-app.post('/comparison/', function(req, res) {
-	console.log(req.body.player);
+app.get('/comparison/', function(req, res) {
+	console.log(req.query.player);
 	var con = dbConnection();
-	var playerOne = splitParam(req.body.player);
+	var playerOne = splitParam(req.query.player);
 	var fullName = playerOne[0];
 	var team = playerOne[1];
 
-	var playerTwo = splitParam(req.body.player2);
+	var playerTwo = splitParam(req.query.player2);
 	var fullName2 = playerTwo[0];
 	var team2 = playerTwo[1];
 

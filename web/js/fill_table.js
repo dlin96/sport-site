@@ -2,7 +2,7 @@ $(document).ready(function() {
 	$("#submit").click(function() {
 		var player=$("#player").val();
 		var player2=$("#player2").val();
-		$.post("http://localhost:3000/comparison/", {player: player, player2: player2}).done(function(data) {
+		$.get("http://localhost:3000/comparison/", {player: player, player2: player2}).done(function(data) {
             if(jQuery.isEmptyObject(data)) {
                 $("#message").empty();
                 $("#message").prepend("Invalid entry. Please try again using the autocomplete options");

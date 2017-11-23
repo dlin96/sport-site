@@ -39,10 +39,13 @@ body {
     width: 422px;
 }
 
+input {
+    color: black;
+}
 
 .typeahead, .tt-query, .tt-hint {
 	color: #000000;
-    font-size: 36px;
+    font-size: 24px;
     line-height: 30px;
     padding: 8px 12px;
     width: 100%
@@ -51,7 +54,7 @@ body {
     background-color: #FFFFFF;
 }
 .typeahead:focus {
-    border: 2px solid #0097CF;
+    border: 2px solid #000000;
 }
 .tt-query {
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
@@ -74,7 +77,7 @@ body {
     padding: 3px 20px;
 }
 .tt-suggestion.tt-is-under-cursor {
-    background-color: #0097CF;
+    background-color: #000000;
     color: #FFFFFF;
 }
 .tt-suggestion p {

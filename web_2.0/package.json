@@ -1,0 +1,11 @@
+{
+  "name": "web_2.0",
+  "version": "1.0.0",
+  "description": "Front end for sport-site written with React.js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Lin",
+  "license": "ISC"
+}
