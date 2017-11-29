@@ -5,12 +5,16 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var iniParser = require('ini');
 var fs = require('fs');
+var cors = require('cors');
 
 var app = express();
 
 app.set('views',__dirname + '/src');
 app.use(express.static(__dirname + '/js'));
 app.use(express.static('src'))
+app.use(cors({
+	origin: 'http://localhost:3000'
+}));
 app.set('view engine', 'ejs');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true}));
@@ -33,10 +37,10 @@ function dbConnection() {
 	return con;
 }
 
-app.get('/', function(req, res) {
+// app.get('/', function(req, res) {
 
-	res.sendFile(__dirname + '/src/index.html');
-});
+// 	res.sendFile(__dirname + '/src/index.html');
+// });
 
 app.get('/search', function(req, res) {
 	var con = dbConnection();
@@ -71,7 +75,6 @@ function splitParam(url_param) {
  */
 
 app.get('/comparison/', function(req, res) {
-	console.log(req.query.player);
 	var con = dbConnection();
 	var playerOne = splitParam(req.query.player);
 	var fullName = playerOne[0];
@@ -131,11 +134,11 @@ app.get('/json/:playername', function (req, res) {
 	});
 });
 
-app.get('/compare', function(req, res) {
-	res.sendFile(__dirname + '/public/player_comp.html');
-})
+// app.get('/compare', function(req, res) {
+// 	res.sendFile(__dirname + '/public/player_comp.html');
+// })
 
 // start our server, listening on port 3000
-var server=app.listen(3000,function(){
-	console.log("We have started our server on port 3000");
+var server=app.listen(8000,function(){
+	console.log("We have started our server on port 8000");
 });
