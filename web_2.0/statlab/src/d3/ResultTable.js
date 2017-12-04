@@ -12,6 +12,7 @@ const ResultTable = (props) => {
                 </tr>
             </thead>
             <tbody>
+                
             </tbody>
         </table>
     );
