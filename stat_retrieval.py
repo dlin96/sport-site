@@ -1,17 +1,36 @@
+#!/usr/bin/python
+
 import urllib
 import json
 import pymysql
+import configparser
 
-#nba_stat_base_url = 'http://api.suredbits.com/nba/v0/stats'
 nba_stat_base_url = 'http://data.nba.net/10s/prod/v1/data/10s/prod/v1/2016/players/%d_profile.json'
 
+config = configparser.ConfigParser()
+config.read("config.ini")
+host = config.get("DatabaseInfo", "host")
+user = config.get("DatabaseInfo", "user")
+passwd = config.get("DatabaseInfo", "passwd")
+db_name = config.get("DatabaseInfo", "db")
+
+def config_file_test():
+    db = pymysql.connect(host=host,
+                         user=user,
+                         passwd=passwd,
+                         db=db_name)
+
+    cur = db.cursor(pymysql.cursors.DictCursor)
+    cur.execute('''SELECT * FROM players WHERE lastName="Curry"''')
+    row = cur.fetchone()
+    print row
 
 def nba_roster_stats_population():
     # connect to MySQL db
-    db = pymysql.connect(host="sports-db.ceutzulos0qe.us-west-1.rds.amazonaws.com",
-                         user="root",
-                         passwd="warriors73-9",
-                         db="nbadb")
+    db = pymysql.connect(host=host,
+                         user=user,
+                         passwd=passwd,
+                         db=db_name)
 
     # create Cursor object to execute queries
     cur = db.cursor(pymysql.cursors.DictCursor)
@@ -81,4 +100,5 @@ def nba_roster_stats_population():
     db.close()
 
 if __name__ == '__main__':
-    nba_roster_stats_population()
+    # nba_roster_stats_population()
+    config_file_test()

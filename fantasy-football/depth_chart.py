@@ -49,14 +49,14 @@ db = connection['fantasy-football-db']
 
 def insert_team_list():
 	collection = db['teams']
-	collection.insert(team_dict)
+	collection.save(team_dict)
 	db.collection_names(include_system_collections=False)
 	pprint.pprint(collection.find_one())
 
 
 def insert_dc(team_name):
 	collection = db[team_name]
-	collection.insert(dc)
+	collection.save(dc)
 	db.collection_names(include_system_collections=False)
 	pprint.pprint(collection.find_one())
 
