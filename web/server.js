@@ -37,10 +37,10 @@ function dbConnection() {
 	return con;
 }
 
-// app.get('/', function(req, res) {
+app.get('/', function(req, res) {
 
-// 	res.sendFile(__dirname + '/src/index.html');
-// });
+	res.sendFile(__dirname + '/src/index.html');
+});
 
 app.get('/search', function(req, res) {
 	var con = dbConnection();
@@ -133,10 +133,6 @@ app.get('/json/:playername', function (req, res) {
 		});
 	});
 });
-
-// app.get('/compare', function(req, res) {
-// 	res.sendFile(__dirname + '/public/player_comp.html');
-// })
 
 // start our server, listening on port 3000
 var server=app.listen(8000,function(){

@@ -11,14 +11,12 @@ table, th, td {
 }
 
 body {
-	background-image: url(/assets/basketball_jumbotron.jpg);
 	background-position: 10% 10%;
 	background-size: cover;
 }
 .header {
 	margin-top: 10%;
 	margin-bottom: 5%;
-	color: white;
 }
 /*.jumbotron{
 	padding-top: 10%;
