@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # Filename: info_retrieval.py
-# Author: David Lin 
+# Author: David Lin
 # Date: 3/30/17
 
 import urllib
@@ -9,32 +9,35 @@ import json
 import MySQLdb
 import pprint as pp
 import configparser
+import logging
 
 # global variables
 nba_base_url = 'http://api.suredbits.com/nba/v0/players'
 config = configparser.ConfigParser()
-config.read("config.ini")
+config.read("../config.ini")
 host = config.get("DatabaseInfo", "host")
 user = config.get("DatabaseInfo", "user")
 passwd = config.get("DatabaseInfo", "passwd")
 db_name = config.get("DatabaseInfo", "db")
+
+logging.basicConfig(level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
 
 class nba_db:
 
 
     '''
     inputs: first_name, last_name
-    Correspond to the first and last names of the player we want to 
-    look up. 
+    Correspond to the first and last names of the player we want to
+    look up.
 
     purpose:
-    We want to parse the json object we get from the api call to 
-    suredbits. 
+    We want to parse the json object we get from the api call to
+    suredbits.
 
     return:
     JSON object of player (first_name, last_name) for use by another function.
     JSON object of player information (not statistics).
-    E.g. height, weight, etc. 
+    E.g. height, weight, etc.
     '''
 
 
@@ -46,28 +49,34 @@ class nba_db:
 
     '''
     Inputs: none
-    Outputs: It will loop through the list of active players and insert them into the 
-    players database. 
+    Outputs: It will loop through the list of active players and insert them into the
+    players database.
 
     Purpose: Populate our MySQL database with the active players in the roster. DOES NOT GET STATS.
-    Variables: 
+    Variables:
     response - the body of the http response we get from the urllib call.
-    active_roster - array of json objects representing players in the NBA. 
+    active_roster - array of json objects representing players in the NBA.
     '''
 
 
     def populate_nba_players(self):
+
+        logging.debug("start of populate_nba_players")
+
         # connect to MySQL db
-        db = MySQLdb.connect(host=host,
-                            user=user,
-                            passwd=passwd,
-                            db=db_name)
-        # create Cursor object to execute queries
-        cur = db.cursor()
+        # db = MySQLdb.connect(host=host,
+        #                     user=user,
+        #                     passwd=passwd,
+        #                     db=db_name)
+        # # create Cursor object to execute queries
+        # cur = db.cursor()
 
         # get the JSON of players
         response = urllib.urlopen(nba_base_url).read()
         active_roster = json.loads(response)
+
+        logging.debug("active roster[0] %s" % (active_roster[0]))
+        logging.debug("unpacking")
 
         # loop through each player in the active roster
         for player in active_roster:
@@ -97,16 +106,18 @@ class nba_db:
             else:
                 player_number = player['uniformNumber']
 
+            """
             cur.execute('''INSERT INTO players (lastName, firstName, fullName, height, weight, profileURL, team, position, playerId, status, number)
                         VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''',
                         (player_ln, player_fn, player_full, player_height, player_weight, player_profileURL, player_team, player_position, player_playerId, player_status, player_number))
 
             db.commit()
-        db.close()
+            """
+        # db.close()
 
     '''
     Inputs: The columns of the players db (some of which will be optional).
-    Purpose: Insert a specific player into the players database that might not be in the current DB. 
+    Purpose: Insert a specific player into the players database that might not be in the current DB.
 
     Description: Should take all the necessary fields of a "player" in the table and insert it. DOES NOT GET STATS
     '''
@@ -156,9 +167,10 @@ class nba_db:
         db.commit()
         db.close()
 
+
 # NFL Player Info Retrieval will go here
 
 # if the program is being run as standalone
 if __name__ == '__main__':
     nba = nba_db()
-    nba.player_info_json("Stephen", "Curry") 
+    nba.populate_nba_players()
