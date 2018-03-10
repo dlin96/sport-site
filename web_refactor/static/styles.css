@@ -1,0 +1,84 @@
+table, th, td {
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#result {
+	visibility: hidden;
+	text-align: center;
+}
+
+body {
+	background-position: 10% 10%;
+	background-size: cover;
+}
+.header {
+	margin-top: 10%;
+	margin-bottom: 5%;
+}
+/*.jumbotron{
+	padding-top: 10%;
+	height: 50vh;
+	background-image: url(/assets/basketball_jumbotron.jpg);
+	background-size: cover;
+	color: white;
+	background-position: 10% 10%;
+}*/
+
+.tt-dropdown-menu {
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    margin-top: 12px;
+    padding: 8px 0;
+    width: 422px;
+}
+
+input {
+    color: black;
+}
+
+.typeahead, .tt-query, .tt-hint {
+	color: #000000;
+    font-size: 24px;
+    line-height: 30px;
+    padding: 8px 12px;
+    width: 100%
+}
+.typeahead {
+    background-color: #FFFFFF;
+}
+.typeahead:focus {
+    border: 2px solid #000000;
+}
+.tt-query {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+}
+.tt-hint {
+    color: #000000;
+}
+.tt-dropdown-menu {
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    margin-top: 12px;
+    padding: 8px 0;
+    width: 422px;
+}
+.tt-suggestion {
+    font-size: 24px;
+    line-height: 24px;
+    padding: 3px 20px;
+}
+.tt-suggestion.tt-is-under-cursor {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.tt-suggestion p {
+    margin: 0;
+}
+

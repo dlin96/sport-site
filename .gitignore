@@ -6,3 +6,4 @@ cloud_sql_proxy
 python_scripts/cloud_sql_proxy
 sport-site*.json
 app.yaml
+/data
