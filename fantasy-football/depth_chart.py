@@ -49,7 +49,7 @@ def insert_dc(team_name):
 # This method populates the team dictionary with the team name as the key and the URL version of team name as value
 def populate_teams_dict():
     with open("teamnames.txt", 'r') as team_names:
-        for team_key in team_names:
+        for team_key, val in team_names:
             logging.info("team_key: " + team_key)
 
             key = team_key.rstrip(new_line)
