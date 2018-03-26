@@ -9,3 +9,4 @@ app.yaml
 /data
 sport-site/
 *.pyc
+data
