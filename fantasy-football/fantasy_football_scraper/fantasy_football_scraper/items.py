@@ -8,7 +8,14 @@
 import scrapy
 
 
-class FantasyFootballScraperItem(scrapy.Item):
+class Player(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+
+    # player_heights = scrapy.Field()
+    # player_positions = scrapy.Field()
+    # player_years = scrapy.Field()
+    # player_names = scrapy.Field()
+    # position_names = scrapy.Field()
+    team_name = scrapy.Field()
+    row = scrapy.Field()

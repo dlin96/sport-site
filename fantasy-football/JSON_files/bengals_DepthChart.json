@@ -12,9 +12,9 @@
                             
                             "d1e7b054-2722-4a10-9dad-687267489bd5",
                             
-                            "b4fb8263-4fd2-4907-980d-667253c2bccb",
+                            "c432c051-c7d3-424b-af1f-1a29118cbf7e",
                             
-                            "c432c051-c7d3-424b-af1f-1a29118cbf7e"
+                            "8f108190-40d6-4088-b248-a68113cb7a76"
                             
                         ]
                         },
@@ -23,9 +23,9 @@
                         "positionID"	: "LT",
                         "players"	: [
                             
-                            "3a81696e-e6b3-4abd-8dd0-85e8748fa086",
+                            "eb5c2e5f-606e-4f3d-8463-a18ed4f099b3",
                             
-                            "71510921-b7a8-4d02-aadf-b02bbbc02319"
+                            "2ddb7c33-286b-41a3-a798-8b7c98121fe0"
                             
                         ]
                         },
@@ -36,7 +36,7 @@
                             
                             "f7ed97f5-f482-4f8d-b799-6e57357a7b43",
                             
-                            "25a125d1-7249-40d0-8e54-5216fc7632b9"
+                            "0e063e7a-9633-48e5-b5d0-b0ab023c185f"
                             
                         ]
                         },
@@ -47,7 +47,7 @@
                             
                             "dc234ddd-cb75-4c7c-b788-7b0ce466ac02",
                             
-                            "c3e0bebd-ae20-47c8-b63b-9d8488e7ea37"
+                            "25a125d1-7249-40d0-8e54-5216fc7632b9"
                             
                         ]
                         },
@@ -56,9 +56,9 @@
                         "positionID"	: "RG",
                         "players"	: [
                             
-                            "6872c3b8-cf27-4731-bfae-bcae68fb85a8",
+                            "25a125d1-7249-40d0-8e54-5216fc7632b9",
                             
-                            "0e063e7a-9633-48e5-b5d0-b0ab023c185f"
+                            "15b36c49-3963-4068-917f-da2c81bb04fa"
                             
                         ]
                         },
@@ -67,9 +67,9 @@
                         "positionID"	: "RT",
                         "players"	: [
                             
-                            "eb5c2e5f-606e-4f3d-8463-a18ed4f099b3",
+                            "8f9e803f-7753-4ce8-9e81-c2e0060d8a97",
                             
-                            "8f9e803f-7753-4ce8-9e81-c2e0060d8a97"
+                            "1b4da73c-2653-4432-9402-e44501d9ae6a"
                             
                         ]
                         },
@@ -78,9 +78,9 @@
                         "positionID"	: "TE",
                         "players"	: [
                             
-                            "36fdf348-c00c-44bb-bc76-2833910b8553",
+                            "584951cd-5c09-4953-9d29-598cc0896a81",
                             
-                            "584951cd-5c09-4953-9d29-598cc0896a81"
+                            "f17f786c-81ad-4d08-9338-c8c2ed28db55"
                             
                         ]
                         },
@@ -91,7 +91,7 @@
                             
                             "928318af-6c12-4cb8-8c58-7e69a2736e42",
                             
-                            "f17f786c-81ad-4d08-9338-c8c2ed28db55"
+                            "9f0d503b-2331-4cb7-a2fb-70e251876bda"
                             
                         ]
                         },
@@ -115,9 +115,7 @@
                             
                             "9378c4ed-938c-434c-929d-4d45fe252101",
                             
-                            "07bcb29c-9b5e-429d-b249-67c0c2cc63f7",
-                            
-                            "072a1776-1607-470f-8ee4-99ab81bbc759"
+                            "07bcb29c-9b5e-429d-b249-67c0c2cc63f7"
                             
                         ]
                         },
@@ -126,11 +124,13 @@
                         "positionID"	: "RB",
                         "players"	: [
                             
-                            "a8435a7b-a76b-42a6-98c6-a2a3fd8e62e0",
+                            "cc6121b7-c369-4013-b0ba-19079349f95c",
                             
                             "69ef7ebd-86c9-4f7f-831a-dda8c8bf1737",
                             
-                            "215b64a4-2717-420c-8fb4-7a8d117bd57e"
+                            "f0f86744-4044-4f57-95b2-31e943d44e7b",
+                            
+                            "8dc73990-bf64-4358-8483-c447efa23aae"
                             
                         ]
                         }
@@ -149,7 +149,7 @@
                             
                             "4a065377-8081-4dc1-a80f-daf22d74ba67",
                             
-                            "388ddd3c-ec35-41f7-b854-c448b5006cd8"
+                            "37e12ff0-ac5c-4b49-ab93-2b890e4f3a10"
                             
                         ]
                         },
@@ -158,9 +158,11 @@
                         "positionID"	: "NT",
                         "players"	: [
                             
-                            "5a38a4b5-78a2-4c57-87c9-c03c2ce23719",
+                            "bf8cf00c-7670-4867-8311-7ce2ab422798",
                             
-                            "7394af12-2914-477a-af09-c0194967fd16"
+                            "7394af12-2914-477a-af09-c0194967fd16",
+                            
+                            "ef1116db-bf62-42f6-a27d-919c2955d1b3"
                             
                         ]
                         },
@@ -171,7 +173,7 @@
                             
                             "cce83be5-6849-488f-b8ed-cc876b47ca32",
                             
-                            "32845aa6-986a-4493-b13c-d1bc409ee0e1"
+                            "ffcfe67f-8f23-4476-b783-72484d72cde0"
                             
                         ]
                         },
@@ -182,7 +184,7 @@
                             
                             "b56aa7d9-808e-4cf2-a28c-ba03f25ef902",
                             
-                            "3534e752-e953-4af0-bc09-ad5528c9d545"
+                            "3f5359d3-dee4-4ee9-a1ed-ce1606c80b22"
                             
                         ]
                         },
@@ -191,9 +193,9 @@
                         "positionID"	: "SLB",
                         "players"	: [
                             
-                            "4b9c56c0-c5ef-485b-a870-569420e467bb",
+                            "9bebb34c-0623-4f5a-a496-47842ce24465",
                             
-                            "dc5cfb04-2c0d-4dc0-b957-e27c99acf7a6"
+                            "2d021b2c-71ca-498b-b846-2c23775a6c87"
                             
                         ]
                         },
@@ -202,9 +204,9 @@
                         "positionID"	: "MLB",
                         "players"	: [
                             
-                            "72e4f750-08d1-4fa5-abee-a5cfebe1389b",
+                            "5550e7d6-cb13-4ae1-8ae2-bb01fe4a7378",
                             
-                            "cf811446-105e-4b43-a710-34f2812ddfcf"
+                            "e6c71663-2d97-43b9-b0f7-238763abb729"
                             
                         ]
                         },
@@ -213,9 +215,9 @@
                         "positionID"	: "WLB",
                         "players"	: [
                             
-                            "5550e7d6-cb13-4ae1-8ae2-bb01fe4a7378",
+                            "941b89df-2666-4d9f-810e-9b889ba417eb",
                             
-                            "cb2a15ae-4a93-4ecc-ace4-dc53aa2a7cf7"
+                            "c57a5c87-3306-4910-80dd-298002ff0df8"
                             
                         ]
                         },
@@ -226,9 +228,7 @@
                             
                             "3f89d93d-6289-497f-a912-0459ae1ab95e",
                             
-                            "728cca01-bbde-43f2-b6b6-a678b6258688",
-                            
-                            "6cc3b30c-6309-49b4-8eac-b1f0a3654cb4"
+                            "892e7752-8bcb-4be8-91ec-ae860dbbfceb"
                             
                         ]
                         },
@@ -237,11 +237,11 @@
                         "positionID"	: "RCB",
                         "players"	: [
                             
-                            "70893f56-2c88-4a74-93ec-15f2886cca42",
+                            "b0b37455-c97a-47ef-a771-06ea245efa49",
                             
-                            "892e7752-8bcb-4be8-91ec-ae860dbbfceb",
+                            "56b1cfba-be99-49e7-8629-6b105f791e73",
                             
-                            "49aea21c-97ac-4d35-92df-3e613452e3b0"
+                            "6a40fd6c-389a-4a6f-923b-8d65787d36f9"
                             
                         ]
                         },
@@ -252,7 +252,9 @@
                             
                             "b54424d2-1eec-4cea-b649-9973a8a8347d",
                             
-                            "cbf7e95f-5682-4acb-8ed5-7e94f2003314"
+                            "cbf7e95f-5682-4acb-8ed5-7e94f2003314",
+                            
+                            "c3adf4cc-90d0-44b1-9aa1-5d678749eae7"
                             
                         ]
                         },
@@ -263,7 +265,7 @@
                             
                             "5c3a8b35-39c1-4e2c-86e5-0e523ff89dc5",
                             
-                            "e734f33d-ed9c-4c03-8d51-487af1c296d0"
+                            "6cc3b30c-6309-49b4-8eac-b1f0a3654cb4"
                             
                         ]
                         }
@@ -289,7 +291,7 @@
                         "positionID"	: "KO",
                         "players"	: [
                             
-                            "44701177-8bcb-4bb1-a348-e81af4d4583a"
+                            "4a8d063a-e271-4496-b75d-ad49d1e777ee"
                             
                         ]
                         },
@@ -316,16 +318,12 @@
                         "positionID"	: "PK",
                         "players"	: [
                             
-                            "44701177-8bcb-4bb1-a348-e81af4d4583a"
-                            
                         ]
                         },
                     
                     {
                         "positionID"	: "PR",
                         "players"	: [
-                            
-                            "70893f56-2c88-4a74-93ec-15f2886cca42",
                             
                             "ee50d6c8-d816-44a7-932f-3b91ac27b5d7",
                             
@@ -338,11 +336,9 @@
                         "positionID"	: "KR",
                         "players"	: [
                             
-                            "70893f56-2c88-4a74-93ec-15f2886cca42",
-                            
                             "ee50d6c8-d816-44a7-932f-3b91ac27b5d7",
                             
-                            "215b64a4-2717-420c-8fb4-7a8d117bd57e"
+                            "cc6121b7-c369-4013-b0ba-19079349f95c"
                             
                         ]
                         }
@@ -355,13 +351,31 @@
         "players" : [
           
               {
+                    "id"	: "6a40fd6c-389a-4a6f-923b-8d65787d36f9",
+                    "fname"	: "Tony",
+                    "lname"	: "McRae",
+                    "teamNumber"	:  "29",
+                    "position"	: "CB",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "05/03/93",
+                    "hometown"	: "Laurinburg, N.C.",
+                    "height"	: "5-10",
+                    "weight"	: "185",
+                    "college"	: "North Carolina A&T",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tony-McRae/6a40fd6c-389a-4a6f-923b-8d65787d36f9"
+              },
+           
+              {
                     "id"	: "5550e7d6-cb13-4ae1-8ae2-bb01fe4a7378",
                     "fname"	: "Vincent",
                     "lname"	: "Rey",
                     "teamNumber"	:  "57",
                     "position"	: "LB",
-                    "experience"	:  "6",
-                    "age"	: "29",
+                    "experience"	:  "7",
+                    "age"	: "30",
                     "born"	: "09/06/87",
                     "hometown"	: "Far Rockaway, NY",
                     "height"	: "6-0",
@@ -378,8 +392,8 @@
                     "lname"	: "Boyd",
                     "teamNumber"	:  "83",
                     "position"	: "WR",
-                    "experience"	:  "R",
-                    "age"	: "21",
+                    "experience"	:  "2",
+                    "age"	: "23",
                     "born"	: "11/15/94",
                     "hometown"	: "Clairton, PA",
                     "height"	: "6-2",
@@ -391,31 +405,13 @@
               },
            
               {
-                    "id"	: "cb2a15ae-4a93-4ecc-ace4-dc53aa2a7cf7",
-                    "fname"	: "Nick",
-                    "lname"	: "Vigil",
-                    "teamNumber"	:  "59",
-                    "position"	: "LB",
-                    "experience"	:  "0",
-                    "age"	: "23",
-                    "born"	: "08/20/93",
-                    "hometown"	: "Plain City, UT",
-                    "height"	: "6-2",
-                    "weight"	: "239",
-                    "college"	: "Utah State",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Nick-Vigil/cb2a15ae-4a93-4ecc-ace4-dc53aa2a7cf7"
-              },
-           
-              {
                     "id"	: "3f89d93d-6289-497f-a912-0459ae1ab95e",
                     "fname"	: "Dre",
                     "lname"	: "Kirkpatrick",
                     "teamNumber"	:  "27",
                     "position"	: "CB",
-                    "experience"	:  "5",
-                    "age"	: "26",
+                    "experience"	:  "6",
+                    "age"	: "28",
                     "born"	: "10/26/89",
                     "hometown"	: "Gadsden, AL",
                     "height"	: "6-2",
@@ -427,49 +423,13 @@
               },
            
               {
-                    "id"	: "072a1776-1607-470f-8ee4-99ab81bbc759",
-                    "fname"	: "Jeff",
-                    "lname"	: "Driskel",
-                    "teamNumber"	:  "6",
-                    "position"	: "QB",
-                    "experience"	:  "R",
-                    "age"	: "23",
-                    "born"	: "04/23/93",
-                    "hometown"	: "Oviedo, FL",
-                    "height"	: "6-4",
-                    "weight"	: "231",
-                    "college"	: "Louisiana Tech",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Jeff-Driskel/072a1776-1607-470f-8ee4-99ab81bbc759"
-              },
-           
-              {
-                    "id"	: "4b9c56c0-c5ef-485b-a870-569420e467bb",
-                    "fname"	: "Karlos",
-                    "lname"	: "Dansby",
-                    "teamNumber"	:  "56",
-                    "position"	: "LB",
-                    "experience"	:  "13",
-                    "age"	: "34",
-                    "born"	: "11/03/81",
-                    "hometown"	: "Birmingham, AL",
-                    "height"	: "6-3",
-                    "weight"	: "245",
-                    "college"	: "Auburn",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Karlos-Dansby/4b9c56c0-c5ef-485b-a870-569420e467bb"
-              },
-           
-              {
                     "id"	: "9378c4ed-938c-434c-929d-4d45fe252101",
                     "fname"	: "Andy",
                     "lname"	: "Dalton",
                     "teamNumber"	:  "14",
                     "position"	: "QB",
-                    "experience"	:  "6",
-                    "age"	: "28",
+                    "experience"	:  "7",
+                    "age"	: "30",
                     "born"	: "10/29/87",
                     "hometown"	: "Katy, TX",
                     "height"	: "6-2",
@@ -481,21 +441,21 @@
               },
            
               {
-                    "id"	: "728cca01-bbde-43f2-b6b6-a678b6258688",
-                    "fname"	: "Chris",
-                    "lname"	: "Lewis-Harris",
-                    "teamNumber"	:  "37",
-                    "position"	: "CB",
-                    "experience"	:  "4",
-                    "age"	: "27",
-                    "born"	: "02/11/89",
-                    "hometown"	: "Smyrna, GA",
-                    "height"	: "5-10",
-                    "weight"	: "185",
-                    "college"	: "Tennessee-Chattanooga",
+                    "id"	: "ffcfe67f-8f23-4476-b783-72484d72cde0",
+                    "fname"	: "Ryan",
+                    "lname"	: "Glasgow",
+                    "teamNumber"	:  "98",
+                    "position"	: "DT",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "09/30/93",
+                    "hometown"	: "Aurora, Ill.",
+                    "height"	: "6-3",
+                    "weight"	: "302",
+                    "college"	: "Michigan",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Chris-Lewis-Harris/728cca01-bbde-43f2-b6b6-a678b6258688"
+					"moreDetailsButtonURL"	: "/team/roster/Ryan-Glasgow/ffcfe67f-8f23-4476-b783-72484d72cde0"
               },
            
               {
@@ -503,9 +463,9 @@
                     "fname"	: "Trey",
                     "lname"	: "Hopkins",
                     "teamNumber"	:  "66",
-                    "position"	: "G",
+                    "position"	: "G/C",
                     "experience"	:  "2",
-                    "age"	: "24",
+                    "age"	: "25",
                     "born"	: "07/06/92",
                     "hometown"	: "Houston, TX",
                     "height"	: "6-3",
@@ -517,13 +477,31 @@
               },
            
               {
+                    "id"	: "f0f86744-4044-4f57-95b2-31e943d44e7b",
+                    "fname"	: "Brian",
+                    "lname"	: "Hill",
+                    "teamNumber"	:  "23",
+                    "position"	: "RB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "11/09/95",
+                    "hometown"	: "Belleville, Ill.",
+                    "height"	: "6-1",
+                    "weight"	: "219",
+                    "college"	: "Wyoming",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brian-Hill/f0f86744-4044-4f57-95b2-31e943d44e7b"
+              },
+           
+              {
                     "id"	: "b56aa7d9-808e-4cf2-a28c-ba03f25ef902",
                     "fname"	: "Michael",
                     "lname"	: "Johnson",
                     "teamNumber"	:  "90",
                     "position"	: "DE",
-                    "experience"	:  "8",
-                    "age"	: "29",
+                    "experience"	:  "9",
+                    "age"	: "31",
                     "born"	: "02/07/87",
                     "hometown"	: "Selma, AL",
                     "height"	: "6-7",
@@ -540,8 +518,8 @@
                     "lname"	: "Atkins",
                     "teamNumber"	:  "97",
                     "position"	: "DT",
-                    "experience"	:  "7",
-                    "age"	: "28",
+                    "experience"	:  "8",
+                    "age"	: "29",
                     "born"	: "03/28/88",
                     "hometown"	: "Pembroke Pines, FL",
                     "height"	: "6-1",
@@ -558,8 +536,8 @@
                     "lname"	: "Dennard",
                     "teamNumber"	:  "21",
                     "position"	: "CB",
-                    "experience"	:  "3",
-                    "age"	: "24",
+                    "experience"	:  "4",
+                    "age"	: "26",
                     "born"	: "10/10/91",
                     "hometown"	: "Dry Branch, GA",
                     "height"	: "5-11",
@@ -571,31 +549,13 @@
               },
            
               {
-                    "id"	: "584951cd-5c09-4953-9d29-598cc0896a81",
-                    "fname"	: "Tyler",
-                    "lname"	: "Kroft",
-                    "teamNumber"	:  "81",
-                    "position"	: "TE",
-                    "experience"	:  "2",
-                    "age"	: "23",
-                    "born"	: "10/15/92",
-                    "hometown"	: "",
-                    "height"	: "6-6",
-                    "weight"	: "250",
-                    "college"	: "Rutgers",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Tyler-Kroft/584951cd-5c09-4953-9d29-598cc0896a81"
-              },
-           
-              {
                     "id"	: "f7ed97f5-f482-4f8d-b799-6e57357a7b43",
                     "fname"	: "Clint",
                     "lname"	: "Boling",
                     "teamNumber"	:  "65",
                     "position"	: "G",
-                    "experience"	:  "6",
-                    "age"	: "27",
+                    "experience"	:  "7",
+                    "age"	: "28",
                     "born"	: "05/09/89",
                     "hometown"	: "Alpharetta, GA",
                     "height"	: "6-5",
@@ -607,21 +567,21 @@
               },
            
               {
-                    "id"	: "3534e752-e953-4af0-bc09-ad5528c9d545",
-                    "fname"	: "Will",
-                    "lname"	: "Clarke",
-                    "teamNumber"	:  "93",
-                    "position"	: "DE",
+                    "id"	: "584951cd-5c09-4953-9d29-598cc0896a81",
+                    "fname"	: "Tyler",
+                    "lname"	: "Kroft",
+                    "teamNumber"	:  "81",
+                    "position"	: "TE",
                     "experience"	:  "3",
                     "age"	: "25",
-                    "born"	: "05/04/91",
-                    "hometown"	: "Pittsburgh, Pa.",
+                    "born"	: "10/15/92",
+                    "hometown"	: "",
                     "height"	: "6-6",
-                    "weight"	: "280",
-                    "college"	: "West Virginia",
+                    "weight"	: "250",
+                    "college"	: "Rutgers",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Will-Clarke/3534e752-e953-4af0-bc09-ad5528c9d545"
+					"moreDetailsButtonURL"	: "/team/roster/Tyler-Kroft/584951cd-5c09-4953-9d29-598cc0896a81"
               },
            
               {
@@ -630,8 +590,8 @@
                     "lname"	: "Bernard",
                     "teamNumber"	:  "25",
                     "position"	: "HB",
-                    "experience"	:  "4",
-                    "age"	: "24",
+                    "experience"	:  "5",
+                    "age"	: "26",
                     "born"	: "11/22/91",
                     "hometown"	: "Boca Raton, FL",
                     "height"	: "5-9",
@@ -648,8 +608,8 @@
                     "lname"	: "Uzomah",
                     "teamNumber"	:  "87",
                     "position"	: "TE",
-                    "experience"	:  "2",
-                    "age"	: "23",
+                    "experience"	:  "3",
+                    "age"	: "25",
                     "born"	: "01/14/93",
                     "hometown"	: "Suwanee, GA",
                     "height"	: "6-6",
@@ -666,8 +626,8 @@
                     "lname"	: "Green",
                     "teamNumber"	:  "18",
                     "position"	: "WR",
-                    "experience"	:  "6",
-                    "age"	: "28",
+                    "experience"	:  "7",
+                    "age"	: "29",
                     "born"	: "07/31/88",
                     "hometown"	: "Summerville, SC",
                     "height"	: "6-4",
@@ -679,21 +639,57 @@
               },
            
               {
-                    "id"	: "71510921-b7a8-4d02-aadf-b02bbbc02319",
-                    "fname"	: "Jake",
-                    "lname"	: "Fisher",
-                    "teamNumber"	:  "74",
-                    "position"	: "OT",
-                    "experience"	:  "2",
-                    "age"	: "23",
-                    "born"	: "04/23/93",
-                    "hometown"	: "Traverse City, Mich.",
-                    "height"	: "6-6",
-                    "weight"	: "305",
-                    "college"	: "Oregon",
+                    "id"	: "3f5359d3-dee4-4ee9-a1ed-ce1606c80b22",
+                    "fname"	: "Jordan",
+                    "lname"	: "Willis",
+                    "teamNumber"	:  "75",
+                    "position"	: "DE",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "05/02/95",
+                    "hometown"	: "San Diego, CA",
+                    "height"	: "6-4",
+                    "weight"	: "255",
+                    "college"	: "Kansas State",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Jake-Fisher/71510921-b7a8-4d02-aadf-b02bbbc02319"
+					"moreDetailsButtonURL"	: "/team/roster/Jordan-Willis/3f5359d3-dee4-4ee9-a1ed-ce1606c80b22"
+              },
+           
+              {
+                    "id"	: "c3adf4cc-90d0-44b1-9aa1-5d678749eae7",
+                    "fname"	: "Brandon",
+                    "lname"	: "Wilson",
+                    "teamNumber"	:  "40",
+                    "position"	: "S",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "07/27/94",
+                    "hometown"	: "Shreveport, La.",
+                    "height"	: "5-11",
+                    "weight"	: "200",
+                    "college"	: "Houston",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Wilson/c3adf4cc-90d0-44b1-9aa1-5d678749eae7"
+              },
+           
+              {
+                    "id"	: "8f108190-40d6-4088-b248-a68113cb7a76",
+                    "fname"	: "Josh",
+                    "lname"	: "Malone",
+                    "teamNumber"	:  "80",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "03/21/96",
+                    "hometown"	: "Gallatin, Tenn.",
+                    "height"	: "6-3",
+                    "weight"	: "208",
+                    "college"	: "Tennessee",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Josh-Malone/8f108190-40d6-4088-b248-a68113cb7a76"
               },
            
               {
@@ -702,8 +698,8 @@
                     "lname"	: "Erickson",
                     "teamNumber"	:  "12",
                     "position"	: "WR",
-                    "experience"	:  "R",
-                    "age"	: "23",
+                    "experience"	:  "2",
+                    "age"	: "25",
                     "born"	: "11/06/92",
                     "hometown"	: "Darlington, Wis.",
                     "height"	: "6-0",
@@ -715,31 +711,13 @@
               },
            
               {
-                    "id"	: "70893f56-2c88-4a74-93ec-15f2886cca42",
-                    "fname"	: "Adam",
-                    "lname"	: "Jones",
-                    "teamNumber"	:  "24",
-                    "position"	: "CB",
-                    "experience"	:  "10",
-                    "age"	: "32",
-                    "born"	: "09/30/83",
-                    "hometown"	: "Atlanta, GA",
-                    "height"	: "5-10",
-                    "weight"	: "180",
-                    "college"	: "West Virginia",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Adam-Jones/70893f56-2c88-4a74-93ec-15f2886cca42"
-              },
-           
-              {
                     "id"	: "b54424d2-1eec-4cea-b649-9973a8a8347d",
                     "fname"	: "Shawn",
                     "lname"	: "Williams",
                     "teamNumber"	:  "36",
                     "position"	: "S",
-                    "experience"	:  "4",
-                    "age"	: "25",
+                    "experience"	:  "5",
+                    "age"	: "26",
                     "born"	: "05/13/91",
                     "hometown"	: "Damascus, GA",
                     "height"	: "6-0",
@@ -751,75 +729,39 @@
               },
            
               {
-                    "id"	: "49aea21c-97ac-4d35-92df-3e613452e3b0",
-                    "fname"	: "Chykie",
-                    "lname"	: "Brown",
-                    "teamNumber"	:  "23",
+                    "id"	: "b0b37455-c97a-47ef-a771-06ea245efa49",
+                    "fname"	: "William",
+                    "lname"	: "Jackson",
+                    "teamNumber"	:  "22",
                     "position"	: "CB",
-                    "experience"	:  "5",
-                    "age"	: "29",
-                    "born"	: "12/26/86",
-                    "hometown"	: "Houston, TX",
-                    "height"	: "5-11",
-                    "weight"	: "191",
-                    "college"	: "Texas",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "10/27/92",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "187",
+                    "college"	: "Houston",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Chykie-Brown/49aea21c-97ac-4d35-92df-3e613452e3b0"
+					"moreDetailsButtonURL"	: "/team/roster/William-Jackson/b0b37455-c97a-47ef-a771-06ea245efa49"
               },
            
               {
-                    "id"	: "3a81696e-e6b3-4abd-8dd0-85e8748fa086",
-                    "fname"	: "Andrew",
-                    "lname"	: "Whitworth",
-                    "teamNumber"	:  "77",
+                    "id"	: "2ddb7c33-286b-41a3-a798-8b7c98121fe0",
+                    "fname"	: "Justin",
+                    "lname"	: "Murray",
+                    "teamNumber"	:  "72",
                     "position"	: "OT",
-                    "experience"	:  "11",
-                    "age"	: "34",
-                    "born"	: "12/12/81",
-                    "hometown"	: "West Monroe, LA",
-                    "height"	: "6-7",
-                    "weight"	: "330",
-                    "college"	: "Louisiana State",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "04/19/93",
+                    "hometown"	: "Cincinnati, Ohio",
+                    "height"	: "6-5",
+                    "weight"	: "304",
+                    "college"	: "Cincinnati",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Andrew-Whitworth/3a81696e-e6b3-4abd-8dd0-85e8748fa086"
-              },
-           
-              {
-                    "id"	: "215b64a4-2717-420c-8fb4-7a8d117bd57e",
-                    "fname"	: "Rex",
-                    "lname"	: "Burkhead",
-                    "teamNumber"	:  "33",
-                    "position"	: "HB",
-                    "experience"	:  "4",
-                    "age"	: "26",
-                    "born"	: "07/02/90",
-                    "hometown"	: "Plano, TX",
-                    "height"	: "5-10",
-                    "weight"	: "210",
-                    "college"	: "Nebraska",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Rex-Burkhead/215b64a4-2717-420c-8fb4-7a8d117bd57e"
-              },
-           
-              {
-                    "id"	: "6872c3b8-cf27-4731-bfae-bcae68fb85a8",
-                    "fname"	: "Kevin",
-                    "lname"	: "Zeitler",
-                    "teamNumber"	:  "68",
-                    "position"	: "G",
-                    "experience"	:  "5",
-                    "age"	: "26",
-                    "born"	: "03/08/90",
-                    "hometown"	: "Waukesha, WI",
-                    "height"	: "6-4",
-                    "weight"	: "320",
-                    "college"	: "Wisconsin",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Kevin-Zeitler/6872c3b8-cf27-4731-bfae-bcae68fb85a8"
+					"moreDetailsButtonURL"	: "/team/roster/Justin-Murray/2ddb7c33-286b-41a3-a798-8b7c98121fe0"
               },
            
               {
@@ -828,8 +770,8 @@
                     "lname"	: "Sims",
                     "teamNumber"	:  "92",
                     "position"	: "DT",
-                    "experience"	:  "9",
-                    "age"	: "30",
+                    "experience"	:  "10",
+                    "age"	: "32",
                     "born"	: "11/29/85",
                     "hometown"	: "Fort Lauderdale, FL",
                     "height"	: "6-2",
@@ -841,31 +783,13 @@
               },
            
               {
-                    "id"	: "cf811446-105e-4b43-a710-34f2812ddfcf",
-                    "fname"	: "Trevor",
-                    "lname"	: "Roach",
-                    "teamNumber"	:  "52",
-                    "position"	: "LB",
-                    "experience"	:  "R",
-                    "age"	: "24",
-                    "born"	: "03/06/92",
-                    "hometown"	: "Elkhorn, Neb.",
-                    "height"	: "6-2",
-                    "weight"	: "247",
-                    "college"	: "Nebraska",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Trevor-Roach/cf811446-105e-4b43-a710-34f2812ddfcf"
-              },
-           
-              {
                     "id"	: "928318af-6c12-4cb8-8c58-7e69a2736e42",
                     "fname"	: "Ryan",
                     "lname"	: "Hewitt",
                     "teamNumber"	:  "89",
                     "position"	: "H-B",
-                    "experience"	:  "3",
-                    "age"	: "25",
+                    "experience"	:  "4",
+                    "age"	: "27",
                     "born"	: "01/24/91",
                     "hometown"	: "Denver, CO",
                     "height"	: "6-4",
@@ -881,9 +805,9 @@
                     "fname"	: "Eric",
                     "lname"	: "Winston",
                     "teamNumber"	:  "73",
-                    "position"	: "G",
-                    "experience"	:  "10",
-                    "age"	: "32",
+                    "position"	: "OT",
+                    "experience"	:  "11",
+                    "age"	: "34",
                     "born"	: "11/17/83",
                     "hometown"	: "Midland, TX",
                     "height"	: "6-7",
@@ -900,8 +824,8 @@
                     "lname"	: "Harris",
                     "teamNumber"	:  "46",
                     "position"	: "LS",
-                    "experience"	:  "8",
-                    "age"	: "32",
+                    "experience"	:  "9",
+                    "age"	: "33",
                     "born"	: "07/10/84",
                     "hometown"	: "Manahawkin, NJ",
                     "height"	: "6-5",
@@ -913,21 +837,111 @@
               },
            
               {
-                    "id"	: "dc5cfb04-2c0d-4dc0-b957-e27c99acf7a6",
-                    "fname"	: "Marquis",
-                    "lname"	: "Flowers",
-                    "teamNumber"	:  "53",
-                    "position"	: "LB",
-                    "experience"	:  "3",
-                    "age"	: "24",
-                    "born"	: "02/16/92",
-                    "hometown"	: "Phoenix, AZ",
-                    "height"	: "6-3",
-                    "weight"	: "245",
-                    "college"	: "Arizona",
+                    "id"	: "37e12ff0-ac5c-4b49-ab93-2b890e4f3a10",
+                    "fname"	: "Chris",
+                    "lname"	: "Smith",
+                    "teamNumber"	:  "94",
+                    "position"	: "DE",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "02/11/92",
+                    "hometown"	: "Mount Ulla, NC",
+                    "height"	: "6-1",
+                    "weight"	: "266",
+                    "college"	: "Arkansas",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Marquis-Flowers/dc5cfb04-2c0d-4dc0-b957-e27c99acf7a6"
+					"moreDetailsButtonURL"	: "/team/roster/Chris-Smith/37e12ff0-ac5c-4b49-ab93-2b890e4f3a10"
+              },
+           
+              {
+                    "id"	: "ef1116db-bf62-42f6-a27d-919c2955d1b3",
+                    "fname"	: "Josh",
+                    "lname"	: "Tupou",
+                    "teamNumber"	:  "68",
+                    "position"	: "DT",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "05/02/94",
+                    "hometown"	: "Long Beach, CA.",
+                    "height"	: "6-3",
+                    "weight"	: "350",
+                    "college"	: "Colorado",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Josh-Tupou/ef1116db-bf62-42f6-a27d-919c2955d1b3"
+              },
+           
+              {
+                    "id"	: "9f0d503b-2331-4cb7-a2fb-70e251876bda",
+                    "fname"	: "Cethan",
+                    "lname"	: "Carter",
+                    "teamNumber"	:  "82",
+                    "position"	: "H-B",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "09/05/93",
+                    "hometown"	: "",
+                    "height"	: "6-3",
+                    "weight"	: "241",
+                    "college"	: "Nebraska",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Cethan-Carter/9f0d503b-2331-4cb7-a2fb-70e251876bda"
+              },
+           
+              {
+                    "id"	: "bf8cf00c-7670-4867-8311-7ce2ab422798",
+                    "fname"	: "Andrew",
+                    "lname"	: "Billings",
+                    "teamNumber"	:  "99",
+                    "position"	: "DT",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "03/06/95",
+                    "hometown"	: "Waco, TX",
+                    "height"	: "6-1",
+                    "weight"	: "325",
+                    "college"	: "Baylor",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Andrew-Billings/bf8cf00c-7670-4867-8311-7ce2ab422798"
+              },
+           
+              {
+                    "id"	: "8dc73990-bf64-4358-8483-c447efa23aae",
+                    "fname"	: "Jarveon",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "39",
+                    "position"	: "RB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "01/03/95",
+                    "hometown"	: "Converse, Texas",
+                    "height"	: "5-9",
+                    "weight"	: "205",
+                    "college"	: "Texas-San Antonio",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jarveon-Williams/8dc73990-bf64-4358-8483-c447efa23aae"
+              },
+           
+              {
+                    "id"	: "2d021b2c-71ca-498b-b846-2c23775a6c87",
+                    "fname"	: "Carl",
+                    "lname"	: "Lawson",
+                    "teamNumber"	:  "58",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "06/29/95",
+                    "hometown"	: "Alpharetta, GA",
+                    "height"	: "6-2",
+                    "weight"	: "261",
+                    "college"	: "Auburn",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Carl-Lawson/2d021b2c-71ca-498b-b846-2c23775a6c87"
               },
            
               {
@@ -936,8 +950,8 @@
                     "lname"	: "LaFell",
                     "teamNumber"	:  "11",
                     "position"	: "WR",
-                    "experience"	:  "7",
-                    "age"	: "29",
+                    "experience"	:  "8",
+                    "age"	: "31",
                     "born"	: "11/04/86",
                     "hometown"	: "Houston, TX",
                     "height"	: "6-3",
@@ -949,21 +963,21 @@
               },
            
               {
-                    "id"	: "44701177-8bcb-4bb1-a348-e81af4d4583a",
-                    "fname"	: "Mike",
-                    "lname"	: "Nugent",
-                    "teamNumber"	:  "2",
-                    "position"	: "K",
-                    "experience"	:  "12",
-                    "age"	: "34",
-                    "born"	: "03/02/82",
-                    "hometown"	: "Centerville, OH",
-                    "height"	: "5-10",
-                    "weight"	: "190",
-                    "college"	: "Ohio State",
+                    "id"	: "15b36c49-3963-4068-917f-da2c81bb04fa",
+                    "fname"	: "Alex",
+                    "lname"	: "Redmond",
+                    "teamNumber"	:  "62",
+                    "position"	: "G",
+                    "experience"	:  "1",
+                    "age"	: "23",
+                    "born"	: "01/18/95",
+                    "hometown"	: "Cerritos, Calif.",
+                    "height"	: "6-5",
+                    "weight"	: "310",
+                    "college"	: "UCLA",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Mike-Nugent/44701177-8bcb-4bb1-a348-e81af4d4583a"
+					"moreDetailsButtonURL"	: "/team/roster/Alex-Redmond/15b36c49-3963-4068-917f-da2c81bb04fa"
               },
            
               {
@@ -972,8 +986,8 @@
                     "lname"	: "Iloka",
                     "teamNumber"	:  "43",
                     "position"	: "S",
-                    "experience"	:  "5",
-                    "age"	: "26",
+                    "experience"	:  "6",
+                    "age"	: "27",
                     "born"	: "03/31/90",
                     "hometown"	: "Houston, TX",
                     "height"	: "6-4",
@@ -985,57 +999,39 @@
               },
            
               {
-                    "id"	: "32845aa6-986a-4493-b13c-d1bc409ee0e1",
-                    "fname"	: "DeShawn",
-                    "lname"	: "Williams",
-                    "teamNumber"	:  "69",
-                    "position"	: "DT",
-                    "experience"	:  "R",
-                    "age"	: "23",
-                    "born"	: "12/29/92",
-                    "hometown"	: "Central, S.C.",
-                    "height"	: "6-1",
-                    "weight"	: "295",
-                    "college"	: "Clemson",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/DeShawn-Williams/32845aa6-986a-4493-b13c-d1bc409ee0e1"
-              },
-           
-              {
-                    "id"	: "e734f33d-ed9c-4c03-8d51-487af1c296d0",
-                    "fname"	: "Derron",
-                    "lname"	: "Smith",
-                    "teamNumber"	:  "31",
-                    "position"	: "S",
+                    "id"	: "56b1cfba-be99-49e7-8629-6b105f791e73",
+                    "fname"	: "KeiVarae",
+                    "lname"	: "Russell",
+                    "teamNumber"	:  "20",
+                    "position"	: "CB",
                     "experience"	:  "2",
                     "age"	: "24",
-                    "born"	: "02/04/92",
-                    "hometown"	: "Banning, Calif.",
-                    "height"	: "5-10",
-                    "weight"	: "200",
-                    "college"	: "Fresno State",
+                    "born"	: "10/19/93",
+                    "hometown"	: "Everett, WA",
+                    "height"	: "5-11",
+                    "weight"	: "196",
+                    "college"	: "Notre Dame",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Derron-Smith/e734f33d-ed9c-4c03-8d51-487af1c296d0"
+					"moreDetailsButtonURL"	: "/team/roster/KeiVarae-Russell/56b1cfba-be99-49e7-8629-6b105f791e73"
               },
            
               {
-                    "id"	: "c3e0bebd-ae20-47c8-b63b-9d8488e7ea37",
-                    "fname"	: "T.J.",
-                    "lname"	: "Johnson",
-                    "teamNumber"	:  "60",
-                    "position"	: "C",
-                    "experience"	:  "3",
-                    "age"	: "26",
-                    "born"	: "07/17/90",
-                    "hometown"	: "Aynor, SC",
-                    "height"	: "6-4",
-                    "weight"	: "300",
-                    "college"	: "South Carolina",
+                    "id"	: "4a8d063a-e271-4496-b75d-ad49d1e777ee",
+                    "fname"	: "Randy",
+                    "lname"	: "Bullock",
+                    "teamNumber"	:  "4",
+                    "position"	: "K",
+                    "experience"	:  "6",
+                    "age"	: "28",
+                    "born"	: "12/16/89",
+                    "hometown"	: "Klein, Texas",
+                    "height"	: "5-9",
+                    "weight"	: "206",
+                    "college"	: "Texas A&M",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/T.J.-Johnson/c3e0bebd-ae20-47c8-b63b-9d8488e7ea37"
+					"moreDetailsButtonURL"	: "/team/roster/Randy-Bullock/4a8d063a-e271-4496-b75d-ad49d1e777ee"
               },
            
               {
@@ -1044,10 +1040,10 @@
                     "lname"	: "Core",
                     "teamNumber"	:  "16",
                     "position"	: "WR",
-                    "experience"	:  "R",
-                    "age"	: "22",
+                    "experience"	:  "2",
+                    "age"	: "23",
                     "born"	: "04/17/94",
-                    "hometown"	: "Auburn, Ala.",
+                    "hometown"	: "",
                     "height"	: "6-3",
                     "weight"	: "210",
                     "college"	: "Mississippi",
@@ -1062,8 +1058,8 @@
                     "lname"	: "Westerman",
                     "teamNumber"	:  "63",
                     "position"	: "G",
-                    "experience"	:  "R",
-                    "age"	: "23",
+                    "experience"	:  "2",
+                    "age"	: "25",
                     "born"	: "02/23/93",
                     "hometown"	: "Chandler, AZ",
                     "height"	: "6-3",
@@ -1075,39 +1071,75 @@
               },
            
               {
-                    "id"	: "5a38a4b5-78a2-4c57-87c9-c03c2ce23719",
-                    "fname"	: "Domata",
-                    "lname"	: "Peko",
-                    "teamNumber"	:  "94",
-                    "position"	: "DT",
-                    "experience"	:  "11",
-                    "age"	: "31",
-                    "born"	: "11/27/84",
-                    "hometown"	: "Pago Pago, American Samoa",
-                    "height"	: "6-3",
-                    "weight"	: "325",
-                    "college"	: "Michigan State",
+                    "id"	: "e6c71663-2d97-43b9-b0f7-238763abb729",
+                    "fname"	: "Hardy",
+                    "lname"	: "Nickerson",
+                    "teamNumber"	:  "56",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "01/05/94",
+                    "hometown"	: "Oakland, Calif.",
+                    "height"	: "6-0",
+                    "weight"	: "232",
+                    "college"	: "Illinois",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Domata-Peko/5a38a4b5-78a2-4c57-87c9-c03c2ce23719"
+					"moreDetailsButtonURL"	: "/team/roster/Hardy-Nickerson/e6c71663-2d97-43b9-b0f7-238763abb729"
               },
            
               {
-                    "id"	: "b4fb8263-4fd2-4907-980d-667253c2bccb",
-                    "fname"	: "James",
-                    "lname"	: "Wright",
-                    "teamNumber"	:  "86",
-                    "position"	: "WR",
-                    "experience"	:  "3",
-                    "age"	: "24",
-                    "born"	: "12/31/91",
-                    "hometown"	: "Buras, La.",
+                    "id"	: "941b89df-2666-4d9f-810e-9b889ba417eb",
+                    "fname"	: "Vontaze",
+                    "lname"	: "Burfict",
+                    "teamNumber"	:  "55",
+                    "position"	: "LB",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "09/24/90",
+                    "hometown"	: "Inglewood, Calif. ",
                     "height"	: "6-1",
-                    "weight"	: "201",
-                    "college"	: "Louisiana State",
+                    "weight"	: "255",
+                    "college"	: "Arizona State",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/James-Wright/b4fb8263-4fd2-4907-980d-667253c2bccb"
+					"moreDetailsButtonURL"	: "/team/roster/Vontaze-Burfict/941b89df-2666-4d9f-810e-9b889ba417eb"
+              },
+           
+              {
+                    "id"	: "1b4da73c-2653-4432-9402-e44501d9ae6a",
+                    "fname"	: "Kent",
+                    "lname"	: "Perkins",
+                    "teamNumber"	:  "76",
+                    "position"	: "OT",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "11/19/94",
+                    "hometown"	: "Dallas, TX",
+                    "height"	: "6-5",
+                    "weight"	: "320",
+                    "college"	: "Texas",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kent-Perkins/1b4da73c-2653-4432-9402-e44501d9ae6a"
+              },
+           
+              {
+                    "id"	: "cc6121b7-c369-4013-b0ba-19079349f95c",
+                    "fname"	: "Joe",
+                    "lname"	: "Mixon",
+                    "teamNumber"	:  "28",
+                    "position"	: "HB",
+                    "experience"	:  "R",
+                    "age"	: "21",
+                    "born"	: "07/24/96",
+                    "hometown"	: "Oakley, CA",
+                    "height"	: "6-1",
+                    "weight"	: "228",
+                    "college"	: "Oklahoma",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Joe-Mixon/cc6121b7-c369-4013-b0ba-19079349f95c"
               },
            
               {
@@ -1116,8 +1148,8 @@
                     "lname"	: "Ogbuehi",
                     "teamNumber"	:  "70",
                     "position"	: "OT",
-                    "experience"	:  "2",
-                    "age"	: "24",
+                    "experience"	:  "3",
+                    "age"	: "25",
                     "born"	: "04/25/92",
                     "hometown"	: "Allen, TX",
                     "height"	: "6-5",
@@ -1129,31 +1161,13 @@
               },
            
               {
-                    "id"	: "72e4f750-08d1-4fa5-abee-a5cfebe1389b",
-                    "fname"	: "Rey",
-                    "lname"	: "Maualuga",
-                    "teamNumber"	:  "58",
-                    "position"	: "LB",
-                    "experience"	:  "8",
-                    "age"	: "29",
-                    "born"	: "01/20/87",
-                    "hometown"	: "Eureka, CA",
-                    "height"	: "6-2",
-                    "weight"	: "258",
-                    "college"	: "Southern California",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Rey-Maualuga/72e4f750-08d1-4fa5-abee-a5cfebe1389b"
-              },
-           
-              {
                     "id"	: "cbf7e95f-5682-4acb-8ed5-7e94f2003314",
                     "fname"	: "Clayton",
                     "lname"	: "Fejedelem",
                     "teamNumber"	:  "42",
                     "position"	: "S",
-                    "experience"	:  "R",
-                    "age"	: "23",
+                    "experience"	:  "2",
+                    "age"	: "24",
                     "born"	: "06/02/93",
                     "hometown"	: "",
                     "height"	: "6-0",
@@ -1170,8 +1184,8 @@
                     "lname"	: "Shaw",
                     "teamNumber"	:  "26",
                     "position"	: "CB",
-                    "experience"	:  "2",
-                    "age"	: "24",
+                    "experience"	:  "3",
+                    "age"	: "25",
                     "born"	: "03/27/92",
                     "hometown"	: "Palmdale, Calif.",
                     "height"	: "6-1",
@@ -1183,13 +1197,31 @@
               },
            
               {
+                    "id"	: "9bebb34c-0623-4f5a-a496-47842ce24465",
+                    "fname"	: "Jordan",
+                    "lname"	: "Evans",
+                    "teamNumber"	:  "50",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "01/27/95",
+                    "hometown"	: "",
+                    "height"	: "6-2",
+                    "weight"	: "233",
+                    "college"	: "Oklahoma",
+                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jordan-Evans/9bebb34c-0623-4f5a-a496-47842ce24465"
+              },
+           
+              {
                     "id"	: "dc234ddd-cb75-4c7c-b788-7b0ce466ac02",
                     "fname"	: "Russell",
                     "lname"	: "Bodine",
                     "teamNumber"	:  "61",
                     "position"	: "C",
-                    "experience"	:  "3",
-                    "age"	: "24",
+                    "experience"	:  "4",
+                    "age"	: "25",
                     "born"	: "06/30/92",
                     "hometown"	: "",
                     "height"	: "6-3",
@@ -1201,31 +1233,13 @@
               },
            
               {
-                    "id"	: "388ddd3c-ec35-41f7-b854-c448b5006cd8",
-                    "fname"	: "Margus",
-                    "lname"	: "Hunt",
-                    "teamNumber"	:  "99",
-                    "position"	: "DE",
-                    "experience"	:  "3",
-                    "age"	: "29",
-                    "born"	: "07/14/87",
-                    "hometown"	: "Karksi-Nuia, Estonia",
-                    "height"	: "6-8",
-                    "weight"	: "295",
-                    "college"	: "Southern Methodist",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Margus-Hunt/388ddd3c-ec35-41f7-b854-c448b5006cd8"
-              },
-           
-              {
                     "id"	: "4a065377-8081-4dc1-a80f-daf22d74ba67",
                     "fname"	: "Carlos",
                     "lname"	: "Dunlap",
                     "teamNumber"	:  "96",
                     "position"	: "DE",
-                    "experience"	:  "7",
-                    "age"	: "27",
+                    "experience"	:  "8",
+                    "age"	: "29",
                     "born"	: "02/28/89",
                     "hometown"	: "North Charleston, SC",
                     "height"	: "6-6",
@@ -1242,8 +1256,8 @@
                     "lname"	: "Huber",
                     "teamNumber"	:  "10",
                     "position"	: "P",
-                    "experience"	:  "8",
-                    "age"	: "31",
+                    "experience"	:  "9",
+                    "age"	: "32",
                     "born"	: "07/16/85",
                     "hometown"	: "Cincinnati, OH",
                     "height"	: "6-1",
@@ -1255,21 +1269,21 @@
               },
            
               {
-                    "id"	: "36fdf348-c00c-44bb-bc76-2833910b8553",
-                    "fname"	: "Tyler",
-                    "lname"	: "Eifert",
-                    "teamNumber"	:  "85",
-                    "position"	: "TE",
-                    "experience"	:  "4",
-                    "age"	: "26",
-                    "born"	: "09/08/90",
-                    "hometown"	: "Fort Wayne, IN",
-                    "height"	: "6-6",
-                    "weight"	: "255",
-                    "college"	: "Notre Dame",
+                    "id"	: "c57a5c87-3306-4910-80dd-298002ff0df8",
+                    "fname"	: "Brandon",
+                    "lname"	: "Bell",
+                    "teamNumber"	:  "52",
+                    "position"	: "LB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "01/09/95",
+                    "hometown"	: "Mays Landing, NJ",
+                    "height"	: "6-1",
+                    "weight"	: "230",
+                    "college"	: "Penn State",
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Tyler-Eifert/36fdf348-c00c-44bb-bc76-2833910b8553"
+					"moreDetailsButtonURL"	: "/team/roster/Brandon-Bell/c57a5c87-3306-4910-80dd-298002ff0df8"
               },
            
               {
@@ -1278,8 +1292,8 @@
                     "lname"	: "McCarron",
                     "teamNumber"	:  "5",
                     "position"	: "QB",
-                    "experience"	:  "2",
-                    "age"	: "25",
+                    "experience"	:  "5",
+                    "age"	: "27",
                     "born"	: "09/13/90",
                     "hometown"	: "Mobile, AL",
                     "height"	: "6-3",
@@ -1288,24 +1302,6 @@
                     "image"	: "http://prod.static.bengals.clubs.nfl.com/",
 			
 					"moreDetailsButtonURL"	: "/team/roster/AJ-McCarron/07bcb29c-9b5e-429d-b249-67c0c2cc63f7"
-              },
-           
-              {
-                    "id"	: "a8435a7b-a76b-42a6-98c6-a2a3fd8e62e0",
-                    "fname"	: "Jeremy",
-                    "lname"	: "Hill",
-                    "teamNumber"	:  "32",
-                    "position"	: "HB",
-                    "experience"	:  "3",
-                    "age"	: "23",
-                    "born"	: "10/20/92",
-                    "hometown"	: "Baton Rouge, LA",
-                    "height"	: "6-1",
-                    "weight"	: "235",
-                    "college"	: "Louisiana State ",
-                    "image"	: "http://prod.static.bengals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Jeremy-Hill/a8435a7b-a76b-42a6-98c6-a2a3fd8e62e0"
               }
            
         ]

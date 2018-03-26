@@ -64,9 +64,12 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'fantasy_football_scraper.pipelines.FantasyFootballScraperPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'fantasy_football_scraper.pipelines.FantasyFootballScraperPipeline': 300,
+}
+
+MONGO_URI="mongodb://localhost:27017"
+MONGO_DATABASE="fantasy-football-db"
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

@@ -1,4 +1,4 @@
-import urllib
+import requests
 import json
 import re
 import pprint
@@ -40,6 +40,7 @@ def insert_team_list():
 
 
 def insert_dc(team_name):
+    print(db[team_name])
     collection = db[team_name]
     collection.save(dc)
     db.collection_names(include_system_collections=False)
@@ -49,20 +50,19 @@ def insert_dc(team_name):
 # This method populates the team dictionary with the team name as the key and the URL version of team name as value
 def populate_teams_dict():
     with open("teamnames.txt", 'r') as team_names:
-        for team_key, val in team_names:
-            logging.info("team_key: " + team_key)
-
-            key = team_key.rstrip(new_line)
+        for team in team_names:
+            logging.info("team_key: " + team)
+            val = team_names.readline()
+            key = team.rstrip(new_line)
             value = val.rstrip(new_line)
             team_dict[key] = value
-
 
 
 # populate the dictionaries containing the teams that don't use JSON objects for depth charts
 def populate_exception_dict():
     with open("exception_teams.txt", 'r') as without_json:
         for team_key in without_json:
-            val = without_json.next()
+            val = without_json.readline()
             key = team_key.rstrip(new_line)
             value = val.rstrip(new_line)
             exception_dict[key] = value
@@ -83,11 +83,11 @@ def create_url(team_name):
 # create the file name based on the file type. I.e. Files containing JSON objects go into JSON folder.
 def create_file_name(team_name, extension):
     file_name_tail = "_DepthChart."
-    JSON_path = "JSON_files/"
+    json_path = "JSON_files/"
     txt_path = "txt_files/"
 
     if extension == json_extension:
-        file_name = JSON_path + team_name + file_name_tail + extension
+        file_name = json_path + team_name + file_name_tail + extension
     else:
         file_name = txt_path + team_name + file_name_tail + extension
     return file_name
@@ -96,8 +96,8 @@ def create_file_name(team_name, extension):
 # get position list from teams that use HTML to store their depth charts.
 def get_html_depth_chart(team_name):
     url = create_url(team_name)
-    response = urllib.urlopen(url)
-    data = response.read()
+    response = requests.get(url)
+    data = response.text
     positions = re.findall(html_position_pattern, data)
     player = re.findall(html_player_pattern, data)
     print(positions)
@@ -107,8 +107,9 @@ def get_html_depth_chart(team_name):
 # get the depth chart from JSON objects.
 def get_depth_chart_json(team_name):
     url = create_url(team_name)
-    response = urllib.urlopen(url)
-    data = response.read()
+    response = requests.get(url)
+    print(response)
+    data = response.text
     latter_half = re.split("depthChartJson = ", data)
     json_object = re.split("</script>", latter_half[1])
     depth_chart = json_object[0]
@@ -142,15 +143,15 @@ def get_starters(team_name):
     dc.clear()
     data = set_player_dict(team_name)
 
-# get offensive players from JSON. Write depth chart to file. 
+# get offense players from JSON. Write depth chart to file.
     for index in range(len(data["formations"]["Offense"]["Base"])):
         # position
-        position = data["formations"]["Offense"]["Base"][index]["positionId"]
+        position = data["formations"]["Offense"]["Base"][index]["positionID"]
         player_list = []
 
         for i in range(len(data["formations"]["Offense"]["Base"][index][players])):
             # player names
-            player_list.append(player_dict[data["formations"]["Offense"]["Base"][index][players][i]].encode('utf-8'))
+            player_list.append(player_dict[data["formations"]["Offense"]["Base"][index][players][i]])
         if position in dc:
             # append list for now to separate between WR1 and WR2
             dc[position].append(player_list)

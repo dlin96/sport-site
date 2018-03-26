@@ -1,33 +1,33 @@
- {
-    "formations" :
-        {
-        
-        "Offense" :
-            {
-                "Base" : [
-                    
-                    ]
-              },
-
-        
-        "Defense" :
-            {
-                "Base" : [
-                    
-                    ]
-              },
-
-        
-        "Special Teams" :
-            {
-                "Base" : [
-                    
-                    ]
-              }
-
-        
-        },
-        "players" : [
-          
-        ]
-    }
+ {
+    "formations" :
+        {
+        
+        "Offense" :
+            {
+                "Base" : [
+                    
+                    ]
+              },
+
+        
+        "Defense" :
+            {
+                "Base" : [
+                    
+                    ]
+              },
+
+        
+        "Special Teams" :
+            {
+                "Base" : [
+                    
+                    ]
+              }
+
+        
+        },
+        "players" : [
+          
+        ]
+    }
