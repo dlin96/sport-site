@@ -25,7 +25,9 @@
                             
                             "32cea93b-33c5-458e-a68a-495f13db9615",
                             
-                            "e3b9090b-456a-40cb-82b1-9eab7c09a023"
+                            "654e17a4-d924-451a-bfe3-cf5bb4f15f75",
+                            
+                            "a73e2d11-1ce6-4f14-9a2d-67e0c6dc5a17"
                             
                         ]
                         },
@@ -36,7 +38,7 @@
                             
                             "cab8e04d-1b9f-4fa3-8a63-24365ed314cb",
                             
-                            "4c69f318-aedc-4830-8c13-0c5e9810e5cc"
+                            "7e791219-e17a-46d2-98a9-7af6dd7844c8"
                             
                         ]
                         },
@@ -45,9 +47,11 @@
                         "positionID"	: "C",
                         "players"	: [
                             
-                            "d165fa72-2754-4648-b329-35dfdff90a67",
+                            "82786056-74d2-4d9b-9ce8-4f098ea8e4c4",
                             
-                            "4c69f318-aedc-4830-8c13-0c5e9810e5cc"
+                            "225ce847-b110-43ed-a9d8-8a6e508a04a9",
+                            
+                            "7e791219-e17a-46d2-98a9-7af6dd7844c8"
                             
                         ]
                         },
@@ -56,9 +60,11 @@
                         "positionID"	: "RG",
                         "players"	: [
                             
-                            "e80b3bc9-4f31-4ce4-928d-3624315db6b5",
+                            "bbe91376-0346-465f-86e2-61417c965b82",
                             
-                            "4c69f318-aedc-4830-8c13-0c5e9810e5cc"
+                            "225ce847-b110-43ed-a9d8-8a6e508a04a9",
+                            
+                            "ebe6d178-35cc-487a-832a-621359c97e7e"
                             
                         ]
                         },
@@ -67,9 +73,11 @@
                         "positionID"	: "RT",
                         "players"	: [
                             
-                            "85ca19b9-77a9-4116-ac4a-105aa3e64538",
+                            "e3b9090b-456a-40cb-82b1-9eab7c09a023",
                             
-                            "53914cde-e711-4690-be92-1041b48dd0ea"
+                            "654e17a4-d924-451a-bfe3-cf5bb4f15f75",
+                            
+                            "a73e2d11-1ce6-4f14-9a2d-67e0c6dc5a17"
                             
                         ]
                         },
@@ -78,11 +86,11 @@
                         "positionID"	: "TE",
                         "players"	: [
                             
+                            "bf0fe393-a9b3-4125-b511-99226fd65b69",
+                            
                             "74a4e91e-844e-42bd-973e-39b0e4644d9c",
                             
-                            "e701189d-a929-4ba1-bf5a-8846237c6b20",
-                            
-                            "2ea4dec7-ad68-4352-9f42-f7f475dba063"
+                            "8ddb3eb1-31a7-45ba-aaa7-bfe6efcfbe3d"
                             
                         ]
                         },
@@ -93,11 +101,11 @@
                             
                             "73b39eef-a7a8-4155-a341-c5f02b501345",
                             
-                            "75e3475e-489f-4aae-be53-7f3612c4a08a",
+                            "f81ca6f6-82cd-4558-864c-bdc2fc1e3914",
                             
-                            "a2c065c3-9eb3-4126-8c1f-fe5b8a5d044a",
+                            "418cb9de-663e-4f8a-882c-fa9fad5abd27",
                             
-                            "418cb9de-663e-4f8a-882c-fa9fad5abd27"
+                            "236084ef-46e2-468a-b4b6-dfd2041239aa"
                             
                         ]
                         },
@@ -105,8 +113,6 @@
                     {
                         "positionID"	: "QB",
                         "players"	: [
-                            
-                            "fe1a862d-b24a-4123-b43e-c116b59395cc",
                             
                             "0578118f-62ef-4d4a-9303-11d109d7ffbf",
                             
@@ -119,11 +125,11 @@
                         "positionID"	: "RB",
                         "players"	: [
                             
-                            "7ee52684-884f-4dfc-a3e0-b4823638657b",
+                            "a28a854a-a0cf-4b2d-b100-c884a43f7ff9",
                             
-                            "a52b27c4-0792-4dd1-be0d-2d0dcd8b69bc",
+                            "4e5ff5b3-72aa-4072-ac61-d9f004f5b8f7",
                             
-                            "d8496e06-6979-4bf3-80c7-bdb0f402c3e5"
+                            "7fab6adc-9fdf-4c86-9630-df0949feb3f3"
                             
                         ]
                         },
@@ -151,7 +157,7 @@
                             
                             "dc5b534f-fce7-4169-bac3-3f0133bf0772",
                             
-                            "cfe1f016-4d50-455e-9bbc-7064626282e0"
+                            "12315fae-ed5a-435f-82b4-b962a75ed45a"
                             
                         ]
                         },
@@ -160,9 +166,9 @@
                         "positionID"	: "NT",
                         "players"	: [
                             
-                            "3db63f6f-233b-46aa-a3a5-a5c41884d5a7",
+                            "cfe1f016-4d50-455e-9bbc-7064626282e0",
                             
-                            "69bd1677-3e26-410e-8e56-f447908c709c"
+                            "12315fae-ed5a-435f-82b4-b962a75ed45a"
                             
                         ]
                         },
@@ -173,7 +179,7 @@
                             
                             "021f5185-ba06-415a-a6a4-0860a519610f",
                             
-                            "cfe1f016-4d50-455e-9bbc-7064626282e0"
+                            "ca55ad53-6686-40da-8999-6eb9a4a2502c"
                             
                         ]
                         },
@@ -182,11 +188,13 @@
                         "positionID"	: "LOLB",
                         "players"	: [
                             
-                            "2ea9be28-7f8a-4d49-95e8-199620e4ef0b",
+                            "c908095d-15b6-452b-96f9-26d9c276d819",
                             
-                            "3b4be180-bf90-43ce-88aa-9f4b8489c159",
+                            "127791a8-c9c4-418e-a06c-334af0b04741",
                             
-                            "fd0e3b50-35c1-44b0-9a0c-688b5640dfcb"
+                            "00d5d294-3284-4294-bd67-6c0d056e55c1",
+                            
+                            "40b52f46-b80a-4c44-9b55-ac39e7858ba7"
                             
                         ]
                         },
@@ -217,11 +225,11 @@
                         "positionID"	: "ROLB",
                         "players"	: [
                             
-                            "c908095d-15b6-452b-96f9-26d9c276d819",
+                            "2ea9be28-7f8a-4d49-95e8-199620e4ef0b",
                             
-                            "60e4b70d-1868-4763-ad8a-8b57412cde1f",
+                            "fca12640-dd18-4b2c-917a-be1e55b6bab4",
                             
-                            "fca12640-dd18-4b2c-917a-be1e55b6bab4"
+                            "da48d32c-0492-47b8-92d6-a0ed6e8e87e0"
                             
                         ]
                         },
@@ -230,11 +238,11 @@
                         "positionID"	: "LCB",
                         "players"	: [
                             
-                            "f5e653d8-c081-41dd-b229-e07f581125c3",
+                            "a741848a-c7f5-4e3d-94a3-f86c0c4aeb93",
                             
-                            "29cfa503-b368-4447-a067-8cdc94ae32c8",
+                            "d4079fde-bd6a-4e0d-9884-f3b6f0991c57",
                             
-                            "d4079fde-bd6a-4e0d-9884-f3b6f0991c57"
+                            "61d73974-a5b4-470a-977f-d27d34c4a52e"
                             
                         ]
                         },
@@ -243,9 +251,11 @@
                         "positionID"	: "RCB",
                         "players"	: [
                             
-                            "74bd59be-1dcb-4dce-ad23-1d8ec3333f24",
+                            "f5e653d8-c081-41dd-b229-e07f581125c3",
                             
-                            "dcf0f1c2-3c99-4520-bba8-afc54ac38848"
+                            "61d73974-a5b4-470a-977f-d27d34c4a52e",
+                            
+                            "0d78e69e-96b9-4918-8522-df543ef2933f"
                             
                         ]
                         },
@@ -256,9 +266,7 @@
                             
                             "f6075ba5-5bde-4448-a5f8-26e03b0a9849",
                             
-                            "d00ef1b7-1a79-45ca-9fa9-eb1b948e9ab7",
-                            
-                            "9972de3c-2baa-4a58-a99b-f90c5dc1c073"
+                            "de1bb8f0-880f-4ea2-b35d-53b0c79a771b"
                             
                         ]
                         },
@@ -269,9 +277,9 @@
                             
                             "80ef5aa4-29d8-48ea-85e6-08d89755c778",
                             
-                            "b7e099b9-a506-483e-a68c-97159333eebe",
+                            "ede73ecc-7a1b-4e56-a316-7fdee497302c",
                             
-                            "87c0b23c-f5af-4d45-8eac-746e4d713fdd"
+                            "9972de3c-2baa-4a58-a99b-f90c5dc1c073"
                             
                         ]
                         }
@@ -288,9 +296,7 @@
                         "positionID"	: "K",
                         "players"	: [
                             
-                            "6b53a68a-9804-4d7d-80a3-1f98681e8846",
-                            
-                            "5f03f68b-d24e-4fe0-994f-31f743959b58"
+                            "6b53a68a-9804-4d7d-80a3-1f98681e8846"
                             
                         ]
                         },
@@ -299,9 +305,7 @@
                         "positionID"	: "P",
                         "players"	: [
                             
-                            "5f03f68b-d24e-4fe0-994f-31f743959b58",
-                            
-                            "6b53a68a-9804-4d7d-80a3-1f98681e8846"
+                            "fa035254-b662-4ba3-a968-f3edfca58c40"
                             
                         ]
                         },
@@ -310,7 +314,7 @@
                         "positionID"	: "H",
                         "players"	: [
                             
-                            "5f03f68b-d24e-4fe0-994f-31f743959b58",
+                            "fa035254-b662-4ba3-a968-f3edfca58c40",
                             
                             "73b39eef-a7a8-4155-a341-c5f02b501345"
                             
@@ -321,11 +325,9 @@
                         "positionID"	: "PR",
                         "players"	: [
                             
-                            "d00ef1b7-1a79-45ca-9fa9-eb1b948e9ab7",
-                            
                             "418cb9de-663e-4f8a-882c-fa9fad5abd27",
                             
-                            "75e3475e-489f-4aae-be53-7f3612c4a08a"
+                            "73b39eef-a7a8-4155-a341-c5f02b501345"
                             
                         ]
                         },
@@ -334,11 +336,11 @@
                         "positionID"	: "KR",
                         "players"	: [
                             
-                            "a2c065c3-9eb3-4126-8c1f-fe5b8a5d044a",
+                            "418cb9de-663e-4f8a-882c-fa9fad5abd27",
                             
-                            "75e3475e-489f-4aae-be53-7f3612c4a08a",
+                            "d904dac4-89a8-4656-a528-77d64d2a6d16",
                             
-                            "d00ef1b7-1a79-45ca-9fa9-eb1b948e9ab7"
+                            "4e5ff5b3-72aa-4072-ac61-d9f004f5b8f7"
                             
                         ]
                         },
@@ -347,11 +349,7 @@
                         "positionID"	: "LS",
                         "players"	: [
                             
-                            "a8e819ed-9f41-46fd-bc1a-4173dbeb44c1",
-                            
-                            "4c69f318-aedc-4830-8c13-0c5e9810e5cc",
-                            
-                            "2ea4dec7-ad68-4352-9f42-f7f475dba063"
+                            "a8e819ed-9f41-46fd-bc1a-4173dbeb44c1"
                             
                         ]
                         }
@@ -369,70 +367,16 @@
                     "lname"	: "Randall",
                     "teamNumber"	:  "23",
                     "position"	: "CB",
-                    "experience"	:  "2",
-                    "age"	: "24",
+                    "experience"	:  "4",
+                    "age"	: "25",
                     "born"	: "08/29/92",
                     "hometown"	: "Pensacola, FL",
                     "height"	: "5-11",
                     "weight"	: "196",
                     "college"	: "Arizona State",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Randall_Damarious-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Randall_Damarious-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Damarious-Randall/f5e653d8-c081-41dd-b229-e07f581125c3"
-              },
-           
-              {
-                    "id"	: "3db63f6f-233b-46aa-a3a5-a5c41884d5a7",
-                    "fname"	: "Letroy",
-                    "lname"	: "Guion",
-                    "teamNumber"	:  "98",
-                    "position"	: "DT",
-                    "experience"	:  "9",
-                    "age"	: "29",
-                    "born"	: "06/21/87",
-                    "hometown"	: "Starke, FL",
-                    "height"	: "6-4",
-                    "weight"	: "322",
-                    "college"	: "Florida State",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Guion_Letroy-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Letroy-Guion/3db63f6f-233b-46aa-a3a5-a5c41884d5a7"
-              },
-           
-              {
-                    "id"	: "e80b3bc9-4f31-4ce4-928d-3624315db6b5",
-                    "fname"	: "T.J.",
-                    "lname"	: "Lang",
-                    "teamNumber"	:  "70",
-                    "position"	: "G",
-                    "experience"	:  "8",
-                    "age"	: "28",
-                    "born"	: "09/20/87",
-                    "hometown"	: "Birmingham, MI",
-                    "height"	: "6-4",
-                    "weight"	: "318",
-                    "college"	: "Eastern Michigan",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Lang_TJ-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/T.J.-Lang/e80b3bc9-4f31-4ce4-928d-3624315db6b5"
-              },
-           
-              {
-                    "id"	: "a2c065c3-9eb3-4126-8c1f-fe5b8a5d044a",
-                    "fname"	: "Ty",
-                    "lname"	: "Montgomery",
-                    "teamNumber"	:  "88",
-                    "position"	: "WR",
-                    "experience"	:  "2",
-                    "age"	: "23",
-                    "born"	: "01/22/93",
-                    "hometown"	: "Dallas, TX",
-                    "height"	: "6-0",
-                    "weight"	: "216",
-                    "college"	: "Stanford",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Montgomery_Ty-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Ty-Montgomery/a2c065c3-9eb3-4126-8c1f-fe5b8a5d044a"
               },
            
               {
@@ -441,16 +385,34 @@
                     "lname"	: "Ryan",
                     "teamNumber"	:  "47",
                     "position"	: "LB",
-                    "experience"	:  "2",
-                    "age"	: "24",
+                    "experience"	:  "4",
+                    "age"	: "26",
                     "born"	: "02/27/92",
                     "hometown"	: "Cleveland, OH",
                     "height"	: "6-2",
                     "weight"	: "240",
                     "college"	: "Michigan",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Ryan_Jake-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Ryan_Jake-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Jake-Ryan/ab040749-22f6-46df-b69b-2c2a933d4e80"
+              },
+           
+              {
+                    "id"	: "61d73974-a5b4-470a-977f-d27d34c4a52e",
+                    "fname"	: "Lenzy",
+                    "lname"	: "Pipkins",
+                    "teamNumber"	:  "41",
+                    "position"	: "CB",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "11/07/93",
+                    "hometown"	: "Arlington, TX",
+                    "height"	: "6-0",
+                    "weight"	: "196",
+                    "college"	: "Oklahoma State",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Pipkins_Lenzy-2017-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Lenzy-Pipkins/61d73974-a5b4-470a-977f-d27d34c4a52e"
               },
            
               {
@@ -459,8 +421,8 @@
                     "lname"	: "Evans",
                     "teamNumber"	:  "25",
                     "position"	: "S",
-                    "experience"	:  "R",
-                    "age"	: "23",
+                    "experience"	:  "3",
+                    "age"	: "24",
                     "born"	: "04/10/93",
                     "hometown"	: "Oak Creek, WI",
                     "height"	: "5-11",
@@ -472,57 +434,111 @@
               },
            
               {
-                    "id"	: "5f03f68b-d24e-4fe0-994f-31f743959b58",
-                    "fname"	: "Jacob",
-                    "lname"	: "Schum",
-                    "teamNumber"	:  "10",
+                    "id"	: "236084ef-46e2-468a-b4b6-dfd2041239aa",
+                    "fname"	: "Michael",
+                    "lname"	: "Clark",
+                    "teamNumber"	:  "89",
+                    "position"	: "WR",
+                    "experience"	:  "1",
+                    "age"	: "22",
+                    "born"	: "10/25/95",
+                    "hometown"	: "St. Petersburg, FL",
+                    "height"	: "6-6",
+                    "weight"	: "217",
+                    "college"	: "Marshall",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Clark_Michael-2017-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Michael-Clark/236084ef-46e2-468a-b4b6-dfd2041239aa"
+              },
+           
+              {
+                    "id"	: "12315fae-ed5a-435f-82b4-b962a75ed45a",
+                    "fname"	: "Quinton",
+                    "lname"	: "Dial",
+                    "teamNumber"	:  "91",
+                    "position"	: "DT",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "07/21/90",
+                    "hometown"	: "Andalusia, AL",
+                    "height"	: "6-5",
+                    "weight"	: "318",
+                    "college"	: "Alabama",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Dial_Quinton-2017-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Quinton-Dial/12315fae-ed5a-435f-82b4-b962a75ed45a"
+              },
+           
+              {
+                    "id"	: "8ddb3eb1-31a7-45ba-aaa7-bfe6efcfbe3d",
+                    "fname"	: "Emanuel",
+                    "lname"	: "Byrd",
+                    "teamNumber"	:  "86",
+                    "position"	: "TE",
+                    "experience"	:  "1",
+                    "age"	: "23",
+                    "born"	: "12/09/94",
+                    "hometown"	: "Albany, Ga",
+                    "height"	: "6-2",
+                    "weight"	: "240",
+                    "college"	: "Marshall",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Byrd_Emanuel-2017-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Emanuel-Byrd/8ddb3eb1-31a7-45ba-aaa7-bfe6efcfbe3d"
+              },
+           
+              {
+                    "id"	: "fa035254-b662-4ba3-a968-f3edfca58c40",
+                    "fname"	: "Justin",
+                    "lname"	: "Vogel",
+                    "teamNumber"	:  "8",
                     "position"	: "P",
                     "experience"	:  "2",
-                    "age"	: "27",
-                    "born"	: "01/21/89",
-                    "hometown"	: "Hamburg, NY",
-                    "height"	: "5-11",
-                    "weight"	: "211",
-                    "college"	: "Buffalo",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Schum_Jacob-1-mobile.jpg",
+                    "age"	: "24",
+                    "born"	: "10/14/93",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "219",
+                    "college"	: "Miami (Fla.)",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Vogel_Justin-2017-mobile.jpg",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Jacob-Schum/5f03f68b-d24e-4fe0-994f-31f743959b58"
+					"moreDetailsButtonURL"	: "/team/roster/Justin-Vogel/fa035254-b662-4ba3-a968-f3edfca58c40"
               },
            
               {
-                    "id"	: "2ea4dec7-ad68-4352-9f42-f7f475dba063",
-                    "fname"	: "Justin",
-                    "lname"	: "Perillo",
-                    "teamNumber"	:  "80",
-                    "position"	: "TE",
-                    "experience"	:  "3",
-                    "age"	: "25",
-                    "born"	: "01/05/91",
-                    "hometown"	: "Wilmington, DE",
-                    "height"	: "6-3",
-                    "weight"	: "250",
-                    "college"	: "Maine",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Perillo_Justin-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Justin-Perillo/2ea4dec7-ad68-4352-9f42-f7f475dba063"
-              },
-           
-              {
-                    "id"	: "7ee52684-884f-4dfc-a3e0-b4823638657b",
-                    "fname"	: "Eddie",
-                    "lname"	: "Lacy",
-                    "teamNumber"	:  "27",
+                    "id"	: "7fab6adc-9fdf-4c86-9630-df0949feb3f3",
+                    "fname"	: "Devante",
+                    "lname"	: "Mays",
+                    "teamNumber"	:  "32",
                     "position"	: "RB",
-                    "experience"	:  "4",
-                    "age"	: "26",
-                    "born"	: "06/02/90",
-                    "hometown"	: "Geismar, LA",
-                    "height"	: "5-11",
-                    "weight"	: "234",
-                    "college"	: "Alabama",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Lacy_eddie-mobile.jpg",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "05/26/94",
+                    "hometown"	: "",
+                    "height"	: "5-10",
+                    "weight"	: "230",
+                    "college"	: "Utah State",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Mays_Devante-2017-mobile.jpg",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Eddie-Lacy/7ee52684-884f-4dfc-a3e0-b4823638657b"
+					"moreDetailsButtonURL"	: "/team/roster/Devante-Mays/7fab6adc-9fdf-4c86-9630-df0949feb3f3"
+              },
+           
+              {
+                    "id"	: "0d78e69e-96b9-4918-8522-df543ef2933f",
+                    "fname"	: "Donatello",
+                    "lname"	: "Brown",
+                    "teamNumber"	:  "44",
+                    "position"	: "CB",
+                    "experience"	:  "2",
+                    "age"	: "26",
+                    "born"	: "05/15/91",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "190",
+                    "college"	: "Valdosta State",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Brown_Donatello-2017-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Donatello-Brown/0d78e69e-96b9-4918-8522-df543ef2933f"
               },
            
               {
@@ -531,160 +547,70 @@
                     "lname"	: "Thomas",
                     "teamNumber"	:  "48",
                     "position"	: "LB",
-                    "experience"	:  "2",
-                    "age"	: "25",
+                    "experience"	:  "4",
+                    "age"	: "26",
                     "born"	: "05/06/91",
                     "hometown"	: "Blackville, SC",
                     "height"	: "6-1",
                     "weight"	: "227",
                     "college"	: "South Carolina State",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Thomas_Joe-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Thomas_Joe-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Joe-Thomas/16b46d56-3f2a-4b6f-84e3-01a3cff3efc4"
               },
            
               {
-                    "id"	: "b7e099b9-a506-483e-a68c-97159333eebe",
-                    "fname"	: "Chris",
-                    "lname"	: "Banjo",
-                    "teamNumber"	:  "32",
-                    "position"	: "S",
-                    "experience"	:  "3",
-                    "age"	: "26",
-                    "born"	: "02/26/90",
-                    "hometown"	: "Sugar Land, TX",
-                    "height"	: "5-10",
-                    "weight"	: "207",
-                    "college"	: "SMU",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Banjo_Chris-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Chris-Banjo/b7e099b9-a506-483e-a68c-97159333eebe"
-              },
-           
-              {
-                    "id"	: "d165fa72-2754-4648-b329-35dfdff90a67",
-                    "fname"	: "JC",
-                    "lname"	: "Tretter",
-                    "teamNumber"	:  "73",
-                    "position"	: "C/G",
-                    "experience"	:  "4",
-                    "age"	: "25",
-                    "born"	: "02/12/91",
-                    "hometown"	: "Akron, NY",
-                    "height"	: "6-4",
-                    "weight"	: "307",
-                    "college"	: "Cornell",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Tretter_JC-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/JC-Tretter/d165fa72-2754-4648-b329-35dfdff90a67"
-              },
-           
-              {
-                    "id"	: "60e4b70d-1868-4763-ad8a-8b57412cde1f",
-                    "fname"	: "Datone",
-                    "lname"	: "Jones",
-                    "teamNumber"	:  "95",
-                    "position"	: "DE",
-                    "experience"	:  "4",
-                    "age"	: "26",
-                    "born"	: "07/24/90",
-                    "hometown"	: "Compton, CA",
-                    "height"	: "6-4",
-                    "weight"	: "285",
-                    "college"	: "UCLA",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Jones_datone-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Datone-Jones/60e4b70d-1868-4763-ad8a-8b57412cde1f"
-              },
-           
-              {
-                    "id"	: "74bd59be-1dcb-4dce-ad23-1d8ec3333f24",
-                    "fname"	: "Sam",
-                    "lname"	: "Shields",
-                    "teamNumber"	:  "37",
-                    "position"	: "CB",
-                    "experience"	:  "7",
-                    "age"	: "28",
-                    "born"	: "12/08/87",
-                    "hometown"	: "Sarasota, FL",
-                    "height"	: "5-11",
-                    "weight"	: "184",
-                    "college"	: "Miami",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Shields_Sam-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Sam-Shields/74bd59be-1dcb-4dce-ad23-1d8ec3333f24"
-              },
-           
-              {
-                    "id"	: "29cfa503-b368-4447-a067-8cdc94ae32c8",
-                    "fname"	: "Quinten",
-                    "lname"	: "Rollins",
-                    "teamNumber"	:  "24",
-                    "position"	: "CB",
-                    "experience"	:  "2",
-                    "age"	: "24",
-                    "born"	: "07/15/92",
-                    "hometown"	: "Wilmington, OH",
-                    "height"	: "5-11",
-                    "weight"	: "195",
-                    "college"	: "Miami (Ohio)",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Rollins_Quinten-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Quinten-Rollins/29cfa503-b368-4447-a067-8cdc94ae32c8"
-              },
-           
-              {
-                    "id"	: "dcf0f1c2-3c99-4520-bba8-afc54ac38848",
-                    "fname"	: "LaDarius",
-                    "lname"	: "Gunter",
-                    "teamNumber"	:  "36",
-                    "position"	: "CB",
-                    "experience"	:  "2",
-                    "age"	: "24",
-                    "born"	: "05/13/92",
-                    "hometown"	: "Montgomery, AL",
-                    "height"	: "6-2",
-                    "weight"	: "201",
-                    "college"	: "Miami",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Gunter_LaDarius-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/LaDarius-Gunter/dcf0f1c2-3c99-4520-bba8-afc54ac38848"
-              },
-           
-              {
-                    "id"	: "d8496e06-6979-4bf3-80c7-bdb0f402c3e5",
-                    "fname"	: "Jhurell",
-                    "lname"	: "Pressley",
-                    "teamNumber"	:  "26",
-                    "position"	: "RB",
-                    "experience"	:  "R",
-                    "age"	: "24",
-                    "born"	: "05/20/92",
-                    "hometown"	: "Newark, DE",
-                    "height"	: "5-10",
-                    "weight"	: "206",
-                    "college"	: "New Mexico",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Pressley_Jhurell-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Jhurell-Pressley/d8496e06-6979-4bf3-80c7-bdb0f402c3e5"
-              },
-           
-              {
-                    "id"	: "75e3475e-489f-4aae-be53-7f3612c4a08a",
-                    "fname"	: "Jared",
-                    "lname"	: "Abbrederis",
+                    "id"	: "bf0fe393-a9b3-4125-b511-99226fd65b69",
+                    "fname"	: "Lance",
+                    "lname"	: "Kendricks",
                     "teamNumber"	:  "84",
-                    "position"	: "WR",
-                    "experience"	:  "3",
-                    "age"	: "25",
-                    "born"	: "12/17/90",
-                    "hometown"	: "Wautoma, WI",
-                    "height"	: "6-1",
-                    "weight"	: "195",
+                    "position"	: "TE",
+                    "experience"	:  "8",
+                    "age"	: "30",
+                    "born"	: "01/30/88",
+                    "hometown"	: "Milwaukee, WI",
+                    "height"	: "6-3",
+                    "weight"	: "250",
                     "college"	: "Wisconsin",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Abbrederis_Jared-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Kendricks_Lance-2017-mobile.jpg",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Jared-Abbrederis/75e3475e-489f-4aae-be53-7f3612c4a08a"
+					"moreDetailsButtonURL"	: "/team/roster/Lance-Kendricks/bf0fe393-a9b3-4125-b511-99226fd65b69"
+              },
+           
+              {
+                    "id"	: "ca55ad53-6686-40da-8999-6eb9a4a2502c",
+                    "fname"	: "Montravius",
+                    "lname"	: "Adams",
+                    "teamNumber"	:  "90",
+                    "position"	: "DT",
+                    "experience"	:  "2",
+                    "age"	: "22",
+                    "born"	: "07/24/95",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "304",
+                    "college"	: "Auburn",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Adams_Montravius-2017-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Montravius-Adams/ca55ad53-6686-40da-8999-6eb9a4a2502c"
+              },
+           
+              {
+                    "id"	: "4e5ff5b3-72aa-4072-ac61-d9f004f5b8f7",
+                    "fname"	: "Aaron",
+                    "lname"	: "Jones",
+                    "teamNumber"	:  "33",
+                    "position"	: "RB",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "12/02/94",
+                    "hometown"	: "Savannah, GA",
+                    "height"	: "5-9",
+                    "weight"	: "208",
+                    "college"	: "Texas-El Paso",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Jones_Aaron-2017-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Aaron-Jones/4e5ff5b3-72aa-4072-ac61-d9f004f5b8f7"
               },
            
               {
@@ -693,8 +619,8 @@
                     "lname"	: "Taylor",
                     "teamNumber"	:  "65",
                     "position"	: "G",
-                    "experience"	:  "4",
-                    "age"	: "26",
+                    "experience"	:  "6",
+                    "age"	: "28",
                     "born"	: "11/22/89",
                     "hometown"	: "Arlington, TX",
                     "height"	: "6-3",
@@ -706,21 +632,57 @@
               },
            
               {
-                    "id"	: "3b4be180-bf90-43ce-88aa-9f4b8489c159",
-                    "fname"	: "Julius",
-                    "lname"	: "Peppers",
-                    "teamNumber"	:  "56",
-                    "position"	: "LB",
-                    "experience"	:  "15",
-                    "age"	: "36",
-                    "born"	: "01/18/80",
-                    "hometown"	: "Bailey, NC",
-                    "height"	: "6-7",
-                    "weight"	: "287",
-                    "college"	: "North Carolina",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Peppers_Julius-mobile.jpg",
+                    "id"	: "a73e2d11-1ce6-4f14-9a2d-67e0c6dc5a17",
+                    "fname"	: "Adam",
+                    "lname"	: "Pankey",
+                    "teamNumber"	:  "77",
+                    "position"	: "G/T",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "02/02/94",
+                    "hometown"	: "",
+                    "height"	: "6-5",
+                    "weight"	: "313",
+                    "college"	: "West Virginia",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Pankey_Adam-2017-mobile.jpg",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Julius-Peppers/3b4be180-bf90-43ce-88aa-9f4b8489c159"
+					"moreDetailsButtonURL"	: "/team/roster/Adam-Pankey/a73e2d11-1ce6-4f14-9a2d-67e0c6dc5a17"
+              },
+           
+              {
+                    "id"	: "bbe91376-0346-465f-86e2-61417c965b82",
+                    "fname"	: "Jahri",
+                    "lname"	: "Evans",
+                    "teamNumber"	:  "73",
+                    "position"	: "G",
+                    "experience"	:  "13",
+                    "age"	: "34",
+                    "born"	: "08/22/83",
+                    "hometown"	: "Philadelphia, PA",
+                    "height"	: "6-4",
+                    "weight"	: "318",
+                    "college"	: "Bloomsburg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Evans_Jahri-2017-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jahri-Evans/bbe91376-0346-465f-86e2-61417c965b82"
+              },
+           
+              {
+                    "id"	: "00d5d294-3284-4294-bd67-6c0d056e55c1",
+                    "fname"	: "Vince",
+                    "lname"	: "Biegel",
+                    "teamNumber"	:  "45",
+                    "position"	: "LB",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "07/02/93",
+                    "hometown"	: "Wisconsin Rapids, WI",
+                    "height"	: "6-3",
+                    "weight"	: "246",
+                    "college"	: "Wisconsin",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Biegel_Vince-mobile-2.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Vince-Biegel/00d5d294-3284-4294-bd67-6c0d056e55c1"
               },
            
               {
@@ -729,88 +691,52 @@
                     "lname"	: "Spriggs",
                     "teamNumber"	:  "78",
                     "position"	: "T",
-                    "experience"	:  "R",
-                    "age"	: "22",
+                    "experience"	:  "3",
+                    "age"	: "23",
                     "born"	: "05/17/94",
                     "hometown"	: "Elkhart, IN",
                     "height"	: "6-6",
                     "weight"	: "301",
                     "college"	: "Indiana",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Spriggs_Jason-1-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Spriggs_Jason-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Jason-Spriggs/e3b9090b-456a-40cb-82b1-9eab7c09a023"
               },
            
               {
-                    "id"	: "a52b27c4-0792-4dd1-be0d-2d0dcd8b69bc",
-                    "fname"	: "James",
-                    "lname"	: "Starks",
-                    "teamNumber"	:  "44",
-                    "position"	: "RB",
-                    "experience"	:  "7",
-                    "age"	: "30",
-                    "born"	: "02/25/86",
-                    "hometown"	: "Niagara Falls, NY",
+                    "id"	: "de1bb8f0-880f-4ea2-b35d-53b0c79a771b",
+                    "fname"	: "Josh",
+                    "lname"	: "Jones",
+                    "teamNumber"	:  "27",
+                    "position"	: "S",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "09/20/94",
+                    "hometown"	: "",
                     "height"	: "6-2",
-                    "weight"	: "218",
-                    "college"	: "Buffalo",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Starks_James-mobile.jpg",
+                    "weight"	: "220",
+                    "college"	: "North Carolina State",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Jones_Josh-2017-mobile.jpg",
 			
-					"moreDetailsButtonURL"	: "/team/roster/James-Starks/a52b27c4-0792-4dd1-be0d-2d0dcd8b69bc"
+					"moreDetailsButtonURL"	: "/team/roster/Josh-Jones/de1bb8f0-880f-4ea2-b35d-53b0c79a771b"
               },
            
               {
-                    "id"	: "d00ef1b7-1a79-45ca-9fa9-eb1b948e9ab7",
-                    "fname"	: "Micah",
-                    "lname"	: "Hyde",
-                    "teamNumber"	:  "33",
-                    "position"	: "DB",
-                    "experience"	:  "4",
+                    "id"	: "225ce847-b110-43ed-a9d8-8a6e508a04a9",
+                    "fname"	: "Justin",
+                    "lname"	: "McCray",
+                    "teamNumber"	:  "64",
+                    "position"	: "G",
+                    "experience"	:  "2",
                     "age"	: "25",
-                    "born"	: "12/31/90",
-                    "hometown"	: "Fostoria, OH",
-                    "height"	: "6-0",
-                    "weight"	: "197",
-                    "college"	: "Iowa",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Hyde_Micah-mobile.jpg",
+                    "born"	: "05/31/92",
+                    "hometown"	: "Miami, FL",
+                    "height"	: "6-3",
+                    "weight"	: "317",
+                    "college"	: "Central Florida",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/McCray_Justin-2017-mobile.jpg",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Micah-Hyde/d00ef1b7-1a79-45ca-9fa9-eb1b948e9ab7"
-              },
-           
-              {
-                    "id"	: "53914cde-e711-4690-be92-1041b48dd0ea",
-                    "fname"	: "Kyle",
-                    "lname"	: "Murphy",
-                    "teamNumber"	:  "68",
-                    "position"	: "T",
-                    "experience"	:  "R",
-                    "age"	: "22",
-                    "born"	: "12/11/93",
-                    "hometown"	: "San Clemente, CA",
-                    "height"	: "6-6",
-                    "weight"	: "305",
-                    "college"	: "Stanford",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Murphy_Kyle-1-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Kyle-Murphy/53914cde-e711-4690-be92-1041b48dd0ea"
-              },
-           
-              {
-                    "id"	: "85ca19b9-77a9-4116-ac4a-105aa3e64538",
-                    "fname"	: "Bryan",
-                    "lname"	: "Bulaga",
-                    "teamNumber"	:  "75",
-                    "position"	: "T",
-                    "experience"	:  "7",
-                    "age"	: "27",
-                    "born"	: "03/21/89",
-                    "hometown"	: "Woodstock, IL",
-                    "height"	: "6-5",
-                    "weight"	: "314",
-                    "college"	: "Iowa",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Bulaga_Bryan-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Bryan-Bulaga/85ca19b9-77a9-4116-ac4a-105aa3e64538"
+					"moreDetailsButtonURL"	: "/team/roster/Justin-McCray/225ce847-b110-43ed-a9d8-8a6e508a04a9"
               },
            
               {
@@ -819,8 +745,8 @@
                     "lname"	: "Davis",
                     "teamNumber"	:  "11",
                     "position"	: "WR",
-                    "experience"	:  "R",
-                    "age"	: "23",
+                    "experience"	:  "3",
+                    "age"	: "24",
                     "born"	: "07/04/93",
                     "hometown"	: "Martinez, CA",
                     "height"	: "6-1",
@@ -837,34 +763,16 @@
                     "lname"	: "Crosby",
                     "teamNumber"	:  "2",
                     "position"	: "K",
-                    "experience"	:  "10",
-                    "age"	: "32",
+                    "experience"	:  "12",
+                    "age"	: "33",
                     "born"	: "09/03/84",
                     "hometown"	: "Georgetown, TX",
                     "height"	: "6-1",
                     "weight"	: "207",
                     "college"	: "Colorado",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Crosby_Mason-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Crosby_Mason-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Mason-Crosby/6b53a68a-9804-4d7d-80a3-1f98681e8846"
-              },
-           
-              {
-                    "id"	: "4c69f318-aedc-4830-8c13-0c5e9810e5cc",
-                    "fname"	: "Don",
-                    "lname"	: "Barclay",
-                    "teamNumber"	:  "67",
-                    "position"	: "T/G",
-                    "experience"	:  "5",
-                    "age"	: "27",
-                    "born"	: "04/18/89",
-                    "hometown"	: "Harmony, PA",
-                    "height"	: "6-4",
-                    "weight"	: "305",
-                    "college"	: "West Virginia",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Barclay_Don-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Don-Barclay/4c69f318-aedc-4830-8c13-0c5e9810e5cc"
               },
            
               {
@@ -873,34 +781,34 @@
                     "lname"	: "Cobb",
                     "teamNumber"	:  "18",
                     "position"	: "WR",
-                    "experience"	:  "6",
-                    "age"	: "26",
+                    "experience"	:  "8",
+                    "age"	: "27",
                     "born"	: "08/22/90",
                     "hometown"	: "Alcoa, TN",
                     "height"	: "5-10",
                     "weight"	: "192",
                     "college"	: "Kentucky",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Cobb_Randall-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Cobb_Randall-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Randall-Cobb/73b39eef-a7a8-4155-a341-c5f02b501345"
               },
            
               {
-                    "id"	: "fe1a862d-b24a-4123-b43e-c116b59395cc",
-                    "fname"	: "Aaron",
-                    "lname"	: "Rodgers",
-                    "teamNumber"	:  "12",
-                    "position"	: "QB",
-                    "experience"	:  "12",
-                    "age"	: "32",
-                    "born"	: "12/02/83",
-                    "hometown"	: "Chico, CA",
-                    "height"	: "6-2",
-                    "weight"	: "225",
-                    "college"	: "California",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Rodgers_Aaron-mobile.jpg",
+                    "id"	: "a741848a-c7f5-4e3d-94a3-f86c0c4aeb93",
+                    "fname"	: "Davon",
+                    "lname"	: "House",
+                    "teamNumber"	:  "31",
+                    "position"	: "CB",
+                    "experience"	:  "8",
+                    "age"	: "28",
+                    "born"	: "07/10/89",
+                    "hometown"	: "",
+                    "height"	: "6-0",
+                    "weight"	: "195",
+                    "college"	: "New Mexico State",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/House_Davon-2017-mobile.jpg",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Aaron-Rodgers/fe1a862d-b24a-4123-b43e-c116b59395cc"
+					"moreDetailsButtonURL"	: "/team/roster/Davon-House/a741848a-c7f5-4e3d-94a3-f86c0c4aeb93"
               },
            
               {
@@ -909,16 +817,34 @@
                     "lname"	: "Burnett",
                     "teamNumber"	:  "42",
                     "position"	: "S",
-                    "experience"	:  "7",
-                    "age"	: "27",
+                    "experience"	:  "9",
+                    "age"	: "29",
                     "born"	: "01/13/89",
                     "hometown"	: "College Park, GA",
                     "height"	: "6-1",
                     "weight"	: "209",
                     "college"	: "Georgia Tech",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Burnett_Morgan-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Burnett_Morgan-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Morgan-Burnett/f6075ba5-5bde-4448-a5f8-26e03b0a9849"
+              },
+           
+              {
+                    "id"	: "654e17a4-d924-451a-bfe3-cf5bb4f15f75",
+                    "fname"	: "Ulrick",
+                    "lname"	: "John",
+                    "teamNumber"	:  "74",
+                    "position"	: "T",
+                    "experience"	:  "5",
+                    "age"	: "25",
+                    "born"	: "05/20/92",
+                    "hometown"	: "Columbus, GA",
+                    "height"	: "6-6",
+                    "weight"	: "309",
+                    "college"	: "Georgia State",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/John_Ulrick-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ulrick-John/654e17a4-d924-451a-bfe3-cf5bb4f15f75"
               },
            
               {
@@ -927,16 +853,52 @@
                     "lname"	: "Adams",
                     "teamNumber"	:  "17",
                     "position"	: "WR",
-                    "experience"	:  "3",
-                    "age"	: "23",
+                    "experience"	:  "5",
+                    "age"	: "25",
                     "born"	: "12/24/92",
                     "hometown"	: "Palo Alto, CA",
                     "height"	: "6-1",
                     "weight"	: "215",
                     "college"	: "Fresno State",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Adams_Davante.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Adams_Davante-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Davante-Adams/cdfcec54-5fc7-46e7-b673-8adb82ca1fe6"
+              },
+           
+              {
+                    "id"	: "ede73ecc-7a1b-4e56-a316-7fdee497302c",
+                    "fname"	: "Jermaine",
+                    "lname"	: "Whitehead",
+                    "teamNumber"	:  "35",
+                    "position"	: "S",
+                    "experience"	:  "2",
+                    "age"	: "25",
+                    "born"	: "03/12/93",
+                    "hometown"	: "Greenwood, MS",
+                    "height"	: "5-11",
+                    "weight"	: "195",
+                    "college"	: "Auburn",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Whitehead_Jermaine-1-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jermaine-Whitehead/ede73ecc-7a1b-4e56-a316-7fdee497302c"
+              },
+           
+              {
+                    "id"	: "a28a854a-a0cf-4b2d-b100-c884a43f7ff9",
+                    "fname"	: "Jamaal",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "30",
+                    "position"	: "RB",
+                    "experience"	:  "2",
+                    "age"	: "22",
+                    "born"	: "04/03/95",
+                    "hometown"	: "Rialto, CA",
+                    "height"	: "6-0",
+                    "weight"	: "213",
+                    "college"	: "Brigham Young",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Williams_Jamaal-2017-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Jamaal-Williams/a28a854a-a0cf-4b2d-b100-c884a43f7ff9"
               },
            
               {
@@ -945,8 +907,8 @@
                     "lname"	: "Perry",
                     "teamNumber"	:  "53",
                     "position"	: "LB",
-                    "experience"	:  "5",
-                    "age"	: "26",
+                    "experience"	:  "7",
+                    "age"	: "27",
                     "born"	: "04/12/90",
                     "hometown"	: "Detroit, MI",
                     "height"	: "6-3",
@@ -958,39 +920,93 @@
               },
            
               {
+                    "id"	: "f81ca6f6-82cd-4558-864c-bdc2fc1e3914",
+                    "fname"	: "Geronimo",
+                    "lname"	: "Allison",
+                    "teamNumber"	:  "81",
+                    "position"	: "WR",
+                    "experience"	:  "3",
+                    "age"	: "24",
+                    "born"	: "01/18/94",
+                    "hometown"	: "Riverview, FL",
+                    "height"	: "6-3",
+                    "weight"	: "202",
+                    "college"	: "Illinois",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Allison_Geronimo-2017-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Geronimo-Allison/f81ca6f6-82cd-4558-864c-bdc2fc1e3914"
+              },
+           
+              {
+                    "id"	: "ebe6d178-35cc-487a-832a-621359c97e7e",
+                    "fname"	: "Dillon",
+                    "lname"	: "Day",
+                    "teamNumber"	:  "54",
+                    "position"	: "C",
+                    "experience"	:  "1",
+                    "age"	: "26",
+                    "born"	: "10/17/91",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "296",
+                    "college"	: "Mississippi State",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Dillon_Day-mobile-2017.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Dillon-Day/ebe6d178-35cc-487a-832a-621359c97e7e"
+              },
+           
+              {
                     "id"	: "d904dac4-89a8-4656-a528-77d64d2a6d16",
                     "fname"	: "Jeff",
                     "lname"	: "Janis",
                     "teamNumber"	:  "83",
                     "position"	: "WR",
-                    "experience"	:  "3",
-                    "age"	: "25",
-                    "born"	: "06/09/91",
+                    "experience"	:  "5",
+                    "age"	: "26",
+                    "born"	: "06/24/91",
                     "hometown"	: "Tawas City, MI",
                     "height"	: "6-3",
                     "weight"	: "219",
                     "college"	: "Saginaw Valley State",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Janis_Jeff-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Janis_Jeff-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Jeff-Janis/d904dac4-89a8-4656-a528-77d64d2a6d16"
               },
            
               {
-                    "id"	: "fd0e3b50-35c1-44b0-9a0c-688b5640dfcb",
-                    "fname"	: "Jayrone",
-                    "lname"	: "Elliott",
-                    "teamNumber"	:  "91",
-                    "position"	: "LB",
-                    "experience"	:  "3",
+                    "id"	: "7e791219-e17a-46d2-98a9-7af6dd7844c8",
+                    "fname"	: "Lucas",
+                    "lname"	: "Patrick",
+                    "teamNumber"	:  "62",
+                    "position"	: "G",
+                    "experience"	:  "2",
                     "age"	: "24",
-                    "born"	: "11/11/91",
-                    "hometown"	: "Cleveland, OH",
+                    "born"	: "07/30/93",
+                    "hometown"	: "Brentwood, TN",
                     "height"	: "6-3",
-                    "weight"	: "255",
-                    "college"	: "Toledo",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Elliot_Jayrone-mobile.jpg",
+                    "weight"	: "313",
+                    "college"	: "Duke",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Patrick_Lucas-2017-mobile.jpg",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Jayrone-Elliott/fd0e3b50-35c1-44b0-9a0c-688b5640dfcb"
+					"moreDetailsButtonURL"	: "/team/roster/Lucas-Patrick/7e791219-e17a-46d2-98a9-7af6dd7844c8"
+              },
+           
+              {
+                    "id"	: "82786056-74d2-4d9b-9ce8-4f098ea8e4c4",
+                    "fname"	: "Corey",
+                    "lname"	: "Linsley",
+                    "teamNumber"	:  "63",
+                    "position"	: "C",
+                    "experience"	:  "5",
+                    "age"	: "26",
+                    "born"	: "07/27/91",
+                    "hometown"	: "Boardman, OH",
+                    "height"	: "6-3",
+                    "weight"	: "301",
+                    "college"	: "Ohio State",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Linsley_Corey-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Corey-Linsley/82786056-74d2-4d9b-9ce8-4f098ea8e4c4"
               },
            
               {
@@ -999,8 +1015,8 @@
                     "lname"	: "Hawkins",
                     "teamNumber"	:  "28",
                     "position"	: "CB",
-                    "experience"	:  "R",
-                    "age"	: "23",
+                    "experience"	:  "3",
+                    "age"	: "25",
                     "born"	: "01/23/93",
                     "hometown"	: "Kernersville, NC",
                     "height"	: "5-10",
@@ -1017,14 +1033,14 @@
                     "lname"	: "Martinez",
                     "teamNumber"	:  "50",
                     "position"	: "LB",
-                    "experience"	:  "R",
-                    "age"	: "22",
+                    "experience"	:  "3",
+                    "age"	: "24",
                     "born"	: "01/09/94",
                     "hometown"	: "Oro Valley, AZ",
                     "height"	: "6-2",
                     "weight"	: "237",
                     "college"	: "Stanford",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Martinez_Blake-1-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Martinez_Blake-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Blake-Martinez/17b9e61a-7ad8-4d72-8bd4-36afc6c639b5"
               },
@@ -1035,14 +1051,14 @@
                     "lname"	: "Ripkowski",
                     "teamNumber"	:  "22",
                     "position"	: "FB",
-                    "experience"	:  "2",
-                    "age"	: "23",
+                    "experience"	:  "4",
+                    "age"	: "25",
                     "born"	: "12/20/92",
                     "hometown"	: "Dayton, TX",
                     "height"	: "6-1",
                     "weight"	: "246",
                     "college"	: "Oklahoma",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Ripkowski_Aaron-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Ripkowski_Aaron-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Aaron-Ripkowski/2fb6e242-2da7-4d48-8688-0a1de0df6578"
               },
@@ -1053,14 +1069,14 @@
                     "lname"	: "Lowry",
                     "teamNumber"	:  "94",
                     "position"	: "DE",
-                    "experience"	:  "R",
-                    "age"	: "22",
+                    "experience"	:  "3",
+                    "age"	: "23",
                     "born"	: "06/09/94",
                     "hometown"	: "Rockford, IL",
                     "height"	: "6-6",
                     "weight"	: "296",
                     "college"	: "Northwestern",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Lowry_Dean-1-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Lowry_Dean-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Dean-Lowry/dc5b534f-fce7-4169-bac3-3f0133bf0772"
               },
@@ -1071,8 +1087,8 @@
                     "lname"	: "Goode",
                     "teamNumber"	:  "61",
                     "position"	: "LS",
-                    "experience"	:  "9",
-                    "age"	: "31",
+                    "experience"	:  "11",
+                    "age"	: "33",
                     "born"	: "11/02/84",
                     "hometown"	: "",
                     "height"	: "6-1",
@@ -1089,14 +1105,14 @@
                     "lname"	: "Bakhtiari",
                     "teamNumber"	:  "69",
                     "position"	: "T",
-                    "experience"	:  "4",
-                    "age"	: "24",
+                    "experience"	:  "6",
+                    "age"	: "26",
                     "born"	: "09/30/91",
                     "hometown"	: "San Mateo, CA",
                     "height"	: "6-4",
                     "weight"	: "310",
                     "college"	: "Colorado",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Bakhtiari_David-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Bakhtiari_David-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/David-Bakhtiari/32cea93b-33c5-458e-a68a-495f13db9615"
               },
@@ -1107,8 +1123,8 @@
                     "lname"	: "Clinton-Dix",
                     "teamNumber"	:  "21",
                     "position"	: "S",
-                    "experience"	:  "3",
-                    "age"	: "23",
+                    "experience"	:  "5",
+                    "age"	: "25",
                     "born"	: "12/21/92",
                     "hometown"	: "Orlando, FL",
                     "height"	: "6-1",
@@ -1125,14 +1141,14 @@
                     "lname"	: "Daniels",
                     "teamNumber"	:  "76",
                     "position"	: "DT",
-                    "experience"	:  "5",
-                    "age"	: "27",
+                    "experience"	:  "7",
+                    "age"	: "28",
                     "born"	: "05/05/89",
                     "hometown"	: "Blackwood, NJ",
                     "height"	: "6-0",
                     "weight"	: "310",
                     "college"	: "Iowa",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Daniels_Mike-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Daniels_Mike-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Mike-Daniels/021f5185-ba06-415a-a6a4-0860a519610f"
               },
@@ -1143,52 +1159,16 @@
                     "lname"	: "Rodgers",
                     "teamNumber"	:  "82",
                     "position"	: "TE",
-                    "experience"	:  "3",
-                    "age"	: "24",
+                    "experience"	:  "5",
+                    "age"	: "26",
                     "born"	: "01/22/92",
                     "hometown"	: "Shrewsbury, MA",
                     "height"	: "6-4",
                     "weight"	: "257",
                     "college"	: "California",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Rodgers_Richard-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Rodgers_Richard-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Richard-Rodgers/74a4e91e-844e-42bd-973e-39b0e4644d9c"
-              },
-           
-              {
-                    "id"	: "69bd1677-3e26-410e-8e56-f447908c709c",
-                    "fname"	: "Christian",
-                    "lname"	: "Ringo",
-                    "teamNumber"	:  "99",
-                    "position"	: "DT",
-                    "experience"	:  "1",
-                    "age"	: "24",
-                    "born"	: "03/10/92",
-                    "hometown"	: "Jackson, MS",
-                    "height"	: "6-1",
-                    "weight"	: "298",
-                    "college"	: "Louisiana-Lafayette",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Ringo_Christian-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Christian-Ringo/69bd1677-3e26-410e-8e56-f447908c709c"
-              },
-           
-              {
-                    "id"	: "87c0b23c-f5af-4d45-8eac-746e4d713fdd",
-                    "fname"	: "Kentrell",
-                    "lname"	: "Brice",
-                    "teamNumber"	:  "29",
-                    "position"	: "S",
-                    "experience"	:  "R",
-                    "age"	: "22",
-                    "born"	: "08/11/94",
-                    "hometown"	: "Ruston, LA",
-                    "height"	: "5-11",
-                    "weight"	: "200",
-                    "college"	: "Louisiana Tech",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Brice_Kentrell-1-mobile.jpg",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Kentrell-Brice/87c0b23c-f5af-4d45-8eac-746e4d713fdd"
               },
            
               {
@@ -1197,34 +1177,34 @@
                     "lname"	: "Callahan",
                     "teamNumber"	:  "6",
                     "position"	: "QB",
-                    "experience"	:  "R",
-                    "age"	: "23",
+                    "experience"	:  "3",
+                    "age"	: "24",
                     "born"	: "06/04/93",
                     "hometown"	: "Absecon, NJ",
                     "height"	: "6-1",
                     "weight"	: "216",
                     "college"	: "Wesley",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Callahan_Joe-1-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Callahan_Joe-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Joe-Callahan/a3cb5a9c-70e3-40f1-b2d7-d8385bfea198"
               },
            
               {
-                    "id"	: "e701189d-a929-4ba1-bf5a-8846237c6b20",
-                    "fname"	: "Jared",
-                    "lname"	: "Cook",
-                    "teamNumber"	:  "89",
-                    "position"	: "TE",
-                    "experience"	:  "8",
-                    "age"	: "29",
-                    "born"	: "04/07/87",
-                    "hometown"	: "Birmingham, AL",
-                    "height"	: "6-5",
-                    "weight"	: "254",
-                    "college"	: "South Carolina",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Cook_Jared-1-mobile.jpg",
+                    "id"	: "40b52f46-b80a-4c44-9b55-ac39e7858ba7",
+                    "fname"	: "Reggie",
+                    "lname"	: "Gilbert",
+                    "teamNumber"	:  "93",
+                    "position"	: "LB",
+                    "experience"	:  "1",
+                    "age"	: "25",
+                    "born"	: "04/01/93",
+                    "hometown"	: "Laveen, AZ",
+                    "height"	: "6-3",
+                    "weight"	: "261",
+                    "college"	: "Arizona",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Gilbert_Reggie-2017-mobile.jpg",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Jared-Cook/e701189d-a929-4ba1-bf5a-8846237c6b20"
+					"moreDetailsButtonURL"	: "/team/roster/Reggie-Gilbert/40b52f46-b80a-4c44-9b55-ac39e7858ba7"
               },
            
               {
@@ -1233,14 +1213,14 @@
                     "lname"	: "Clark",
                     "teamNumber"	:  "97",
                     "position"	: "DT",
-                    "experience"	:  "R",
-                    "age"	: "20",
+                    "experience"	:  "3",
+                    "age"	: "22",
                     "born"	: "10/04/95",
                     "hometown"	: "Rialto, CA",
                     "height"	: "6-3",
                     "weight"	: "314",
                     "college"	: "UCLA",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Clark_Kenny-1-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Clark_Kenny-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Kenny-Clark/cfe1f016-4d50-455e-9bbc-7064626282e0"
               },
@@ -1251,16 +1231,34 @@
                     "lname"	: "Hundley",
                     "teamNumber"	:  "7",
                     "position"	: "QB",
-                    "experience"	:  "2",
-                    "age"	: "23",
+                    "experience"	:  "4",
+                    "age"	: "24",
                     "born"	: "06/15/93",
                     "hometown"	: "Chandler, AZ",
                     "height"	: "6-3",
                     "weight"	: "226",
                     "college"	: "UCLA",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Hundley_Brett-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Hundley_Brett-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Brett-Hundley/0578118f-62ef-4d4a-9303-11d109d7ffbf"
+              },
+           
+              {
+                    "id"	: "da48d32c-0492-47b8-92d6-a0ed6e8e87e0",
+                    "fname"	: "Chris",
+                    "lname"	: "Odom",
+                    "teamNumber"	:  "98",
+                    "position"	: "LB",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "09/16/94",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "262",
+                    "college"	: "Arkansas State",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Odom_Chris-2017-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Chris-Odom/da48d32c-0492-47b8-92d6-a0ed6e8e87e0"
               },
            
               {
@@ -1269,16 +1267,34 @@
                     "lname"	: "Nelson",
                     "teamNumber"	:  "87",
                     "position"	: "WR",
-                    "experience"	:  "9",
-                    "age"	: "31",
+                    "experience"	:  "10",
+                    "age"	: "32",
                     "born"	: "05/31/85",
                     "hometown"	: "Manhattan, KS",
                     "height"	: "6-3",
                     "weight"	: "217",
                     "college"	: "Kansas State",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Nelson_Jordy-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Nelson_Jordy-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Jordy-Nelson/ba46e536-2782-4f2d-ba7b-334998fb3bbf"
+              },
+           
+              {
+                    "id"	: "127791a8-c9c4-418e-a06c-334af0b04741",
+                    "fname"	: "Ahmad",
+                    "lname"	: "Brooks",
+                    "teamNumber"	:  "55",
+                    "position"	: "LB",
+                    "experience"	:  "12",
+                    "age"	: "34",
+                    "born"	: "03/14/84",
+                    "hometown"	: "Fairfax, VA",
+                    "height"	: "6-3",
+                    "weight"	: "259",
+                    "college"	: "Virginia",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Brooks_Ahmad-mobile.jpg",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ahmad-Brooks/127791a8-c9c4-418e-a06c-334af0b04741"
               },
            
               {
@@ -1287,14 +1303,14 @@
                     "lname"	: "Matthews",
                     "teamNumber"	:  "52",
                     "position"	: "LB",
-                    "experience"	:  "8",
-                    "age"	: "30",
+                    "experience"	:  "10",
+                    "age"	: "31",
                     "born"	: "05/14/86",
                     "hometown"	: "Agoura Hills, CA",
                     "height"	: "6-3",
                     "weight"	: "255",
                     "college"	: "Southern California",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Matthews_Clay-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Matthews_Clay-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Clay-Matthews/c908095d-15b6-452b-96f9-26d9c276d819"
               },
@@ -1305,14 +1321,14 @@
                     "lname"	: "Fackrell",
                     "teamNumber"	:  "51",
                     "position"	: "LB",
-                    "experience"	:  "R",
-                    "age"	: "24",
+                    "experience"	:  "3",
+                    "age"	: "26",
                     "born"	: "11/25/91",
                     "hometown"	: "Mesa, AZ",
                     "height"	: "6-5",
                     "weight"	: "245",
                     "college"	: "Utah State",
-                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Fackrell_Kyler-1-mobile.jpg",
+                    "image"	: "http://prod.static.packers.clubs.nfl.com//assets/images/mobile-player-banners/Fackrell_Kyler-2017-mobile.jpg",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Kyler-Fackrell/fca12640-dd18-4b2c-917a-be1e55b6bab4"
               }

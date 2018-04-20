@@ -5,20 +5,17 @@ from bs4 import BeautifulSoup
 
 class DepthChartSpider(scrapy.Spider):
     # identifies the spider
-    name="depth_charts"
-    curr_team = ""
+    name = "depth_charts"
 
     def start_requests(self):
         urls = [
-            "http://www.seahawks.com/team/depth-chart"
+            "http://www.seahawks.com/team/depth-chart",
+            "http://www.dallascowboys.com/team/depth-chart",
+            "http://www.patriots.com/schedule-and-stats/depth-chart"
         ]
 
         for url in urls:
-            self.get_team_name(url)
             yield scrapy.Request(url=url, callback=self.parse)
-
-    def get_team_name(self, url):
-        self.curr_team = url.split(".")[1]
 
     def parse(self, response):
         player = Player()
@@ -40,5 +37,9 @@ class DepthChartSpider(scrapy.Spider):
             row[position] = player_names
 
         player["row"] = row
-        player["team_name"] = self.curr_team
+        player["team_name"] = get_team_name(response.request.url)
         return player
+
+
+def get_team_name(url):
+    return url.split(".")[1]

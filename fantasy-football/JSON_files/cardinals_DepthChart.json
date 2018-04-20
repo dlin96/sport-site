@@ -12,7 +12,9 @@
                             
                             "5e798db3-4421-453f-a489-c060d8eaf731",
                             
-                            "b4237f38-8384-4411-a96b-b73bd62ac1ba"
+                            "c1937a82-1db5-4778-97c8-83ef15cd644f",
+                            
+                            "944eb2e0-b5a6-407c-82d1-719fc9388643"
                             
                         ]
                         },
@@ -21,9 +23,9 @@
                         "positionID"	: "LT",
                         "players"	: [
                             
-                            "1753b777-6a5c-437b-a881-ba7d1bf36d9f",
+                            "2d9b4115-7cfc-43f6-9161-c7d80a41d4c4",
                             
-                            "ec15df43-9eb9-42b8-aa54-c87bc983942f"
+                            "b3e64d11-87e3-4880-9208-7c8b938f8e79"
                             
                         ]
                         },
@@ -32,9 +34,9 @@
                         "positionID"	: "LG",
                         "players"	: [
                             
-                            "bedbed14-2bf2-4137-bd70-9f2e8f8b00b9",
+                            "5188f77c-8a86-42ee-ba48-2647749dc001",
                             
-                            "ec15df43-9eb9-42b8-aa54-c87bc983942f"
+                            "9f219061-2e87-438c-a024-9c377927510a"
                             
                         ]
                         },
@@ -45,7 +47,9 @@
                             
                             "866088dc-4990-4faa-b661-dbaba2859ef2",
                             
-                            "9f219061-2e87-438c-a024-9c377927510a"
+                            "9f219061-2e87-438c-a024-9c377927510a",
+                            
+                            "1cb65207-54a2-415a-93d6-9f703735b226"
                             
                         ]
                         },
@@ -54,9 +58,9 @@
                         "positionID"	: "RG",
                         "players"	: [
                             
-                            "c380d2c6-3011-479c-be81-e237e09796e3",
+                            "ec15df43-9eb9-42b8-aa54-c87bc983942f",
                             
-                            "8f4a0144-1c27-46f5-8407-3fa7bfb346c1"
+                            "9f219061-2e87-438c-a024-9c377927510a"
                             
                         ]
                         },
@@ -65,9 +69,9 @@
                         "positionID"	: "RT",
                         "players"	: [
                             
-                            "6df51408-680b-4139-8761-dcb6e648c3f7",
+                            "adbd6f33-e2ce-4555-b905-bc6d97a6f648",
                             
-                            "adbd6f33-e2ce-4555-b905-bc6d97a6f648"
+                            "5f0529f2-c701-458a-ab48-4cf5e53fb9f0"
                             
                         ]
                         },
@@ -76,9 +80,9 @@
                         "positionID"	: "TE",
                         "players"	: [
                             
-                            "b1806a45-2489-4a3d-a113-3b0d5c2fdb52",
+                            "51dc2cee-bfcf-4517-ba98-f6ebbde2573e",
                             
-                            "51dc2cee-bfcf-4517-ba98-f6ebbde2573e"
+                            "5649386f-7f6b-4852-be09-7e124f1cc5db"
                             
                         ]
                         },
@@ -87,11 +91,9 @@
                         "positionID"	: "WR2",
                         "players"	: [
                             
-                            "aa1e79c8-b719-4aa1-81f9-c0c3e7343ea2",
+                            "b4237f38-8384-4411-a96b-b73bd62ac1ba",
                             
-                            "c6c64a87-5bc6-45eb-8795-50a5de9b585c",
-                            
-                            "c1937a82-1db5-4778-97c8-83ef15cd644f"
+                            "c6c64a87-5bc6-45eb-8795-50a5de9b585c"
                             
                         ]
                         },
@@ -100,9 +102,11 @@
                         "positionID"	: "QB",
                         "players"	: [
                             
-                            "77bb593a-c110-45cd-a408-0e982140af9a",
+                            "34efba6d-6b54-4c63-8d4a-5971c83a0a62",
                             
-                            "34efba6d-6b54-4c63-8d4a-5971c83a0a62"
+                            "1dca1ea6-fc73-4395-b8d3-20e4d5e4e52e",
+                            
+                            "0cf7c052-28a4-470e-8a9a-74f5ae0ff12f"
                             
                         ]
                         },
@@ -111,13 +115,13 @@
                         "positionID"	: "RB",
                         "players"	: [
                             
-                            "2df586d8-374a-4d8c-ba2b-df4a21f16c6a",
+                            "e18a69dc-8a7d-4293-97cf-8e18ed2d4e91",
                             
-                            "90662fe1-31a3-4aef-ab6a-fca2b862d7d9",
+                            "8dbbcb9a-ff62-4af5-905d-f0edf1292541",
                             
-                            "249b05f8-3949-4c6a-a8f5-4a7fd0640f8f",
+                            "320ec5ce-1de7-49e8-9e2c-549c1686c534",
                             
-                            "6d6a68f9-3450-43f8-beee-d71c2276ffa1"
+                            "a7f30cb4-afe0-4632-9d06-8ab04d894dcf"
                             
                         ]
                         },
@@ -126,7 +130,9 @@
                         "positionID"	: "TE",
                         "players"	: [
                             
-                            "54ceb6a2-c60d-45b0-bda4-cd75af22fb53"
+                            "54ceb6a2-c60d-45b0-bda4-cd75af22fb53",
+                            
+                            "d0deb255-bcbf-4f2f-b83f-c52359c2ead6"
                             
                         ]
                         }
@@ -143,24 +149,22 @@
                         "positionID"	: "DT",
                         "players"	: [
                             
-                            "e5bb8911-dd1f-444a-938d-d692169375fd",
+                            "fd081717-296c-4e38-87ff-d2df3d266590",
                             
-                            "06358c4c-0148-4ace-983a-52f182fb2ebb",
+                            "407ac2a9-8620-468c-a8c3-0727ebf22860",
                             
-                            "c403431f-000e-49a3-8f92-9d8e35297922"
+                            "9c8d9f35-082c-4b7b-a691-eb4db8152cb2"
                             
                         ]
                         },
                     
                     {
-                        "positionID"	: "NT",
+                        "positionID"	: "DT",
                         "players"	: [
                             
                             "58fc30ad-bbd3-40c0-b8a1-544c464e124f",
                             
-                            "9c8d9f35-082c-4b7b-a691-eb4db8152cb2",
-                            
-                            "407ac2a9-8620-468c-a8c3-0727ebf22860"
+                            "1ea22293-d9a1-4949-a711-baac07f7c785"
                             
                         ]
                         },
@@ -171,9 +175,7 @@
                             
                             "fe08cbf9-5347-4195-a3f8-5973384e82b3",
                             
-                            "1ea22293-d9a1-4949-a711-baac07f7c785",
-                            
-                            "fd081717-296c-4e38-87ff-d2df3d266590"
+                            "06358c4c-0148-4ace-983a-52f182fb2ebb"
                             
                         ]
                         },
@@ -184,7 +186,7 @@
                             
                             "5ff2d947-ce2e-44c3-8a1e-8a3642502c7c",
                             
-                            "76eb42ee-b9a6-4553-9c31-140392ea7e00"
+                            "7d212806-5812-459c-8702-a35d546995bc"
                             
                         ]
                         },
@@ -195,6 +197,8 @@
                             
                             "65244aac-dfd2-41db-bc0a-ac2f7c354d8e",
                             
+                            "a837ae8c-099f-4413-adf3-06fab421d3cb",
+                            
                             "9a3b62c5-b4ba-47aa-b8d3-6393a35a0b38"
                             
                         ]
@@ -204,11 +208,11 @@
                         "positionID"	: "ILB",
                         "players"	: [
                             
-                            "eb2f17f1-acac-4503-847a-decf5c1db10a",
+                            "7b773be1-38b7-4bbc-ba75-d8b6dcf103cb",
                             
-                            "9ff22000-5d58-4c8c-b846-97b749f17de3",
+                            "999ca9c3-c386-4721-bb20-24f612ed9bc8",
                             
-                            "154c813d-59a0-4ce8-bbb6-03b1bc94e183"
+                            "071019ad-aa21-430c-85ec-b219053a2d6d"
                             
                         ]
                         },
@@ -217,7 +221,7 @@
                         "positionID"	: "WLB",
                         "players"	: [
                             
-                            "018661dd-df57-49d2-9745-8548f76db8cb",
+                            "c8db0790-89cb-440b-bec3-a71bb922cede",
                             
                             "8102974b-8f6e-4158-8726-2b493bd49fcd"
                             
@@ -230,7 +234,9 @@
                             
                             "e4ed9342-7c52-415f-a3e5-6b0cd789877b",
                             
-                            "a16ed414-22de-4b66-bdef-79c7ef979963"
+                            "24425840-124f-4972-bbbf-42821571ec29",
+                            
+                            "898b0eba-bd15-478a-ab18-bb4f636f2e97"
                             
                         ]
                         },
@@ -239,7 +245,7 @@
                         "positionID"	: "RCB",
                         "players"	: [
                             
-                            "24425840-124f-4972-bbbf-42821571ec29",
+                            "0b4f32ec-6a33-4a4b-a31c-1dd89e45b4fb",
                             
                             "8e95922a-42e6-400b-b75a-e7dfd3d9e355"
                             
@@ -250,11 +256,9 @@
                         "positionID"	: "SS",
                         "players"	: [
                             
-                            "389ac68b-e39b-4aec-8eb0-d87a33650b70",
+                            "f86af200-3f39-45d6-a7c7-460a0464578f",
                             
-                            "e9e17a25-cac1-4413-8d70-3402aec6ff90",
-                            
-                            "c41efb89-1ce0-4661-96fd-67b9c03bcb04"
+                            "8d5f4c3b-c159-43a5-81a8-515de1f8a3a4"
                             
                         ]
                         },
@@ -265,7 +269,7 @@
                             
                             "c8ba0c82-e771-4dba-9251-ba9714de1764",
                             
-                            "f89491a3-3d06-4301-b701-ba318698e6b1"
+                            "8d5f4c3b-c159-43a5-81a8-515de1f8a3a4"
                             
                         ]
                         }
@@ -282,7 +286,7 @@
                         "positionID"	: "K",
                         "players"	: [
                             
-                            "2736b96b-fdb4-4416-9d87-4dd577eca6cb"
+                            "08710664-1069-4903-b12f-355664dfb053"
                             
                         ]
                         },
@@ -291,7 +295,7 @@
                         "positionID"	: "P",
                         "players"	: [
                             
-                            "dd729308-292c-4d5c-a02c-0c49e0684cd0"
+                            "7b610c31-e54d-4129-9753-28f64185d055"
                             
                         ]
                         },
@@ -300,7 +304,7 @@
                         "positionID"	: "H",
                         "players"	: [
                             
-                            "dd729308-292c-4d5c-a02c-0c49e0684cd0"
+                            "7b610c31-e54d-4129-9753-28f64185d055"
                             
                         ]
                         },
@@ -309,7 +313,7 @@
                         "positionID"	: "LS",
                         "players"	: [
                             
-                            "fcc36aac-af07-490f-ad1d-e0ccd4e8dddb"
+                            "932488a4-2dd7-4886-b60b-48e647d00591"
                             
                         ]
                         },
@@ -318,9 +322,11 @@
                         "positionID"	: "KR",
                         "players"	: [
                             
-                            "249b05f8-3949-4c6a-a8f5-4a7fd0640f8f",
+                            "320ec5ce-1de7-49e8-9e2c-549c1686c534",
                             
-                            "c1937a82-1db5-4778-97c8-83ef15cd644f"
+                            "c1937a82-1db5-4778-97c8-83ef15cd644f",
+                            
+                            "944eb2e0-b5a6-407c-82d1-719fc9388643"
                             
                         ]
                         },
@@ -329,11 +335,11 @@
                         "positionID"	: "PR",
                         "players"	: [
                             
-                            "249b05f8-3949-4c6a-a8f5-4a7fd0640f8f",
+                            "e4ed9342-7c52-415f-a3e5-6b0cd789877b",
                             
                             "c1937a82-1db5-4778-97c8-83ef15cd644f",
                             
-                            "e4ed9342-7c52-415f-a3e5-6b0cd789877b"
+                            "e18a69dc-8a7d-4293-97cf-8e18ed2d4e91"
                             
                         ]
                         }
@@ -346,39 +352,21 @@
         "players" : [
           
               {
-                    "id"	: "e5bb8911-dd1f-444a-938d-d692169375fd",
-                    "fname"	: "Calais",
-                    "lname"	: "Campbell",
-                    "teamNumber"	:  "93",
-                    "position"	: "DT",
-                    "experience"	:  "9",
-                    "age"	: "30",
-                    "born"	: "09/01/86",
+                    "id"	: "2d9b4115-7cfc-43f6-9161-c7d80a41d4c4",
+                    "fname"	: "Will",
+                    "lname"	: "Holden",
+                    "teamNumber"	:  "69",
+                    "position"	: "G",
+                    "experience"	:  "R",
+                    "age"	: "24",
+                    "born"	: "09/14/93",
                     "hometown"	: "",
-                    "height"	: "6-8",
-                    "weight"	: "300",
-                    "college"	: "Miami (Fla.)",
+                    "height"	: "6-7",
+                    "weight"	: "312",
+                    "college"	: "Vanderbilt",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Calais-Campbell/e5bb8911-dd1f-444a-938d-d692169375fd"
-              },
-           
-              {
-                    "id"	: "2736b96b-fdb4-4416-9d87-4dd577eca6cb",
-                    "fname"	: "Chandler",
-                    "lname"	: "Catanzaro",
-                    "teamNumber"	:  "7",
-                    "position"	: "K",
-                    "experience"	:  "3",
-                    "age"	: "25",
-                    "born"	: "02/26/91",
-                    "hometown"	: "",
-                    "height"	: "6-3",
-                    "weight"	: "200",
-                    "college"	: "Clemson",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Chandler-Catanzaro/2736b96b-fdb4-4416-9d87-4dd577eca6cb"
+					"moreDetailsButtonURL"	: "/team/roster/Will-Holden/2d9b4115-7cfc-43f6-9161-c7d80a41d4c4"
               },
            
               {
@@ -386,9 +374,9 @@
                     "fname"	: "Frostee",
                     "lname"	: "Rucker",
                     "teamNumber"	:  "92",
-                    "position"	: "DT",
-                    "experience"	:  "11",
-                    "age"	: "32",
+                    "position"	: "DL",
+                    "experience"	:  "12",
+                    "age"	: "34",
                     "born"	: "09/14/83",
                     "hometown"	: "",
                     "height"	: "6-3",
@@ -404,12 +392,12 @@
                     "fname"	: "Olsen",
                     "lname"	: "Pierre",
                     "teamNumber"	:  "72",
-                    "position"	: "DT",
+                    "position"	: "DL",
                     "experience"	:  "1",
-                    "age"	: "25",
+                    "age"	: "26",
                     "born"	: "08/27/91",
                     "hometown"	: "Rahway, NJ",
-                    "height"	: "6-4",
+                    "height"	: "6-5",
                     "weight"	: "293",
                     "college"	: "Miami (Fla.)",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
@@ -418,13 +406,49 @@
               },
            
               {
+                    "id"	: "e18a69dc-8a7d-4293-97cf-8e18ed2d4e91",
+                    "fname"	: "Kerwynn",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "33",
+                    "position"	: "RB",
+                    "experience"	:  "4",
+                    "age"	: "26",
+                    "born"	: "06/09/91",
+                    "hometown"	: "Las Vegas, NV",
+                    "height"	: "5-8",
+                    "weight"	: "198",
+                    "college"	: "Utah State",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Kerwynn-Williams/e18a69dc-8a7d-4293-97cf-8e18ed2d4e91"
+              },
+           
+              {
+                    "id"	: "932488a4-2dd7-4886-b60b-48e647d00591",
+                    "fname"	: "Aaron",
+                    "lname"	: "Brewer",
+                    "teamNumber"	:  "46",
+                    "position"	: "LS",
+                    "experience"	:  "6",
+                    "age"	: "27",
+                    "born"	: "07/05/90",
+                    "hometown"	: "Orange, CA",
+                    "height"	: "6-5",
+                    "weight"	: "232",
+                    "college"	: "San Diego State",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Aaron-Brewer/932488a4-2dd7-4886-b60b-48e647d00591"
+              },
+           
+              {
                     "id"	: "06358c4c-0148-4ace-983a-52f182fb2ebb",
                     "fname"	: "Robert",
                     "lname"	: "Nkemdiche",
                     "teamNumber"	:  "90",
-                    "position"	: "DT",
-                    "experience"	:  "R",
-                    "age"	: "21",
+                    "position"	: "DL",
+                    "experience"	:  "2",
+                    "age"	: "23",
                     "born"	: "09/19/94",
                     "hometown"	: "Atlanta, GA",
                     "height"	: "6-4",
@@ -436,31 +460,13 @@
               },
            
               {
-                    "id"	: "e9e17a25-cac1-4413-8d70-3402aec6ff90",
-                    "fname"	: "Tyvon",
-                    "lname"	: "Branch",
-                    "teamNumber"	:  "27",
-                    "position"	: "S",
-                    "experience"	:  "9",
-                    "age"	: "29",
-                    "born"	: "12/11/86",
-                    "hometown"	: "Syracuse, NY",
-                    "height"	: "6-0",
-                    "weight"	: "210",
-                    "college"	: "Connecticut",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Tyvon-Branch/e9e17a25-cac1-4413-8d70-3402aec6ff90"
-              },
-           
-              {
                     "id"	: "e4ed9342-7c52-415f-a3e5-6b0cd789877b",
                     "fname"	: "Patrick",
                     "lname"	: "Peterson",
                     "teamNumber"	:  "21",
                     "position"	: "CB",
-                    "experience"	:  "6",
-                    "age"	: "26",
+                    "experience"	:  "7",
+                    "age"	: "27",
                     "born"	: "07/11/90",
                     "hometown"	: "",
                     "height"	: "6-1",
@@ -477,12 +483,12 @@
                     "lname"	: "Nelson",
                     "teamNumber"	:  "14",
                     "position"	: "WR",
-                    "experience"	:  "2",
-                    "age"	: "24",
+                    "experience"	:  "3",
+                    "age"	: "25",
                     "born"	: "04/24/92",
                     "hometown"	: "Midfield, AL",
                     "height"	: "5-10",
-                    "weight"	: "156",
+                    "weight"	: "160",
                     "college"	: "UAB",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
@@ -490,93 +496,21 @@
               },
            
               {
-                    "id"	: "8f4a0144-1c27-46f5-8407-3fa7bfb346c1",
-                    "fname"	: "Cole",
-                    "lname"	: "Toner",
-                    "teamNumber"	:  "61",
-                    "position"	: "G",
-                    "experience"	:  "R",
-                    "age"	: "22",
-                    "born"	: "03/13/94",
-                    "hometown"	: "",
-                    "height"	: "6-5",
-                    "weight"	: "300",
-                    "college"	: "Harvard",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Cole-Toner/8f4a0144-1c27-46f5-8407-3fa7bfb346c1"
-              },
-           
-              {
-                    "id"	: "77bb593a-c110-45cd-a408-0e982140af9a",
-                    "fname"	: "Carson",
-                    "lname"	: "Palmer",
-                    "teamNumber"	:  "3",
-                    "position"	: "QB",
-                    "experience"	:  "14",
-                    "age"	: "36",
-                    "born"	: "12/27/79",
-                    "hometown"	: "",
-                    "height"	: "6-5",
-                    "weight"	: "235",
-                    "college"	: "USC",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Carson-Palmer/77bb593a-c110-45cd-a408-0e982140af9a"
-              },
-           
-              {
-                    "id"	: "1753b777-6a5c-437b-a881-ba7d1bf36d9f",
-                    "fname"	: "Jared",
-                    "lname"	: "Veldheer",
-                    "teamNumber"	:  "68",
-                    "position"	: "T",
-                    "experience"	:  "7",
-                    "age"	: "29",
-                    "born"	: "06/14/87",
-                    "hometown"	: "Grand Rapids, MI",
-                    "height"	: "6-8",
-                    "weight"	: "321",
-                    "college"	: "Hillsdale",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Jared-Veldheer/1753b777-6a5c-437b-a881-ba7d1bf36d9f"
-              },
-           
-              {
-                    "id"	: "6df51408-680b-4139-8761-dcb6e648c3f7",
-                    "fname"	: "D.J.",
-                    "lname"	: "Humphries",
-                    "teamNumber"	:  "74",
-                    "position"	: "T",
-                    "experience"	:  "2",
-                    "age"	: "22",
-                    "born"	: "12/28/93",
-                    "hometown"	: "Charlotte, NC",
-                    "height"	: "6-5",
-                    "weight"	: "315",
-                    "college"	: "Florida",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/D.J.-Humphries/6df51408-680b-4139-8761-dcb6e648c3f7"
-              },
-           
-              {
-                    "id"	: "f89491a3-3d06-4301-b701-ba318698e6b1",
-                    "fname"	: "D.J.",
-                    "lname"	: "Swearinger",
-                    "teamNumber"	:  "36",
+                    "id"	: "8d5f4c3b-c159-43a5-81a8-515de1f8a3a4",
+                    "fname"	: "Harlan",
+                    "lname"	: "Miller",
+                    "teamNumber"	:  "34",
                     "position"	: "S",
-                    "experience"	:  "4",
-                    "age"	: "25",
-                    "born"	: "09/01/91",
-                    "hometown"	: "",
-                    "height"	: "5-10",
-                    "weight"	: "208",
-                    "college"	: "South Carolina",
+                    "experience"	:  "1",
+                    "age"	: "23",
+                    "born"	: "06/20/94",
+                    "hometown"	: "Hammond, LA",
+                    "height"	: "6-0",
+                    "weight"	: "182",
+                    "college"	: "Southeastern Louisiana",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/D.J.-Swearinger/f89491a3-3d06-4301-b701-ba318698e6b1"
+					"moreDetailsButtonURL"	: "/team/roster/Harlan-Miller/8d5f4c3b-c159-43a5-81a8-515de1f8a3a4"
               },
            
               {
@@ -585,8 +519,8 @@
                     "lname"	: "Mathieu",
                     "teamNumber"	:  "32",
                     "position"	: "S",
-                    "experience"	:  "4",
-                    "age"	: "24",
+                    "experience"	:  "5",
+                    "age"	: "25",
                     "born"	: "05/13/92",
                     "hometown"	: "",
                     "height"	: "5-9",
@@ -598,17 +532,53 @@
               },
            
               {
+                    "id"	: "b3e64d11-87e3-4880-9208-7c8b938f8e79",
+                    "fname"	: "Khalif",
+                    "lname"	: "Barnes",
+                    "teamNumber"	:  "64",
+                    "position"	: "T",
+                    "experience"	:  "12",
+                    "age"	: "35",
+                    "born"	: "04/21/82",
+                    "hometown"	: "San Diego, CA",
+                    "height"	: "6-6",
+                    "weight"	: "320",
+                    "college"	: "Washington",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Khalif-Barnes/b3e64d11-87e3-4880-9208-7c8b938f8e79"
+              },
+           
+              {
+                    "id"	: "320ec5ce-1de7-49e8-9e2c-549c1686c534",
+                    "fname"	: "D.J.",
+                    "lname"	: "Foster",
+                    "teamNumber"	:  "37",
+                    "position"	: "RB",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "11/22/93",
+                    "hometown"	: "Scottsdale, AZ",
+                    "height"	: "6-0",
+                    "weight"	: "195",
+                    "college"	: "Arizona State",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/D.J.-Foster/320ec5ce-1de7-49e8-9e2c-549c1686c534"
+              },
+           
+              {
                     "id"	: "65244aac-dfd2-41db-bc0a-ac2f7c354d8e",
                     "fname"	: "Deone",
                     "lname"	: "Bucannon",
                     "teamNumber"	:  "20",
                     "position"	: "$LB",
-                    "experience"	:  "3",
-                    "age"	: "24",
+                    "experience"	:  "4",
+                    "age"	: "25",
                     "born"	: "08/30/92",
                     "hometown"	: "Oakland, CA",
                     "height"	: "6-1",
-                    "weight"	: "220",
+                    "weight"	: "211",
                     "college"	: "Washington State",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
@@ -616,39 +586,75 @@
               },
            
               {
-                    "id"	: "389ac68b-e39b-4aec-8eb0-d87a33650b70",
-                    "fname"	: "Tony",
-                    "lname"	: "Jefferson",
-                    "teamNumber"	:  "22",
-                    "position"	: "S",
-                    "experience"	:  "4",
-                    "age"	: "24",
-                    "born"	: "01/27/92",
-                    "hometown"	: "",
-                    "height"	: "5-11",
-                    "weight"	: "212",
-                    "college"	: "Oklahoma",
+                    "id"	: "c8db0790-89cb-440b-bec3-a71bb922cede",
+                    "fname"	: "Haason",
+                    "lname"	: "Reddick",
+                    "teamNumber"	:  "43",
+                    "position"	: "ILB",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "09/22/94",
+                    "hometown"	: "Camden, NJ",
+                    "height"	: "6-1",
+                    "weight"	: "235",
+                    "college"	: "Temple",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Tony-Jefferson/389ac68b-e39b-4aec-8eb0-d87a33650b70"
+					"moreDetailsButtonURL"	: "/team/roster/Haason-Reddick/c8db0790-89cb-440b-bec3-a71bb922cede"
               },
            
               {
-                    "id"	: "aa1e79c8-b719-4aa1-81f9-c0c3e7343ea2",
-                    "fname"	: "Michael",
-                    "lname"	: "Floyd",
-                    "teamNumber"	:  "15",
-                    "position"	: "WR",
-                    "experience"	:  "5",
-                    "age"	: "26",
-                    "born"	: "11/27/89",
-                    "hometown"	: "",
-                    "height"	: "6-3",
-                    "weight"	: "225",
-                    "college"	: "Notre Dame",
+                    "id"	: "a7f30cb4-afe0-4632-9d06-8ab04d894dcf",
+                    "fname"	: "Bronson",
+                    "lname"	: "Hill",
+                    "teamNumber"	:  "48",
+                    "position"	: "RB",
+                    "experience"	:  "1",
+                    "age"	: "25",
+                    "born"	: "01/02/93",
+                    "hometown"	: "Grand Rapids, MI",
+                    "height"	: "5-10",
+                    "weight"	: "215",
+                    "college"	: "Eastern Michigan",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Michael-Floyd/aa1e79c8-b719-4aa1-81f9-c0c3e7343ea2"
+					"moreDetailsButtonURL"	: "/team/roster/Bronson-Hill/a7f30cb4-afe0-4632-9d06-8ab04d894dcf"
+              },
+           
+              {
+                    "id"	: "5188f77c-8a86-42ee-ba48-2647749dc001",
+                    "fname"	: "Alex",
+                    "lname"	: "Boone",
+                    "teamNumber"	:  "75",
+                    "position"	: "G",
+                    "experience"	:  "8",
+                    "age"	: "30",
+                    "born"	: "05/04/87",
+                    "hometown"	: "Lakewood, OH",
+                    "height"	: "6-8",
+                    "weight"	: "310",
+                    "college"	: "Ohio State",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Alex-Boone/5188f77c-8a86-42ee-ba48-2647749dc001"
+              },
+           
+              {
+                    "id"	: "7b773be1-38b7-4bbc-ba75-d8b6dcf103cb",
+                    "fname"	: "Karlos",
+                    "lname"	: "Dansby",
+                    "teamNumber"	:  "56",
+                    "position"	: "ILB",
+                    "experience"	:  "14",
+                    "age"	: "36",
+                    "born"	: "11/03/81",
+                    "hometown"	: "",
+                    "height"	: "6-4",
+                    "weight"	: "250",
+                    "college"	: "Auburn",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Karlos-Dansby/7b773be1-38b7-4bbc-ba75-d8b6dcf103cb"
               },
            
               {
@@ -656,9 +662,9 @@
                     "fname"	: "Rodney",
                     "lname"	: "Gunter",
                     "teamNumber"	:  "95",
-                    "position"	: "DT",
-                    "experience"	:  "2",
-                    "age"	: "24",
+                    "position"	: "DL",
+                    "experience"	:  "3",
+                    "age"	: "26",
                     "born"	: "01/19/92",
                     "hometown"	: "Lake Hamilton, FL",
                     "height"	: "6-5",
@@ -670,75 +676,21 @@
               },
            
               {
-                    "id"	: "bedbed14-2bf2-4137-bd70-9f2e8f8b00b9",
-                    "fname"	: "Mike",
-                    "lname"	: "Iupati",
-                    "teamNumber"	:  "76",
-                    "position"	: "G",
-                    "experience"	:  "7",
-                    "age"	: "29",
-                    "born"	: "05/12/87",
-                    "hometown"	: "",
-                    "height"	: "6-5",
-                    "weight"	: "331",
-                    "college"	: "Idaho",
+                    "id"	: "898b0eba-bd15-478a-ab18-bb4f636f2e97",
+                    "fname"	: "C.J.",
+                    "lname"	: "Goodwin",
+                    "teamNumber"	:  "42",
+                    "position"	: "CB",
+                    "experience"	:  "2",
+                    "age"	: "28",
+                    "born"	: "02/04/90",
+                    "hometown"	: "Wheeling, WV",
+                    "height"	: "6-4",
+                    "weight"	: "220",
+                    "college"	: "California (PA)",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Mike-Iupati/bedbed14-2bf2-4137-bd70-9f2e8f8b00b9"
-              },
-           
-              {
-                    "id"	: "c403431f-000e-49a3-8f92-9d8e35297922",
-                    "fname"	: "Ed",
-                    "lname"	: "Stinson",
-                    "teamNumber"	:  "91",
-                    "position"	: "DT",
-                    "experience"	:  "3",
-                    "age"	: "26",
-                    "born"	: "02/15/90",
-                    "hometown"	: "",
-                    "height"	: "6-3",
-                    "weight"	: "287",
-                    "college"	: "Alabama",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Ed-Stinson/c403431f-000e-49a3-8f92-9d8e35297922"
-              },
-           
-              {
-                    "id"	: "c380d2c6-3011-479c-be81-e237e09796e3",
-                    "fname"	: "Evan",
-                    "lname"	: "Mathis",
-                    "teamNumber"	:  "69",
-                    "position"	: "G",
-                    "experience"	:  "12",
-                    "age"	: "34",
-                    "born"	: "11/01/81",
-                    "hometown"	: "Birmingham, AL",
-                    "height"	: "6-5",
-                    "weight"	: "301",
-                    "college"	: "Alabama",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Evan-Mathis/c380d2c6-3011-479c-be81-e237e09796e3"
-              },
-           
-              {
-                    "id"	: "dd729308-292c-4d5c-a02c-0c49e0684cd0",
-                    "fname"	: "Drew",
-                    "lname"	: "Butler",
-                    "teamNumber"	:  "2",
-                    "position"	: "P",
-                    "experience"	:  "4",
-                    "age"	: "27",
-                    "born"	: "05/10/89",
-                    "hometown"	: "Duluth, GA",
-                    "height"	: "6-1",
-                    "weight"	: "217",
-                    "college"	: "Georgia",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Drew-Butler/dd729308-292c-4d5c-a02c-0c49e0684cd0"
+					"moreDetailsButtonURL"	: "/team/roster/C.J.-Goodwin/898b0eba-bd15-478a-ab18-bb4f636f2e97"
               },
            
               {
@@ -746,9 +698,9 @@
                     "fname"	: "Corey",
                     "lname"	: "Peters",
                     "teamNumber"	:  "98",
-                    "position"	: "DT",
-                    "experience"	:  "7",
-                    "age"	: "28",
+                    "position"	: "DL",
+                    "experience"	:  "8",
+                    "age"	: "29",
                     "born"	: "06/08/88",
                     "hometown"	: "Pittsburgh, PA",
                     "height"	: "6-3",
@@ -760,31 +712,13 @@
               },
            
               {
-                    "id"	: "c41efb89-1ce0-4661-96fd-67b9c03bcb04",
-                    "fname"	: "Marqui",
-                    "lname"	: "Christian",
-                    "teamNumber"	:  "25",
-                    "position"	: "S",
-                    "experience"	:  "R",
-                    "age"	: "21",
-                    "born"	: "10/27/94",
-                    "hometown"	: "",
-                    "height"	: "5-11",
-                    "weight"	: "196",
-                    "college"	: "Midwestern St.",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Marqui-Christian/c41efb89-1ce0-4661-96fd-67b9c03bcb04"
-              },
-           
-              {
                     "id"	: "c6c64a87-5bc6-45eb-8795-50a5de9b585c",
                     "fname"	: "John",
                     "lname"	: "Brown",
                     "teamNumber"	:  "12",
                     "position"	: "WR",
-                    "experience"	:  "3",
-                    "age"	: "26",
+                    "experience"	:  "4",
+                    "age"	: "27",
                     "born"	: "04/03/90",
                     "hometown"	: "",
                     "height"	: "5-11",
@@ -800,9 +734,9 @@
                     "fname"	: "Evan",
                     "lname"	: "Boehm",
                     "teamNumber"	:  "70",
-                    "position"	: "C",
-                    "experience"	:  "R",
-                    "age"	: "23",
+                    "position"	: "C/G",
+                    "experience"	:  "2",
+                    "age"	: "24",
                     "born"	: "08/19/93",
                     "hometown"	: "",
                     "height"	: "6-3",
@@ -819,8 +753,8 @@
                     "lname"	: "Wetzel",
                     "teamNumber"	:  "73",
                     "position"	: "T",
-                    "experience"	:  "1",
-                    "age"	: "25",
+                    "experience"	:  "2",
+                    "age"	: "26",
                     "born"	: "07/18/91",
                     "hometown"	: "",
                     "height"	: "6-7",
@@ -832,21 +766,39 @@
               },
            
               {
-                    "id"	: "b1806a45-2489-4a3d-a113-3b0d5c2fdb52",
-                    "fname"	: "Darren",
-                    "lname"	: "Fells",
-                    "teamNumber"	:  "85",
-                    "position"	: "TE",
-                    "experience"	:  "3",
-                    "age"	: "30",
-                    "born"	: "04/22/86",
-                    "hometown"	: "",
-                    "height"	: "6-7",
-                    "weight"	: "281",
-                    "college"	: "California-Irvine",
+                    "id"	: "7d212806-5812-459c-8702-a35d546995bc",
+                    "fname"	: "Bryson",
+                    "lname"	: "Albright",
+                    "teamNumber"	:  "54",
+                    "position"	: "OLB",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "03/15/94",
+                    "hometown"	: "Cincinnati, OH",
+                    "height"	: "6-5",
+                    "weight"	: "235",
+                    "college"	: "Miami (Ohio)",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Darren-Fells/b1806a45-2489-4a3d-a113-3b0d5c2fdb52"
+					"moreDetailsButtonURL"	: "/team/roster/Bryson-Albright/7d212806-5812-459c-8702-a35d546995bc"
+              },
+           
+              {
+                    "id"	: "7b610c31-e54d-4129-9753-28f64185d055",
+                    "fname"	: "Andy",
+                    "lname"	: "Lee",
+                    "teamNumber"	:  "2",
+                    "position"	: "P",
+                    "experience"	:  "14",
+                    "age"	: "35",
+                    "born"	: "08/11/82",
+                    "hometown"	: "Westminster, SC",
+                    "height"	: "6-1",
+                    "weight"	: "185",
+                    "college"	: "Pittsburgh",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Andy-Lee/7b610c31-e54d-4129-9753-28f64185d055"
               },
            
               {
@@ -855,8 +807,8 @@
                     "lname"	: "Gresham",
                     "teamNumber"	:  "84",
                     "position"	: "TE",
-                    "experience"	:  "7",
-                    "age"	: "28",
+                    "experience"	:  "8",
+                    "age"	: "29",
                     "born"	: "06/16/88",
                     "hometown"	: "Ardmore, OK",
                     "height"	: "6-5",
@@ -868,31 +820,13 @@
               },
            
               {
-                    "id"	: "90662fe1-31a3-4aef-ab6a-fca2b862d7d9",
-                    "fname"	: "Chris",
-                    "lname"	: "Johnson",
-                    "teamNumber"	:  "23",
-                    "position"	: "RB",
-                    "experience"	:  "9",
-                    "age"	: "30",
-                    "born"	: "09/23/85",
-                    "hometown"	: "Orlando, FL",
-                    "height"	: "5-11",
-                    "weight"	: "203",
-                    "college"	: "East Carolina",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Chris-Johnson/90662fe1-31a3-4aef-ab6a-fca2b862d7d9"
-              },
-           
-              {
                     "id"	: "34efba6d-6b54-4c63-8d4a-5971c83a0a62",
                     "fname"	: "Drew",
                     "lname"	: "Stanton",
                     "teamNumber"	:  "5",
                     "position"	: "QB",
                     "experience"	:  "10",
-                    "age"	: "32",
+                    "age"	: "33",
                     "born"	: "05/07/84",
                     "hometown"	: "",
                     "height"	: "6-3",
@@ -904,39 +838,39 @@
               },
            
               {
-                    "id"	: "76eb42ee-b9a6-4553-9c31-140392ea7e00",
-                    "fname"	: "Alex",
-                    "lname"	: "Okafor",
-                    "teamNumber"	:  "57",
-                    "position"	: "OLB",
-                    "experience"	:  "4",
-                    "age"	: "25",
-                    "born"	: "02/08/91",
+                    "id"	: "944eb2e0-b5a6-407c-82d1-719fc9388643",
+                    "fname"	: "Chad",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "16",
+                    "position"	: "WR",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "10/19/94",
                     "hometown"	: "",
-                    "height"	: "6-4",
-                    "weight"	: "260",
-                    "college"	: "Texas",
+                    "height"	: "6-1",
+                    "weight"	: "204",
+                    "college"	: "Grambling State",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Alex-Okafor/76eb42ee-b9a6-4553-9c31-140392ea7e00"
+					"moreDetailsButtonURL"	: "/team/roster/Chad-Williams/944eb2e0-b5a6-407c-82d1-719fc9388643"
               },
            
               {
-                    "id"	: "018661dd-df57-49d2-9745-8548f76db8cb",
-                    "fname"	: "Markus",
-                    "lname"	: "Golden",
-                    "teamNumber"	:  "44",
-                    "position"	: "OLB",
-                    "experience"	:  "2",
-                    "age"	: "25",
-                    "born"	: "03/13/91",
+                    "id"	: "d0deb255-bcbf-4f2f-b83f-c52359c2ead6",
+                    "fname"	: "Gabe",
+                    "lname"	: "Holmes",
+                    "teamNumber"	:  "85",
+                    "position"	: "TE",
+                    "experience"	:  "3",
+                    "age"	: "27",
+                    "born"	: "03/29/91",
                     "hometown"	: "",
-                    "height"	: "6-2",
-                    "weight"	: "260",
-                    "college"	: "Missouri",
+                    "height"	: "6-5",
+                    "weight"	: "255",
+                    "college"	: "Purdue",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Markus-Golden/018661dd-df57-49d2-9745-8548f76db8cb"
+					"moreDetailsButtonURL"	: "/team/roster/Gabe-Holmes/d0deb255-bcbf-4f2f-b83f-c52359c2ead6"
               },
            
               {
@@ -945,8 +879,8 @@
                     "lname"	: "Brown",
                     "teamNumber"	:  "13",
                     "position"	: "WR",
-                    "experience"	:  "4",
-                    "age"	: "26",
+                    "experience"	:  "5",
+                    "age"	: "28",
                     "born"	: "01/08/90",
                     "hometown"	: "",
                     "height"	: "6-2",
@@ -958,39 +892,57 @@
               },
            
               {
-                    "id"	: "2df586d8-374a-4d8c-ba2b-df4a21f16c6a",
-                    "fname"	: "David",
-                    "lname"	: "Johnson",
-                    "teamNumber"	:  "31",
-                    "position"	: "RB",
-                    "experience"	:  "2",
-                    "age"	: "24",
-                    "born"	: "12/16/91",
-                    "hometown"	: "",
-                    "height"	: "6-1",
-                    "weight"	: "224",
-                    "college"	: "Northern Iowa",
+                    "id"	: "08710664-1069-4903-b12f-355664dfb053",
+                    "fname"	: "Phil",
+                    "lname"	: "Dawson",
+                    "teamNumber"	:  "4",
+                    "position"	: "K",
+                    "experience"	:  "18",
+                    "age"	: "43",
+                    "born"	: "01/23/75",
+                    "hometown"	: "West Palm Beach, FL",
+                    "height"	: "5-11",
+                    "weight"	: "200",
+                    "college"	: "Texas",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/David-Johnson/2df586d8-374a-4d8c-ba2b-df4a21f16c6a"
+					"moreDetailsButtonURL"	: "/team/roster/Phil-Dawson/08710664-1069-4903-b12f-355664dfb053"
               },
            
               {
-                    "id"	: "a16ed414-22de-4b66-bdef-79c7ef979963",
-                    "fname"	: "Marcus",
-                    "lname"	: "Cooper",
-                    "teamNumber"	:  "41",
-                    "position"	: "CB",
-                    "experience"	:  "4",
-                    "age"	: "26",
-                    "born"	: "02/01/90",
-                    "hometown"	: "",
-                    "height"	: "6-2",
-                    "weight"	: "192",
-                    "college"	: "Rutgers",
+                    "id"	: "1cb65207-54a2-415a-93d6-9f703735b226",
+                    "fname"	: "Max",
+                    "lname"	: "Tuerk",
+                    "teamNumber"	:  "79",
+                    "position"	: "C",
+                    "experience"	:  "2",
+                    "age"	: "24",
+                    "born"	: "01/27/94",
+                    "hometown"	: "Trabuco Canyon, CA",
+                    "height"	: "6-5",
+                    "weight"	: "298",
+                    "college"	: "USC",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Marcus-Cooper/a16ed414-22de-4b66-bdef-79c7ef979963"
+					"moreDetailsButtonURL"	: "/team/roster/Max-Tuerk/1cb65207-54a2-415a-93d6-9f703735b226"
+              },
+           
+              {
+                    "id"	: "8dbbcb9a-ff62-4af5-905d-f0edf1292541",
+                    "fname"	: "Elijhaa",
+                    "lname"	: "Penny",
+                    "teamNumber"	:  "35",
+                    "position"	: "RB",
+                    "experience"	:  "1",
+                    "age"	: "24",
+                    "born"	: "08/17/93",
+                    "hometown"	: "Los Angeles, CA",
+                    "height"	: "6-2",
+                    "weight"	: "234",
+                    "college"	: "Idaho",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Elijhaa-Penny/8dbbcb9a-ff62-4af5-905d-f0edf1292541"
               },
            
               {
@@ -999,8 +951,8 @@
                     "lname"	: "Williams",
                     "teamNumber"	:  "26",
                     "position"	: "CB",
-                    "experience"	:  "R",
-                    "age"	: "24",
+                    "experience"	:  "2",
+                    "age"	: "25",
                     "born"	: "09/09/92",
                     "hometown"	: "Houston, TX",
                     "height"	: "6-0",
@@ -1016,9 +968,9 @@
                     "fname"	: "Josh",
                     "lname"	: "Mauro",
                     "teamNumber"	:  "97",
-                    "position"	: "DT",
-                    "experience"	:  "3",
-                    "age"	: "25",
+                    "position"	: "DL",
+                    "experience"	:  "4",
+                    "age"	: "27",
                     "born"	: "02/17/91",
                     "hometown"	: "",
                     "height"	: "6-6",
@@ -1030,39 +982,21 @@
               },
            
               {
-                    "id"	: "fcc36aac-af07-490f-ad1d-e0ccd4e8dddb",
-                    "fname"	: "Kameron",
-                    "lname"	: "Canaday",
-                    "teamNumber"	:  "86",
-                    "position"	: "LS",
-                    "experience"	:  "R",
-                    "age"	: "23",
-                    "born"	: "08/20/93",
-                    "hometown"	: "",
-                    "height"	: "6-4",
-                    "weight"	: "245",
-                    "college"	: "Portland State",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Kameron-Canaday/fcc36aac-af07-490f-ad1d-e0ccd4e8dddb"
-              },
-           
-              {
-                    "id"	: "9ff22000-5d58-4c8c-b846-97b749f17de3",
-                    "fname"	: "Alani",
-                    "lname"	: "Fua",
-                    "teamNumber"	:  "59",
+                    "id"	: "071019ad-aa21-430c-85ec-b219053a2d6d",
+                    "fname"	: "Edmond",
+                    "lname"	: "Robinson",
+                    "teamNumber"	:  "49",
                     "position"	: "ILB",
-                    "experience"	:  "2",
-                    "age"	: "24",
-                    "born"	: "01/01/92",
-                    "hometown"	: "San Fernando, CA",
-                    "height"	: "6-5",
-                    "weight"	: "234",
-                    "college"	: "BYU",
+                    "experience"	:  "3",
+                    "age"	: "26",
+                    "born"	: "02/23/92",
+                    "hometown"	: "St. John's Island, SC",
+                    "height"	: "6-3",
+                    "weight"	: "245",
+                    "college"	: "Newberry",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Alani-Fua/9ff22000-5d58-4c8c-b846-97b749f17de3"
+					"moreDetailsButtonURL"	: "/team/roster/Edmond-Robinson/071019ad-aa21-430c-85ec-b219053a2d6d"
               },
            
               {
@@ -1071,8 +1005,8 @@
                     "lname"	: "Jones",
                     "teamNumber"	:  "55",
                     "position"	: "OLB",
-                    "experience"	:  "5",
-                    "age"	: "26",
+                    "experience"	:  "6",
+                    "age"	: "28",
                     "born"	: "02/27/90",
                     "hometown"	: "Rochester, NY",
                     "height"	: "6-5",
@@ -1089,12 +1023,12 @@
                     "lname"	: "Bethel",
                     "teamNumber"	:  "28",
                     "position"	: "CB",
-                    "experience"	:  "5",
-                    "age"	: "26",
+                    "experience"	:  "6",
+                    "age"	: "27",
                     "born"	: "06/17/90",
                     "hometown"	: "",
                     "height"	: "6-0",
-                    "weight"	: "190",
+                    "weight"	: "200",
                     "college"	: "Presbyterian",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
@@ -1102,57 +1036,39 @@
               },
            
               {
-                    "id"	: "154c813d-59a0-4ce8-bbb6-03b1bc94e183",
-                    "fname"	: "Lamar",
-                    "lname"	: "Louis",
-                    "teamNumber"	:  "52",
+                    "id"	: "1dca1ea6-fc73-4395-b8d3-20e4d5e4e52e",
+                    "fname"	: "Blaine",
+                    "lname"	: "Gabbert",
+                    "teamNumber"	:  "7",
+                    "position"	: "QB",
+                    "experience"	:  "7",
+                    "age"	: "28",
+                    "born"	: "10/15/89",
+                    "hometown"	: "Chesterfield, MO",
+                    "height"	: "6-4",
+                    "weight"	: "235",
+                    "college"	: "Missouri",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Blaine-Gabbert/1dca1ea6-fc73-4395-b8d3-20e4d5e4e52e"
+              },
+           
+              {
+                    "id"	: "a837ae8c-099f-4413-adf3-06fab421d3cb",
+                    "fname"	: "Scooby",
+                    "lname"	: "Wright",
+                    "teamNumber"	:  "58",
                     "position"	: "ILB",
-                    "experience"	:  "R",
-                    "age"	: "22",
-                    "born"	: "10/02/93",
-                    "hometown"	: "",
+                    "experience"	:  "2",
+                    "age"	: "23",
+                    "born"	: "08/28/94",
+                    "hometown"	: "Windsor, CA",
                     "height"	: "6-0",
-                    "weight"	: "231",
-                    "college"	: "LSU",
+                    "weight"	: "240",
+                    "college"	: "Arizona",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Lamar-Louis/154c813d-59a0-4ce8-bbb6-03b1bc94e183"
-              },
-           
-              {
-                    "id"	: "eb2f17f1-acac-4503-847a-decf5c1db10a",
-                    "fname"	: "Kevin",
-                    "lname"	: "Minter",
-                    "teamNumber"	:  "51",
-                    "position"	: "ILB",
-                    "experience"	:  "4",
-                    "age"	: "25",
-                    "born"	: "12/03/90",
-                    "hometown"	: "",
-                    "height"	: "6-1",
-                    "weight"	: "245",
-                    "college"	: "LSU",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Kevin-Minter/eb2f17f1-acac-4503-847a-decf5c1db10a"
-              },
-           
-              {
-                    "id"	: "249b05f8-3949-4c6a-a8f5-4a7fd0640f8f",
-                    "fname"	: "Andre",
-                    "lname"	: "Ellington",
-                    "teamNumber"	:  "38",
-                    "position"	: "RB",
-                    "experience"	:  "4",
-                    "age"	: "27",
-                    "born"	: "02/03/89",
-                    "hometown"	: "",
-                    "height"	: "5-9",
-                    "weight"	: "199",
-                    "college"	: "Clemson",
-                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
-			
-					"moreDetailsButtonURL"	: "/team/roster/Andre-Ellington/249b05f8-3949-4c6a-a8f5-4a7fd0640f8f"
+					"moreDetailsButtonURL"	: "/team/roster/Scooby-Wright/a837ae8c-099f-4413-adf3-06fab421d3cb"
               },
            
               {
@@ -1161,8 +1077,8 @@
                     "lname"	: "Martin",
                     "teamNumber"	:  "96",
                     "position"	: "OLB",
-                    "experience"	:  "3",
-                    "age"	: "24",
+                    "experience"	:  "4",
+                    "age"	: "26",
                     "born"	: "02/19/92",
                     "hometown"	: "Roanoke Rapids, NC",
                     "height"	: "6-6",
@@ -1174,13 +1090,31 @@
               },
            
               {
+                    "id"	: "5649386f-7f6b-4852-be09-7e124f1cc5db",
+                    "fname"	: "Ricky",
+                    "lname"	: "Seals-Jones",
+                    "teamNumber"	:  "86",
+                    "position"	: "TE",
+                    "experience"	:  "R",
+                    "age"	: "23",
+                    "born"	: "03/15/95",
+                    "hometown"	: "Sealy, TX",
+                    "height"	: "6-5",
+                    "weight"	: "243",
+                    "college"	: "Texas A&M",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Ricky-Seals-Jones/5649386f-7f6b-4852-be09-7e124f1cc5db"
+              },
+           
+              {
                     "id"	: "9a3b62c5-b4ba-47aa-b8d3-6393a35a0b38",
                     "fname"	: "Gabe",
                     "lname"	: "Martin",
                     "teamNumber"	:  "50",
                     "position"	: "ILB",
-                    "experience"	:  "1",
-                    "age"	: "24",
+                    "experience"	:  "2",
+                    "age"	: "25",
                     "born"	: "06/05/92",
                     "hometown"	: "",
                     "height"	: "6-2",
@@ -1197,8 +1131,8 @@
                     "lname"	: "Shipley",
                     "teamNumber"	:  "53",
                     "position"	: "C",
-                    "experience"	:  "5",
-                    "age"	: "30",
+                    "experience"	:  "6",
+                    "age"	: "31",
                     "born"	: "05/22/86",
                     "hometown"	: "Beaver Co., PA",
                     "height"	: "6-1",
@@ -1215,8 +1149,8 @@
                     "lname"	: "Niklas",
                     "teamNumber"	:  "87",
                     "position"	: "TE",
-                    "experience"	:  "3",
-                    "age"	: "23",
+                    "experience"	:  "4",
+                    "age"	: "25",
                     "born"	: "09/18/92",
                     "hometown"	: "Fullerton, CA",
                     "height"	: "6-6",
@@ -1228,21 +1162,57 @@
               },
            
               {
-                    "id"	: "6d6a68f9-3450-43f8-beee-d71c2276ffa1",
-                    "fname"	: "Stepfan",
-                    "lname"	: "Taylor",
-                    "teamNumber"	:  "30",
-                    "position"	: "RB",
+                    "id"	: "0cf7c052-28a4-470e-8a9a-74f5ae0ff12f",
+                    "fname"	: "Matt",
+                    "lname"	: "Barkley",
+                    "teamNumber"	:  "9",
+                    "position"	: "QB",
                     "experience"	:  "4",
-                    "age"	: "25",
-                    "born"	: "06/09/91",
-                    "hometown"	: "",
-                    "height"	: "5-9",
-                    "weight"	: "214",
-                    "college"	: "Stanford",
+                    "age"	: "27",
+                    "born"	: "09/08/90",
+                    "hometown"	: "Newport Beach, CA",
+                    "height"	: "6-2",
+                    "weight"	: "227",
+                    "college"	: "USC",
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
-					"moreDetailsButtonURL"	: "/team/roster/Stepfan-Taylor/6d6a68f9-3450-43f8-beee-d71c2276ffa1"
+					"moreDetailsButtonURL"	: "/team/roster/Matt-Barkley/0cf7c052-28a4-470e-8a9a-74f5ae0ff12f"
+              },
+           
+              {
+                    "id"	: "999ca9c3-c386-4721-bb20-24f612ed9bc8",
+                    "fname"	: "Josh",
+                    "lname"	: "Bynes",
+                    "teamNumber"	:  "57",
+                    "position"	: "ILB",
+                    "experience"	:  "5",
+                    "age"	: "28",
+                    "born"	: "08/24/89",
+                    "hometown"	: "Pompano Beach, FL",
+                    "height"	: "6-1",
+                    "weight"	: "235",
+                    "college"	: "Auburn",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Josh-Bynes/999ca9c3-c386-4721-bb20-24f612ed9bc8"
+              },
+           
+              {
+                    "id"	: "5f0529f2-c701-458a-ab48-4cf5e53fb9f0",
+                    "fname"	: "Vinston",
+                    "lname"	: "Painter",
+                    "teamNumber"	:  "78",
+                    "position"	: "T",
+                    "experience"	:  "3",
+                    "age"	: "28",
+                    "born"	: "10/11/89",
+                    "hometown"	: "Norfolk, VA",
+                    "height"	: "6-4",
+                    "weight"	: "318",
+                    "college"	: "Virginia Tech",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Vinston-Painter/5f0529f2-c701-458a-ab48-4cf5e53fb9f0"
               },
            
               {
@@ -1250,9 +1220,9 @@
                     "fname"	: "Xavier",
                     "lname"	: "Williams",
                     "teamNumber"	:  "94",
-                    "position"	: "DT",
-                    "experience"	:  "2",
-                    "age"	: "24",
+                    "position"	: "DL",
+                    "experience"	:  "3",
+                    "age"	: "26",
                     "born"	: "01/18/92",
                     "hometown"	: "",
                     "height"	: "6-2",
@@ -1269,8 +1239,8 @@
                     "lname"	: "Fitzgerald",
                     "teamNumber"	:  "11",
                     "position"	: "WR",
-                    "experience"	:  "13",
-                    "age"	: "33",
+                    "experience"	:  "14",
+                    "age"	: "34",
                     "born"	: "08/31/83",
                     "hometown"	: "",
                     "height"	: "6-3",
@@ -1285,10 +1255,10 @@
                     "id"	: "ec15df43-9eb9-42b8-aa54-c87bc983942f",
                     "fname"	: "Earl",
                     "lname"	: "Watford",
-                    "teamNumber"	:  "78",
+                    "teamNumber"	:  "71",
                     "position"	: "G",
-                    "experience"	:  "4",
-                    "age"	: "26",
+                    "experience"	:  "5",
+                    "age"	: "28",
                     "born"	: "01/01/90",
                     "hometown"	: "",
                     "height"	: "6-4",
@@ -1297,6 +1267,42 @@
                     "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
 			
 					"moreDetailsButtonURL"	: "/team/roster/Earl-Watford/ec15df43-9eb9-42b8-aa54-c87bc983942f"
+              },
+           
+              {
+                    "id"	: "0b4f32ec-6a33-4a4b-a31c-1dd89e45b4fb",
+                    "fname"	: "Tramon",
+                    "lname"	: "Williams",
+                    "teamNumber"	:  "25",
+                    "position"	: "CB",
+                    "experience"	:  "11",
+                    "age"	: "35",
+                    "born"	: "03/16/83",
+                    "hometown"	: "Houma, LA",
+                    "height"	: "6-0",
+                    "weight"	: "192",
+                    "college"	: "Louisiana Tech",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Tramon-Williams/0b4f32ec-6a33-4a4b-a31c-1dd89e45b4fb"
+              },
+           
+              {
+                    "id"	: "f86af200-3f39-45d6-a7c7-460a0464578f",
+                    "fname"	: "Budda",
+                    "lname"	: "Baker",
+                    "teamNumber"	:  "36",
+                    "position"	: "S",
+                    "experience"	:  "R",
+                    "age"	: "22",
+                    "born"	: "01/10/96",
+                    "hometown"	: "Bellevue, WA",
+                    "height"	: "5-10",
+                    "weight"	: "195",
+                    "college"	: "Washington",
+                    "image"	: "http://prod.static.cardinals.clubs.nfl.com/",
+			
+					"moreDetailsButtonURL"	: "/team/roster/Budda-Baker/f86af200-3f39-45d6-a7c7-460a0464578f"
               }
            
         ]

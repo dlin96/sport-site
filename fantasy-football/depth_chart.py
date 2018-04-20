@@ -10,21 +10,10 @@ from pymongo import MongoClient
 players = "players"
 json_extension = "json"
 text_extension = "txt"
-new_line = '\n'
 player_dict = {}
 team_dict = {}
 exception_dict = {}
 dc = {}
-without_html = ['patriots', 'chargers', 'cowboys', 'seahawks']
-
-# pattern to get position name from HTML source. Used for regular expressions.
-html_position_pattern = (
-    '<td class="field_position">'
-    '<div class="field field--name-field-position field--type-taxonomy-term-reference field--label-hidden">'
-    '<div class="field__items"><div class="field__item even">(\w+)</div>')
-
-# used to get player names from each position.
-html_player_pattern = 'class="player">(\w+\s\w+)</a>'
 
 
 # connect to MongoDB instance
@@ -40,11 +29,13 @@ def insert_team_list():
 
 
 def insert_dc(team_name):
-    print(db[team_name])
+    print("dict: {}".format(db[team_name]))
     collection = db[team_name]
-    collection.save(dc)
+    print("Dc: {}".format(type(dc)))
+    dc.update({"team_name": team_name})
+    collection.update({"team_name": team_name}, document=dict(dc), upsert=True)
     db.collection_names(include_system_collections=False)
-    pprint.pprint(collection.find_one())
+    logging.debug("{} : {}".format(collection, collection.find_one()))
 
 
 # This method populates the team dictionary with the team name as the key and the URL version of team name as value
@@ -53,8 +44,8 @@ def populate_teams_dict():
         for team in team_names:
             logging.info("team_key: " + team)
             val = team_names.readline()
-            key = team.rstrip(new_line)
-            value = val.rstrip(new_line)
+            key = team.rstrip('\n')
+            value = val.rstrip('\n')
             team_dict[key] = value
 
 
@@ -63,20 +54,15 @@ def populate_exception_dict():
     with open("exception_teams.txt", 'r') as without_json:
         for team_key in without_json:
             val = without_json.readline()
-            key = team_key.rstrip(new_line)
-            value = val.rstrip(new_line)
+            key = team_key.rstrip('\n')
+            value = val.rstrip('\n')
             exception_dict[key] = value
 
 
 def create_url(team_name):
     depth_chart_url_tail = "depth-chart"
     url = "http://www." + team_dict[team_name]
-    if team_name == 'patriots':
-        url += ".com/schedule-and-stats/" + depth_chart_url_tail
-    else:
-        url += ".com/team/" + depth_chart_url_tail
-    if team_name not in without_html:
-        url += ".html"
+    url += ".com/team/" + depth_chart_url_tail + ".html"
     return url
 
 
@@ -84,31 +70,16 @@ def create_url(team_name):
 def create_file_name(team_name, extension):
     file_name_tail = "_DepthChart."
     json_path = "JSON_files/"
-    txt_path = "txt_files/"
 
-    if extension == json_extension:
-        file_name = json_path + team_name + file_name_tail + extension
-    else:
-        file_name = txt_path + team_name + file_name_tail + extension
+    file_name = json_path + team_name + file_name_tail + extension
     return file_name
-
-
-# get position list from teams that use HTML to store their depth charts.
-def get_html_depth_chart(team_name):
-    url = create_url(team_name)
-    response = requests.get(url)
-    data = response.text
-    positions = re.findall(html_position_pattern, data)
-    player = re.findall(html_player_pattern, data)
-    print(positions)
-    print(player)
 
 
 # get the depth chart from JSON objects.
 def get_depth_chart_json(team_name):
     url = create_url(team_name)
+    print("url %s" % url)
     response = requests.get(url)
-    print(response)
     data = response.text
     latter_half = re.split("depthChartJson = ", data)
     json_object = re.split("</script>", latter_half[1])
@@ -152,11 +123,8 @@ def get_starters(team_name):
         for i in range(len(data["formations"]["Offense"]["Base"][index][players])):
             # player names
             player_list.append(player_dict[data["formations"]["Offense"]["Base"][index][players][i]])
-        if position in dc:
-            # append list for now to separate between WR1 and WR2
-            dc[position].append(player_list)
-        else:
-            dc[position] = player_list
+
+        dc[position] = dc.get(position, []) + player_list
 
     # no support for defense yet
     # for index in range(len(data[formations]["Defense"]["Base"])):
@@ -172,13 +140,11 @@ def main(team_name):
     if team_name not in team_dict:
         print("Not a valid team name.")
         return
-    if team_name in without_html:
-        get_html_depth_chart(team_name)
-    else:
-        get_depth_chart_json(team_name)
-        set_player_dict(team_name)
-        get_starters(team_name)
-        insert_dc(team_name)
+
+    get_depth_chart_json(team_name)
+    set_player_dict(team_name)
+    get_starters(team_name)
+    insert_dc(team_name)
     connection.close()
 
 
