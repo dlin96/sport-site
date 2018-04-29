@@ -8,7 +8,7 @@ var cors = require('cors');
 var app = express();
 
 app.set('views', __dirname + '/src');
-app.use(express.static(__dirname + '/js'));
+app.use(express.static(__dirname + '/public'));
 app.use(cors());
 
 /*
@@ -56,6 +56,7 @@ app.get('/depth-chart/', (req, res) => {
 
     // TODO: client-side input sanitization
     querydb(req.query.teamname, function(result) {
+        console.log(result);
         res.json(result); 
     });
 }); 

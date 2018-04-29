@@ -13,3 +13,5 @@ sport-site/
 data
 *.wt
 *.turtle
+WiredTiger*
+*.lock
