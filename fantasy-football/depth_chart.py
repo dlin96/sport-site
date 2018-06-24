@@ -3,8 +3,8 @@ import json
 import re
 import pprint
 import logging
+import pickle, os
 from pymongo import MongoClient
-# from bs4 import BeautifulSoup
 
 # String Values to access fields of JSON object
 players = "players"
@@ -38,8 +38,18 @@ def insert_dc(team_name):
     logging.debug("{} : {}".format(collection, collection.find_one()))
 
 
-# This method populates the team dictionary with the team name as the key and the URL version of team name as value
 def populate_teams_dict():
+    # check if pickle file exists
+    if os.path.isfile("team_dict.pickle"):
+        with open("team_dict.pickle", "rb") as file:
+            global team_dict
+            team_dict=pickle.load(file)
+    else:
+        populate_teams_dict_pickle()
+
+
+# This method populates the team dictionary with the team name as the key and the URL version of team name as value
+def populate_teams_dict_pickle():
     with open("teamnames.txt", 'r') as team_names:
         for team in team_names:
             logging.info("team_key: " + team)
@@ -47,16 +57,31 @@ def populate_teams_dict():
             key = team.rstrip('\n')
             value = val.rstrip('\n')
             team_dict[key] = value
+    with open("team_dict.pickle", "wb") as file:
+        pickle.dump(team_dict,file, pickle.DEFAULT_PROTOCOL)
+
+
+def populate_exception_dict():
+    # check if pickle file exists
+    if os.path.isfile("exception_dict.pickle"):
+        with open("exception_dict.pickle", "rb") as file:
+            global exception_dict
+            exception_dict=pickle.load(file)
+    else:
+        populate_exception_dict_pickle()
 
 
 # populate the dictionaries containing the teams that don't use JSON objects for depth charts
-def populate_exception_dict():
+def populate_exception_dict_pickle():
     with open("exception_teams.txt", 'r') as without_json:
         for team_key in without_json:
             val = without_json.readline()
             key = team_key.rstrip('\n')
             value = val.rstrip('\n')
             exception_dict[key] = value
+
+    with open("exception_dict.pickle", "wb") as file:
+        pickle.dump(exception_dict, file, pickle.DEFAULT_PROTOCOL)
 
 
 def create_url(team_name):
@@ -116,8 +141,13 @@ def get_starters(team_name):
 
 # get offense players from JSON. Write depth chart to file.
     for index in range(len(data["formations"]["Offense"]["Base"])):
+
         # position
         position = data["formations"]["Offense"]["Base"][index]["positionID"]
+        if "1" in position:
+            position = position.strip("1")
+        if position in dc.keys():
+            position += "2"
         player_list = []
 
         for i in range(len(data["formations"]["Offense"]["Base"][index][players])):

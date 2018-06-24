@@ -15,3 +15,4 @@ data
 *.turtle
 WiredTiger*
 *.lock
+*.pickle
