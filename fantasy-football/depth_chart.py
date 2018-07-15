@@ -3,7 +3,9 @@ import json
 import re
 import pprint
 import logging
-import pickle, os
+import pickle
+import os
+import yaml
 from pymongo import MongoClient
 
 # String Values to access fields of JSON object
@@ -15,9 +17,18 @@ team_dict = {}
 exception_dict = {}
 dc = {}
 
+with open ("mongoconf.yaml", "r") as conf:
+    doc = yaml.load(conf)
+    username = doc["username"]
+    password = doc["password"]
 
 # connect to MongoDB instance
-connection = MongoClient('localhost', 27017)
+connection = MongoClient('localhost',
+                         27017,
+                         username=username,
+                         password=password,
+                         authSource="admin",
+                         )
 db = connection['fantasy-football-db']
 
 
@@ -103,17 +114,19 @@ def create_file_name(team_name, extension):
 # get the depth chart from JSON objects.
 def get_depth_chart_json(team_name):
     url = create_url(team_name)
-    print("url %s" % url)
     response = requests.get(url)
     data = response.text
     latter_half = re.split("depthChartJson = ", data)
-    json_object = re.split("</script>", latter_half[1])
-    depth_chart = json_object[0]
+    if len(latter_half) > 1:
+        json_object = re.split("</script>", latter_half[1])
+        depth_chart = json_object[0]
+    else: return False
 
     # write JSON object to file
-    log_file = open(create_file_name(team_name, json_extension), "w+")
-    log_file.write(depth_chart)
-    log_file.close()
+    with open(create_file_name(team_name, json_extension), "w+") as log_file:
+        log_file.write(depth_chart)
+
+    return True
 
 
 # set the player dictionary for the team name.
@@ -164,6 +177,19 @@ def get_starters(team_name):
     #     for i in range(len(data[formations]["Defense"]["Base"][index][players])):
     #         player_list.append(player_dict[data[formations]["Defense"]["Base"][index][players][i]])
     #         dc[position] = player_list
+
+
+# update depth charts
+def update_db():
+    populate()
+    for team in team_dict:
+        print(team)
+        if not get_depth_chart_json(team):
+            continue
+        set_player_dict(team)
+        get_starters(team)
+        insert_dc(team)
+    connection.close()
 
 
 def main(team_name):
