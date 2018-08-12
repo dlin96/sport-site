@@ -16,3 +16,7 @@ data
 WiredTiger*
 *.lock
 *.pickle
+ff/
+placeholder
+mongoconf.yaml
+../teamnames.txt
