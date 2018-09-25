@@ -1,8 +1,9 @@
 var http = require('http');
 var express = require('express');
 var bodyParser = require('body-parser');
-var iniParser = require('ini');
-var MongoClient = require('mongodb').MongoClient
+var yamlParser = require('js-yaml');
+var fs = require('fs');
+var MongoClient = require('mongodb').MongoClient;
 var cors = require('cors');
 
 var app = express();
@@ -13,6 +14,7 @@ app.use(function(req, res, next) {
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
     next();
 });
+
 /*
  * Should return the index page. Root route.
  * NOTE: as of right now, index needs to be renamed. 
@@ -30,7 +32,7 @@ app.use(function(req, res, next) {
  * return: none
  */ 
 
- var dbEndpoint = 'mongodb://localhost:27017'; 
+ var dbEndpoint = 'mongodb://'+username+':'+password+'@192.168.88.56:27017'; 
  var ffdb = "fantasy-football-db";
 
 let querydb = (teamname, callback) => {
@@ -88,9 +90,36 @@ app.get('/teams/', (req, res) => {
             return res.json(teamnames);
         });
     });
-})
+});
+
+function loadConfig() {
+    try {
+        var doc = yamlParser.safeLoad(fs.readFileSync("../fantasy-football/mongoconf.yaml"));
+        return doc;
+    } catch(e) {
+        console.log(e);
+    }
+};
 
 // start our server, listening on port 8000
+// start server only on successful db connection
+var db;
+function connectDB() {
+    dbConfig = loadConfig();
+    username = dbConfig["username"];
+    password = dbConfig["passwd"];
+    ipAddr = dbConfig["ip_addr"];
+    port = dbConfig["port"];
+    var dbEndpoint = 'mongodb://'+username+':'+password+'@'+ipAddr+':'+port; 
+    var ffdb = "fantasy-football-db";
+
+    MongoClient.connect(dbEndpoint, (err, client) => {
+        if(err) throw err;
+
+        db = client.db(ffdb);
+    });
+}
 var server=app.listen(8000, () => {
-	console.log("We have started our server on port 8000");
+    connectDB();
+    console.log("We have started our server on port 8000");
 });
