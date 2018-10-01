@@ -1,5 +1,5 @@
 import React from 'react';
-import './Results.css';
+import './DepthChartResults.css';
 
 function results (props) {
     if (props.team.show_results === false) {

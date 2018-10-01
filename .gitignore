@@ -20,3 +20,8 @@ ff/
 placeholder
 mongoconf.yaml
 ../teamnames.txt
+fantasy-football/nfldb_stats
+fantasy-football/lib/*
+fantasy-football/bin/*
+fantasy-football/include
+fantasy-football/.Python

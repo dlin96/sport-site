@@ -1,7 +1,7 @@
 import React from "react";
 
 function depthchart(props) {
-    var teams = [
+    const teams = [
         // NFC West
         "Seahawks", "49ers", "Cardinals", "Rams",
         // NFC East
