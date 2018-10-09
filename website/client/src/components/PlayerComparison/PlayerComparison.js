@@ -1,4 +1,6 @@
 import React from 'react';
+// import axios from 'axios';
+// import Autosuggest from 'react-autosuggest';
 
 function playercomparison(props) {
 

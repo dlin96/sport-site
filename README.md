@@ -1,17 +1,20 @@
 # sport-site
 
 ## Useful Links
-1. [nfldb api](http://pdoc.burntsushi.net/nfldb)
-2. [mysql](https://dev.mysql.com/doc/refman/5.7/en/creating-database.html)
-3. [nba_db](http://databasebasketball.com/stats_download.htm) databasebasketball only goes up to 2010
-4. [nba/mlb api](https://erikberg.com/api#) invitation only. 
-5. [nfl/nba api](https://www.suredbits.com/api/nfl/stats/) free
-6. [D3js](https://d3js.org/)
-7. [React.js](https://facebook.github.io/react/docs/introducing-jsx.html)  
+1. [nfldb api](https://github.com/BurntSushi/nfldb) Project is unmaintained.
+2. [nba_db](http://databasebasketball.com/stats_download.htm) databasebasketball only goes up to 2010
+3. [nba/mlb api](https://erikberg.com/api#) invitation only. 
+4. [D3js](https://d3js.org/)
+5. [React.js](https://facebook.github.io/react/docs/introducing-jsx.html)  
   
 ## ML Tools (Python)  
 1. Scikit Learn  
 2. Numpy  
 3. Jupyter  
 4. Matplotlib  
-5. tensorflow.  
+5. tensorflow 
+6. seaborn
+7. pandas
+
+## purpose
+## features

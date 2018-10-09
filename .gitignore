@@ -25,3 +25,6 @@ fantasy-football/lib/*
 fantasy-football/bin/*
 fantasy-football/include
 fantasy-football/.Python
+website/package-lock.json
+website/client/package-lock.json
+*/package-lock.json

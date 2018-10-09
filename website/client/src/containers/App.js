@@ -56,7 +56,7 @@ class App extends Component {
     const name = event.target.name;
     const value = event.target.value;
     this.setState({[name]: value}, () => {
-      console.log("state: " + this.state);
+      //console.log("state: " + this.state);
     })
   }
 
@@ -70,8 +70,8 @@ class App extends Component {
     })
     .then( (response) => {
       console.log("response: \n");
-      console.log(response);
-      this.setState({show_results: true})
+      console.log(response.data);
+      this.setState({stats: response.data, show_results: true})
     })
     .catch( (error) => {
       console.log(error);
@@ -87,7 +87,8 @@ class App extends Component {
         {/*<Results team={this.state}/>*/}
 
         <PlayerComparison handlePlayerChange={this.handlePlayerChange} submitPlayers={this.submitPlayers}/>
-        <PlayerComparisonResults toShow={this.state.show_results}/>
+        <PlayerComparisonResults info={this.state} player1={this.state.player1} player2={this.state.player2}/>
+
       </div>
     );
   }
