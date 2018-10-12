@@ -36,7 +36,7 @@ end as pass_pct, SUM(rushing_yds) as rushing_yds, SUM(rushing_att) as rushing_at
 SUM(rushing_tds) as rushing_tds, SUM(receiving_yds) as receiving_yds, \
 SUM(receiving_tds) as receiving_tds, SUM(receiving_tar) as receiving_tar, SUM(receiving_yac_yds) as receiving_yac_yds, \
 SUM(receiving_rec) as receiving_rec FROM play_player as pp FULL OUTER JOIN game AS g ON pp.gsis_id = g.gsis_id \
-WHERE player_id=$1 AND g.season_type='Regular' AND g.season_year=2012";
+WHERE player_id=$1 AND g.season_type='Regular' AND g.season_year=$2";
 
 function getPlayerStats(playerName, callback) {
     client = connectToNflDb();
@@ -45,7 +45,7 @@ function getPlayerStats(playerName, callback) {
         // console.log(result);
         console.log("full_name: " + result.rows[0].full_name);
         console.log("position: " + result.rows[0].position);
-        client.query(statQuery, [result.rows[0].player_id])
+        client.query(statQuery, [result.rows[0].player_id, 2016])
         .then(result => {
             result.rows[0]["player_name"] = playerName;
             callback(result);

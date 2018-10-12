@@ -2,10 +2,20 @@ table {
     width: 100%;
     border-width: 1px;
     border-style: solid;
+    border-collapse: collapse;
 }
 
 th, td {
     width: 20%;
     border-width: 1px;
     border-style: solid;
+    padding: 10px;
+}
+
+.wrapper{
+    overflow: hidden;
+}
+
+.chart {
+    float: left;
 }

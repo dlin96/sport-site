@@ -1,0 +1,29 @@
+.search {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    font-size: 16px;
+}
+
+.search:focus{ 
+    border: none;
+    border-bottom: 2px solid #008CBA;
+    font-size: 16px;
+}
+
+.submit {
+    text-align: center;
+}
+button {
+    background-color:#008CBA;
+    font-size: 16px;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 15px 32px;
+    color: white;
+}
