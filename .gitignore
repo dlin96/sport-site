@@ -28,3 +28,4 @@ fantasy-football/.Python
 website/package-lock.json
 website/client/package-lock.json
 */package-lock.json
+db_conf.yaml
