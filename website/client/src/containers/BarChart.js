@@ -13,7 +13,7 @@ class BarChart extends Component {
    
 render() {
     const margins = { top: 50, right: 20, bottom: 100, left: 60 }
-    const svgDimensions = { width: 400, height: 500 }
+    const svgDimensions = { width: 250, height: 300 }
 
     //const maxValue = 50;
     const maxValue = Math.max(...this.props.data.map(player => player[this.props.statName])) * 1.1;

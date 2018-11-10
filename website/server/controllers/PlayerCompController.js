@@ -1,35 +1,38 @@
-var pg = require('pg');
-var admin = require('./adminFuncs');
+const {Pool, Client} = require('pg');
+const admin = require('./adminFuncs');
 
-// let _client;
-//_client = connectToNflDb();
-exports.playerStatGet = function(req, res) {
-    client = connectToNflDb();
+const config = connectToNflDb();
+const pool = new Pool(config);
+
+exports.playerStatGet = function(req, res, next) {
     console.log("GET /playercomp/");
-    // console.log("player1: " + req.query.player1);
-    // console.log("player2: " + req.query.player2);   
+    console.log("player1: " + req.query.player1);
+    console.log("player2: " + req.query.player2);   
+
+    if(req.query.player1 == undefined || req.query.player2 == undefined) {
+        return;
+    }
 
     let retArr = [];
-    // TODO: client-side input sanitization
-    // TODO: think of a better way to cleanly end connection to db
     // TODO: modify this to queue up promises instead of doing it sequentially
-    getPlayerStats(req.query.player1, function(result) {
+    getPlayerStats(req.query.player1, req.query.year, function(result) {
         // console.log(result);
+        if(!Object.keys(result).length) res.send(result);
         retArr.push(result.rows[0]);
-        getPlayerStats(req.query.player2, function(result) {
+        getPlayerStats(req.query.player2, req.query.year, function(result) {
             result["player_name"] = req.query.player2;
             retArr.push(result.rows[0]);
             console.log(retArr);
-            console.log("disconnecting from db...");
-            client.end();
+            // pool.end();
             res.send(retArr);
         });
     });
+    
 }
 
 // TODO: column and table names must be literals - limitation of PGSQL. Use client-side JS to generate query. 
-playerIdQuery = "SELECT player_id, position, full_name FROM player WHERE lower(full_name) = $1";
-statQuery = 
+const playerIdQuery = "SELECT player_id, position, full_name FROM player WHERE lower(full_name) = $1";
+const statQuery = 
 "SELECT SUM(passing_yds) as passing_yds, SUM(passing_tds) as passing_tds, SUM(passing_att) as passing_att, \
 CASE WHEN SUM(passing_att) = 0 THEN 0 ELSE SUM(passing_cmp) * 100 / SUM(passing_att) \
 end as pass_pct, SUM(rushing_yds) as rushing_yds, SUM(rushing_att) as rushing_att, CASE WHEN SUM(rushing_att) = 0 THEN 0 ELSE SUM(rushing_yds)/SUM(rushing_att) end as ypc, \
@@ -38,14 +41,20 @@ SUM(receiving_tds) as receiving_tds, SUM(receiving_tar) as receiving_tar, SUM(re
 SUM(receiving_rec) as receiving_rec FROM play_player as pp FULL OUTER JOIN game AS g ON pp.gsis_id = g.gsis_id \
 WHERE player_id=$1 AND g.season_type='Regular' AND g.season_year=$2";
 
-function getPlayerStats(playerName, callback) {
-    client = connectToNflDb();
-    client.query(playerIdQuery, [playerName.toLowerCase()])
+// const avgWR = "";
+
+function getPlayerStats(playerName, year, callback) {
+    pool.query(playerIdQuery, [playerName.toLowerCase()])
     .then(result => {
-        // console.log(result);
+        console.log("rows: " + result['rows']);
+        if(!result['rows'].length) {
+            console.error("empty rows!!")
+            callback(result);
+            return;
+        }
         console.log("full_name: " + result.rows[0].full_name);
         console.log("position: " + result.rows[0].position);
-        client.query(statQuery, [result.rows[0].player_id, 2016])
+        pool.query(statQuery, [result.rows[0].player_id, year])
         .then(result => {
             result.rows[0]["player_name"] = playerName;
             callback(result);
@@ -54,7 +63,7 @@ function getPlayerStats(playerName, callback) {
     })
     .catch(e => {
         console.error(e.stack)
-        client.end();
+        pool.end();
     })
 };
 
@@ -81,14 +90,14 @@ exports.autocompleteSearch = function(req, res) {
 // connect to nfldb 
 function connectToNflDb() { 
     console.log("connectToNflDb");
-    dbConfig = admin.loadConfig("db_conf.yaml");
+    dbConfig = admin.loadConfig();
     user = dbConfig["user"];
     password = dbConfig["password"];
     host = dbConfig["host"];
     database = dbConfig["database"];
     port = dbConfig["port"];
 
-    const conString = {
+    const config = {
         user: user,
         host: host,
         database: database,
@@ -96,14 +105,5 @@ function connectToNflDb() {
         port: port,
     }
 
-    const client = new pg.Client(conString);
-    client.connect((err) => {
-        if (err) {
-            console.error('connection error', err.stack);
-        } else {
-            console.log ('connected');
-        }
-    });
-
-    return client;
+    return config;
 }

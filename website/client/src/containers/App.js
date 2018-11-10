@@ -18,13 +18,16 @@ class App extends Component {
     this.state = {
       player1: "",
       player2: "",
+      year: 2009,
       show_results: false
     };
 
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
     this.handlePlayerChange = this.handlePlayerChange.bind(this);
+    this.handleYearChange = this.handleYearChange.bind(this);
     this.submitPlayers = this.submitPlayers.bind(this);
+
   }
 
   handleChange(event) {
@@ -34,7 +37,7 @@ class App extends Component {
   }
 
   handleSubmit(event) {
-    axios.get("http://localhost:8000/depthchart/", {
+    axios.get("https://sport-site-server.herokuapp.com/depthchart/", {
       params: {
         teamname: this.state.teamname
       }
@@ -55,26 +58,35 @@ class App extends Component {
   handlePlayerChange(event) {
     const name = event.target.name;
     const value = event.target.value;
-    this.setState({[name]: value}, () => {
-      //console.log("state: " + this.state);
-    })
+    this.setState({[name]: value});
+  }
+
+  handleYearChange(event) {
+    this.setState({year: event.target.value});
   }
 
   submitPlayers(event) {
     console.log(this.state);
-    axios.get("http://localhost:8000/playercomp/", {
+    axios.get("https://sport-site-server.herokuapp.com/playercomp/", {
       params: {
         player1: this.state.player1,
-        player2: this.state.player2
+        player2: this.state.player2,
+        year: this.state.year
       }
     })
     .then( (response) => {
       console.log("response: \n");
-      console.log(response.data);
-      this.setState({stats: response.data, show_results: true})
+      console.log(response.data.length);
+      if (!response.data.includes(null)) {
+        console.error("found null in response!")
+        this.setState({stats: response.data, show_results: true});
+      }
+      else this.setState({stats: null, show_results: false});
+      console.log(this.state);
     })
     .catch( (error) => {
       console.log(error);
+      this.setState({stats: null, show_results: false});
     });
   }
 
@@ -86,7 +98,7 @@ class App extends Component {
         {/* <DepthChart handleChange={this.handleChange} handleSubmit={this.handleSubmit} teamNames={this.getTeamNames}/> */}
         {/*<Results team={this.state}/>*/}
 
-        <PlayerComparison handlePlayerChange={this.handlePlayerChange} submitPlayers={this.submitPlayers}/>
+        <PlayerComparison handlePlayerChange={this.handlePlayerChange} handleYearChange={this.handleYearChange} submitPlayers={this.submitPlayers}/>
         <PlayerComparisonResults info={this.state} player1={this.state.player1} player2={this.state.player2}/>
 
       </div>

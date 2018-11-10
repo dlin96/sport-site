@@ -1,6 +1,6 @@
-var http = require('http');
+// var http = require('http');
 var express = require('express');
-var bodyParser = require('body-parser');
+// var bodyParser = require('body-parser');
 var cors = require('cors');
 
 var app = express();
@@ -13,6 +13,8 @@ app.use(function(req, res, next) {
     next();
 });
 
+app.get('/', (req, res) => res.send('ss-server'));
+
 // routes 
 var playerCompRoutes = require('./routes/playercomp');
 var depthChartRoutes = require('./routes/depthcharts');
@@ -20,6 +22,8 @@ app.use('/playercomp/', playerCompRoutes);
 app.use('/depthchart/', depthChartRoutes);
 
 // start our server, listening on port 8000
-app.listen(8000, () => {
+let port = process.env.PORT;
+if(port == null || port == "") port=8000;
+app.listen(port, () => {
     console.log("We have started our server on port 8000");
 });
