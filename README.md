@@ -7,14 +7,5 @@
 4. [D3js](https://d3js.org/)
 5. [React.js](https://facebook.github.io/react/docs/introducing-jsx.html)  
   
-## ML Tools (Python)  
-1. Scikit Learn  
-2. Numpy  
-3. Jupyter  
-4. Matplotlib  
-5. tensorflow 
-6. seaborn
-7. pandas
-
 ## purpose
-## features
+The idea behind this project is to create a blog space where people (namely my friends and I) can post our amateur analysis (using whatever data and analysis techniques) of sports. This project started off with a player comparison functionality, but I realized my friends and I would spend way too much time arguing over sports and compiling stats from various online sources. I felt that this would be a good way for us to keep a record and also act as a "Player's Tribune" of sorts but for amateur sports viewers. 
