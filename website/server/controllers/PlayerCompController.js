@@ -90,7 +90,7 @@ exports.autocompleteSearch = function(req, res) {
 // connect to nfldb 
 function connectToNflDb() { 
     console.log("connectToNflDb");
-    dbConfig = admin.loadConfig();
+    dbConfig = admin.loadConfig("./db_conf.yaml");
     user = dbConfig["user"];
     password = dbConfig["password"];
     host = dbConfig["host"];
