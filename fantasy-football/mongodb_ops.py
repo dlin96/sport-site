@@ -11,7 +11,7 @@ db_logger = logging.getLogger("db_logger")
 
 def _connect_db():
     with open("mongoconf.yaml", "r") as conf:
-        mongodb_conf = yaml.load(conf)
+        mongodb_conf = yaml.load(conf, Loader=yaml.SafeLoader)
         ip_addr = mongodb_conf["ip_addr"]
         username = mongodb_conf["username"]
         password = mongodb_conf["password"]
@@ -34,5 +34,5 @@ def insert_dc(collection_name, depth_chart_bson):
     db_logger.info("dc_bson: {}".format(depth_chart_bson))
     _db, _connection = _connect_db()
     collection = _db[collection_name]
-    collection.update({"team_name": collection_name}, document=depth_chart_bson, upsert=True)
+    collection.replace_one({"team_name": collection_name}, depth_chart_bson, upsert=True)
     _connection.close()
