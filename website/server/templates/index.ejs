@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sport Site</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    </head>
+
+    <body>
+        <h1>Player Comparison</h1>
+        <form>
+            Player1: <input type="text" id="player1">
+            <br>
+            Player2: <input type="text" id="player2">
+            <br>
+            <input type="submit" value="Submit">
+        </form>
+        <div id=result>
+            <ul>
+                <% for (var key in player1) {%>
+                    <li><%= player1[key] %></li>
+                <% } %>
+            </ul>
+        </div>
+
+    </body>
+</html>

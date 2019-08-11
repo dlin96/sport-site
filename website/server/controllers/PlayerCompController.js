@@ -24,7 +24,7 @@ exports.playerStatGet = function(req, res, next) {
             retArr.push(result.rows[0]);
             console.log(retArr);
             // pool.end();
-            res.send(retArr);
+            res.render("../templates/index.ejs", {player1: retArr[0]});
         });
     });
     
