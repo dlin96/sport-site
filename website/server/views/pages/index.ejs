@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sport Site</title>
+        <link rel="stylesheet" href="/css/playercomp.css">
+    </head>
+
+    <body>
+        <h1 id="title">Player Comparison</h1>
+        <form action="/playercomp" method="get">
+            <input type="text" name="player1" class="player" placeholder="e.g. Tom Brady">
+            <br>
+            <input type="text" name="player2" class="player" placeholder="e.g. Alex Smith">
+            <br>
+            <select name="year">
+                <% for (var i=2015; i<= new Date().getFullYear(); i++) { %>
+                    <option value=<%= i %>> <%= i %> </option>
+                <% } %>
+            </select>
+            <br>
+            <input type="submit" value="Submit">
+        </form>
+        <br>
+        <div id=result>
+            <table>
+                <% if (typeof player1 !== 'undefined' && typeof player2 !== 'undefined') {%>
+                    <tr>
+                    <th><%= player1["player_name"] %></th>
+                    <th>Stat</th>
+                    <th><%= player2["player_name"] %></th>
+                    </tr>
+                    
+                    <% for (var key in player1) { %>
+                        <% if (key != "player_name") { %>
+                            <tr>
+                                <% color1 = "white"; %>
+                                <% color2 = "white"; %>
+                                <% if (player1[key] > player2[key]) { %>
+                                    <% color1 = "green" %>
+                                    <% color2 = "red" %>
+                                <% } else if (player1[key] < player2[key]) { %>
+                                    <% color1 = "red"; %>
+                                    <% color2 = "green"; %>
+                                <% } %>
+                                <td bgcolor= <%=color1%>><%= player1[key] %></td>
+                                <td><%= key %></td>
+                                <td bgcolor=<%=color2%>><%= player2[key] %></td>
+                            </tr>
+                        <% } %>
+                    <% } %>
+                <% } %>
+            </table>
+        </div>
+
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sport Site</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    </head>
+
+    <body>
+        <h1>Player Comparison</h1>
+        <form>
+            Player1: <input type="text" id="player1_name">
+            <br>
+            Player2: <input type="text" id="player2_name">
+            <br>
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+    <script>
+    $(document).ready(function() {
+	    $("#submit").click(function() {
+		    var player1=$("#player1").val();
+		    var player2=$("#player2").val();
+		    $.get("http://localhost:8000/playercomp/", {"player1": player1, "player2": player2});
+        })
+    })
+    </script>
+</html>
