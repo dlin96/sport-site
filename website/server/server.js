@@ -4,6 +4,7 @@ var cors = require('cors');
 var app = express();
 
 // app.use(cors());
+app.use(express.static(__dirname + "/public"));
 app.use(function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST');
@@ -12,7 +13,7 @@ app.use(function(req, res, next) {
 });
 app.set('view engine', 'ejs');
 
-app.get('/', (req, res) => res.sendFile(__dirname + '/playercomp.html'));
+app.get('/', (req, res) => res.render('pages/index'));
 
 // routes 
 let playerCompRoutes = require('./routes/playercomp');

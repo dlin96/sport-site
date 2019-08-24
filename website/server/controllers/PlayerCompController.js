@@ -7,7 +7,8 @@ const pool = new Pool(config);
 exports.playerStatGet = function(req, res, next) {
     console.log("GET /playercomp/");
     console.log("player1: " + req.query.player1);
-    console.log("player2: " + req.query.player2);   
+    console.log("player2: " + req.query.player2);  
+    console.log("year: " + req.query.year); 
 
     if(req.query.player1 == undefined || req.query.player2 == undefined) {
         return;
@@ -24,7 +25,7 @@ exports.playerStatGet = function(req, res, next) {
             retArr.push(result.rows[0]);
             console.log(retArr);
             // pool.end();
-            res.render("../templates/index.ejs", {player1: retArr[0]});
+            res.render("pages/index", {player1: retArr[0], player2: retArr[1]});
         });
     });
     
