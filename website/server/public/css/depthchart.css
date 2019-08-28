@@ -1,0 +1,14 @@
+table, th, td {
+    border: 1px solid black;
+    margin: 0px auto;
+    table-layout: inherit;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+}
+
+.result, .header {
+    text-align: center;
+}

@@ -7,6 +7,7 @@ import requests
 import logging
 import bs4
 import tqdm
+import redis
 import mongodb_ops
 
 # logging config
@@ -106,7 +107,7 @@ def create_depth_chart(team_name):
         return None
 
     # dc_logger.info("depth_chart: {}".format(depth_chart))
-    # depth_chart["team_name"] = team_name
+    depth_chart["team_name"] = team_name
     if depth_chart:
         mongodb_ops.insert_dc(team_name, depth_chart)
     return depth_chart
@@ -174,15 +175,6 @@ def make_player_dict(player_list):
     return player_dict
 
 
-# TODO: Modify this to be threaded
-# DEPRECATED
-def update_db():
-    for team in team_names:
-        dc = create_depth_chart(team)
-    #     if dc is not None:
-    #        mongodb_ops.insert_dc(team, dc)
-
-
 def mt_update():
     with Pool(4) as p:
         list(tqdm.tqdm(p.imap(create_depth_chart, team_names), total=len(team_names)))
@@ -190,7 +182,7 @@ def mt_update():
 
 if __name__ == '__main__':
     # print(timeit.timeit("mt_update()", 'from __main__ import mt_update'))
-    # mt_update()
-    p_dict = create_depth_chart("ravens")
-    with open("./tests/ravens_2018.pkl", "wb") as file:
-        pickle.dump(p_dict, file)
+    mt_update()
+    # p_dict = create_depth_chart("ravens")
+    # with open("./tests/ravens_2018.pkl", "wb") as file:
+    #    pickle.dump(p_dict, file)

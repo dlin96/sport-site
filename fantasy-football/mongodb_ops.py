@@ -22,7 +22,7 @@ def _connect_db():
                                           port,
                                           username=username,
                                           password=password,
-                                          authSource="admin"
+                                          authSource="depth-chart"
                                           )
 
         _db = _connection[db_name]
@@ -30,6 +30,7 @@ def _connect_db():
 
 
 def insert_dc(collection_name, depth_chart_bson):
+    db_logger.info("inserting into db")
     db_logger.info("collection: {}".format(collection_name))
     db_logger.info("dc_bson: {}".format(depth_chart_bson))
     _db, _connection = _connect_db()

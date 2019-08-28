@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>Depth Charts</title>
+        <link rel="stylesheet" href="/css/depthchart.css">
+    </head>
+    <body>
+        <div class="header">
+            <h1>Depth Chart</h1>
+            <form action="/depthchart/team/", method="GET">
+                <input name="teamname"/>
+                <input type="submit" value="Submit"/>
+            </form>
+
+            <a href="/">Player Comparison</a>
+        </div>
+        <br>
+        <div class="result">
+                <% if (typeof result !== "undefined") { %>
+                    <h2><%= result["team_name"] %></h2>
+                    <table>
+                        <tr>
+                            <th>Position</th>
+                            <th>First</th>
+                            <th>Second</th>
+                            <th>Third</th>
+                        </tr>
+                        <% for (var key in result) { %>
+                            <tr>
+                                <% if (key != "_id" && key != "team_name") { %>
+                                    <td><%=key%></td>
+                                    <td><%=result[key][0]%></td>
+                                    <td><%=result[key][1]%></td>
+                                    <td>
+                                        <% let rest = result[key].slice(2); %>
+                                        <% for (var item in rest) {%>
+                                            <%=rest[item]%>
+                                            <br>
+                                        <% } %>
+                                    </td>
+                                <% } %>
+                            </tr>
+                        <% } %>
+                    </table>
+                <% } %>
+        </div>
+    </body>
+</html>

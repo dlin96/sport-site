@@ -1,5 +1,7 @@
 var admin = require('./adminFuncs');
-var MongoClient = require('mongodb').MongoClient;
+var MongoClient = require('mongodb').MongoClient
+    , Db = require('mongodb').Db
+    , Server = require('mongodb').Server;
 
 /*
  * function name: querydb
@@ -9,10 +11,10 @@ var MongoClient = require('mongodb').MongoClient;
  * return: none
  */ 
 
-var ffdb = "fantasy-football-db";
+var ffdb = "depth-chart";
 
 let querydb = (teamname, callback) => {
-    connectMongoDB(function(client) {
+    connectMongoDB(function(client, err) {
         if (err) throw err;
 
         // TODO: error condition to check if teamname is in db 
@@ -34,17 +36,24 @@ let querydb = (teamname, callback) => {
 
 // start server only on successful db connection
 function connectMongoDB(callback) {
-    dbConfig = admin.loadConfig("../fantasy-football/mongoconf.yaml");
+    console.log(__dirname);
+    dbConfig = admin.loadConfig(__dirname + "/mongoconf.yaml");
     username = dbConfig["username"];
     password = dbConfig["passwd"];
     ipAddr = dbConfig["ip_addr"];
     port = dbConfig["port"];
-    var dbEndpoint = 'mongodb://'+username+':'+password+'@'+ipAddr+':'+port; 
 
-    MongoClient.connect(dbEndpoint, (err, client) => {
+    var dbEndpoint = 'mongodb://nfldb:ramona3374@localhost:27017/?authMechanism=DEFAULT&authSource=depth-chart'; 
+
+    MongoClient.connect(dbEndpoint, {useNewUrlParser: true, useUnifiedTopology: true}, (err, client) => {
         if(err) throw err;
         callback(client);
     });
+}
+
+let capitalize = teamname => {
+    teamname = teamname.toLowerCase();
+    return teamname[0].toUpperCase() + teamname.slice(1);
 }
 
 exports.getDepthChart = (req, res) => {
@@ -55,6 +64,7 @@ exports.getDepthChart = (req, res) => {
 
     // TODO: client-side input sanitization
     querydb(teamname, function(result) {
-        return res.json(result); 
+        result[0]["team_name"] = capitalize(result[0]["team_name"]);
+        res.render("pages/depthchart.ejs", {"result": result[0]}); 
     })
 };

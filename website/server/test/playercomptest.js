@@ -5,7 +5,7 @@ let supertest = require('supertest');
 
 let api = supertest('http://localhost:8000');
 
-describe('PlayerCompQuery', function() {
+describe('Player Comp Test', function() {
     it ('should return json with array of player stats', function(done) {
         api.get('/playercomp/')
         .set('Accept', 'application/x-www-form-urlencoded')
