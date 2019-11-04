@@ -1,14 +1,12 @@
-from multiprocessing.dummy import Pool
-import pickle
-import traceback
-import timeit
+import logging
 import re
 import requests
-import logging
+import traceback
+
 import bs4
-import tqdm
-import redis
+
 import mongodb_ops
+import team_consts
 
 # logging config
 FORMAT = "%(asctime)-15s : %(message)s"
@@ -16,58 +14,19 @@ logging.basicConfig(format=FORMAT)
 dc_logger = logging.getLogger("dc_logger")
 dc_logger.setLevel(logging.INFO)
 
-team_names = \
-    ('texans', 'titans', 'colts', 'jaguars',                    # AFC South
-           'ravens', 'browns', 'bengals', 'steelers',           # AFC North
-           'raiders', 'chiefs', 'chargers', 'broncos',          # AFC West
-           'patriots', 'dolphins', 'bills', 'jets',             # AFC East
-           'cowboys', 'eagles', 'redskins', 'giants',           # NFC East
-           'bears', 'lions', 'packers', 'vikings',              # NFC North
-           'falcons', 'saints', 'panthers', 'buccaneers',       # NFC South
-           'seahawks', 'niners', 'rams', 'cardinals')           # NFC West
-
-exception_dict = {
-    "texans": "houstontexans",
-    "titans": "titansonline",
-    "ravens": "baltimoreravens",
-    "browns": "clevelandbrowns",
-    "broncos": "denverbroncos",
-    "dolphins": "miamidolphins",
-    "bills": "buffalobills",
-    "jets": "newyorkjets",
-    "cowboys": "dallascowboys",
-    "eagles": "philadelphiaeagles",
-    "bears": "chicagobears",
-    "lions": "detroitlions",
-    "falcons": "atlantafalcons",
-    "saints": "neworleanssaints",
-    "niners": "49ers",
-    "rams": "therams",
-    "cardinals": "azcardinals"
-}
-position_list = ('WR ', 'LT ', 'LG ', 'C ', 'RG ', 'RT ', 'TE ', 'WR2 ', 'QB ',
-                 'FB ', 'RB ')
-
-
-def create_url(team_name):
-    if team_name in exception_dict:
-        team_name = exception_dict[team_name]
-    return "https://www.{}.com/team/depth-chart".format(team_name)
-
-
-"""
-function_name: create_depth_chart
-purpose: gets the depth chart from the team website for a specified team
-params: team_name - the name of the team to retrieve
-return: dict containing positions as keys and a list of player names as values
-"""
-
 
 def create_depth_chart(team_name):
 
+    """
+    function_name: create_depth_chart
+    purpose: gets the depth chart from the team website for a specified team
+    params: team_name - the name of the team to retrieve
+    return: dict containing positions as keys and a list of player names as values
+    """
+
     # open URL and get response
     dc_logger.info("Team name: {}".format(team_name))
-    url = create_url(team_name)
+    url = team_consts.create_url(team_name, "team/depth-chart")
 
     dc_logger.info("URL: {}".format(url))
     try:
@@ -85,20 +44,6 @@ def create_depth_chart(team_name):
     dc_logger.info("response: {}".format(response.status_code))
     soup = bs4.BeautifulSoup(response.text, "lxml")
 
-    # use regular expressions to parse positions and get list of players
-    """
-    try:
-        table_body = re.sub(" +", " ", soup.tbody.text.strip())
-        player_table = re.sub("\n+", "\n", table_body)
-        player_table = re.sub("\n \n", "\n", player_table)
-
-        dc_logger.debug("{}".format(player_table))
-    except AttributeError:
-        traceback.print_exc()
-        dc_logger.error("{} don't have depth chart available. Check again later.".format(team_name))
-        return None
-    """
-
     # return dictionary matching player lists and positions
     try:
         depth_chart = make_player_dict(soup.tbody.text)
@@ -109,21 +54,19 @@ def create_depth_chart(team_name):
     # dc_logger.info("depth_chart: {}".format(depth_chart))
     depth_chart["team_name"] = team_name
     if depth_chart:
-        mongodb_ops.insert_dc(team_name, depth_chart)
+        insert_dc(team_name, depth_chart)
     return depth_chart
 
 
-"""
-function_name: make_player_dict
-purpose: create a player dict mapping the position to a list of player names (at that position, in order)
-params: @player_list: takes a string of positions followed by player names separated by newline characters
-        "WR1\nPlayer1\nPlayer2\nWR2\n..." 
-return: dictionary object containing position -> player_list mappings
-"""
-
-
 def make_player_dict(player_list):
-    positions = ('WR', 'LWR', 'RWR', 'WR1', 'WR2', 'LT', 'LG', 'C', 'RG', 'RT', 'TE', 'QB', 'RB', 'SE', 'FL', 'FB')
+
+    """
+    function_name: make_player_dict
+    purpose: create a player dict mapping the position to a list of player names (at that position, in order)
+    params: @player_list: takes a string of positions followed by player names separated by newline characters
+            "WR1\nPlayer1\nPlayer2\nWR2\n..."
+    return: dictionary object containing position -> player_list mappings
+    """
 
     value = ""
     name_list = []
@@ -146,7 +89,7 @@ def make_player_dict(player_list):
 
             # check if the value is a position or a player name
             pos_check = "".join(value.split())
-            if pos_check in positions:
+            if pos_check in team_consts.POSITIONS:
 
                 # check to see if this is the first position in the string
                 if not position:
@@ -155,6 +98,8 @@ def make_player_dict(player_list):
                 # if it's NOT the first position string encountered, and we have a non-empty list of players
                 # then copy the list (otherwise its a reference to the same list), and then place it in dictionary
                 if position and len(name_list) > 0:
+                    if position in player_dict.keys():
+                        position += "2"
                     player_dict[position] = name_list[:]
                     position = pos_check
                     name_list.clear()
@@ -170,19 +115,31 @@ def make_player_dict(player_list):
     if position and len(name_list) > 0:
         if value:
             name_list.append(value)
+        if position in player_dict.keys():
+            position += "2"
         player_dict[position] = name_list[:]
 
     return player_dict
 
 
-def mt_update():
-    with Pool(4) as p:
-        list(tqdm.tqdm(p.imap(create_depth_chart, team_names), total=len(team_names)))
+def insert_dc(collection_name, depth_chart_bson):
+
+    """
+    :function_name: insert_dc
+    :param collection_name: team_name of depth chart
+    :param depth_chart_bson: bson obj of depth chart
+    :return: None
+    """
+
+    dc_logger.info("inserting into db")
+    dc_logger.info("collection: {}".format(collection_name))
+    dc_logger.info("dc_bson: {}".format(depth_chart_bson))
+    _db, _connection = mongodb_ops.connect_db()
+    collection = _db[collection_name]
+    collection.replace_one({"team_name": collection_name}, depth_chart_bson, upsert=True)
+    _connection.close()
 
 
 if __name__ == '__main__':
-    # print(timeit.timeit("mt_update()", 'from __main__ import mt_update'))
-    mt_update()
-    # p_dict = create_depth_chart("ravens")
-    # with open("./tests/ravens_2018.pkl", "wb") as file:
-    #    pickle.dump(p_dict, file)
+    for team in team_consts.TEAM_NAMES:
+        create_depth_chart(team)
