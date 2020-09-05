@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dlin96/sport-site.svg?branch=master)]
+[![Build Status](https://travis-ci.org/dlin96/sport-site.svg?branch=master)](https://travis-ci.org/dlin96/sport-site)
 
 ## Model
 
