@@ -1,4 +1,6 @@
-## model
+[![Build Status](https://travis-ci.org/dlin96/sport-site.svg?branch=master)]
+
+## Model
 
 The model was created using nfldb, a currently unmaintained project by BurntSushi. This took NFL game data and put it into a Postgres database upon which much of the analysis is performed. 
 
